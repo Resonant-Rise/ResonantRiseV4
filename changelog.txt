@@ -23,7 +23,7 @@ n/a
 n/a
 
 ==Configs==
-n/a
+modified Evilcraft Enchantments to 124-127
 
 ==Misc.==
 n/a
