@@ -1,0 +1,32 @@
+=================
+Build 001
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+First commit for V4

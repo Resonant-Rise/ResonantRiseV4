@@ -76,15 +76,44 @@
              description="A library of classes used by all my mods" 
              />
 
-        <mod name="Alt F4" version="1.8.9-0.0.2.8" url="packs/ResonantRise/files/4.x/Alt-F4-1.8.9-0.0.2.8.jar" file="Alt-F4-1.8.9-0.0.2.8.jar" md5="519d27fcf74ecebbebe11fe6fe2c9293" download="server" type="mods" website="http://www.curseforge.com/projects/240541/" authors="VapourDrive" description="Simple upgrade to the vanilla furnace, with experience management, and a customizable smelting list" />
+        <mod name="Alt F4"
+             version="1.8.9-0.0.2.8" url="packs/ResonantRise/files/4.x/Alt-F4-1.8.9-0.0.2.8.jar" file="Alt-F4-1.8.9-0.0.2.8.jar" md5="519d27fcf74ecebbebe11fe6fe2c9293" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/240541/"
+             authors="VapourDrive"
+             description="Simple upgrade to the vanilla furnace, with experience management, and a customizable smelting list"
+             />
 
-        <mod name="AppleCore" version="" url="packs/ResonantRise/files/4.x/AppleCore-mc1.8.9-1.3.0.jar" file="AppleCore-mc1.8.9-1.3.0.jar" md5="ed42e14795ca622d032e466ab6e539f2" download="server" type="mods" website="http://www.curseforge.com/projects/224472/" authors="squeek502" description="An API for modifying the food and hunger mechanics of Minecraft" />
+        <mod name="AppleCore"
+             version="" url="packs/ResonantRise/files/4.x/AppleCore-mc1.8.9-1.3.0.jar" file="AppleCore-mc1.8.9-1.3.0.jar" md5="ed42e14795ca622d032e466ab6e539f2" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/224472/"
+             authors="squeek502"
+             description="An API for modifying the food and hunger mechanics of Minecraft"
+             />
 
-        <mod name="AuraCascade" version="@version@" url="packs/ResonantRise/files/4.x/AuraCascade-1.8.8-v0.2.2a.jar" file="AuraCascade-1.8.8-v0.2.2a.jar" md5="bc0b3b6fe1dec4456c6de4400109d9bd" download="server" type="mods" website="" description="A magic mod focused on emergent complexity and enabling unique designs" />
+        <mod name="AuraCascade"
+             version="@version@" url="packs/ResonantRise/files/4.x/AuraCascade-1.8.8-v0.2.2a.jar" file="AuraCascade-1.8.8-v0.2.2a.jar" md5="bc0b3b6fe1dec4456c6de4400109d9bd" download="server"
+             type="mods"
+             website=""
+             description="A magic mod focused on emergent complexity and enabling unique designs"
+             />
 
-        <mod name="Bagginses" version="2.1.5b" url="packs/ResonantRise/files/4.x/Bagginses-1.8.9-2.1.5b.jar" file="Bagginses-1.8.9-2.1.5b.jar" md5="d752f09453e985ee0f1051fe99b89cdf" download="server" type="mods" website="http://www.curseforge.com/projects/223005/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bagginses?gameCategorySlug=mc-mods&amp;projectID=223005&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lang2619%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif" authors="LordDusk" description="More bags? More bags!" />
+        <mod name="Bagginses"
+             version="2.1.5b" url="packs/ResonantRise/files/4.x/Bagginses-1.8.9-2.1.5b.jar" file="Bagginses-1.8.9-2.1.5b.jar" md5="d752f09453e985ee0f1051fe99b89cdf" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/223005/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bagginses?gameCategorySlug=mc-mods&amp;projectID=223005&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lang2619%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif"
+             authors="LordDusk"
+             description="More bags? More bags!"
+             />
 
-        <mod name="Base Metals" version="1.6.2" url="packs/ResonantRise/files/4.x/BaseMetals-1.6.2.jar" file="BaseMetals-1.6.2.jar" md5="962db16f190c10457620658e1470fc47" download="server" type="mods" website="https://github.com/cyanobacterium/BaseMetals" autho776rs="Cyanobacterium (aka DrCyano)" description="This mod adds historically common metals to Minecraft" />
+        <mod name="Base Metals"
+             version="1.6.2" url="packs/ResonantRise/files/4.x/BaseMetals-1.6.2.jar" file="BaseMetals-1.6.2.jar" md5="962db16f190c10457620658e1470fc47" download="server"
+             type="mods"
+             website="https://github.com/cyanobacterium/BaseMetals"
+             authors="Cyanobacterium (aka DrCyano)"
+             description="This mod adds historically common metals to Minecraft"
+             />
 
         <mod name="Baubles" version="1.8.9-1.1.3.0" url="packs/ResonantRise/files/4.x/Baubles-1.8.9-1.1.3.0.jar" file="Baubles-1.8.9-1.1.3.0.jar" md5="f2ca1bfad58b460c0949bf9bc4b31ddb" download="server" type="mods" website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:" authors="Azanor" description="Adding a touch of bling to Minecraft" />
 
