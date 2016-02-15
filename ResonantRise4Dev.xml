@@ -726,14 +726,6 @@
              description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
              />
 
-        <mod name="Neat"
-             version="1.1-2" url="packs/ResonantRise/files/4.x/Neat 1.1-2.jar" file="Neat 1.1-2.jar" md5="41e71b2e6aa599bd1395417c7cfba3f7" download="server"
-             type="mods"
-             website="http://www.vazkii.us"
-             authors="Vazkii"
-             description="Minimalistic Functional Unit Plates for the modern Minecrafter"
-             />
-
         <mod name="NeoTech"
              version="1.8.9-2.3.5" url="packs/ResonantRise/files/4.x/NeoTech-1.8.9-2.3.5.jar" file="NeoTech-1.8.9-2.3.5.jar" md5="13208568882930dea8132854e8b589f4" download="server"
              type="mods"
@@ -866,7 +858,7 @@
 
         <mod name="Quickstart"
              version="1.1" url="packs/ResonantRise/files/4.x/quickstart-1.1.jar" file="quickstart-1.1.jar" md5="41cc19877ce872eb13c114703c8957fe" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/238454/"
              authors="zerofall"
              description="Things to help you get started quickly."
@@ -1224,6 +1216,14 @@
              website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
              authors="YaLTeR"
              description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
+             />
+
+        <mod name="Neat"
+             version="1.1-2" url="packs/ResonantRise/files/4.x/Neat 1.1-2.jar" file="Neat 1.1-2.jar" md5="41e71b2e6aa599bd1395417c7cfba3f7" download="server"
+             type="mods" server="no"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="Minimalistic Functional Unit Plates for the modern Minecrafter"
              />
         
         <mod name="ReCubed"
