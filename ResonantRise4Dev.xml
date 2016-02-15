@@ -126,19 +126,7 @@
 
     </colours>
 <!-- End Colours -->
-
-    <mods>
-    <!-- Template -->
-        <!--
-        <mod name="sample" fileprefix="sample"
-             version="sample" url="sample" file="sample" md5="sample" download="sample"
-             type="sample" extractto="sample" depends="sample" optional="sample" recommended="sample" selected="sample" client="sample" server="sample" group="sample"
-             website="sample" donation="sample"
-             authors="sample"
-             description="sample" 
-             />
-        -->
-        
+    
 <!-- Forge -->
 
         <mod name="=== Forge ===" version="1.0"
@@ -155,9 +143,17 @@
              authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw"
              description="The backbone of modded Minecraft." 
              />
-<!-- End Forge -->
 
-
+<!-- Dependancies -->
+        
+        <mod name="Baubles"
+             version="1.8.9-1.1.3.0" url="packs/ResonantRise/files/4.x/Baubles-1.8.9-1.1.3.0.jar" file="Baubles-1.8.9-1.1.3.0.jar" md5="f2ca1bfad58b460c0949bf9bc4b31ddb" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
+             authors="Azanor"
+             description="Adding a touch of bling to Minecraft"
+             />
+        
 <!-- Core Mods -->
 
         <mod name="Actually Additions" 
@@ -169,7 +165,7 @@
              />
 
         <mod name="airbreathercore" 
-             version="" url="packs/ResonantRise/files/4.x/airbreathercore-1.0.1-mc1.8.9.jar" file="airbreathercore-1.0.1-mc1.8.9.jar" md5="82ca504b917b9702aa3b2655d0bc65ec" download="server" 
+             version="1.0.1" url="packs/ResonantRise/files/4.x/airbreathercore-1.0.1-mc1.8.9.jar" file="airbreathercore-1.0.1-mc1.8.9.jar" md5="82ca504b917b9702aa3b2655d0bc65ec" download="server" 
              type="mods" 
              website="http://www.curseforge.com/projects/229734/" 
              authors="AirBreather" 
@@ -185,7 +181,7 @@
              />
 
         <mod name="AppleCore"
-             version="" url="packs/ResonantRise/files/4.x/AppleCore-mc1.8.9-1.3.0.jar" file="AppleCore-mc1.8.9-1.3.0.jar" md5="ed42e14795ca622d032e466ab6e539f2" download="server"
+             version="1.3.0" url="packs/ResonantRise/files/4.x/AppleCore-mc1.8.9-1.3.0.jar" file="AppleCore-mc1.8.9-1.3.0.jar" md5="ed42e14795ca622d032e466ab6e539f2" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224472/"
              authors="squeek502"
@@ -193,10 +189,11 @@
              />
 
         <mod name="AuraCascade"
-             version="@version@" url="packs/ResonantRise/files/4.x/AuraCascade-1.8.8-v0.2.2a.jar" file="AuraCascade-1.8.8-v0.2.2a.jar" md5="bc0b3b6fe1dec4456c6de4400109d9bd" download="server"
+             version="590" url="packs/ResonantRise/files/4.x/AuraCascade-591.jar" file="AuraCascade-591.jar" md5="9cdcf616633179df4f8c6e4b8ca26cff" download="server"
              type="mods"
-             website=""
-             description="A magic mod focused on emergent complexity and enabling unique designs"
+             website="http://www.curseforge.com/projects/227099/" 
+             authors="pixlepix,williewillus" 
+             description="A magic mod focused on emergent complexity and enabling unique designs" 
              />
 
         <mod name="Bagginses"
@@ -215,28 +212,12 @@
              description="This mod adds historically common metals to Minecraft"
              />
 
-        <mod name="Baubles"
-             version="1.8.9-1.1.3.0" url="packs/ResonantRise/files/4.x/Baubles-1.8.9-1.1.3.0.jar" file="Baubles-1.8.9-1.1.3.0.jar" md5="f2ca1bfad58b460c0949bf9bc4b31ddb" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
-             authors="Azanor"
-             description="Adding a touch of bling to Minecraft"
-             />
-
         <mod name="Baubles-Hud"
              version="2.2.1" url="packs/ResonantRise/files/4.x/BaublesHud-2.2.1.jar" file="BaublesHud-2.2.1.jar" md5="0cda1a0adf7fee912cb64a36fa109f3b" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/230751/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubleshud?gameCategorySlug=mc-mods&amp;projectID=230751&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_"
              authors="Gigabit101"
              description="Adds a hud view of all the Baubles currently equipped"
-             />
-
-        <mod name="BetterFps"
-             version="" url="packs/ResonantRise/files/4.x/BetterFps-1.2.0.jar" file="BetterFps-1.2.0.jar" md5="751b60ae5792402a140ad180e1df06e0" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/229876/"
-             authors="Guichaguri"
-             description="Performance Improvement"
              />
 
         <mod name="Biomes O&apos; Plenty"
@@ -271,11 +252,11 @@
              description="Botania is a mod that adds nature magic to Minecraft."
              />
 
-        <mod name=""
+        <mod name="BuildCraft"
              version="7.2.0-pre10" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre10.jar" file="buildcraft-7.2.0-pre10.jar" md5="f535a265c0b38eb3c1e350f02575edc6" download="server"
              type="mods"
-             website=""
-             description=""
+             website="http://www.mod-buildcraft.com/"
+             description="The major feature of BuildCraft is the pipes. Pipes are used to transport items, fluids, and mechanical energy between inventories/machines. There are many different types of pipes all with unique functions, including Wooden, Cobblestone, Stone, Sandstone, Iron, Gold, Diamond, Emerald and Obsidian. Pipes can be combined with Pipe Sealant to allow them to make Fluid Pipes that can transport liquids or with Redstone to make Kinesis Pipes to allow them to transport mechanical energy."
              />
 
         <mod name="Building Bricks"
@@ -306,11 +287,11 @@
              url="packs/ResonantRise/files/4.x/Charset-0.2.1-945baf5589832f727c42cf77.jar" file="Charset-0.2.1-945baf5589832f727c42cf77.jar" md5="f00a65deb176420d32aa953592d72890" download="server"
              type="mods"
              website="http://charset.asie.pl/"
-             description=""
+             description="http://charset.asie.pl/"
              />
 
-        <mod name="Chisel"
-             version="" url="packs/ResonantRise/files/4.x/Chisel-MC1.8.9-0.0.2.6.jar" file="Chisel-MC1.8.9-0.0.2.6.jar" md5="51dcb42ec67984b2a2e65211adc45f95" download="server"
+        <mod name="Chisel" version="0.0.2.6"
+             url="packs/ResonantRise/files/4.x/Chisel-MC1.8.9-0.0.2.6.jar" file="Chisel-MC1.8.9-0.0.2.6.jar" md5="51dcb42ec67984b2a2e65211adc45f95" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/235279/"
              authors="tterrag1098,Drullkus,Minecreatr"
@@ -487,7 +468,7 @@
              />
 
         <mod name="Fluxed Redstone"
-             version="" url="packs/ResonantRise/files/4.x/Fluxed Redstone-1.3.0.31.jar" file="Fluxed Redstone-1.3.0.31.jar" md5="92b29f8414727e3b6098498c2171427b" download="server"
+             version="1.3.0.31" url="packs/ResonantRise/files/4.x/Fluxed Redstone-1.3.0.31.jar" file="Fluxed Redstone-1.3.0.31.jar" md5="92b29f8414727e3b6098498c2171427b" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240484/"
              authors="modmuss50"
@@ -656,7 +637,7 @@
              />
 
         <mod name="Just Enough Resources"
-             version="" url="packs/ResonantRise/files/4.x/JustEnoughResources-1.8.9-0.3.3.jar" file="JustEnoughResources-1.8.9-0.3.3.jar" md5="596972e3ca8adf2b64669b297b60f947" download="server"
+             version="0.3.3" url="packs/ResonantRise/files/4.x/JustEnoughResources-1.8.9-0.3.3.jar" file="JustEnoughResources-1.8.9-0.3.3.jar" md5="596972e3ca8adf2b64669b297b60f947" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240630/"
              authors="way2muchnoise"
@@ -704,7 +685,7 @@
              />
 
         <mod name="MCMultiPart"
-             version="" url="packs/ResonantRise/files/4.x/MCMultiPart-1.0.6-universal.jar" file="MCMultiPart-1.0.6-universal.jar" md5="b8135798f627b3f5ea1a29ccd2b94500" download="server"
+             version="1.0.6" url="packs/ResonantRise/files/4.x/MCMultiPart-1.0.6-universal.jar" file="MCMultiPart-1.0.6-universal.jar" md5="b8135798f627b3f5ea1a29ccd2b94500" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/239431/"
              authors="amadornes"
@@ -792,7 +773,7 @@
              />
 
         <mod name="NetherPortalFix"
-             version="" url="packs/ResonantRise/files/4.x/netherportalfix-mc1.8.9-2.1.6.jar" file="netherportalfix-mc1.8.9-2.1.6.jar" md5="3c636d08e2480ed65a4e82fe87c7c3b1" download="server"
+             version="2.1.6" url="packs/ResonantRise/files/4.x/netherportalfix-mc1.8.9-2.1.6.jar" file="netherportalfix-mc1.8.9-2.1.6.jar" md5="3c636d08e2480ed65a4e82fe87c7c3b1" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241160/"
              authors="Blay09"
@@ -945,14 +926,6 @@
              description="RebornCore, A core set of classes."
              />
 
-        <mod name="ReCubed"
-             version="1.1-5" url="packs/ResonantRise/files/4.x/ReCubed 1.1-5.jar" file="ReCubed 1.1-5.jar" md5="e74d2226a52a483bb7f8fc1d8e255745" download="server"
-             type="mods"
-             website="http://www.vazkii.us"
-             authors="Vazkii"
-             description="A mod that tracks all sorts of stats!"
-             />
-
         <mod name="Redstone Paste"
              version="mc1.8.8-1.7.2" url="packs/ResonantRise/files/4.x/redstonepaste-mc1.8.8-1.7.2.jar" file="redstonepaste-mc1.8.8-1.7.2.jar" md5="09854d20cd7ab8dd5ddfe0c129b63deb" download="server"
              type="mods"
@@ -994,7 +967,7 @@
              />
 
         <mod name="Steam Engines Mod"
-             version="" url="packs/ResonantRise/files/4.x/sem-mc1_8_9-1.4.3.jar" file="sem-mc1_8_9-1.4.3.jar" md5="a4e108fd86fda0be3f303459c5a3af34" download="server"
+             version="1.4.3" url="packs/ResonantRise/files/4.x/sem-mc1_8_9-1.4.3.jar" file="sem-mc1_8_9-1.4.3.jar" md5="a4e108fd86fda0be3f303459c5a3af34" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240807/"
              authors="MeisterSkywalker"
@@ -1070,7 +1043,7 @@
              type="mods"
              website="http://combatfrogs.xyz/"
              authors="CombatFrogs"
-             description=""
+             description="Simply adds ore multiplying hammers."
              />
 
         <mod name="Snad"
@@ -1116,8 +1089,8 @@
         <mod name="Storage Network"
              version="1.8.9-1.4" url="packs/ResonantRise/files/4.x/StorageNetwork-1.8.9-1.4.jar" file="StorageNetwork-1.8.9-1.4.jar" md5="246818c73bcdc29d9ad9dd0d52fff8cd" download="server"
              type="mods"
-             website=""
-             description=""
+             website="http://minecraft.curseforge.com/projects/storage-network"
+             description="Inventoriy Cables."
              />
 
         <mod name="Substratum"
@@ -1161,15 +1134,15 @@
              />
 
         <mod name="ThutCore"
-             version="" url="packs/ResonantRise/files/4.x/thutcore-2.2.3.jar" file="thutcore-2.2.3.jar" md5="dd1b6743a5f40977c02f7be81202b6b5" download="server"
+             version="2.2.3" url="packs/ResonantRise/files/4.x/thutcore-2.2.3.jar" file="thutcore-2.2.3.jar" md5="dd1b6743a5f40977c02f7be81202b6b5" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/thutcore?gameCategorySlug=mc-mods&amp;projectID=224428&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=thutmose.i.yc109.8.21%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="patnevis"
              description="API used by Thut&apos;s Mods"
              />
 
-        <mod name="Thut&apos;s Elevators"
-             version="" url="packs/ResonantRise/files/4.x/thuttech-2.2.9.jar" file="thuttech-2.2.9.jar" md5="9b85788a9633aa72b54d1f9a6a862afc" download="server"
+        <mod name="Thut&apos;s Elevators" version="2.2.9"
+             url="packs/ResonantRise/files/4.x/thuttech-2.2.9.jar" file="thuttech-2.2.9.jar" md5="9b85788a9633aa72b54d1f9a6a862afc" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224375/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/thuts-elevators?gameCategorySlug=mc-mods&amp;projectID=224375&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=thutmose.i.yc109.8.21%40gmail.com&amp;bn=PP-DonationsBF:"
              authors="patnevis"
@@ -1206,13 +1179,6 @@
              website="http://www.curseforge.com/projects/241628/"
              authors="Gigabit101"
              description="Adds trashcans to minecraft 1.8.9"
-             />
-
-        <mod name=""
-             version="" url="packs/ResonantRise/files/4.x/vChat-0.4r1.jar" file="vChat-0.4r1.jar" md5="329e7242250c96139254331cbd2959d4" download="server"
-             type="mods"
-             website=""
-             description=""
              />
 
         <mod name="Vein Miner"
@@ -1255,5 +1221,32 @@
              authors="airbreather,skidznet"
              description="Adds some more food to the game.  Yeah yeah, it&apos;s been done before, just not by me.  Icons by skidznet."
              />
+        
+        <!-- Client Mods -->
+
+        <mod name="BetterFps"
+             version="1.2.0" url="packs/ResonantRise/files/4.x/BetterFps-1.2.0.jar" file="BetterFps-1.2.0.jar" md5="751b60ae5792402a140ad180e1df06e0" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/229876/"
+             authors="Guichaguri"
+             description="Performance Improvement"
+             />
+        
+        <mod name="ReCubed"
+             version="1.1-5" url="packs/ResonantRise/files/4.x/ReCubed 1.1-5.jar" file="ReCubed 1.1-5.jar" md5="e74d2226a52a483bb7f8fc1d8e255745" download="server"
+             type="mods"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="A mod that tracks all sorts of stats!"
+             />
+
+        <mod name="vChat" version="0.4rl"
+             url="packs/ResonantRise/files/4.x/vChat-0.4r1.jar" file="vChat-0.4r1.jar" md5="329e7242250c96139254331cbd2959d4" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2182328-vchat-v0-2r14-a-server-side-mod-that-makes-the"
+             description="Bucket Style Chat settings."
+             />
+        
+        <!-- Dev Only -->
         
 </version>
