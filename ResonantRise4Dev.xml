@@ -1170,7 +1170,7 @@
 
         <mod name="WIT"
              version="1.0.0" url="packs/ResonantRise/files/4.x/WIT-1.8.9-1.0.0-8.jar" file="WIT-1.8.9-1.0.0-8.jar" md5="6ca836a90eef99cfafcd10c6392a1197" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/239438/"
              authors="SilentChaos512"
              description="What Is That?"
