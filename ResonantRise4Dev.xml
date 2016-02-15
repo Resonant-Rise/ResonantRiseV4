@@ -1118,14 +1118,6 @@
              description="Adds elevators to minecraft"
              />
 
-        <mod name="Time HUD"
-             version="4.0.1.7" url="packs/ResonantRise/files/4.x/TimeHUD-4.0.1.7.jar" file="TimeHUD-4.0.1.7.jar" md5="a21e6ee88aa2ac6766d30b1a7b34a68a" download="server"
-             type="mods"
-             website="http://www.curse.com/mc-mods/minecraft/239110-time-hud"
-             authors="The_Fireplace"
-             description="Adds an HUD showing the time and date. Highly configurable."
-             />
-
         <mod name="TIS-3D"
              version="0.8.3.13" url="packs/ResonantRise/files/4.x/TIS-3D-MC1.8.9-0.8.3.13.jar" file="TIS-3D-MC1.8.9-0.8.3.13.jar" md5="44b5163d3ea4468bc860200335b61d7e" download="server"
              type="mods"
@@ -1239,6 +1231,14 @@
              website="http://www.vazkii.us"
              authors="Vazkii"
              description="A mod that tracks all sorts of stats!"
+             />
+
+        <mod name="Time HUD"
+             version="4.0.1.7" url="packs/ResonantRise/files/4.x/TimeHUD-4.0.1.7.jar" file="TimeHUD-4.0.1.7.jar" md5="a21e6ee88aa2ac6766d30b1a7b34a68a" download="server"
+             type="mods" server="no" optional="yes"
+             website="http://www.curse.com/mc-mods/minecraft/239110-time-hud"
+             authors="The_Fireplace"
+             description="Adds an HUD showing the time and date. Highly configurable."
              />
 
         <mod name="vChat" version="0.4rl"
