@@ -353,10 +353,27 @@
 
         <mod name="Custom Main Menu"
              version="2.0" url="packs/ResonantRise/files/4.x/CustomMainMenu-MC1.8.9-2.0.jar" file="CustomMainMenu-MC1.8.9-2.0.jar" md5="b0598d43b7b7474ee05ef5af10924b68" download="server"
-             type="mods" server="no"
+             type="mods" server="no" depends="MainMenuFiles,Resource Loader"
              website="http://www.curseforge.com/projects/226406/"
              authors="lumien"
              description="Allows you to edit the mainmenu using json"
+             />
+
+        <mod name="Resource Loader"
+             version="1.4" url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.8.8-1.4.jar" file="ResourceLoader-MC1.8.8-1.4.jar" md5="75bd3853d217b16c2b87a4dfe9e67994" download="server"
+             type="mods" server="no" depends="Custom Main Menu" linked="Custom Main Menu"
+             website="http://www.curseforge.com/projects/226447/"
+             authors="lumien"
+             description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
+             />
+
+        <mod
+             name="MainMenuFiles"
+             version="1.0" url="packs/ResonantRise/files/4.x/Resources.zip" file="Resources.zip" md5="02e3bb48d40bd2578ef7d8e7f0edf2dc" download="server"
+             type="extract" extractto="root" linked="Custom Main Menu" depends="Custom Main Menu"
+             authors="RR Dev Team"
+             website="http://www.resonant-rise.com"
+             description="Files for MainMneu"
              />
 
         <mod name="Cyclops Core"
@@ -879,14 +896,6 @@
              website="http://www.curseforge.com/projects/241319/"
              authors="x3n0ph0b3,TheMike,P3pp3rF1y"
              description="Two words: magical swag. Oh, and a gun."
-             />
-
-        <mod name="Resource Loader"
-             version="1.4" url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.8.8-1.4.jar" file="ResourceLoader-MC1.8.8-1.4.jar" md5="75bd3853d217b16c2b87a4dfe9e67994" download="server"
-             type="mods" server="no"
-             website="http://www.curseforge.com/projects/226447/"
-             authors="lumien"
-             description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
              />
 
         <mod name="RFTools"

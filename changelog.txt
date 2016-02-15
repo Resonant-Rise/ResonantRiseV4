@@ -1,4 +1,39 @@
 =================
+Build 003
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+EvilCraft Enchant ID Fix
+
+==Misc.==
+Added resource files for Custom Main Menu
+Added Resource Loader
+Added Custom Main Menu
+
+-- Dev only --
+n/a
+
+=================
 Build 002
 =================
 
