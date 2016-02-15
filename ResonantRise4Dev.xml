@@ -9,6 +9,35 @@
         <extraarguments>--tweakClass=net.minecraftforge.fml.common.launcher.FMLTweaker</extraarguments>
     </pack>
 
+<!-- Delete following folders -->
+<!--
+    <delete>
+        <folder base="root" target="IDMaps"
+            />
+        <folder base="root" target="liteconfig"
+            />
+        <folder base="root" target="modes"
+            />
+        <folder base="root" target="modifiers"
+            />
+        <folder base="root" target="scripts"
+            />
+        <folder base="root" target="specials"
+            />
+        <folder base="root" target="timezones"
+            />
+    </delete>
+-->
+<!-- End Delete -->
+
+<!-- Warnings -->
+<!--
+    <warnings>
+        <warning name="ReCubed"><![CDATA[Server Operators: If you select ReCubed, your players MUST also use it, other wise they cannot join the server.]]></warning>
+    </warnings>
+-->
+<!-- End Warnings -->
+
 <!-- Backend Java libraries for Forge -->
     <libraries>
         <library url="packs/ResonantRise/files/forgelibs/1732/launchwrapper-1.12.jar" download="server" file="launchwrapper-1.12.jar" md5="934b2d91c7c5be4a49577c9e6b40e8da" server="net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar" />
@@ -29,6 +58,74 @@
         <library url="packs/ResonantRise/files/forgelibs/1732/vecmath-1.5.2.jar" download="server" file="vecmath-1.5.2.jar" md5="e5d2b7f46c4800a32f62ce75676a5710" server="java3d/vecmath/1.5.2/vecmath-1.5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1732/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
     </libraries>
+
+    <!-- Colors for the use of seperation -->
+
+    <colours>
+
+         <!-- Red -->
+        <colour name="rred" code="#ED2121"
+            />
+        <!-- Dark Cyan -->
+        <colour name="lite" code="#00787A"
+            />
+        <!-- Orange -->
+        <colour name="risk" code="#FF9900"
+            />
+        <!-- Pastel Lavender -->
+        <colour name="appeng" code="#9043DE"
+            />
+        <!-- Light Brown -->
+        <colour name="Biblio" code="#915E2B"
+            />
+        <!-- Yellow -->
+        <colour name="BC" code="#FFD900"
+            />
+        <!-- Iron -->
+        <colour name="Chisel" code="#879978"
+            />
+        <!-- Ender Green -->
+        <colour name="EIO" code="#0FC70A"
+            />
+        <!-- Light Fuisha -->
+        <colour name="Ex" code="#FF99FF"
+            />
+        <!-- Green -->
+        <colour name="For" code="#00AD00"
+            />
+        <!-- Blue -->
+        <colour name="GC" code="#B8BD5C"
+            />
+        <!-- Tan(-ish) -->
+        <colour name="Hyd" code="#757542"
+            />
+        <!-- Odd Fuisha -->
+        <colour name="Im" code="#A074A8"
+            />
+        <!-- Cyan -->
+        <colour name="Mek" code="#00AB94"
+            />
+        <!-- Greeinish-Brown -->
+        <colour name="MPS" code="#4CB233"
+            />
+        <!-- Dark Blue -->
+        <colour name="Open" code="#3D5CA3"
+            />
+        <!-- Red-Orange -->
+        <colour name="QB" code="#FF2400"
+            />
+        <!-- Purple -->
+        <colour name="TC4" code="#B352AC"
+            />
+        <!-- Rust -->
+        <colour name="TiCo" code="#806633"
+            />
+        <!-- IC2 -->
+        <colour name="IC2" code="#C4A589"
+            />
+
+    </colours>
+<!-- End Colours -->
 
     <mods>
     <!-- Template -->
@@ -58,7 +155,10 @@
              authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw"
              description="The backbone of modded Minecraft." 
              />
-        <!-- Core Mods -->
+<!-- End Forge -->
+
+
+<!-- Core Mods -->
 
         <mod name="Actually Additions" 
              version="1.8.9-r25" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.8.9-r25.jar" file="ActuallyAdditions-1.8.9-r25.jar" md5="e887ed07fee1852e455e0c768b9de14c" download="server" 
