@@ -127,6 +127,8 @@
     </colours>
 <!-- End Colours -->
     
+    <mods>
+    
 <!-- Forge -->
 
         <mod name="=== Forge ===" version="1.0"
