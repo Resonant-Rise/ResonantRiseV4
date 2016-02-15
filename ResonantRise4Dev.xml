@@ -769,7 +769,7 @@
         <mod name="Nether Essence"
              version="4.0.1.1" url="packs/ResonantRise/files/4.x/NetherEssence-4.0.1.1.jar" file="NetherEssence-4.0.1.1.jar" md5="0f46e69e3e25a57f5fb380869dc66d4b" download="server"
              type="mods"
-             website="http://goo.gl/3XQPe6"
+             website="http://www.curse.com/mc-mods/minecraft/238223-nether-essence"
              authors="The_Fireplace"
              description="Adds Nether Essence"
              />
@@ -843,7 +843,7 @@
         <mod name="PlayerTrophy"
              version="1.8-1.3.3h" url="packs/ResonantRise/files/4.x/playertrophy-1.8-1.3.3h.jar" file="playertrophy-1.8-1.3.3h.jar" md5="eae205c30d089ab7e425b9b90c8eee04" download="server"
              type="mods"
-             website="minecraft.curseforge.com/projects/playertrophy"
+             website="http://minecraft.curseforge.com/projects/playertrophy"
              authors="Lewis_McReu"
              description="PlayerTrophy, the mod for clans, bounties, and trophy hunting!"
              />
@@ -867,7 +867,7 @@
         <mod name="Pressure Pipes"
              version="1.3.0.13" url="packs/ResonantRise/files/4.x/pressure-1.3.0.13-mc1.8.9.jar" file="pressure-1.3.0.13-mc1.8.9.jar" md5="7db0e9f152c14b50f688f7a7f9541905" download="server"
              type="mods"
-             website="htts://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
+             website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="bdew"
              description="Unlimited Fluid Transport"
              />
@@ -1051,7 +1051,7 @@
         <mod name="Snad"
              version="1.8.9-1.6.02.04a" url="packs/ResonantRise/files/4.x/Snad-1.8.9-1.6.02.04a.jar" file="Snad-1.8.9-1.6.02.04a.jar" md5="ce0cc0b2641789c214a33c7be9909afb" download="server"
              type="mods"
-             website="www.robrit.com"
+             website="http://www.robrit.com"
              authors="TheRoBrit"
              description="You&apos;re finally able to have your sugarcane grow faster. What could possibly be better than that?"
              />
