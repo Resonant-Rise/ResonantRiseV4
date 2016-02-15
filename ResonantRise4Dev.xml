@@ -272,7 +272,7 @@
         <mod name="Caterpillar"
              version="0.5.18b61" url="packs/ResonantRise/files/4.x/Caterpillar-0.5.18b61.jar" file="Caterpillar-0.5.18b61.jar" md5="6ad4345cc92961aa895ea09562bfe6fe" download="server"
              type="mods"
-             website="http://goo.gl/ijcuxp" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/caterpillar?gameCategorySlug=mc-mods&amp;projectID=237628&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=cgfreethemice%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
+             website="http://www.curse.com/mc-mods/minecraft/237628-caterpillar" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/caterpillar?gameCategorySlug=mc-mods&amp;projectID=237628&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=cgfreethemice%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
              authors="Daniel Appleby,The_Fireplace"
              description="Adds a caterpillar drill to Minecraft."
              />
@@ -761,7 +761,7 @@
         <mod name="NeoTech"
              version="1.8.9-2.3.5" url="packs/ResonantRise/files/4.x/NeoTech-1.8.9-2.3.5.jar" file="NeoTech-1.8.9-2.3.5.jar" md5="13208568882930dea8132854e8b589f4" download="server"
              type="mods"
-             website="www.dyonovan.com"
+             website="http://www.dyonovan.com"
              authors="Dyonovan,pauljoda"
              description="Ore Processing"
              />
