@@ -1,4 +1,37 @@
 =================
+Build 002
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+Journey Map, Chunk Animator, Lauch GUI (not optional)
+
+--Server Only--
+n/a
+
+==Removed==
+Inventory Sorter - Inventory Tweaks is working now.
+
+==Configs==
+n/a
+
+==Misc.==
+Client side is working attempting to fix server side now.
+
+-- Dev only --
+n/a
+
+=================
 Build 001
 =================
 
