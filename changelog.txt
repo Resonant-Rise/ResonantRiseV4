@@ -1,4 +1,39 @@
 =================
+Build 004
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+FTBLit - 2.0.2
+FTBUtils - 2.0.2
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+moved building bricks to dev only
+
+-- Dev only --
+n/a
+
+=================
 Build 003
 =================
 
