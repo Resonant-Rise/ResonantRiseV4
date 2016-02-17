@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Dev-V4-005</version>
+        <version>Dev-V4-006</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -257,7 +257,7 @@
              />
 
         <mod name="Bookshelf"
-             version="1.8.9-2.3.0" url="packs/ResonantRise/files/4.x/Bookshelf-1.8.9-2.3.0.jar" file="Bookshelf-1.8.9-2.3.0.jar" md5="3411da782198dd5554edeb782f2ddccb" download="server"
+             version="1.8.9-2.3.1" url="packs/ResonantRise/files/4.x/Bookshelf-1.8.9-2.3.1.jar" file="Bookshelf-1.8.9-2.3.1.jar" md5="1dabd9d5aafddf5800703c2f9fa46ebb" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/232784/"
              authors="Dyonovan,pauljoda"
@@ -277,6 +277,15 @@
              type="mods"
              website="http://www.mod-buildcraft.com/"
              description="The major feature of BuildCraft is the pipes. Pipes are used to transport items, fluids, and mechanical energy between inventories/machines. There are many different types of pipes all with unique functions, including Wooden, Cobblestone, Stone, Sandstone, Iron, Gold, Diamond, Emerald and Obsidian. Pipes can be combined with Pipe Sealant to allow them to make Fluid Pipes that can transport liquids or with Redstone to make Kinesis Pipes to allow them to transport mechanical energy."
+             />
+
+        <mod
+             name="Caterpillar"
+             version="1.2.189b76" url="packs/ResonantRise/files/4.x/Caterpillar-1.2.189b76.jar" file="Caterpillar-1.2.189b76.jar" md5="9a7c3987718e23d3305d9e611aa85069" download="server"
+             type="mods"
+             website="http://goo.gl/ijcuxp" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/caterpillar?gameCategorySlug=mc-mods&amp;projectID=237628&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=cgfreethemice%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
+             authors="Daniel Appleby,The_Fireplace"
+             description="Adds a caterpillar drill to Minecraft."
              />
 
         <mod name="Chameleon"
@@ -426,7 +435,7 @@
              />
 
         <mod name="Ender Zoo"
-             version="1.8.9-1.1.0" url="packs/ResonantRise/files/4.x/EnderZoo-1.8.9-1.1.2.jar" file="EnderZoo-1.8.9-1.1.2.jar" md5="087aea4071a1f6abe0202f9232675b22" download="server"
+             version="1.8.9-1.1.3.35" url="packs/ResonantRise/files/4.x/EnderZoo-1.8.9-1.1.3.35.jar" file="EnderZoo-1.8.9-1.1.3.35.jar" md5="2036a98ef35cdbd1c0be6eaed78001dc" download="server"
              type="mods"
              website="http://enderio.com"
              authors="crazypants"
@@ -586,7 +595,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="2.25.12.152" url="packs/ResonantRise/files/4.x/jei_1.8.9-2.25.12.152.jar" file="jei_1.8.9-2.25.12.152.jar" md5="f6df72865b0ee2f2552dbe80e0d50bb8" download="server"
+             version="2.26.0.154" url="packs/ResonantRise/files/4.x/jei_1.8.9-2.26.0.154.jar" file="jei_1.8.9-2.26.0.154.jar" md5="c89fddb72aaf27653a4ba64524179ff0" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
@@ -1091,7 +1100,7 @@
              />
 
         <mod name="Vein Miner"
-             version="0.31.2" url="packs/ResonantRise/files/4.x/VeinMiner-1.8.9_0.31.2.unknown.jar" file="VeinMiner-1.8.9_0.31.2.unknown.jar" md5="2ea31a98401348361a681b0bcceca624" download="server"
+             version="0.31.3" url="packs/ResonantRise/files/4.x/VeinMiner-1.8.9_0.31.3.unknown.jar" file="VeinMiner-1.8.9_0.31.3.unknown.jar" md5="938e52178cff446eb707abcf2f5c6f5a" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="portablejim"
