@@ -335,6 +335,15 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
+        <mod
+             name="CrashLogReporter"
+             version="MC1.8-1.0" url="packs/ResonantRise/files/4.x/CrashLogReporter-MC1.8-1.0.jar" file="CrashLogReporter-MC1.8-1.0.jar" md5="a1f11c607a114aa6636c11bbefee2058" download="server"
+             type="mods"  server="no"
+             website="http://github.com/KaiKikuchi/"
+             authors="KaiNoMood"
+             description="Sends crash reports to the modpack author!"
+             />
+
         <mod name="Criss Cross"
              version="1.3.9.1" url="packs/ResonantRise/files/4.x/CrissCross-1.8.9-1.3.9.1.jar" file="CrissCross-1.8.9-1.3.9.1.jar" md5="3b295692242ce2e91b7a006959cca6b1" download="server"
              type="mods"
