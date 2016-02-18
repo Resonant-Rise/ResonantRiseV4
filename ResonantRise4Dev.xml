@@ -522,14 +522,6 @@
              description="A configurable furnace"
              />
 
-        <mod name="Graves Mod"
-             version="1.8.9-b38-universal" url="packs/ResonantRise/files/4.x/graves-1.8.9-b38-universal.jar" file="graves-1.8.9-b38-universal.jar" md5="4384b5106c1e529e6c628fd6631e9f5c" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/240877/"
-             authors="FireBall1725,FusionLord"
-             description="Provides grave stones with your items in it upon death"
-             />
-
         <mod name="Harvest"
              version="1.8.9-1.0.0-2" url="packs/ResonantRise/files/4.x/Harvest-1.8.9-1.0.0-2.jar" file="Harvest-1.8.9-1.0.0-2.jar" md5="71068bc2fad9ecb1b4776514f8792605" download="server"
              type="mods"
@@ -545,6 +537,15 @@
              authors="matthewprenger"
              description="Fixes the help command from mod derpyness"
              />
+        <mod
+             name="In Case of Emergency"
+             version="1.1.1" url="packs/ResonantRise/files/4.x/Ice-1.1.1.jar" file="Ice-1.1.1.jar" md5="741b1180dc311394ffc4e01349f7268d" download="server"
+             type="mods"
+             website="https://github.com/benblank/Ice"
+             authors="Ben &quot;535&quot; Blank"
+             description="Keeps your inventory safe when you die."
+             />
+
 
         <mod name="Intangible"
              version="1.8.9-0.0.22" url="packs/ResonantRise/files/4.x/intangible-1.8.9-0.0.22.jar" file="intangible-1.8.9-0.0.22.jar" md5="adb1a2e1ec747b1b43931d4a4cd05ed1" download="server"
