@@ -1,4 +1,39 @@
 =================
+Build 007
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Removed Graves
+Added ICE
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 006
 =================
 
