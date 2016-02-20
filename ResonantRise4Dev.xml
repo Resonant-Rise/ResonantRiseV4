@@ -250,6 +250,7 @@
              description="Botania is a mod that adds nature magic to Minecraft."
              />
 
+<!--
         <mod name="BuildCraft-API"
              version="7.2.0-pre12-api" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-api.jar" file="buildcraft-7.2.0-pre12-api.jar" md5="40472713ef8458c13760a8803a35b981" download="server"
              type="mods"
@@ -312,6 +313,7 @@
              website="http://www.mod-buildcraft.com/"
              authors="SpaceToad,BuildCraft Team"
              description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Transport Component)" />
+-->
 
         <mod name="BuildCraft"
              version="7.2.0-pre12" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12.jar" file="buildcraft-7.2.0-pre12.jar" md5="d32e147290717c6af5a8ab9c11849085" download="server"
