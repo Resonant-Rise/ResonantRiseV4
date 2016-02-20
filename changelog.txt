@@ -1,4 +1,46 @@
 =================
+Build 009
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added ArchitectureCraft
+Updated Bookshelf
+Updated JEI
+Updated JEIAddons
+Updated MoarSigns
+Updated NeoTech
+Updated ProgressiveAutomation
+Updated StorageDrawers
+Updated ThutCore
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 008
 =================
 

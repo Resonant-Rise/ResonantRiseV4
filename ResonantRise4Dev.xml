@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Dev-V4-008</version>
+        <version>Dev-V4-009</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -208,6 +208,15 @@
              description="An API for modifying the food and hunger mechanics of Minecraft"
              />
 
+        <mod
+             name="ArchitectureCraft"
+             version="1.2.1" url="packs/ResonantRise/files/4.x/ArchitectureCraft-1.2.1-mc1.8.jar" file="ArchitectureCraft-1.2.1-mc1.8.jar" md5="a880edb5e16a1800bba2ec466b8fc076" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/242001/"
+             authors="gcewing"
+             description="Architectural features for your Minecraft buildings"
+             />
+
         <mod name="AuraCascade"
              version="590" url="packs/ResonantRise/files/4.x/AuraCascade-591.jar" file="AuraCascade-591.jar" md5="9cdcf616633179df4f8c6e4b8ca26cff" download="server"
              type="mods"
@@ -257,7 +266,7 @@
              />
 
         <mod name="Bookshelf"
-             version="1.8.9-2.3.1" url="packs/ResonantRise/files/4.x/Bookshelf-1.8.9-2.3.1.jar" file="Bookshelf-1.8.9-2.3.1.jar" md5="1dabd9d5aafddf5800703c2f9fa46ebb" download="server"
+             version="1.8.9-2.3.2" url="packs/ResonantRise/files/4.x/Bookshelf-1.8.9-2.3.2.jar" file="Bookshelf-1.8.9-2.3.2.jar" md5="4d31f4b28ca14d86d13373a9d7e9e169" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/232784/"
              authors="Dyonovan,pauljoda"
@@ -596,7 +605,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="2.26.0.154" url="packs/ResonantRise/files/4.x/jei_1.8.9-2.26.0.154.jar" file="jei_1.8.9-2.26.0.154.jar" md5="c89fddb72aaf27653a4ba64524179ff0" download="server"
+             version="2.28.0.160" url="packs/ResonantRise/files/4.x/jei_1.8.9-2.28.0.160.jar" file="jei_1.8.9-2.28.0.160.jar" md5="658bd38bf946f0392cfe773a4100bc22" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
@@ -604,7 +613,7 @@
              />
 
         <mod name="Just Enough Items Addons"
-             version="0.11.2.56" url="packs/ResonantRise/files/4.x/JEIAddons_1.8.9-0.11.2.56.jar" file="JEIAddons_1.8.9-0.11.2.56.jar" md5="50a3c5ff9762a1583608ad6baba408cc" download="server"
+             version="0.12.0.57" url="packs/ResonantRise/files/4.x/JEIAddons_1.8.9-0.12.0.57.jar" file="JEIAddons_1.8.9-0.12.0.57.jar" md5="16871b51912bc80cf723cd6c8a7ffee6" download="server"
              type="mods"
              website="https://github.com/mezz/JEIAddons"
              authors="mezz"
@@ -684,7 +693,7 @@
              />
 
         <mod name="MoarSigns"
-             version="2.0.0" url="packs/ResonantRise/files/4.x/MoarSigns-1.8.9-2.0.0.jar" file="MoarSigns-1.8.9-2.0.0.jar" md5="bc2d0da2f4938144d18ee62a0a11b4ae" download="server"
+             version="2.0.3" url="packs/ResonantRise/files/4.x/MoarSigns-1.8.9-2.0.3.jar" file="MoarSigns-1.8.9-2.0.3.jar" md5="f9e1213a896fa6fa5c1eed3d30587bc0" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2621461-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/moarsigns?gameCategorySlug=mc-mods&amp;projectID=79243&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gurreja%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:N"
              authors="Gory_Moon"
@@ -716,7 +725,7 @@
              />
 
         <mod name="NeoTech"
-             version="1.8.9-2.3.5" url="packs/ResonantRise/files/4.x/NeoTech-1.8.9-2.3.5.jar" file="NeoTech-1.8.9-2.3.5.jar" md5="13208568882930dea8132854e8b589f4" download="server"
+             version="1.8.9-2.3.7" url="packs/ResonantRise/files/4.x/NeoTech-1.8.9-2.3.7.jar" file="NeoTech-1.8.9-2.3.7.jar" md5="99f1e8d63fa01a1c1b9b5a4dd7855901" download="server"
              type="mods"
              website="http://www.dyonovan.com"
              authors="Dyonovan,pauljoda"
@@ -822,7 +831,7 @@
              />
 
         <mod name="Progressive Automation"
-             version="1.6.34" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.8.9-1.6.34.jar" file="ProgressiveAutomation-1.8.9-1.6.34.jar" md5="aaa8671c9d1bc5ca706d103fd0d7da2c" download="server"
+             version="1.6.35" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.8.9-1.6.35.jar" file="ProgressiveAutomation-1.8.9-1.6.35.jar" md5="a73831926af6b93a3d09ecb1e4df445e" download="server"
              type="mods"
              website="https://github.com/Vanhal/ModJam/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/progressive-automation-early-miner?gameCategorySlug=mc-mods&amp;projectID=220606&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=obriensh%40gmail.com&amp;bn=PP-Donati"
              authors="Vanhal"
@@ -1014,7 +1023,7 @@
              />
 
         <mod name="Storage Drawers"
-             version="1.8.9-2.3.2" url="packs/ResonantRise/files/4.x/StorageDrawers-1.8.9-2.3.2.jar" file="StorageDrawers-1.8.9-2.3.2.jar" md5="80070ea760d45b2d536045cd432725a4" download="server"
+             version="1.8.9-2.4.1" url="packs/ResonantRise/files/4.x/StorageDrawers-1.8.9-2.4.1.jar" file="StorageDrawers-1.8.9-2.4.1.jar" md5="2b6a6fb3e7ff8c6e38fe816eeff46ab2" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
@@ -1069,7 +1078,7 @@
              />
 
         <mod name="ThutCore"
-             version="2.2.3" url="packs/ResonantRise/files/4.x/thutcore-2.2.3.jar" file="thutcore-2.2.3.jar" md5="dd1b6743a5f40977c02f7be81202b6b5" download="server"
+             version="2.3.0" url="packs/ResonantRise/files/4.x/thutcore-2.3.0.jar" file="thutcore-2.3.0.jar" md5="1db4c25f3c5348aae85ac1ccb8a55abb" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224428/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/thutcore?gameCategorySlug=mc-mods&amp;projectID=224428&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=thutmose.i.yc109.8.21%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="patnevis"
