@@ -271,7 +271,7 @@
              authors="asie,BuildCraft Team"
              description="Compatibility add-on for BuildCraft" />
 
-        <mod name="BuildCraft"
+        <mod name="BuildCraft-Core"
              version="7.2.0-pre12-core" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-core.jar" file="buildcraft-7.2.0-pre12-core.jar" md5="2f825c223258ac37c2428f4b932ce573" download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
