@@ -9,7 +9,7 @@ n/a
 n/a
 
 ==Mainline (Optional/Recomended)==
-Updated all Buildcraft components
+Updated all Buildcraft components (see github)
 
 ==Optionals==
 n/a
