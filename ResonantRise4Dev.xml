@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Dev-V4-009</version>
+        <version>Dev-V4-010</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -250,12 +250,75 @@
              description="Botania is a mod that adds nature magic to Minecraft."
              />
 
-        <mod name="BuildCraft"
-             version="7.2.0-pre10" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre10.jar" file="buildcraft-7.2.0-pre10.jar" md5="f535a265c0b38eb3c1e350f02575edc6" download="server"
+        <mod name="BuildCraft-API"
+             version="7.2.0-pre12-api" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-api.jar" file="buildcraft-7.2.0-pre12-api.jar" md5="40472713ef8458c13760a8803a35b981" download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
-             description="The major feature of BuildCraft is the pipes. Pipes are used to transport items, fluids, and mechanical energy between inventories/machines. There are many different types of pipes all with unique functions, including Wooden, Cobblestone, Stone, Sandstone, Iron, Gold, Diamond, Emerald and Obsidian. Pipes can be combined with Pipe Sealant to allow them to make Fluid Pipes that can transport liquids or with Redstone to make Kinesis Pipes to allow them to transport mechanical energy."
-             />
+             authors="SpaceToad,BuildCraft Team"
+             description="API for buildcraft" />
+
+        <mod name="BC Builders"
+             version="7.2.0-pre12-builders" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-builders.jar" file="buildcraft-7.2.0-pre12-builders.jar" md5="141f32903a76cbd7de3b96a5419c022a" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Builders Component)" />
+
+        <mod name="BuildCraft Compat"
+             version="7.2.0-pre12-compat1" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-compat1.jar" file="buildcraft-7.2.0-pre12-compat1.jar" md5="84221f3627329cedc9c58bfea6294079" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="asie,BuildCraft Team"
+             description="Compatibility add-on for BuildCraft" />
+
+        <mod name="BuildCraft"
+             version="7.2.0-pre12-core" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-core.jar" file="buildcraft-7.2.0-pre12-core.jar" md5="2f825c223258ac37c2428f4b932ce573" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
+
+        <mod name="BC Energy"
+             version="7.2.0-pre12-energy" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-energy.jar" file="buildcraft-7.2.0-pre12-energy.jar" md5="353f2a9e27f9786c661756b2968ae788" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Energy Component)" />
+
+        <mod name="BC Factory"
+             version="7.2.0-pre12-factory" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-factory.jar" file="buildcraft-7.2.0-pre12-factory.jar" md5="115e71a0e674186067ad88755b603715" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Factory Component)" />
+
+        <mod name="BC Robotics"
+             version="7.2.0-pre12-robotics" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-robotics.jar" file="buildcraft-7.2.0-pre12-robotics.jar" md5="d86678514a3fd9ad128803d20bd89f7e" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Transport Component)" />
+
+        <mod name="BC Silicon"
+             version="7.2.0-pre12-silicon" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-silicon.jar" file="buildcraft-7.2.0-pre12-silicon.jar" md5="dd54463e7a3d0a0187693b93723556b1" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Silicon Component)" />
+
+        <mod name="BC Transport"
+             version="7.2.0-pre12-transport" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12-transport.jar" file="buildcraft-7.2.0-pre12-transport.jar" md5="b3251c6a8b716ce62fdd802b5fc68a83" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Transport Component)" />
+
+        <mod name="BuildCraft"
+             version="7.2.0-pre12" url="packs/ResonantRise/files/4.x/buildcraft-7.2.0-pre12.jar" file="buildcraft-7.2.0-pre12.jar" md5="d32e147290717c6af5a8ab9c11849085" download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="SpaceToad,BuildCraft Team"
+             description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
         <mod
              name="Caterpillar"
