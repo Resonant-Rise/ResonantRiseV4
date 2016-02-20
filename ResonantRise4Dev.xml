@@ -109,8 +109,8 @@
              description="Client Only Mods."
              />
 
-        <mod name="Minecraft Forge" version="1.8.9-11.15.1.1734"
-             url="packs/ResonantRise/files/forgelibs/forge-1.8.9-11.15.1.1734-universal.jar" file="forge-1.8.9-11.15.1.1734-universal.jar" md5="0b83ab8d9136b14cf522f1cb8814c84b" download="server"
+        <mod name="Minecraft Forge"
+             version="" url="packs/ResonantRise/files/forgelibs/forge-1.8.9-11.15.1.1754-universal.jar" file="forge-1.8.9-11.15.1.1754-universal.jar" md5="b02194751c4b07e3d6994a19a2b85336" download="server"
              type="forge"
              website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2"
              authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw"
