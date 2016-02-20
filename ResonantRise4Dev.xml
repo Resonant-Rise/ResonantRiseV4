@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Dev-V4-006</version>
+        <version>Dev-V4-008</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -451,7 +451,7 @@
              />
 
         <mod name="EZ Storage"
-             version="1.8.9-1.2.3" url="packs/ResonantRise/files/4.x/ezstorage-1.8.9-1.2.3.jar" file="ezstorage-1.8.9-1.2.3.jar" md5="cb48ff7289ab9a8898f2af001f7a1654" download="server"
+             version="1.8.9-1.2.4" url="packs/ResonantRise/files/4.x/ezstorage-1.8.9-1.2.4.jar" file="ezstorage-1.8.9-1.2.4.jar" md5="41900b966bf67b7da45029ccdc0d582d" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233225/"
              authors="zerofall"
