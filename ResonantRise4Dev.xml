@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.1.2</version>
+        <version>0.0.0-a.0.0.12</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
