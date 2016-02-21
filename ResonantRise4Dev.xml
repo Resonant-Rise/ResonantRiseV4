@@ -515,6 +515,7 @@
              description="A configurable furnace"
              />
 
+<!--
         <mod name="GeoActivity"
              version="2.2.2" url="packs/ResonantRise/files/4.x/geoactivity-2.2.2.jar" file="geoactivity-2.2.2.jar" md5="a69dc8be1bf4a9baf0431f8b81c7e94f" download="server"
              type="mods"
@@ -522,6 +523,7 @@
              authors="Decebaldecebal"
              description="A mod that adds multiple types of coal ores, new tools and some interesting machines."
              />
+-->
 
         <mod name="Harvest"
              version="1.8.9-1.0.0-2" url="packs/ResonantRise/files/4.x/Harvest-1.8.9-1.0.0-2.jar" file="Harvest-1.8.9-1.0.0-2.jar" md5="71068bc2fad9ecb1b4776514f8792605" download="server"
