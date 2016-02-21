@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>0.0.0-a.0.0.13</version>
+        <version>a.0.1.14</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -497,6 +497,14 @@
              website="http://www.curseforge.com/projects/239336/"
              authors="MrRiegel"
              description="A configurable furnace"
+             />
+
+        <mod name="GeoActivity"
+             version="2.2.3" url="packs/ResonantRise/files/4.x/geoactivity-2.2.3.jar" file="geoactivity-2.2.3.jar" md5="a8ba44cbf7b1fbd676600d6b34c3478b" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/72298/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=K8DFN8HZPUD5L&amp;item_name=GeoActivity+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="Decebaldecebal"
+             description="A mod that adds multiple types of coal ores, new tools and some interesting machines."
              />
 
         <mod name="Harvest"
