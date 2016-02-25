@@ -782,14 +782,6 @@
              description="Adds carrots, potatoes, melon seeds, and pumpkin seeds to the Tall Grass drop list."
              />
 
-        <mod name="Player Rugs"
-             version="1.8.8-1.2.0" url="packs/ResonantRise/files/4.x/PlayerRugs-1.8.8-1.2.0.jar" file="PlayerRugs-1.8.8-1.2.0.jar" md5="2852cd66c8fc3ea0537d824f0293a721" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/237852/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/player-rugs?gameCategorySlug=mc-mods&amp;projectID=237852&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kitsunekihira%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
-             authors="Kihira"
-             description="Decorate your Minecraft world with your &quot;favourite&quot; players!"
-             />
-
         <mod name="Portable Crafting"
              version="1.8.9-1.1" url="packs/ResonantRise/files/4.x/PortableCrafting-1.8.9-1.1.jar" file="PortableCrafting-1.8.9-1.1.jar" md5="55fbd7ed4e30c8ab6214104a7ba45dea" download="server"
              type="mods"
