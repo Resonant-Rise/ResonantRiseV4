@@ -1,4 +1,61 @@
 =================
+Build a.0.2.0
+=================
+
+==Dependancies (Core)==
+Added ElecCore
+Added MalisisCore
+Updated McJtylib
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+Added Alchemycraft
+Added CCTweaks
+Added Deep Rsonance
+Added Dense Ores
+Added GraveStone
+Added Malisis Doors
+Added ModTweaker
+Added Rope Bridges
+Added RTG
+Added Simple Chunk Loader
+Added Soul Shards: The Old Way
+Added Veinminer
+Updated Bookshelf API
+Updated Charset
+Updated CrissCross
+Updated JEI
+Updated JourneyMap
+Updated RandomThings
+Updated Simple Dimension
+Updated Storage Drawers
+Updated Thaumcraft
+Updated Thaumic Infusion
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build a.0.1.14
 =================
 
