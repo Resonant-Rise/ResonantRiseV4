@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.2.0</version>
+        <version>a.0.2.1</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -695,7 +695,7 @@
              />
 
         <mod name="MalisisCore"
-             version="0.14.3" url="packs/ResonantRise/files/4.x/malisiscore-1.7.10-0.14.3.jar" file="malisiscore-1.7.10-0.14.3.jar" md5="58e117a619bb3d729980ce320dca8535" download="server"
+             version="1.8.9-2.0.5" url="packs/ResonantRise/files/4.x/malisiscore-1.8.9-2.0.5.jar" file="malisiscore-1.8.9-2.0.5.jar" md5="02cb7b12725afba8d951db19bec233ca" download="server"
              type="mods"
              website="http://github.com/Ordinastie/MalisisCore"
              authors="Ordinastie,PaleoCrafter"
@@ -703,7 +703,7 @@
              />
 
         <mod name="Malisis&apos; Doors"
-             version="1.13.2" url="packs/ResonantRise/files/4.x/malisisdoors-1.7.10-1.13.2.jar" file="malisisdoors-1.7.10-1.13.2.jar" md5="74d7523f3084db7d98af486b43bdd938" download="server"
+             version="1.8.9-3.0.1" url="packs/ResonantRise/files/4.x/malisisdoors-1.8.9-3.0.2.jar" file="malisisdoors-1.8.9-3.0.2.jar" md5="11d7298300bfffbb71cc9b03d8bfa93b" download="server"
              type="mods"
              website="http://github.com/ordinastie" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/malisisdoors?gameCategorySlug=mc-mods&amp;projectID=223891&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=ordinastie%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
              authors="Ordinastie"
