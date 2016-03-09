@@ -1187,15 +1187,6 @@
              description="Totem Poles? Totem Poles!"
              />
 
-        <mod name="Vein Miner"
-             version="0.31.3" url="packs/ResonantRise/files/4.x/VeinMiner-1.8.9_0.31.3.unknown.jar" file="VeinMiner-1.8.9_0.31.3.unknown.jar" md5="938e52178cff446eb707abcf2f5c6f5a" download="server"
-             type="mods"
-             website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
-             authors="portablejim"
-             description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same
-             type. Takes durability and health for each block mined."
-             />
-
         <mod name="Waila"
              version="1.6.0-B3" url="packs/ResonantRise/files/4.x/Waila-1.6.0-B3_1.8.8.jar" file="Waila-1.6.0-B3_1.8.8.jar" md5="6778771e8a53e77ddd868632485455e8" download="server"
              type="mods"
