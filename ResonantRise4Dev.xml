@@ -298,8 +298,8 @@
              description="Shared code and render support for mods.  Used by jaquadro&apos;s mods."
              />
 
-        <mod name="Charset" version="0.2.1"
-             version="" url="packs/ResonantRise/files/4.x/Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar" file="Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar" md5="2ba74e5fafca9dba277c47b14f1046d0" download="server"
+        <mod name="Charset"
+             version="0.2.1" url="packs/ResonantRise/files/4.x/Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar" file="Charset-0.2.3-55a8a6f20188d07d8fb9c2a9.jar" md5="2ba74e5fafca9dba277c47b14f1046d0" download="server"
              type="mods"
              website="http://charset.asie.pl/"
              description="http://charset.asie.pl/"
@@ -923,7 +923,7 @@
              />
 
         <mod name="Realistic Terrain Generation"
-             version="" url="packs/ResonantRise/files/4.x/RTG-1.8.9-0.0.3.jar" file="RTG-1.8.9-0.0.3.jar" md5="c7ca3c659c028ca2d4ad8a16e5b2099c" download="server"
+             version="0.0.3" url="packs/ResonantRise/files/4.x/RTG-1.8.9-0.0.3.jar" file="RTG-1.8.9-0.0.3.jar" md5="c7ca3c659c028ca2d4ad8a16e5b2099c" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/237989/"
              authors="WhichOnesPink"
@@ -1337,7 +1337,7 @@
 
         <mod name="Vein Miner"
              version="0.31.4" url="packs/ResonantRise/files/4.x/VeinMiner-1.8.9_0.31.4.unknown.jar" file="VeinMiner-1.8.9_0.31.4.unknown.jar" md5="87b99a82c046bb858e769a7260cfb93b" download="server"
-             type="mods" optinal="yes"
+             type="mods" optional="yes"
              website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="portablejim"
              description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
