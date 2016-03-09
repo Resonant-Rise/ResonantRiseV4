@@ -947,7 +947,7 @@
              />
 
         <mod name="RFTools"
-             version="1.8.9-4.22beta22" url="packs/ResonantRise/files/4.x/rftools-1.8.9-4.22beta22.jar" file="rftools-1.8.9-4.22beta22.jar" md5="770d3f36a4331051d283a940d4579f23" download="server"
+             version="1.8.9-4.22beta28" url="packs/ResonantRise/files/4.x/rftools-1.8.9-4.22beta28.jar" file="rftools-1.8.9-4.22beta28.jar" md5="59225a19a1a17a645269376b1d22b9a1" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
              authors="McJty"
@@ -955,7 +955,7 @@
              />
 
         <mod name="RFTools Dimensions"
-             version="1.8.9-4.22beta22" url="packs/ResonantRise/files/4.x/rftoolsdim-1.8.9-4.22beta22.jar" file="rftoolsdim-1.8.9-4.22beta22.jar" md5="58c546f6aed9d87554711fcd0417bef5" download="server"
+             version="1.8.9-4.22beta25" url="packs/ResonantRise/files/4.x/rftoolsdim-1.8.9-4.22beta25.jar" file="rftoolsdim-1.8.9-4.22beta25.jar" md5="fb3f154e02de7e05c23d42c2a327fcd4" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240950/"
              authors="McJty"
