@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.2.1</version>
+        <version>a.0.3.0</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -436,6 +436,21 @@
              description="Add electricity to your game with this Power Advantage add-on"
              />
 
+        <mod name="Ender IO"
+             version="1.8.9-3.0.0.17_alpha" url="packs/ResonantRise/files/4.x/EnderIO-1.8.9-3.0.0.17_alpha.jar" file="EnderIO-1.8.9-3.0.0.17_alpha.jar" md5="c34741806bfa02d60eb67c7d2087a62f" download="server"
+             type="mods" depends="EnderCore"
+             website="http://enderio.com"
+             authors="CrazyPants,tterrag"
+             description="Compact conduits, painted things and access to your stuff through an eye of ender."
+             />
+
+        <mod name="EnderCore"
+             version="1.8.9-0.3.0.11-beta" url="packs/ResonantRise/files/4.x/EnderCore-1.8.9-0.3.0.11-beta.jar" file="EnderCore-1.8.9-0.3.0.11-beta.jar" md5="c67a23ddff1438357962042744fac4d7" download="server" type="mods"
+             website="http://enderio.com"
+             authors="tterrag,CrazyPants"
+             description="Library mod used by EnderIO, EnderZoo, and others"
+             />
+
         <mod name="EnderTanks"
              version="1.8.9-1.2.1" url="packs/ResonantRise/files/4.x/EnderTanks-1.8.9-1.2.1.jar" file="EnderTanks-1.8.9-1.2.1.jar" md5="1f6c6ed93f713b3185651bc0a4e222b0" download="server"
              type="mods"
@@ -466,6 +481,13 @@
              website="https://github.com/rubensworks/EvilCraft"
              authors="rubensworks (aka kroeserr),immortaleeb (aka _EeB_)"
              description="An evil mod for Minecraft."
+             />
+
+        <mod name="Extra Utilities 2"
+             version="0.0.1" url="packs/ResonantRise/files/4.x/extrautils2-1.8.9-alpha-0.0.1.jar" file="extrautils2-1.8.9-alpha-0.0.1.jar" md5="e426faaabdde71adfc2ca4a8af281bec" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/225561/"
+             authors="RWTema" description="A bunch of useful things."
              />
 
         <mod name="EZ Storage"
