@@ -5,7 +5,7 @@
         <memory>2560</memory>
         <permgen>256</permgen>
         <caseallfiles>upper</caseallfiles>
-                        <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
+                                <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge</extraarguments>
     </pack>
     <libraries>
@@ -28,6 +28,7 @@
         <library url="packs/ResonantRise/files/forgelibs/12.16.1.1907/vecmath-1.5.2.jar" download="server" file="vecmath-1.5.2.jar" md5="e5d2b7f46c4800a32f62ce75676a5710" server="java3d/vecmath/1.5.2/vecmath-1.5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/12.16.1.1907/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
     </libraries>
+
 
 
 
@@ -499,6 +500,7 @@
              description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
              />
 
+<!--
         <mod
              name="Dimensional Anchors"
              version="60.0.0" url="packs/ResonantRise/files/4.x/dimensional-anchors-60.0.0.jar" file="dimensional-anchors-60.0.0.jar" md5="79b5f94d24e7ae53a2b0c052c629567a" download="server"
@@ -507,6 +509,7 @@
              authors="immibis"
              description="Straightforward chunk-loader mod."
              />
+-->
 
 <!--
         <mod
