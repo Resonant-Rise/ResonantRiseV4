@@ -167,7 +167,7 @@
 
         <mod
              name="AKUtils"
-             version="1.9-1.2.3" url="packs/ResonantRise/files/4.x/AKUtils-1.9-1.2.3.jar" file="AKUtils-1.9-1.2.3.jar" md5="e546378537872dfae408e6b37bc2f433" download="server"
+             version="1.9-1.3.1" url="packs/ResonantRise/files/4.x/AKUtils-1.9-1.3.1.jar" file="AKUtils-1.9-1.3.1.jar" md5="50e21402bed035e235cb0bb32b426a83" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243323/"
              authors="AKTheKnight"
@@ -240,7 +240,7 @@
 
         <mod
              name="Biomes O&apos; Plenty"
-             version="4.0.1" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.9-4.0.1.2006-universal.jar" file="BiomesOPlenty-1.9-4.0.1.2006-universal.jar" md5="e1b06ac7d30c9f110c7760f779e513f8" download="server"
+             version="4.0.2" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.9-4.0.2.2018-universal.jar" file="BiomesOPlenty-1.9-4.0.2.2018-universal.jar" md5="6b8ee37223e812a83bdccaef82153ef2" download="server"
              type="mods"
              website="http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
              authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80"
@@ -249,7 +249,7 @@
 
         <mod
              name="Blood Magic: Alchemical Wizardry"
-             version="1.9-2.0.0-37" url="packs/ResonantRise/files/4.x/BloodMagic-1.9-2.0.0-37.jar" file="BloodMagic-1.9-2.0.0-37.jar" md5="05e646462809aac4bebf17d1663fc8d8" download="server"
+             version="1.9-2.0.0-38" url="packs/ResonantRise/files/4.x/BloodMagic-1.9-2.0.0-38.jar" file="BloodMagic-1.9-2.0.0-38.jar" md5="bd1729c22b38989a7fb949c818aa228e" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1899223-bloodmagic"
              authors="WayofTime"
@@ -276,7 +276,7 @@
 
         <mod
              name="Botania"
-             version="r1.8-304" url="packs/ResonantRise/files/4.x/Botania-unofficial.r1.8-304.jar" file="Botania-unofficial.r1.8-304.jar" md5="78c4ac10a0d5ed8246d39fe774ccf9a6" download="server"
+             version="r1.8-305" url="packs/ResonantRise/files/4.x/Botania-unofficial.r1.8-305.jar" file="Botania-unofficial.r1.8-305.jar" md5="9efc507bd8e3c79780dd7e6a8a1c2a70" download="server"
              type="mods"
              website="http://www.botaniamod.net"
              authors="Vazkii"
@@ -429,7 +429,7 @@
 
         <mod
              name="MineTweaker 3"
-             version="1.9-3.0.7" url="packs/ResonantRise/files/4.x/CraftTweaker-Customized-1.9-3.0.7.jar" file="CraftTweaker-Customized-1.9-3.0.7.jar" md5="cedf48143d7af9140e58fdf7721bec16" download="server"
+             version="1.9-3.0.8" url="packs/ResonantRise/files/4.x/CraftTweaker-1.9-3.0.8.jar" file="CraftTweaker-1.9-3.0.8.jar" md5="da01ca696a047a663d90652cd0e0ce4b" download="server"
              type="mods"
              website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/crafttweaker-customized-minetweaker3?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-Dona"
              authors="Stan Hebben"
@@ -457,7 +457,7 @@
 
         <mod
              name="Cyclops Core"
-             version="1.9-0.5.9" url="packs/ResonantRise/files/4.x/CyclopsCore-1.9-0.5.9.jar" file="CyclopsCore-1.9-0.5.9.jar" md5="e84302736f718d671af02038b8cb2874" download="server"
+             version="1.9-0.6.0" url="packs/ResonantRise/files/4.x/CyclopsCore-1.9-0.6.0.jar" file="CyclopsCore-1.9-0.6.0.jar" md5="6f33fdbe8c43e32c9a7c4117e6e95cf3" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/232758-cyclops-core"
              authors="rubensworks (aka kroeserr),immortaleeb (aka _EeB_)"
@@ -484,7 +484,7 @@
 
         <mod
              name="DeepResonance"
-             version="1.9.0-1.1.4beta30" url="packs/ResonantRise/files/4.x/deepresonance-1.9.0-1.1.4beta30.jar" file="deepresonance-1.9.0-1.1.4beta30.jar" md5="ce2438d7bab1628c66a5beee515cbcdf" download="server"
+             version="1.9.0-1.1.4beta32" url="packs/ResonantRise/files/4.x/deepresonance-1.9.0-1.1.4beta32.jar" file="deepresonance-1.9.0-1.1.4beta32.jar" md5="b303cc205374c2a144502be0c7103562" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233398/"
              authors="McJty,Elec332"
@@ -558,6 +558,7 @@
              description="Books mod for minecraft"
              />
 
+<!--
         <mod
              name="Enderthing"
              version="0.6.6" url="packs/ResonantRise/files/4.x/enderthing-1.9-0.6.6.jar" file="enderthing-1.9-0.6.6.jar" md5="37663af695c8922c06de3c3a84f89795" download="server"
@@ -566,6 +567,7 @@
              authors="gigaherz"
              description="Shared inventories with chests and keys"
              />
+-->
 
         <mod
              name="Ender Utilities"
@@ -587,7 +589,7 @@
 
         <mod
              name="Extra Bit Manipulation"
-             version="1.9-2.1.0" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.9-2.1.0.jar" file="ExtraBitManipulation-1.9-2.1.0.jar" md5="4da1d23029158a6ec73107fa7199cc06" download="server"
+             version="1.9-2.1.1" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.9-2.1.1.jar" file="ExtraBitManipulation-1.9-2.1.1.jar" md5="2e0eed26af23265a34372f1521d5b4a8" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/extra-bit-manipulation"
              authors="Phylogeny"
@@ -622,7 +624,7 @@
 
         <mod
              name="Foundry"
-             version="2.0.0.0-alpha2" url="packs/ResonantRise/files/4.x/Foundry-1.9-2.0.0.0-alpha2.jar" file="Foundry-1.9-2.0.0.0-alpha2.jar" md5="9924361e6f6cb534bb5f8414544b4ae1" download="server"
+             version="2.0.0.0-alpha3" url="packs/ResonantRise/files/4.x/Foundry-1.9-2.0.0.0-alpha3.jar" file="Foundry-1.9-2.0.0.0-alpha3.jar" md5="5862bc6f8f88a71e0e25fd3d488da080" download="server"
              type="mods"
              website="https://github.com/EXTER7/Foundry"
              authors="EXTER"
@@ -649,7 +651,7 @@
 
         <mod
              name="Graves Mod"
-             version="1.9-b10-universal" url="packs/ResonantRise/files/4.x/graves-1.9-b10-universal.jar" file="graves-1.9-b10-universal.jar" md5="8d3ebcd8c52bea00a0267730ccb5ab07" download="server"
+             version="1.9-b12-universal" url="packs/ResonantRise/files/4.x/graves-1.9-b12-universal.jar" file="graves-1.9-b12-universal.jar" md5="3bdd009aa4adc966145b5c59cd00a7bd" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240877/"
              authors="FireBall1725,FusionLord"
@@ -658,7 +660,7 @@
 
         <mod
              name="Harvest"
-             version="1.9-1.0.1-3" url="packs/ResonantRise/files/4.x/Harvest-1.9-1.0.1-3.jar" file="Harvest-1.9-1.0.1-3.jar" md5="4ac0c6a4fe4e96cade5d96a5326ec290" download="server"
+             version="1.9.4-1.0.1-5" url="packs/ResonantRise/files/4.x/Harvest-1.9.4-1.0.1-5.jar" file="Harvest-1.9.4-1.0.1-5.jar" md5="5eecfc48aade31cbace81dcc55e90f2d" download="server"
              type="mods"
              website="http://tehnut.info/"
              authors="TehNut"
@@ -695,7 +697,7 @@
 
         <mod
              name="Iron Chest"
-             version="1.9-6.0.133.777" url="packs/ResonantRise/files/4.x/ironchest-1.9-6.0.133.777.jar" file="ironchest-1.9-6.0.133.777.jar" md5="edcc94d158176d73f4a0dacbcd4146df" download="server"
+             version="1.9-6.0.138.779" url="packs/ResonantRise/files/4.x/ironchest-1.9-6.0.138.779.jar" file="ironchest-1.9-6.0.138.779.jar" md5="67de8aca49bb5d19dc1023411f80dca4" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/981855-"
              authors="cpw"
@@ -704,7 +706,7 @@
 
         <mod
              name="Item Scroller"
-             version="0.4.2" url="packs/ResonantRise/files/4.x/itemscroller-1.9-0.4.2.jar" file="itemscroller-1.9-0.4.2.jar" md5="8d463c7e06630a79307ea2170454260a" download="server"
+             version="0.5.0" url="packs/ResonantRise/files/4.x/itemscroller-1.9.4-0.5.0.jar" file="itemscroller-1.9.4-0.5.0.jar" md5="cad8d8a0baec4d9c0cb1c1834e962fb8" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/item-scroller"
              donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
@@ -767,7 +769,7 @@
 
         <mod
              name="McJtyLib"
-             version="1.9.0-1.8.4-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.9.0-1.8.4.jar" file="mcjtylib-1.9.0-1.8.4.jar" md5="88b947269e156efd436b708e5d023702" download="server"
+             version="1.9.0-1.8.6-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.9.0-1.8.6.jar" file="mcjtylib-1.9.0-1.8.6.jar" md5="579a62f52cdce65737de37b71e5ea01d" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -849,6 +851,15 @@
              />
 
         <mod
+             name="Multi-Storage"
+             version="1.9.0-1.1.0" url="packs/ResonantRise/files/4.x/multistorage-1.9.0-1.1.0.jar" file="multistorage-1.9.0-1.1.0.jar" md5="af71e99a0c4d5d16acaf8d7d4fa99e40" download="server"
+             type="mods"
+             website="http://tomkinsbros.blogspot.ca/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/multistorage?gameCategorySlug=mc-mods&amp;projectID=244864&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
+             authors="ShetiPhian"
+             description="Vaults, Hidden Chests, and Stacking Chests"
+             />
+
+        <mod
              name="Neat"
              version="1.2-5" url="packs/ResonantRise/files/4.x/Neat 1.2-5.jar" file="Neat 1.2-5.jar" md5="e765b62abadb8664f0e0f0cb5151d191" download="server"
              type="mods"
@@ -868,7 +879,7 @@
 
         <mod
              name="Pam&apos;s HarvestCraft"
-             version="1.9" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9a.jar" file="Pams HarvestCraft 1.9a.jar" md5="c25fb51e9faf145b386dfdbb71f92d4e" download="server"
+             version="1.9b" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9b.jar" file="Pams HarvestCraft 1.9b.jar" md5="865b030a2df234a3cb8fc9a89227da76" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
              authors="Pamela Collins"
@@ -895,7 +906,7 @@
 
         <mod
              name="Progressive Automation"
-             version="1.6.42" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.9-1.6.42.jar" file="ProgressiveAutomation-1.9-1.6.42.jar" md5="ea2437a4daaed39e6b420e36a4efef03" download="server"
+             version="1.6.44" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.9-1.6.44.jar" file="ProgressiveAutomation-1.9-1.6.44.jar" md5="ec7baf70450bc660df3b0cbc7f14c7d8" download="server"
              type="mods"
              website="https://github.com/Vanhal/ProgressiveAutomation/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/progressive-automation-early-miner?gameCategorySlug=mc-mods&amp;projectID=220606&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=obriensh%40gmail.com&amp;bn=PP-Donati"
              authors="Vanhal"
@@ -940,7 +951,7 @@
 
         <mod
              name="RebornCore"
-             version="2.1.0.53" url="packs/ResonantRise/files/4.x/RebornCore-1.9-2.1.0.53-universal.jar" file="RebornCore-1.9-2.1.0.53-universal.jar" md5="bb556da0077e66f88de8ab1ded0a2205" download="server"
+             version="2.3.3.86" url="packs/ResonantRise/files/4.x/RebornCore-1.9-2.3.3.86-universal.jar" file="RebornCore-1.9-2.3.3.86-universal.jar" md5="5f6161350bfd7d0a6dfa0401ddd13f62" download="server"
              type="mods"
              website="https://github.com/TechReborn/RebornCore"
              authors="modmuss50,Gigabit101"
@@ -949,7 +960,7 @@
 
         <mod
              name="Refined Storage"
-             version="0.5.6" url="packs/ResonantRise/files/4.x/refinedstorage-0.5.6.jar" file="refinedstorage-0.5.6.jar" md5="56a4345835d030ccd22ff68daee03c6a" download="server"
+             version="0.6.10" url="packs/ResonantRise/files/4.x/refinedstorage-0.6.10.jar" file="refinedstorage-0.6.10.jar" md5="7cedc5b0871c27b9fababce903b2cacf" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/refined-storage"
              authors="raoulvdberge,gustoniaeagle" description="A Minecraft mod all about storage."
@@ -957,7 +968,7 @@
 
         <mod
              name="Reliquary"
-             version="1.9-1.3.1.342" url="packs/ResonantRise/files/4.x/Reliquary-1.9-1.3.1.342.jar" file="Reliquary-1.9-1.3.1.342.jar" md5="a288ba8bdbdbc182374b2d5b838d1f08" download="server"
+             version="1.9-1.3.1.353" url="packs/ResonantRise/files/4.x/Reliquary-1.9-1.3.1.353.jar" file="Reliquary-1.9-1.3.1.353.jar" md5="e6ada67774c4f76c7dc17cca4d91bba9" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241319/"
              authors="x3n0ph0b3,TheMike,P3pp3rF1y"
@@ -984,7 +995,7 @@
 
         <mod
              name="RFTools Dimensions"
-             version="1.9.0-4.23beta38" url="packs/ResonantRise/files/4.x/rftoolsdim-1.9.0-4.23beta38.jar" file="rftoolsdim-1.9.0-4.23beta38.jar" md5="abd02e2499c6b1401439ad0550c8084f" download="server"
+             version="1.9.0-4.23beta40" url="packs/ResonantRise/files/4.x/rftoolsdim-1.9.0-4.23beta40.jar" file="rftoolsdim-1.9.0-4.23beta40.jar" md5="1618e08bd28903ff0f1d6b855576893c" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/240950/"
              authors="McJty"
@@ -1002,7 +1013,7 @@
 
         <mod
              name="ShetiPhian-Core"
-             version="1.9.0-3.2.1" url="packs/ResonantRise/files/4.x/shetiphiancore-1.9.0-3.2.2.jar" file="shetiphiancore-1.9.0-3.2.2.jar" md5="0df1f2f1b36e0557de3807f36281ccd0" download="server"
+             version="1.9.0-3.2.5" url="packs/ResonantRise/files/4.x/shetiphiancore-1.9.0-3.2.5.jar" file="shetiphiancore-1.9.0-3.2.5.jar" md5="9610325719adb3ad9573821689b8b613" download="server"
              type="mods"
              website="http://tomkinsbros.blogspot.ca/p/core.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/shetiphiancore?gameCategorySlug=mc-mods&amp;projectID=71738&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="ShetiPhian"
@@ -1011,7 +1022,7 @@
 
         <mod
              name="Realistic Terrain Generation"
-             version="0.0.5" url="packs/ResonantRise/files/4.x/RTG-1.9-0.0.5.jar" file="RTG-1.9-0.0.5.jar" md5="11e2f3455dc260c68fd187d2262b9ff2" download="server"
+             version="2.0.0-alpha.3" url="packs/ResonantRise/files/4.x/RTG-1.9-2.0.0-alpha.3.jar" file="RTG-1.9-2.0.0-alpha.3.jar" md5="99aa675b159f9603105626a354384c81" download="server"
              type="mods"
              website="https://github.com/Team-RTG/1.9-Realistic-Terrain-Generation"
              authors="WhichOnesPink"
@@ -1042,7 +1053,7 @@
 
         <mod
              name="Soul Shards - The Old Ways"
-             version="1.9-2.3.9-25" url="packs/ResonantRise/files/4.x/SoulShards-TOW-1.9-2.3.9-25.jar" file="SoulShards-TOW-1.9-2.3.9-25.jar" md5="1578edbac4912154ce38526577d320e8" download="server"
+             version="1.9-2.3.10-26" url="packs/ResonantRise/files/4.x/SoulShards-TOW-1.9-2.3.10-26.jar" file="SoulShards-TOW-1.9-2.3.10-26.jar" md5="7f15193259f8124163a47517d594337e" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/226958/"
              authors="TehNut"
@@ -1087,7 +1098,7 @@
 
         <mod
              name="Super Crafting Frame"
-             version="1.1.0.38" url="packs/ResonantRise/files/4.x/supercraftingframe-1.9-1.1.0.38.jar" file="supercraftingframe-1.9-1.1.0.38.jar" md5="fd15b66310b6848cf717aa4ebe2e09a9" download="server"
+             version="1.1.2.50" url="packs/ResonantRise/files/4.x/supercraftingframe-1.9-1.1.2.50.jar" file="supercraftingframe-1.9-1.1.2.50.jar" md5="bb69aa4ae7370b4a16b3bd3f1000cb59" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/73926/"
              authors="EdgarAllen"
@@ -1105,7 +1116,7 @@
 
         <mod
              name="TechReborn"
-             version="1.0.6.197" url="packs/ResonantRise/files/4.x/TechReborn-1.9-1.0.6.197-universal.jar" file="TechReborn-1.9-1.0.6.197-universal.jar" md5="661841f1b5fc689f80153b2588869f68" download="server"
+             version="1.1.2.278" url="packs/ResonantRise/files/4.x/TechReborn-1.9-1.1.2.278-universal.jar" file="TechReborn-1.9-1.1.2.278-universal.jar" md5="5aaa661ef78e1fbe70e53f0a557f5e09" download="server"
              type="mods"
              website="https://github.com/TechReborn/TechReborn"
              authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector"
