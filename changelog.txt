@@ -1,4 +1,35 @@
 =================
+Build a.0.4.1
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Added baseline configs, incomplete.
+
+==Misc.==
+Added files for Custom Main Menu.
+
+-- Dev only --
+n/a
+
+=================
 Build a.0.4.0 - Re-Built xml for 1.9.4
 =================
 

@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.4.0</version>
+        <version>a.0.4.1</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1154,7 +1154,12 @@
                     description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
                     />
 
-                <!--Custom Main Menu zip file-->
+                <mod name="Custom Main Menu Files" version="1.0"
+                     url="packs/ResonantRise/files/4.x/CMMenu.zip" file="CMMenu.zip" md5="24e74427dc65f1b7674ba4b689f25de3" download="server"
+                     type="mods"
+                     website="http://www.resonantrise.com"
+                     description="Files and images for CMM"
+                     />
 
             <mod name="FTBLib"
                 version="1.9.4-2.0.0" url="packs/ResonantRise/files/4.x/FTBLib-1.9.4-2.0.0.jar" file="FTBLib-1.9.4-2.0.0.jar" md5="348712a43adb0c62746e6625e0a4ded6" download="server"
