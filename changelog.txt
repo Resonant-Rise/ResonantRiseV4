@@ -1,4 +1,154 @@
 =================
+Build a.0.4.0 - Re-Built xml for 1.9.4
+=================
+
+==Forge==
+Forge 1.9.4-12.17.0.1963
+
+==Core==
+Actually Additions
+Apple Core
+Auto Ore Dictionary Converter
+Baubles
+Better Bedrock Gen
+BDLib
+    Advanced Generators
+    Pressure Pipes
+Better Achievments
+Biomes o' Plenty
+Blood Magic: Alchemical Wizardry
+Bookshelf
+Charset
+Chisels & Bits
+Clay World Gen
+Compact Storage
+Cooking for Blockheads
+Crating Tweaks
+Craft Tweaker
+Custom Things
+CXLibrary
+Cyclops Core
+Dark Utilities
+Deep Resonance
+ElecCore
+Enchiridion
+Ender Core
+    Ender IO
+    Ender Zoo
+Ender Tanks
+Extra Utilities 2
+Fancy Fluid Storage
+Fast Leaf Decay
+Fluxed Redstone
+Forestry
+Furnus
+Gear Swapper
+Harvest
+Help Fixer
+Industrial Craft 2
+Integrated Dynamics
+Iron Chest
+Just Enough Items
+    Block Drops
+    Just Enpugh Resources
+Lunatrius Core
+Mantle
+    Tinkers Construct
+McJtyLib
+MCMultiPart
+MmmMmmMmmMmm
+Morph-O-Tool
+Mod Pack Utilities Core
+    Mod Pack Basic Tools
+Multi-Storage
+Nether Portal Fix
+No More Recipe Conflicts
+Not ENough Codecs
+Not Enough Wands
+Open Computers
+Ore Tweaker
+Packing Tape
+Pam's HarvestCraft
+Platforms
+Pong
+Progressive Automation
+Psi
+Quantum Flux
+Quark
+Random Utilities
+Random Things
+Reborn Core
+Refined Storage
+Reliquary
+RFTools
+    RFTools Dimensions
+Rougelike Dungeons
+Roots
+Realistic Terrain Generation
+SensorCraft
+ShadowMC
+Shetiphian Core
+Signals
+Simply Conveyers
+Sleeping Bags
+Stackie
+Storage Drawers
+Substratum
+TESLA
+The One Probe
+Thut Core
+    Thut Tech
+TIS-3D
+Totemic
+Trash Slot
+WAILA
+    WAILA-Features
+    Waila Harvest
+    WAWLA
+WOOT
+xLib
+    Levels
+
+==Optionals==
+FTB Lib
+FTB Utilities
+Morpheus
+Potion Icons Remover
+Vein Miner
+
+--Client Only--
+Ambient Sounds
+Baubles HUD
+Better Minecraft Chat
+Chunk Animator
+Custom Main Menu
+Inventory Tweaks
+Item Physics Lite
+Item Scroller
+Journey Map
+Map Writer
+Mine Menu
+More Overlays
+Mouse Tweaks
+Neat
+True Type Font Replacement
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build a.0.3.0
 =================
 
