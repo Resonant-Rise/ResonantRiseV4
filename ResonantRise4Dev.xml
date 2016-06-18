@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.4.1</version>
+        <version>a.0.4.2</version>
         <minecraft>1.8.9</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1287,8 +1287,9 @@
             Better Minecraft Chat
             Chunk Animator
             Custom Main Menu
+                Resource Loader
             FTB Lib
-            FTB Utilities
+                FTB Utilities
             Inventory Tweaks
             Item Physics Lite
             Item Scroller

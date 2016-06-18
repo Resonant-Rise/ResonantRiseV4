@@ -1,5 +1,6 @@
 {
-  "books": [
+  "books":
+    [
     {
       "item": "enchiridion:book",
       "handlerType": "enchiridion",
@@ -153,6 +154,12 @@
     {
       "item": "tconstruct:book",
       "handlerType": "customwood",
+      "matchDamage": false,
+      "matchNBT": false
+    },
+    {
+      "item": "Botania:lexicon",
+      "handlerType": "rightclick",
       "matchDamage": false,
       "matchNBT": false
     }

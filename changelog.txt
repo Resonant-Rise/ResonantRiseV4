@@ -1,4 +1,39 @@
 =================
+Build a.0.4.2
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Enchiridion:
+    
+Veinminer:
+    
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+
+=================
 Build a.0.4.1
 =================
 
