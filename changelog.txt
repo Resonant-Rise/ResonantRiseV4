@@ -1,4 +1,38 @@
 =================
+Build a.0.4.3
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a    
+
+==Misc.==
+XML clean up to allow ATL compatability.
+Resource Loader - removed from Server side, made optional, but linked to Custom Main Menu.
+Inventory Tweaks - added to Server side optionals.
+
+-- Dev only --
+n/a
+
+
+=================
 Build a.0.4.2
 =================
 
@@ -22,9 +56,7 @@ n/a
 
 ==Configs==
 Enchiridion:
-    
-Veinminer:
-    
+    Added - TiCo and Roots    
 
 ==Misc.==
 n/a
