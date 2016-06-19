@@ -1167,7 +1167,7 @@
 
                 <mod name="Custom Main Menu Files" version="1.0"
                      url="packs/ResonantRise/files/4.x/CMMenu.zip" file="CMMenu.zip" md5="24e74427dc65f1b7674ba4b689f25de3" download="server"
-                     type="mods" optional="yes" server="no"
+                     type="mods" optional="yes" server="no" linked="Custom Main Menu"
                      website="http://www.resonantrise.com"
                      description="Files and images for CMM"
                      />
@@ -1182,7 +1182,7 @@
 
                 <mod name="FTBUtilities"
                     version="1.9.4-2.0.0" url="packs/ResonantRise/files/4.x/FTBUtilities-1.9.4-2.0.0.jar" file="FTBUtilities-1.9.4-2.0.0.jar" md5="5e1bff27dc1467307f98afde5dc5ffd2" download="server"
-                    type="mods" optional="yes" linked="FTBUtilities"
+                    type="mods" optional="yes" linked="FTBLib"
                     website="http://minecraft.curseforge.com/projects/ftb-utilities"
                     authors="LatvianModder"
                     description="FTBUtilities"
@@ -1262,7 +1262,7 @@
 
             <mod name="Neat"
                 version="1.2-9" url="packs/ResonantRise/files/4.x/Neat 1.2-9.jar" file="Neat 1.2-9.jar" md5="9a83c5f566d154ea76e4f2e8d47feb2f" download="server"
-                type="mods"
+                type="mods" optional="yes"
                 website="http://www.vazkii.us"
                 authors="Vazkii"
                 description="Minimalistic Functional Unit Plates for the modern Minecrafter"
@@ -1270,7 +1270,7 @@
 
             <mod name="Potion Icon Remover"
                 version="1.9.4-1.0.3" url="packs/ResonantRise/files/4.x/potionicons-1.9.4-1.0.3-release.jar" file="potionicons-1.9.4-1.0.3-release.jar" md5="03d118278255dc75240d85b75d8de251" download="server"
-                type="mods"
+                type="mods" optional="yes"
                 website="http://minecraft.curseforge.com/projects/potion-icon-remover" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/potion-icon-remover?gameCategorySlug=mc-mods&amp;projectID=244821&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_don"
                 authors="Kashdeya,Darkosto"
                 description="Removes the Potion Icons in game."
@@ -1278,7 +1278,7 @@
 
             <mod name="TrueType Font Replacement"
                 version="1.4.0-1.9.4" url="packs/ResonantRise/files/4.x/TTFR-1.4.0-1.9.4.jar" file="TTFR-1.4.0-1.9.4.jar" md5="f02c77c074835adb9f6eb03e3d91364a" download="server"
-                type="mods"
+                type="mods" optional="yes"
                 website="http://www.curseforge.com/projects/243639/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=ZJTN82XD5EZQU&amp;item_name=TrueType+Font+Replacement+(from+curseforge.com)&amp;cmd=_s-xclick"
                 authors="CubeX2"
                 description="Adds TrueType/OpenType font support"
@@ -1286,7 +1286,7 @@
 
             <mod name="Vein Miner"
                 version="0.31.5" url="packs/ResonantRise/files/4.x/VeinMiner-1.9_0.31.5.forgePost18010.jar" file="VeinMiner-1.9_0.31.5.forgePost18010.jar" md5="f2c0c0e48bdfd620f0d27cecbd7defbd" download="server"
-                type="mods"
+                type="mods" optional="yes"
                 website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
                 authors="portablejim"
                 description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
@@ -1322,14 +1322,14 @@
         
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root" optional="yes" recommended="no"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Client Only Mods."
              />
 
             <mod name="Loading Profiler"
-                version="1.3" url="packs/ResonantRise/files/4.x/LoadingProfiler-MC1.9.4-1.3.jar" file="LoadingProfiler-MC1.9.4-1.3.jar" md5="dacbac7e108e0810a2ea47c9e6dbf8b7" download="server"
+                version="1.3" url="packs/ResonantRise/files/4.x/LoadingProfiler-MC1.9.4-1.3.jar" file="LoadingProfiler-MC1.9.4-1.3.jar" md5="dacbac7e108e0810a2ea47c9e6dbf8b7" download="server" optional="yes"
                 type="mods"
                 website="http://www.curseforge.com/projects/228513/"
                 authors="lumien"
@@ -1337,7 +1337,7 @@
                 />
 
             <mod name="Torcherino"
-                version="1.9.4-2.4.0" url="packs/ResonantRise/files/4.x/Torcherino-TehNut-1.9.4-2.4.0.jar" file="Torcherino-TehNut-1.9.4-2.4.0.jar" md5="b82c838f4d724f01438bfc5555c16180" download="server"
+                version="1.9.4-2.4.0" url="packs/ResonantRise/files/4.x/Torcherino-TehNut-1.9.4-2.4.0.jar" file="Torcherino-TehNut-1.9.4-2.4.0.jar" md5="b82c838f4d724f01438bfc5555c16180" download="server" optional="yes"
                 type="mods"
                 website="http://minecraft.curseforge.com/projects/tehnuts-torcherino"
                 authors="TehNut"
@@ -1346,7 +1346,7 @@
 
             <mod name="WorldEdit"
                 version="6.1.2;ad2b2a3" url="packs/ResonantRise/files/4.x/worldedit-forge-mc1.9-6.1.2-dist.jar" file="worldedit-forge-mc1.9-6.1.2-dist.jar" md5="137ec59867f884b0eec572cf6619145e" download="server"
-                type="mods"
+                type="mods" optional="yes"
                 website="http://wiki.sk89q.com/wiki/WorldEdit"
                 authors="sk89q,wizjany,TomyLobo,kenzierocks"
                 description="WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer."
