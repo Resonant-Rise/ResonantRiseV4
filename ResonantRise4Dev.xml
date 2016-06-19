@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.4.3</version>
+        <version>a.0.4.4</version>
         <minecraft>1.9.4</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -29,7 +29,7 @@
         <library url="packs/ResonantRise/files/forgelibs/1.9.4-1963-2/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
     </libraries>
 
-    <!-- Colors for the use of seperation -->
+<!-- Colors for the use of seperation -->
 
     <colours>
 
@@ -103,7 +103,7 @@
 
         <mod name="=== Forge ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Client Only Mods."
@@ -117,21 +117,25 @@
              description="The backbone of modded Minecraft." 
              />
 
+<!-- End Forge -->
+
 <!-- Dependencies -->
         
-        <mod name="=== Dependencies ===" version="1.0"
+        <!-- <mod name="=== Dependencies ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Client Only Mods."
-             />
+             /> -->
+
+<!-- Ends Dependencies -->
 
 <!-- Core Mods -->
         
-        <mod name="=== Core Mod ===" version="1.0"
+        <mod name="=== Core ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Client Only Mods."
@@ -249,13 +253,13 @@
                 description="Shared code and render support for mods.  Used by jaquadro&apos;s mods."
                 />
 
-            <mod name="Charset"
+            <!-- <mod name="Charset"
                 version="0.3.0-pre7" url="packs/ResonantRise/files/4.x/Charset-mc1.9.4-0.3.0-pre7-1d7852dd154c2704.jar" file="Charset-mc1.9.4-0.3.0-pre7-1d7852dd154c2704.jar" md5="bb8621ac8535ddc5a42e18b7588ca292" download="server"
                 type="mods"
                 website="http://charset.asie.pl"
                 authors="asiekierka"
                 description="A wrench which happens to rotate multiparts."
-                />
+                /> -->
 
             <mod name="Chisels &amp; Bits"
                 version="10.6" url="packs/ResonantRise/files/4.x/chiselsandbits-10.6.jar" file="chiselsandbits-10.6.jar" md5="64d5ec96944cc6cf58347d29f2a84569" download="server"
@@ -980,7 +984,7 @@
                     />
 
         <!--
-            List:
+            Core List:
             Actually Additions
             Apple Core
             Auto Ore Dictionary Converter
@@ -993,7 +997,7 @@
             Biomes o' Plenty
             Blood Magic: Alchemical Wizardry
             Bookshelf
-            Charset
+            Charset - removed
             Chisels & Bits
             Clay World Gen
             Compact Storage
@@ -1085,7 +1089,26 @@
                 Levels
         -->
         
-<!-- Client Mods -->
+<!-- End Core Mods -->
+
+<!-- Optional Mods -->
+
+        <!-- <mod name="=== Optional Mods ===" version="1.0"
+             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             website="http://resonant-rise.com"
+             authors="RR Dev Team"
+             description="Client Only Mods."
+             /> -->
+
+        <!--
+            Optional Mods List:
+            mod here
+        -->
+
+<!-- End Optional Mods -->
+
+<!-- Client / Server Mods -->
         
         <mod name="=== Client Mod ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
@@ -1136,7 +1159,7 @@
 
                 <mod name="Resource Loader"
                     version="1.5" url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.9.4-1.5.jar" file="ResourceLoader-MC1.9.4-1.5.jar" md5="d15fae4e726ac80530d497cc8f9cde50" download="server"
-                    type="mods" optional="yes" server="no"
+                    type="mods" optional="yes" server="no" linked="Custom Main Menu"
                     website="http://www.curseforge.com/projects/226447/"
                     authors="lumien"
                     description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
@@ -1159,7 +1182,7 @@
 
                 <mod name="FTBUtilities"
                     version="1.9.4-2.0.0" url="packs/ResonantRise/files/4.x/FTBUtilities-1.9.4-2.0.0.jar" file="FTBUtilities-1.9.4-2.0.0.jar" md5="5e1bff27dc1467307f98afde5dc5ffd2" download="server"
-                    type="mods" optional="yes"
+                    type="mods" optional="yes" linked="FTBUtilities"
                     website="http://minecraft.curseforge.com/projects/ftb-utilities"
                     authors="LatvianModder"
                     description="FTBUtilities"
@@ -1292,8 +1315,10 @@
             True Type Font Replacement
             Vein Miner
         -->
+
+<!-- End Client / Server Mods -->
         
-        <!-- Dev Only -->
+<!-- Dev Only -->
         
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
@@ -1332,6 +1357,10 @@
             Torcherino
             World Edit
         -->
+
+<!-- End Dev Only -->
+
+<!-- End Mods -->
 
     </mods>
         

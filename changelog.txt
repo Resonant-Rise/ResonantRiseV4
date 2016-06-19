@@ -1,4 +1,36 @@
 =================
+Build a.0.4.4
+=================
+
+==Forge==
+n/a
+
+==Core==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+Charset - Removal due to developer releasing mod.
+
+==Configs==
+n/a    
+
+==Misc.==
+BlockDrops - moved to optionals due to client <-> server connection error.
+
+-- Dev only --
+n/a
+
+
+=================
 Build a.0.4.3
 =================
 
