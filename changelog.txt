@@ -1,4 +1,67 @@
 =================
+Build a.0.4.5
+=================
+
+==Forge==
+n/a
+
+==Core==
+    Actually Additions 
+    Biomes o' Plenty
+    Blood Magic
+    Bookshelf
+    Botania (unofficial)
+    Chisels 'n' Bits
+    Deep Resonance
+    Enchiridion
+    Ender IO
+    Ender Core
+    Forestry
+    Furnus
+    Just Enough Items
+    Just Enough Resources
+    Levels
+    Mantle
+    McJtyLib
+    Morph-O-Tool
+    Pam's Harvestcraft
+    Psi
+    Quark
+    Refined Storage
+    RFTools
+    Roots
+    Shadow MC
+    Signals
+    The One Probe
+    Tinkers Construct
+    Totemic
+
+
+==Optionals==
+    Morpheus
+    VeinMiner
+
+--Client Only--
+    Inventory Tweaks
+    More Overlays
+
+--Server Only--
+n/a
+
+==Removed==
+TechReborn, this may be temporary as many of the machines do not work, cannot be made, or have no purpose.
+
+==Configs==
+n/a    
+
+==Misc.==
+XML Changes - Colors added to Headers, Header descriptions corrected, various grammer and spell checks throughout the document.
+
+-- Dev only --
+n/a
+
+
+=================
 Build a.0.4.4
 =================
 

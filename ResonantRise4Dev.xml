@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.0.4.4</version>
+        <version>a.0.4.5</version>
         <minecraft>1.9.4</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -33,7 +33,7 @@
 
     <colours>
 
-         <!-- Red -->
+         <!-- RR Red -->
         <colour name="rred" code="#ED2121"
             />
         <!-- Dark Cyan -->
@@ -103,10 +103,10 @@
 
         <mod name="=== Forge ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root"
+             type="extract" extractto="root" colour="GC"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Minecraft Forge."
              />
 
         <mod name="Minecraft Forge"
@@ -126,7 +126,7 @@
              type="extract" extractto="root"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Dependency Mods List."
              /> -->
 
 <!-- Ends Dependencies -->
@@ -135,14 +135,14 @@
         
         <mod name="=== Core ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root"
+             type="extract" extractto="root" colour="rred"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Core Mod List."
              />
 
             <mod name="Actually Additions"
-                version="1.9.4-r44" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.9.4-r44.jar" file="ActuallyAdditions-1.9.4-r44.jar" md5="235ca4d766f5eecdf14efe3a2d4cf23c" download="server"
+                version="1.9.4-r45" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.9.4-r45.jar" file="ActuallyAdditions-1.9.4-r45.jar" md5="164f9c1c651c3f9630117086de6e874e" download="server"
                 type="mods"
                 website="http://github.com/Ellpeck/ActuallyAdditions"
                 authors="Ellpeck"
@@ -158,7 +158,7 @@
                 />
 
             <mod name="Auto Ore Dictionary Converter"
-                version="1.9.4-1.0" url="packs/ResonantRise/files/4.x/autooredictconv-1.9.4-1.0.jar" file="autooredictconv-1.9.4-1.0.jar" md5="634ce26a3330b14fa1a24503f478ab9f" download="server"
+                version="1.9.4-2.3.2" url="packs/ResonantRise/files/4.x/TConstruct-1.9.4-2.3.2.jar" file="TConstruct-1.9.4-2.3.2.jar" md5="497a48638ca8a69b059ce4a6fb88ed68" download="server"
                 type="mods"
                 website="http://www.curseforge.com/projects/232650/"
                 authors="MattDahEpic"
@@ -214,7 +214,7 @@
                 />
 
             <mod name="Biomes O&apos; Plenty"
-                version="4.1.0" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.9.4-4.1.0.2026-universal.jar" file="BiomesOPlenty-1.9.4-4.1.0.2026-universal.jar" md5="b4356b6b9a59316609d975097f7e881a" download="server"
+                version="4.1.0" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.9.4-4.1.0.2029-universal.jar" file="BiomesOPlenty-1.9.4-4.1.0.2029-universal.jar" md5="5714f3e6e4228aef3ca2d98fb863ac3e" download="server"
                 type="mods"
                 website="http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
                 authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80"
@@ -230,7 +230,7 @@
                 />
 
             <mod name="Bookshelf"
-                version="1.9.4-1.2.3.274" url="packs/ResonantRise/files/4.x/Bookshelf-1.9.4-1.2.3.274.jar" file="Bookshelf-1.9.4-1.2.3.274.jar" md5="434eb2f97eac264bd46f2510ba122104" download="server"
+                version="1.9.4-1.2.3.276" url="packs/ResonantRise/files/4.x/Bookshelf-1.9.4-1.2.3.276.jar" file="Bookshelf-1.9.4-1.2.3.276.jar" md5="1a569123321fb94ccc9481fc63908c33" download="server"
                 type="mods"
                 website="http://minecraft.curseforge.com/projects/bookshelf" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bookshelf?gameCategorySlug=mc-mods&amp;projectID=228525&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:N"
                 authors="darkhax,lclc98"
@@ -238,7 +238,7 @@
                 />
 
             <mod name="Botania"
-                version="r1.8-308" url="packs/ResonantRise/files/4.x/Botania-unofficial.r1.8-308.jar" file="Botania-unofficial.r1.8-308.jar" md5="1ea64d7b9efce8e3a8c504d461c19482" download="server"
+                version="r1.8-310" url="packs/ResonantRise/files/4.x/Botania-unofficial.r1.8-310.jar" file="Botania-unofficial.r1.8-310.jar" md5="d8692b864d16c0e9e9201ec729450ec1" download="server"
                 type="mods"
                 website="http://www.botaniamod.net"
                 authors="Vazkii"
@@ -262,7 +262,7 @@
                 /> -->
 
             <mod name="Chisels &amp; Bits"
-                version="10.6" url="packs/ResonantRise/files/4.x/chiselsandbits-10.6.jar" file="chiselsandbits-10.6.jar" md5="64d5ec96944cc6cf58347d29f2a84569" download="server"
+                version="10.7" url="packs/ResonantRise/files/4.x/chiselsandbits-10.7.jar" file="chiselsandbits-10.7.jar" md5="c0f93a8a0ed1c9d014999c1219aa91b3" download="server"
                 type="mods"
                 website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
                 authors="AlgorithmX2"
@@ -366,7 +366,7 @@
                 />
 
             <mod name="EnderCore"
-                version="1.9.4-0.4.0.24-alpha" url="packs/ResonantRise/files/4.x/EnderCore-1.9.4-0.4.0.24-alpha.jar" file="EnderCore-1.9.4-0.4.0.24-alpha.jar" md5="9940594c0589d96ef960442249eab5a5" download="server"
+                version="1.9.4-0.4.0.26-alpha" url="packs/ResonantRise/files/4.x/EnderCore-1.9.4-0.4.0.26-alpha.jar" file="EnderCore-1.9.4-0.4.0.26-alpha.jar" md5="523176560f35d1478cc3e0674134cb2d" download="server"
                 type="mods"
                 website="http://enderio.com"
                 authors="tterrag,CrazyPants"
@@ -374,7 +374,7 @@
                 />
 
                 <mod name="Ender IO"
-                    version="1.9.4-3.0.0.40_alpha" url="packs/ResonantRise/files/4.x/EnderIO-1.9.4-3.0.0.40_alpha.jar" file="EnderIO-1.9.4-3.0.0.40_alpha.jar" md5="8eb587cf21265d9a212e250e90682118" download="server"
+                    version="1.9.4-3.0.0.43_alpha" url="packs/ResonantRise/files/4.x/EnderIO-1.9.4-3.0.0.43_alpha.jar" file="EnderIO-1.9.4-3.0.0.43_alpha.jar" md5="ac0b6f72831aa45c9a04082e66108e5a" download="server"
                     type="mods"
                     website="http://enderio.com"
                     authors="CrazyPants,tterrag"
@@ -430,7 +430,7 @@
                 />
 
             <mod name="Forestry"
-                version="5.0.14.160" url="packs/ResonantRise/files/4.x/forestry_1.9.4-5.0.14.160.jar" file="forestry_1.9.4-5.0.14.160.jar" md5="18393c47c1d86d9961c9eb9d981a19d8" download="server"
+                version="5.0.19.166" url="packs/ResonantRise/files/4.x/forestry_1.9.4-5.0.19.166.jar" file="forestry_1.9.4-5.0.19.166.jar" md5="ad98d1dd3847a69f76219fff1ebc6784" download="server"
                 type="mods"
                 website="http://forestry.sengir.net/"
                 authors="SirSengir,mezz"
@@ -438,7 +438,7 @@
                 />
 
             <mod name="Furnus"
-                version="1.9.4-1.80" url="packs/ResonantRise/files/4.x/Furnus-1.9.4-1.80.jar" file="Furnus-1.9.4-1.80.jar" md5="e2f29e7bb39ec0a5c03aeb04a37ca1fa" download="server"
+                version="1.9.4-1.81" url="packs/ResonantRise/files/4.x/Furnus-1.9.4-1.81.jar" file="Furnus-1.9.4-1.81.jar" md5="37cfdd4c3d1469a962f7fb7290b0b8ef" download="server"
                 type="mods"
                 website="http://www.curseforge.com/projects/239336/"
                 authors="MrRiegel"
@@ -494,7 +494,7 @@
                 />
 
             <mod name="Just Enough Items"
-                version="3.6.3.212" url="packs/ResonantRise/files/4.x/jei_1.9.4-3.6.3.212.jar" file="jei_1.9.4-3.6.3.212.jar" md5="bf3b8b40e6eb4278b5539a68405ab5e8" download="server"
+                version="3.6.7.216" url="packs/ResonantRise/files/4.x/jei_1.9.4-3.6.7.216.jar" file="jei_1.9.4-3.6.7.216.jar" md5="39ce9ef6c5857ba6cb9a8775cd68c96a" download="server"
                 type="mods"
                 website="https://github.com/mezz/JustEnoughItems"
                 authors="mezz"
@@ -502,7 +502,7 @@
                 />
 
                 <mod name="Block Drops"
-                    version="1.9.4-1.0.1" url="packs/ResonantRise/files/4.x/BlockDrops-1.9.4-1.0.1.jar" file="BlockDrops-1.9.4-1.0.1.jar" md5="5d493fd9d1282ca9803a61586dd7f108" download="server"
+                    version="1.9.4-1.0.3" url="packs/ResonantRise/files/4.x/BlockDrops-1.9.4-1.0.3.jar" file="BlockDrops-1.9.4-1.0.3.jar" md5="9fa44157dd8b922d58d3565274b47edf" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/244181/"
                     authors="MrRiegel"
@@ -510,7 +510,7 @@
                     />
 
                 <mod name="Just Enough Resources" version="0.4.6.36"
-                    url="packs/ResonantRise/files/4.x/JustEnoughResources-1.9.4-0.4.6.36.jar" file="JustEnoughResources-1.9.4-0.4.6.36.jar" md5="3a36f6f627422c8d23dee10f457ce3d1" download="server"
+                    url="packs/ResonantRise/files/4.x/JustEnoughResources-1.9.4-0.4.6.38.jar" file="JustEnoughResources-1.9.4-0.4.6.38.jar" md5="ea931ecd49e223e783481fef759afed3" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/240630/"
                     authors="way2muchnoise"
@@ -526,7 +526,7 @@
                 />
 
                 <mod name="Levels"
-                    version="r3.0.2" url="packs/ResonantRise/files/4.x/Levels-1.9.4-r3.0.2.jar" file="Levels-1.9.4-r3.0.2.jar" md5="b8bedd4a2afc6958357be99d9655cb95" download="server"
+                    version="r3.0.3" url="packs/ResonantRise/files/4.x/Levels-1.9.4-r3.0.3.jar" file="Levels-1.9.4-r3.0.3.jar" md5="0ed6ebca483ca8000470519a3f9445b6" download="server"
                     type="mods"
                     website="https://github.com/TheXFactor117/Levels" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/levels?gameCategorySlug=mc-mods&amp;projectID=235552&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=chipsoud%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
                     authors="TheXFactor117"
@@ -542,7 +542,7 @@
                     />
 
                 <mod name="Mantle"
-                    version="0.10.1.jenkins142" url="packs/ResonantRise/files/4.x/Mantle-1.9.4-0.10.1.jenkins142.jar" file="Mantle-1.9.4-0.10.1.jenkins142.jar" md5="d1776d6caf7f2d7c6b0b914fd76946cd" download="server"
+                    version="0.10.2" url="packs/ResonantRise/files/4.x/Mantle-1.9.4-0.10.2.jar" file="Mantle-1.9.4-0.10.2.jar" md5="698a71170da5035ee53f8489264598ab" download="server"
                     type="mods"
                     website="https://github.com/SlimeKnights/Mantle"
                     authors="boni,progWML6,Alexbegt"
@@ -557,8 +557,8 @@
                         description="A little of this, a little of that, a lot of tinkering, and a lot of tools"
                         />
 
-                <mod name="McJtyLib" version="1.9.4-1.9.0-SNAPSHOT"
-                     url="packs/ResonantRise/files/4.x/mcjtylib-1.9.4-1.9.0.jar" file="mcjtylib-1.9.4-1.9.0.jar" md5="da061686d75c54857079adf7c71cfd84" download="server"
+                <mod name="McJtyLib"
+                     version="1.9.4-1.9.1-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.9.4-1.9.1.jar" file="mcjtylib-1.9.4-1.9.1.jar" md5="d7f9705848fc4c6aee069643c25f40e3" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
                      authors="McJty"
@@ -677,7 +677,7 @@
                     />
 
                 <mod name="Pam&apos;s HarvestCraft"
-                    version="1.9.4-pre" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4a.jar" file="Pams HarvestCraft 1.9.4a.jar" md5="8ebe4c8917b821755e4ba7ca711a3836" download="server"
+                    version="1.9.4b" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4b.jar" file="Pams HarvestCraft 1.9.4b.jar" md5="cdb9c7f777f133c860818bd389646fcb" download="server"
                     type="mods"
                     website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
                     authors="Pamela Collins"
@@ -709,7 +709,7 @@
                     />
 
                 <mod name="Psi"
-                    version="beta-34" url="packs/ResonantRise/files/4.x/Psi-beta-34.jar" file="Psi-beta-34.jar" md5="f42cc27e8cead1c038f78fd1afe78b94" download="server"
+                    version="r1.0-35" url="packs/ResonantRise/files/4.x/Psi-r1.0-35.jar" file="Psi-r1.0-35.jar" md5="6707bfde9a3b96b2de0730cfd592779c" download="server"
                     type="mods"
                     website="http://www.vazkii.us"
                     authors="Vazkii"
@@ -725,7 +725,7 @@
                     />
 
                 <mod name="Quark"
-                    version="beta-24" url="packs/ResonantRise/files/4.x/Quark-beta-24.jar" file="Quark-beta-24.jar" md5="036f87ede7dca00fc5f9dd749a5d218f" download="server"
+                    version="beta-25" url="packs/ResonantRise/files/4.x/Quark-beta-25.jar" file="Quark-beta-25.jar" md5="80ef7e70bcfc442438659448a6429c70" download="server"
                     type="mods"
                     website="http://www.vazkii.us"
                     authors="Vazkii,wiiv"
@@ -756,16 +756,16 @@
                     description="RebornCore, A core set of classes."
                     />
 
-                    <mod name="TechReborn"
+                    <!--<mod name="TechReborn"
                         version="1.3.2.120" url="packs/ResonantRise/files/4.x/TechReborn-1.9.4-1.3.2.120-universal.jar" file="TechReborn-1.9.4-1.3.2.120-universal.jar" md5="2a129edda43a3b717b2ef3d9f44abab1" download="server"
                         type="mods"
                         website="https://github.com/TechReborn/TechReborn"
                         authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector"
                         description="TechReborn, The Gregtech revival you dream about on a cool mid summer&apos;s eve."
-                        />
+                        />-->
 
                 <mod name="Refined Storage"
-                    version="0.7.12" url="packs/ResonantRise/files/4.x/refinedstorage-0.7.12.jar" file="refinedstorage-0.7.12.jar" md5="fa8527d5851caad249f71f0f0d7f242e" download="server"
+                    version="0.7.16" url="packs/ResonantRise/files/4.x/refinedstorage-0.7.16.jar" file="refinedstorage-0.7.16.jar" md5="82d6f0d4de45ca7ae08d0e40657f2ac4" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/243076/"
                     authors="Refined Storage contributors"
@@ -781,7 +781,7 @@
                     />
 
                 <mod name="RFTools"
-                    version="1.9.4-4.61" url="packs/ResonantRise/files/4.x/rftools-1.9.4-4.61.jar" file="rftools-1.9.4-4.61.jar" md5="2ff74ae9e53007aa6ef6487cb6a5f81b" download="server"
+                    version="1.9.4-4.63" url="packs/ResonantRise/files/4.x/rftools-1.9.4-4.63.jar" file="rftools-1.9.4-4.63.jar" md5="82c741f7366d1dc7c26870fb2646532f" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                     authors="McJty"
@@ -805,7 +805,7 @@
                     />
 
                 <mod name="Roots"
-                    version="0.003" url="packs/ResonantRise/files/4.x/roots-0.003.jar" file="roots-0.003.jar" md5="1cb15005f74cdf9df37b1276105565b9" download="server"
+                    version="0.005" url="packs/ResonantRise/files/4.x/roots-0.005.jar" file="roots-0.005.jar" md5="af02e19c0e608afe4d83d7535430b735" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/246183/"
                     authors="Elucent,Leordas"
@@ -829,7 +829,7 @@
                     />
 
                 <mod name="ShadowMC"
-                    version="1.9.4-3.3.7" url="packs/ResonantRise/files/4.x/ShadowMC-1.9.4-3.3.7.jar" file="ShadowMC-1.9.4-3.3.7.jar" md5="d1d4ddbb121308e1186140eba3ecc837" download="server" type="mods"
+                    version="1.9.4-3.3.9" url="packs/ResonantRise/files/4.x/ShadowMC-1.9.4-3.3.9.jar" file="ShadowMC-1.9.4-3.3.9.jar" md5="96408b81af9cf29df7b269c97be89977" download="server" type="mods"
                     website="http://github.com/shadowfacts/ShadowMC"
                     authors="Shadowfacts"
                     description="A library mod required for all my other mods."
@@ -843,8 +843,8 @@
                     description="Core set of files needed by ShetiPhians mods"
                     />
 
-                <mod name="Signals" version="0.1.1"
-                    url="packs/ResonantRise/files/4.x/Signals-1.9.4-0.1.1-universal.jar" file="Signals-1.9.4-0.1.1-universal.jar" md5="2c433a48dbaa4def4d6318e6ef4d0bf8" download="server"
+                <mod name="Signals" version="0.1.2"
+                    url="packs/ResonantRise/files/4.x/Signals-1.9.4-0.1.2-universal.jar" file="Signals-1.9.4-0.1.2-universal.jar" md5="86aac08bfcc28994c4c1ae18d86c6368" download="server"
                     type="mods"
                     website="http://minecraft.curseforge.com/projects/signals?gameCategorySlug=mc-mods&amp;projectID=245824"
                     description="This mod adds Signals to the game, which behave similar to OpenTTD signaling (which is based on how train signals in real life behave)."
@@ -898,7 +898,7 @@
                     />
 
                 <mod name="The One Probe"
-                    version="1.9.4-1.0.9" url="packs/ResonantRise/files/4.x/theoneprobe-1.9.4-1.0.9.jar" file="theoneprobe-1.9.4-1.0.9.jar" md5="d97e59de82306ff45689afc54b20bf51" download="server"
+                    version="1.9.4-1.0.10" url="packs/ResonantRise/files/4.x/theoneprobe-1.9.4-1.0.10.jar" file="theoneprobe-1.9.4-1.0.10.jar" md5="95c66db732accf730f623b129d2653df" download="server"
                     type="mods"
                     website="http://www.curseforge.com/projects/245211/"
                     authors="McJty"
@@ -929,7 +929,7 @@
                     />
 
                 <mod name="Totemic"
-                    version="1.9.4-0.7.4" url="packs/ResonantRise/files/4.x/Totemic-1.9.4-0.7.4.jar" file="Totemic-1.9.4-0.7.4.jar" md5="745e3ebcc8f3969229bd8303554a56e6" download="server"
+                    version="1.9.4-0.7.5" url="packs/ResonantRise/files/4.x/Totemic-1.9.4-0.7.5.jar" file="Totemic-1.9.4-0.7.5.jar" md5="a424907ef06787f8de6f3aac61e12dba" download="server"
                     type="mods"
                     website="http://www.minecraftforum.net/topic/2367915-"
                     authors="Pokefenn,ljfa"
@@ -1093,37 +1093,54 @@
 
 <!-- Optional Mods -->
 
-        <!-- <mod name="=== Optional Mods ===" version="1.0"
+        <mod name="=== Optional Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="Im"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
-             /> -->
+             description="Optional Mod List."
+             />
+
+            <mod name="Morpheus"
+                version="1.9.4-3.1.5" url="packs/ResonantRise/files/4.x/Morpheus-1.9.4-3.1.5.jar" file="Morpheus-1.9.4-3.1.5.jar" md5="383b10f52a83a8b869f959e320090728" download="server"
+                type="mods" optional="yes"
+                website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
+                authors="Quetzi"
+                description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
+                />
+
+            <mod name="Vein Miner"
+                version="0.33.0" url="packs/ResonantRise/files/4.x/VeinMiner-0.33.0-1.9r55301919cc.jar" file="VeinMiner-0.33.0-1.9r55301919cc.jar" md5="0761db5a669a917b46ce3bae90e6e4c2" download="server"
+                type="mods" optional="yes"
+                website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
+                authors="portablejim"
+                description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
+                />
 
         <!--
             Optional Mods List:
-            mod here
+            Morpheus
+            Vein Miner
         -->
 
 <!-- End Optional Mods -->
 
 <!-- Client / Server Mods -->
         
-        <mod name="=== Client Mod ===" version="1.0"
+        <mod name="=== Client Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no"
+             type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="lite"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Client Only Mod List."
              />
         
-        <mod name="=== Server Mod ===" version="1.0"
+        <mod name="=== Server Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" client="no"
+             type="extract" extractto="root" optional="yes" recommended="no" client="no" colour="lite"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Server Only Mod List."
              />
 
              <mod name="AmbientSounds" version="1.1.1"
@@ -1158,7 +1175,7 @@
                 />
 
                 <mod name="Resource Loader"
-                    version="1.5" url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.9.4-1.5.jar" file="ResourceLoader-MC1.9.4-1.5.jar" md5="d15fae4e726ac80530d497cc8f9cde50" download="server"
+                    version="1.5.1" url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.9.4-1.5.1.jar" file="ResourceLoader-MC1.9.4-1.5.1.jar" md5="fd851602890014f31b54ad0e009e5612" download="server"
                     type="mods" optional="yes" server="no" linked="Custom Main Menu"
                     website="http://www.curseforge.com/projects/226447/"
                     authors="lumien"
@@ -1237,19 +1254,11 @@
                 />
 
             <mod name="MoreOverlays"
-                version="1.3" url="packs/ResonantRise/files/4.x/moreoverlays-1.3-mc1.9.4.jar" file="moreoverlays-1.3-mc1.9.4.jar" md5="f5ec9719938f26a3e0338f678c06d5f3" download="server"
+                version="1.4" url="packs/ResonantRise/files/4.x/moreoverlays-1.4-mc1.9.4.jar" file="moreoverlays-1.4-mc1.9.4.jar" md5="8f3332dcac11bc4dd608140bec09f0a1" download="server"
                 type="mods" optional="yes" server="no"
                 website="http://www.curseforge.com/projects/243478/"
                 authors="feldim2425"
                 description="Adds some overlays from NEI (Mob spawns, Chunk Bounds, Item Search)"
-                />
-
-            <mod name="Morpheus"
-                version="1.9.4-3.1.5" url="packs/ResonantRise/files/4.x/Morpheus-1.9.4-3.1.5.jar" file="Morpheus-1.9.4-3.1.5.jar" md5="383b10f52a83a8b869f959e320090728" download="server"
-                type="mods" optional="yes"
-                website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
-                authors="Quetzi"
-                description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
                 />
 
             <mod name="Mouse Tweaks"
@@ -1284,15 +1293,7 @@
                 description="Adds TrueType/OpenType font support"
                 />
 
-            <mod name="Vein Miner"
-                version="0.31.5" url="packs/ResonantRise/files/4.x/VeinMiner-1.9_0.31.5.forgePost18010.jar" file="VeinMiner-1.9_0.31.5.forgePost18010.jar" md5="f2c0c0e48bdfd620f0d27cecbd7defbd" download="server"
-                type="mods" optional="yes"
-                website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
-                authors="portablejim"
-                description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
-                />
-
-        <!-- List:
+        <!--Client and Server Only List:
             Ambient Sounds
             Baubles HUD
             Better Minecraft Chat
@@ -1308,12 +1309,10 @@
             Map Writer
             Mine Menu
             More Overlays
-            Morpheus
             Mouse Tweaks
             Neat
             Potion Icons Remover
             True Type Font Replacement
-            Vein Miner
         -->
 
 <!-- End Client / Server Mods -->
@@ -1322,10 +1321,10 @@
         
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no"
+             type="extract" extractto="root" optional="yes" recommended="no" colour="Hyd"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-             description="Client Only Mods."
+             description="Developer Tool List."
              />
 
             <mod name="Loading Profiler"
@@ -1352,7 +1351,7 @@
                 description="WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer."
                 />
 
-        <!-- List:
+        <!-- Developer Tool List:
             Loading Profiler
             Torcherino
             World Edit
