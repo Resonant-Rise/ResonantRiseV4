@@ -10,10 +10,10 @@
   <alias name="CAPACITOR1" item="enderio:itemBasicCapacitor:0" />
   <alias name="CAPACITOR2" item="enderio:itemBasicCapacitor:1" />
   <alias name="CAPACITOR3" item="enderio:itemBasicCapacitor:2" />
-
+  
   <alias name="GEAR" item="gearStone" />
   <alias name="CHASSIS" item="itemMachineChassi" />
-
+  
   <alias name="FUSED_QUARTZ" item="enderio:blockFusedQuartz:0" />
   <alias name="FUSED_GLASS" item="enderio:blockFusedQuartz:1" />
   <alias name="ENLIGHTED_QUARTZ" item="enderio:blockFusedQuartz:2" />

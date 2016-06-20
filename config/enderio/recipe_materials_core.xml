@@ -232,14 +232,14 @@
   </recipe>
 
   <recipe name="Chassis" required="true">
-    <crafting>
+    <crafting>      
       <grid>
         <item name="barsIron"/><item name="ingotIron"/><item name="barsIron"/>
         <item name="ingotIron"/><item name="CAPACITOR1"/><item name="ingotIron"/>
         <item name="barsIron"/><item name="ingotIron"/><item name="barsIron"/>
       </grid>
       <output name="CHASSIS"/>
-    </crafting>
+    </crafting>    
   </recipe>
 
   <recipe name="Gear" required="true">

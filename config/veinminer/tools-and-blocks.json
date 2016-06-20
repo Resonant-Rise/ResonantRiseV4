@@ -4,6 +4,10 @@
       "name": "Axe",
       "icon": "minecraft:diamond_axe",
       "toollist": [
+        "BiomesOPlenty:axeAmethyst",
+        "BiomesOPlenty:axeMud",
+        "IC2:itemToolBronzeAxe",
+        "IC2:itemToolChainsaw",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
@@ -100,6 +104,9 @@
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
       "toollist": [
+        "BiomesOPlenty:hoeAmethyst",
+        "BiomesOPlenty:hoeMud",
+        "IC2:itemToolBronzeHoe",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -118,6 +125,12 @@
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
+        "BiomesOPlenty:pickaxeAmethyst",
+        "BiomesOPlenty:pickaxeMud",
+        "IC2:itemToolBronzePickaxe",
+        "IC2:itemToolDDrill",
+        "IC2:itemToolDrill",
+        "IC2:itemToolIridiumDrill",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
@@ -190,6 +203,14 @@
       "name": "Shears",
       "icon": "minecraft:shears",
       "toollist": [
+        "BiomesOPlenty:scytheAmethyst",
+        "BiomesOPlenty:scytheDiamond",
+        "BiomesOPlenty:scytheGold",
+        "BiomesOPlenty:scytheIron",
+        "BiomesOPlenty:scytheMud",
+        "BiomesOPlenty:scytheStone",
+        "BiomesOPlenty:scytheWood",
+        "IC2:itemToolBronzeHoe",
         "minecraft:shears"
       ],
       "blocklist": [
@@ -241,6 +262,9 @@
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
       "toollist": [
+        "BiomesOPlenty:shovelAmethyst",
+        "BiomesOPlenty:shovelMud",
+        "IC2:itemToolBronzeSpade",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",

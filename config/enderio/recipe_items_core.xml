@@ -223,7 +223,7 @@
       <output name="enderio:darkSteel_pickaxe" />
     </crafting>
   </recipe>
-
+  
   <recipe name="Dark Axe" required="true">
     <crafting>
       <grid size="2x3">
@@ -234,7 +234,7 @@
       <output name="enderio:darkSteel_axe" />
     </crafting>
   </recipe>
-
+  
   <recipe name="Conduit Facade" required="true">
     <crafting>
       <grid>
