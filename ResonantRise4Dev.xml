@@ -326,44 +326,54 @@
                 />
 
             <mod name="Cyclops Core"
-                version="1.9.4-0.6.3" url="packs/ResonantRise/files/4.x/CyclopsCore-1.9.4-0.6.3.jar" file="CyclopsCore-1.9.4-0.6.3.jar" md5="1f4f0621856d5017189d19af65ce764a" download="server"
-                type="mods"
-                website="http://minecraft.curseforge.com/mc-mods/232758-cyclops-core"
-                authors="rubensworks (aka kroeserr),immortaleeb (aka _EeB_)"
-                description="Coremod for EvilCraft, Integrated Dynamics and others."
-                />
+                 version="1.9.4-0.6.3" url="packs/ResonantRise/files/4.x/CyclopsCore-1.9.4-0.6.3.jar" file="CyclopsCore-1.9.4-0.6.3.jar" md5="1f4f0621856d5017189d19af65ce764a" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/mc-mods/232758-cyclops-core"
+                 authors="rubensworks (aka kroeserr),immortaleeb (aka _EeB_)"
+                 description="Coremod for EvilCraft, Integrated Dynamics and others."
+                 />
 
             <mod name="Dark Utilities"
-                version="1.9.4-1.1.2.55" url="packs/ResonantRise/files/4.x/DarkUtilities-1.9.4-1.1.2.55.jar" file="DarkUtilities-1.9.4-1.1.2.55.jar" md5="27765e4c129db3f175d5553bc0baf436" download="server"
-                type="mods"
-                website="http://www.darkhax.net" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/dark-utilities?gameCategorySlug=mc-mods&amp;projectID=242195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG."
-                authors="Darkhax"
-                description="A mod that adds a bunch of new utilities to the game."
-                />
+                 version="1.9.4-1.1.2.55" url="packs/ResonantRise/files/4.x/DarkUtilities-1.9.4-1.1.2.55.jar" file="DarkUtilities-1.9.4-1.1.2.55.jar" md5="27765e4c129db3f175d5553bc0baf436"  download="server"
+                 type="mods"
+                 website="http://www.darkhax.net" 
+                 donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/dark-utilities?gameCategorySlug=mc-mods&amp;projectID=242195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG."
+                 authors="Darkhax"
+                 description="A mod that adds a bunch of new utilities to the game."
+                 />
 
             <mod name="DeepResonance"
-                version="1.9.4-1.2.0beta34" url="packs/ResonantRise/files/4.x/deepresonance-1.9.4-1.2.0beta34.jar" file="deepresonance-1.9.4-1.2.0beta34.jar" md5="7a1342383c9f2ce59120c7742e281a44" download="server"
-                type="mods"
-                website="http://www.curseforge.com/projects/233398/"
-                authors="McJty,Elec332"
-                description="Power generation based on resonanting crystals"
-                />
+                 version="1.9.4-1.2.0beta34" url="packs/ResonantRise/files/4.x/deepresonance-1.9.4-1.2.0beta34.jar" file="deepresonance-1.9.4-1.2.0beta34.jar"  md5="7a1342383c9f2ce59120c7742e281a44" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/233398/"
+                 authors="McJty,Elec332"
+                 description="Power generation based on resonanting crystals"
+                 />
 
             <mod name="ElecCore | Rendering Library"
-                version="1.5.292" url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.292.jar" file="ElecCore-1.9.4-1.5.292.jar" md5="e020530de4aeb7316b09b01b7a558434" download="server"
-                type="mods"
-                website="http://www.curseforge.com/projects/227391/"
-                authors="Elec332"
-                description="Shared code for Forge mods"
-                />
+                 version="1.5.292" url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.292.jar" file="ElecCore-1.9.4-1.5.292.jar" md5="e020530de4aeb7316b09b01b7a558434" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/227391/"
+                 authors="Elec332"
+                 description="Shared code for Forge mods"
+                 />
 
             <mod name="Enchiridion"
-                version="1.9.4-3.1.5" url="packs/ResonantRise/files/4.x/Enchiridion-1.9.4-3.1.5.jar" file="Enchiridion-1.9.4-3.1.5.jar" md5="d76431d4bfb9743030f3f098a484f37a" download="server"
-                type="mods"
-                website="http://www.curseforge.com/projects/76612/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/enchiridion?gameCategorySlug=mc-mods&amp;projectID=76612&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC"
-                authors="joshie"
-                description="Books mod for minecraft"
-                />
+                 version="1.9.4-3.1.5" url="packs/ResonantRise/files/4.x/Enchiridion-1.9.4-3.1.5.jar" file="Enchiridion-1.9.4-3.1.5.jar" md5="d76431d4bfb9743030f3f098a484f37a" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/76612/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/enchiridion?gameCategorySlug=mc-mods&amp;projectID=76612&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC"
+                 authors="joshie"
+                 description="Books mod for minecraft"
+                 />
+        
+            <mod name="Ender Compass" 
+                 version="1.2.3.1" url="packs/ResonantRise/files/4.x/EnderCompass-1.9.x-1.2.3.1.jar" file="EnderCompass-1.9.x-1.2.3.1.jar" md5="6ccacea6cc9f93790a2a98bb393d67dc" download="server" 
+                 type="mods" 
+                 website="https://github.com/MrIbby/EnderCompass" 
+                 donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/ender-compass?gameCategorySlug=mc-mods&amp;projectID=223106&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bui.gabe%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG" 
+                 authors="MrIbby" 
+                 description="The ender compass is an item that leads to strongholds." 
+                 />
 
             <mod name="EnderCore"
                 version="1.9.4-0.4.0.26-alpha" url="packs/ResonantRise/files/4.x/EnderCore-1.9.4-0.4.0.26-alpha.jar" file="EnderCore-1.9.4-0.4.0.26-alpha.jar" md5="523176560f35d1478cc3e0674134cb2d" download="server"
@@ -388,14 +398,6 @@
                     authors="crazypants"
                     description="More Mobs"
                     />
-
-            <mod name="EnderTanks"
-                version="1.9.4-1.3.5" url="packs/ResonantRise/files/4.x/endertanks-1.9.4-1.3.5.jar" file="endertanks-1.9.4-1.3.5.jar" md5="bf49169db2f0805d2c02caedac68d91a" download="server"
-                type="mods"
-                website="http://tomkinsbros.blogspot.ca/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/endertanks?gameCategorySlug=mc-mods&amp;projectID=59613&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
-                authors="ShetiPhian"
-                description="Store liquids inside a subspace pocket located in the End."
-                />
 
             <mod name="Extra Utilities 2"
                 version="1.0.0a" url="packs/ResonantRise/files/4.x/extrautils2-1.9.4-alpha-1.0.0a.jar" file="extrautils2-1.9.4-alpha-1.0.0a.jar" md5="08ab5f861e87bed4edbda5a1ceb27e0e" download="server"
@@ -612,14 +614,6 @@
                     description="Adds Change logs, info, and bug reporting tab."
                     />
 
-                <mod name="Multi-Storage"
-                    version="1.9.0-1.1.0" url="packs/ResonantRise/files/4.x/multistorage-1.9.4-1.1.2.jar" file="multistorage-1.9.4-1.1.2.jar" md5="1f8c45fa739d3ff7320002094579310a" download="server"
-                    type="mods"
-                    website="http://tomkinsbros.blogspot.ca/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/multistorage?gameCategorySlug=mc-mods&amp;projectID=244864&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
-                    authors="ShetiPhian"
-                    description="Vaults, Hidden Chests, and Stacking Chests"
-                    />
-
                 <mod name="NetherPortalFix" version="4.0.1"
                     url="packs/ResonantRise/files/4.x/netherportalfix-mc1.9.4-4.0.1.jar" file="netherportalfix-mc1.9.4-4.0.1.jar" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
                     type="mods"
@@ -682,14 +676,6 @@
                     website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
                     authors="Pamela Collins"
                     description="Expanding minecraft&apos;s food system."
-                    />
-
-                <mod name="Platforms"
-                    version="1.9.4-1.1.2" url="packs/ResonantRise/files/4.x/platforms-1.9.4-1.1.2.jar" file="platforms-1.9.4-1.1.2.jar" md5="614339ea5d04ed17bc86c122bbba5e51" download="server"
-                    type="mods"
-                    website="http://tomkinsbros.blogspot.ca/p/platforms.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/platforms?gameCategorySlug=mc-mods&amp;projectID=244786&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
-                    authors="ShetiPhian"
-                    description=" - "
                     />
 
                 <mod name="Pong" version="1.0.0.1"
@@ -781,68 +767,114 @@
                     />
 
                 <mod name="RFTools"
-                    version="1.9.4-4.64" url="packs/ResonantRise/files/4.x/rftools-1.9.4-4.64.jar" file="rftools-1.9.4-4.64.jar" md5="d84295aa2ae918686ca0abbd242f7df7" download="server"
-                    type="mods"
-                    website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
-                    authors="McJty"
-                    description="RedFlux tools"
-                    />
+                     version="1.9.4-4.64" url="packs/ResonantRise/files/4.x/rftools-1.9.4-4.64.jar" file="rftools-1.9.4-4.64.jar" md5="d84295aa2ae918686ca0abbd242f7df7" download="server"
+                     type="mods"
+                     website="http://www.curseforge.com/projects/224641/" 
+                     donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
+                     authors="McJty"
+                     description="RedFlux tools"
+                     />
 
                 <mod name="RFTools Dimensions"
-                    version="1.9.4-4.30beta42" url="packs/ResonantRise/files/4.x/rftoolsdim-1.9.4-4.30beta42.jar" file="rftoolsdim-1.9.4-4.30beta42.jar" md5="a553f495fd77ab881fb047bd2c5a7824" download="server"
-                    type="mods"
-                    website="http://www.curseforge.com/projects/240950/"
-                    authors="McJty"
-                    description="RFTools Dimensions Addon"
-                    />
+                     version="1.9.4-4.30beta42" url="packs/ResonantRise/files/4.x/rftoolsdim-1.9.4-4.30beta42.jar" file="rftoolsdim-1.9.4-4.30beta42.jar" md5="a553f495fd77ab881fb047bd2c5a7824" download="server"
+                     type="mods"
+                     website="http://www.curseforge.com/projects/240950/"
+                     authors="McJty"
+                     description="RFTools Dimensions Addon"
+                     />
 
                 <mod name="Roguelike Dungeons"
-                    version="1.5.2" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.9.4-1.5.2.jar" file="RoguelikeDungeons-1.9.4-1.5.2.jar" md5="7c61db8090d6d2ca8b755a21973982dc" download="server"
-                    type="mods"
-                    website="http://github.com/Greymerk/minecraft-roguelike"
-                    authors="Greymerk"
-                    description="Adds randomized dungeons to the world"
-                    />
+                     version="1.5.2" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.9.4-1.5.2.jar" file="RoguelikeDungeons-1.9.4-1.5.2.jar" md5="7c61db8090d6d2ca8b755a21973982dc" download="server"
+                     type="mods"
+                     website="http://github.com/Greymerk/minecraft-roguelike"
+                     authors="Greymerk"
+                     description="Adds randomized dungeons to the world"
+                     />
 
                 <mod name="Roots"
-                    version="0.005" url="packs/ResonantRise/files/4.x/roots-0.005.jar" file="roots-0.005.jar" md5="af02e19c0e608afe4d83d7535430b735" download="server"
-                    type="mods"
-                    website="http://www.curseforge.com/projects/246183/"
-                    authors="Elucent,Leordas"
-                    description="Druidic Magic Mod"
-                    />
+                     version="0.005" url="packs/ResonantRise/files/4.x/roots-0.005.jar" file="roots-0.005.jar" md5="af02e19c0e608afe4d83d7535430b735" download="server"
+                     type="mods"
+                     website="http://www.curseforge.com/projects/246183/"
+                     authors="Elucent,Leordas"
+                     description="Druidic Magic Mod"
+                     />
 
                 <mod name="Realistic Terrain Generation"
-                    version="2.0.0-alpha.5" url="packs/ResonantRise/files/4.x/RTG-1.9.4-2.0.0-alpha.5.jar" file="RTG-1.9.4-2.0.0-alpha.5.jar" md5="d9ba7f23d818569cbe351c73b98d469b" download="server"
-                    type="mods"
-                    website="https://github.com/Team-RTG/1.9-Realistic-Terrain-Generation"
-                    authors="WhichOnesPink"
-                    description="Adds a new world type which generates realistic terrain for Overworld biomes."
-                    />
+                     version="2.0.0-alpha.5" url="packs/ResonantRise/files/4.x/RTG-1.9.4-2.0.0-alpha.5.jar" file="RTG-1.9.4-2.0.0-alpha.5.jar" md5="d9ba7f23d818569cbe351c73b98d469b" download="server"
+                     type="mods"
+                     website="https://github.com/Team-RTG/1.9-Realistic-Terrain-Generation"
+                     authors="WhichOnesPink"
+                     description="Adds a new world type which generates realistic terrain for Overworld biomes."
+                     />
 
                 <mod name="SensorCraft"
-                    version="0.3.0-1.9.4" url="packs/ResonantRise/files/4.x/sensorcraft-0.3.0-1.9.4.jar" file="sensorcraft-0.3.0-1.9.4.jar" md5="fff3e0c4b8a3fe55f86ed967be313abe" download="server"
-                    type="mods"
-                    website="http://www.curseforge.com/projects/242786/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=ZJTN82XD5EZQU&amp;item_name=SensorCraft+(from+curseforge.com)&amp;cmd=_s-xclick"
-                    authors="CubeX2"
-                    description="Modular mobile and non-mobile sensors "
-                    />
+                     version="0.3.0-1.9.4" url="packs/ResonantRise/files/4.x/sensorcraft-0.3.0-1.9.4.jar" file="sensorcraft-0.3.0-1.9.4.jar" md5="fff3e0c4b8a3fe55f86ed967be313abe" download="server"
+                     type="mods"
+                     website="http://www.curseforge.com/projects/242786/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=ZJTN82XD5EZQU&amp;item_name=SensorCraft+(from+curseforge.com)&amp;cmd=_s-xclick"
+                     authors="CubeX2"
+                     description="Modular mobile and non-mobile sensors "
+                     />
 
                 <mod name="ShadowMC"
-                    version="1.9.4-3.3.9" url="packs/ResonantRise/files/4.x/ShadowMC-1.9.4-3.3.9.jar" file="ShadowMC-1.9.4-3.3.9.jar" md5="96408b81af9cf29df7b269c97be89977" download="server" type="mods"
-                    website="http://github.com/shadowfacts/ShadowMC"
-                    authors="Shadowfacts"
-                    description="A library mod required for all my other mods."
-                    />
+                     version="1.9.4-3.3.9" url="packs/ResonantRise/files/4.x/ShadowMC-1.9.4-3.3.9.jar" file="ShadowMC-1.9.4-3.3.9.jar" md5="96408b81af9cf29df7b269c97be89977"  download="server" type="mods"
+                     website="http://github.com/shadowfacts/ShadowMC"
+                     authors="Shadowfacts"
+                     description="A library mod required for all my other mods."
+                     />
 
                 <mod name="ShetiPhian-Core"
-                    version="1.9.4-3.2.6" url="packs/ResonantRise/files/4.x/shetiphiancore-1.9.4-3.2.6.jar" file="shetiphiancore-1.9.4-3.2.6.jar" md5="5902ce47a0198efff892db7ddb74a684" download="server"
-                    type="mods"
-                    website="http://tomkinsbros.blogspot.ca/p/core.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/shetiphiancore?gameCategorySlug=mc-mods&amp;projectID=71738&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
-                    authors="ShetiPhian"
-                    description="Core set of files needed by ShetiPhians mods"
-                    />
+                     version="1.9.4-3.2.6" url="packs/ResonantRise/files/4.x/shetiphiancore-1.9.4-3.2.6.jar" file="shetiphiancore-1.9.4-3.2.6.jar" md5="5902ce47a0198efff892db7ddb74a684" download="server"
+                     type="mods"
+                     website="http://tomkinsbros.blogspot.ca/p/core.html" 
+                     donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/shetiphiancore?gameCategorySlug=mc-mods&amp;projectID=71738&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
+                     authors="ShetiPhian"
+                     description="Core set of files needed by ShetiPhians mods"
+                     />
 
+                    <mod name="EnderTanks"
+                         version="1.9.4-1.3.5" url="packs/ResonantRise/files/4.x/endertanks-1.9.4-1.3.5.jar" file="endertanks-1.9.4-1.3.5.jar" md5="bf49169db2f0805d2c02caedac68d91a" download="server"
+                         type="mods"
+                         website="http://tomkinsbros.blogspot.ca/" 
+                         donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/endertanks?gameCategorySlug=mc-mods&amp;projectID=59613&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+                         authors="ShetiPhian"
+                         description="Store liquids inside a subspace pocket located in the End."
+                         />
+        
+                    <mod name="Multi-Beds" 
+                         version="1.9.4-1.1.4" url="packs/ResonantRise/files/4.x/multibeds-1.9.4-1.1.4.jar" file="multibeds-1.9.4-1.1.4.jar" md5="887ad9da2abb55192cba9723cefd17e4" download="server" 
+                         type="mods" 
+                         website="http://tomkinsbros.blogspot.ca/" 
+                         donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/multibeds?gameCategorySlug=mc-mods&amp;projectID=244858&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi" 
+                         authors="ShetiPhian" 
+                         description="272 bed spreads to choose from" 
+                         />
+
+                    <mod name="Multi-Storage"
+                         version="1.9.0-1.1.0" url="packs/ResonantRise/files/4.x/multistorage-1.9.4-1.1.2.jar" file="multistorage-1.9.4-1.1.2.jar" md5="1f8c45fa739d3ff7320002094579310a" download="server"
+                         type="mods"
+                         website="http://tomkinsbros.blogspot.ca/" 
+                         donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/multistorage?gameCategorySlug=mc-mods&amp;projectID=244864&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
+                         authors="ShetiPhian"
+                         description="Vaults, Hidden Chests, and Stacking Chests"
+                        />
+
+                    <mod name="Platforms"
+                         version="1.9.4-1.1.2" url="packs/ResonantRise/files/4.x/platforms-1.9.4-1.1.2.jar" file="platforms-1.9.4-1.1.2.jar" md5="614339ea5d04ed17bc86c122bbba5e51"  download="server"
+                         type="mods"
+                         website="http://tomkinsbros.blogspot.ca/p/platforms.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/platforms?gameCategorySlug=mc-mods&amp;projectID=244786&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+                         authors="ShetiPhian"
+                         description=" - "
+                         />
+        
+                    <mod name="Terraqueous" 
+                         version="1.9.4-1.1.4" url="packs/ResonantRise/files/4.x/terraqueous-1.9.4-1.1.4.jar" file="terraqueous-1.9.4-1.1.4.jar" md5="dd617bb4523ad06134f38b17c6868b98" download="server" 
+                         type="mods" 
+                         website="http://tomkinsbros.blogspot.ca/p/terraqueous.html" 
+                         donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/terraqueous?gameCategorySlug=mc-mods&amp;projectID=244870&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG." 
+                         authors="ShetiPhian" 
+                         description="Fruit Trees/Vines/Plants, Cloud Blocks, Flowers, Doodads, Pergola, Tools" 
+                         />
+        
                 <mod name="Signals" version="0.1.2"
                     url="packs/ResonantRise/files/4.x/Signals-1.9.4-0.1.2-universal.jar" file="Signals-1.9.4-0.1.2-universal.jar" md5="86aac08bfcc28994c4c1ae18d86c6368" download="server"
                     type="mods"
@@ -1011,10 +1043,10 @@
             Deep Resonance
             ElecCore
             Enchiridion
+            Ender Compass
             Ender Core
                 Ender IO
                 Ender Zoo
-            Ender Tanks
             Extra Utilities 2
             Fancy Fluid Storage
             Fast Leaf Decay
@@ -1039,7 +1071,6 @@
             Morph-O-Tool
             Mod Pack Utilities Core
                 Mod Pack Basic Tools
-            Multi-Storage
             Nether Portal Fix
             No More Recipe Conflicts
             Not ENough Codecs
@@ -1048,7 +1079,6 @@
             Ore Tweaker
             Packing Tape
             Pam's HarvestCraft
-            Platforms
             Pong
             Progressive Automation
             Psi
@@ -1067,6 +1097,11 @@
             SensorCraft
             ShadowMC
             Shetiphian Core
+                EnderTanks
+                MultiBeds
+                MultiStorage
+                Platforms
+                Terraqueous
             Signals
             Simply Conveyers
             Sleeping Bags
