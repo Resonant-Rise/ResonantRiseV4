@@ -1,4 +1,67 @@
 =================
+Build a.0.4.8
+=================
+
+==Forge==
+    n/a
+
+==Core==
+    BDLibs (1.12.02)
+    Better Achievments (0.3.0.26)
+    Biomes o' Plenty (4.1.0.2031)
+    BloodMagic (2.0.2-45)
+    Bookshelf (1.2.3.278)
+    Chisel 'n' Bits (10.8)
+    Cooking for Blockheads (3.1.26)
+    Deep Resonance (1.2.0beta35)
+    Ender IO (3.0.0.45_alpha)
+    Ender Tanks (1.3.6)
+    Forestry (5.0.23.170)
+    Furnus (1.82)
+    Generators (0.9.20.2)
+    Industrial Craft 2 (2.5.49-EX19)
+    Iron Chest (6.0.146.788)
+    JustENoughResources (0.4.6.39)
+    Levels (0.10.2)
+    MultiStorage (1.1.3)
+    Not Enough Wands (1.3.5)
+    Platforms (1.1.4)
+    Pressure (1.3.1.2)
+    Quark (Beta-29)
+    Reliquary (1.3.2.390)
+    RFTools (4.65)
+    RFTools DIM (4.30Beta43)
+    Rougelike Dungeons (1.5.3)
+    Storage Drawers (3.1.7)
+    The One Probe (1.0.11)
+    Tinkers' Construct (2.3.3)
+    TIS-3D (0.9.0.6)
+    Totemic (0.7.6)
+
+==Optionals==
+    Veinminer (0.33.1-1.9R554DA0F6CB)
+
+--Client Only--    
+    Custom Main Menu (2.0)
+    Item Scroller (Client) (0.5.1)
+
+--Server Only--
+    n/a
+
+==Removed==
+    n/a
+
+==Configs==
+    n/a
+
+==Misc.==
+    n/a
+
+-- Dev only --
+    World Edit
+
+
+=================
 Build a.0.4.7
 =================
 
