@@ -109,6 +109,14 @@
              description="Minecraft Forge."
              />
 
+        <mod
+             name="Forge" version="1.10.2-12.18.0.2008"
+             url="packs/ResonantRise/files/4.x/forge-1.10.2-12.18.0.2008-universal.jar" file="forge-1.10.2-12.18.0.2008-universal.jar" md5="ea5c05d61e90a1f635e006dae6df84db" download="server"
+             type="mods"
+             website="http://files.minecraftforge.net/"
+             description="Minecraft Forge"
+             />
+
 
 <!-- End Forge -->
 
