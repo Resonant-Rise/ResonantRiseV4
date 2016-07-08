@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
 
+<!--
+
+These are the build-in recipes. You cannot change this file, it is a
+reference for you only and will be generated every time the game starts.
+
+To make changes to the recipes, copy the recipes you want to change to
+the matching _user.xml. To disabled a recipe, add an attribute "disabled"
+and set it to true, e.g.: <recipe name="Gear" disabled="true" />
+
+Item specifications can reference an alias, an ore dictionary name, a
+block or an item. You can force the type by prefixing the value with
+"oredict:", "block:" or "item:". Recipes that have items that cannot be
+found in-game are either skipped or an error, depending on their "required"
+attribute.
+
+More information on the syntax can be found in the recipes.xsd file. An
+XML editor will display that as tooltips when editing this file.
+
+ -->
+
   <recipe name="Frank'N'Zombie" required="true">
     <config section="Recipe Settings" name="addPeacefulRecipes" value="true" />
     <crafting>
@@ -64,7 +84,7 @@
     <config section="Staff Settings" name="travelStaffEnabled" value="true" />
     <crafting>
       <grid size="3x3">
-        <item name="ELECTRICAL_STEEL" /><item name="pearlEnder" /><item name="ELECTRICAL_STEEL" />
+        <item name="ELECTRICAL_STEEL" /><item name="enderpearl" /><item name="ELECTRICAL_STEEL" />
         <item /><item name="minecraft:compass" /><item name="ELECTRICAL_STEEL" />
         <item /><item  /><item name="ELECTRICAL_STEEL" />
       </grid>
@@ -257,6 +277,46 @@
     </crafting>
   </recipe>
 
+  <recipe name="Conduit Facade, transparent" required="true">
+    <crafting>
+      <grid>
+        <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
+        <item name="CONDUIT_BINDER" /><item name="FUSED_GLASS" /><item name="CONDUIT_BINDER" />
+        <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
+      </grid>
+      <output name="enderio:blockConduitFacade:2" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Conduit Facade, transparent, upgrade" required="true">
+    <crafting>
+      <shapeless>
+        <item name="enderio:blockConduitFacade:0"/><item name="FUSED_GLASS" />
+      </shapeless>
+      <output name="enderio:blockConduitFacade:2" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Conduit Facade, transparent, hardened" required="true">
+    <crafting>
+      <grid>
+        <item /><item name="dustObsidian" /><item />
+        <item name="dustObsidian" /><item name="enderio:blockConduitFacade:2" /><item name="dustObsidian" />
+        <item /><item name="dustObsidian" /><item />
+      </grid>
+      <output name="enderio:blockConduitFacade:3" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Conduit Facade, transparent, hardened, upgrade" required="true">
+    <crafting>
+      <shapeless>
+        <item name="enderio:blockConduitFacade:1"/><item name="FUSED_GLASS" />
+      </shapeless>
+      <output name="enderio:blockConduitFacade:3" />
+    </crafting>
+  </recipe>
+
   <recipe name="Conduit, Liquid, Basic" required="true">
     <crafting>
       <grid>
@@ -432,7 +492,7 @@
     <crafting>
       <grid>
         <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
-        <item name="VIBRANT_ALLOY" /><item name="enderio:itemPowerConduit:2" /><item name="VIBRANT_ALLOY" />
+        <item name="VIBRANT_ALLOY" /><item name="enderio:itemPowerConduit:1" /><item name="VIBRANT_ALLOY" />
         <item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" /><item name="CONDUIT_BINDER" />
       </grid>
       <output name="enderio:itemPowerConduit:2" amount="12">

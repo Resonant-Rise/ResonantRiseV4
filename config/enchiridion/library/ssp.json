@@ -1,6 +1,5 @@
 {
-  "books":
-    [
+  "books": [
     {
       "item": "enchiridion:book",
       "handlerType": "enchiridion",
@@ -63,6 +62,12 @@
     },
     {
       "item": "deepresonance:dr_manual",
+      "handlerType": "rightclick",
+      "matchDamage": false,
+      "matchNBT": false
+    },
+    {
+      "item": "tconstruct:book",
       "handlerType": "rightclick",
       "matchDamage": false,
       "matchNBT": false
@@ -148,18 +153,6 @@
     {
       "item": "Botania:livingwood",
       "handlerType": "customwood",
-      "matchDamage": false,
-      "matchNBT": false
-    },
-    {
-      "item": "tconstruct:book",
-      "handlerType": "customwood",
-      "matchDamage": false,
-      "matchNBT": false
-    },
-    {
-      "item": "Botania:lexicon",
-      "handlerType": "rightclick",
       "matchDamage": false,
       "matchNBT": false
     }

@@ -1,4 +1,4 @@
-version: 2.5.19
+version: 2.6.19
 block minecraft:yellow_flower * 60ffff00	# make dandelions more yellow
 block minecraft:red_flower 0 60ff0000		# make poppy more red
 block minecraft:red_flower 1 601c92d6		# make Blue Orchid more red
