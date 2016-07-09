@@ -161,6 +161,15 @@
              description="An API for modifying the food and hunger mechanics of Minecraft"
              />
 
+        <mod name="Baubles"
+             version="1.9.4-1.2.1.0"
+             url="packs/ResonantRise/files/4.x/Baubles-1.9.4-1.2.1.0.jar" file="Baubles-1.9.4-1.2.1.0.jar" md5="47ca37ca2019bb4f143a1e9be06911d3" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
+             authors="Azanor"
+             description="Adding a touch of bling to Minecraft"
+             />
+
         <mod name="BD Lib"
              version="1.12.0.2"
              url="packs/ResonantRise/files/4.x/bdlib-1.12.0.2-mc1.10.2.jar" file="bdlib-1.12.0.2-mc1.10.2.jar" md5="e9882d1c23bea2a6d31154e9d8f9d85c" download="server"
@@ -168,6 +177,24 @@
              website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="bdew"
              description="A library of generic code for my other mods"
+             />
+
+        <mod name="Better Achievements"
+             version="0.3.0"
+             url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.0.28.jar" file="BetterAchievements-1.10.2-0.3.0.28.jar" md5="d563d4cb1bed98032a6ad3ca40ea03e8" download="server"
+             type="mods" server="no"
+             website="https://github.com/way2muchnoise/BetterAchievements"
+             authors="way2muchnoise"
+             description="An improvement to the Achievementscreen"
+             />
+
+        <mod name="BetterMinecraftChat"
+             version="4.1.2"
+             url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/243506/"
+             authors="BlayTheNinth"
+             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
              />
 
             <mod name="Simple Covers"
@@ -233,6 +260,15 @@
              description="Shared code and render support for mods. Used by jaquadro&apos;s mods."
              />
 
+        <mod name="Charset"
+             version="0.3.0-pre12"
+             url="packs/ResonantRise/files/4.x/Charset-0.3.0-pre12.jar" file="Charset-0.3.0-pre12.jar" md5="5820adf28a40ba81ecfa6541de42fe58" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/246634/"
+             authors="Vazkii,buildcraftchildsplay"
+             description="The Charset Project"
+             />
+
         <mod name="Chisels &amp; Bits"
              version="11.5"
              url="packs/ResonantRise/files/4.x/chiselsandbits-11.5.jar" file="chiselsandbits-11.5.jar" md5="20e2d6bacab4fbe4228cbc24a8d6eeb3" download="server"
@@ -249,6 +285,15 @@
              website="http://www.curseforge.com/projects/231484/"
              authors="BlayTheNinth"
              description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory."
+             />
+
+        <mod name="Custom Main Menu"
+             version="2.0.1"
+             url="packs/ResonantRise/files/4.x/CustomMainMenu-MC1.9.4-2.0.1.jar" file="CustomMainMenu-MC1.9.4-2.0.1.jar" md5="1d2f37b7013b0353b4676dc1d26cc632" download="server"
+             type="mods" server="no"
+             website="http://www.curseforge.com/projects/226406/"
+             authors="lumien"
+             description="Allows you to edit the mainmenu using json"
              />
 
         <mod name="Enchiridion"
@@ -575,6 +620,15 @@
              description="Two words: magical swag. Oh, and a gun."
              />
 
+        <mod name="Resource Loader"
+             version="1.5.1"
+             url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.9.4-1.5.1.jar" file="ResourceLoader-MC1.9.4-1.5.1.jar" md5="fd851602890014f31b54ad0e009e5612" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/226447/"
+             authors="lumien"
+             description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
+             />
+
         <mod name="Roots"
              version="0.107"
              url="packs/ResonantRise/files/4.x/roots-0.107.jar" file="roots-0.107.jar" md5="71e6d814da3203dc01c078e8d3fd36b6" download="server"
@@ -809,7 +863,7 @@
         <mod name="Default Options"
              version="6.1.5"
              url="packs/ResonantRise/files/4.x/DefaultOptions_1.10.2-6.1.5.jar" file="DefaultOptions_1.10.2-6.1.5.jar" md5="0d8289e550100778a67fbf5a37b82d7a" download="server"
-             type="mods"
+             type="mods" optional="yes"
              website="http://blay09.net"
              authors="BlayTheNinth"
              description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
@@ -818,7 +872,7 @@
         <mod name="The One Probe"
              version="1.10-1.0.13"
              url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.13.jar" file="theoneprobe-1.10-1.0.13.jar" md5="d238c7715a4865b9f58961cd25dd4d17" download="server"
-             type="mods"
+             type="mods" optional="yes"
              website="http://www.curseforge.com/projects/245211/"
              authors="McJty"
              description="A Probe to rule them all!"
@@ -827,7 +881,7 @@
             <mod name="TOP Addons"
                  version="0.2.0"
                  url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.2.0.jar" file="topaddons-1.10.2-0.2.0.jar" md5="c4e6860ca1ad8213825dba2e5b2672eb" download="server"
-                 type="mods"
+                 type="mods" optional="yes"
                  website="http://www.curseforge.com/projects/247111/"
                  authors="DrMathiasDJ"
                  description="Adds mod support to The One Probe by McJty"
@@ -836,7 +890,7 @@
         <mod name="Waila"
              version="1.7.0-B3"
              url="packs/ResonantRise/files/4.x/Waila-1.7.0-B3_1.9.4.jar" file="Waila-1.7.0-B3_1.9.4.jar" md5="ad5733255dac0b85b9bbe38749638060" download="server"
-             type="mods"
+             type="mods" optional="yes"
              website="http://www.curseforge.com/projects/73488/"
              authors="ProfMobius"
              description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame."
@@ -845,7 +899,7 @@
             <mod name="Waila Harvestability"
                  version="1.1.7"
                  url="packs/ResonantRise/files/4.x/WailaHarvestability-mc1.10-1.1.7.jar" file="WailaHarvestability-mc1.10-1.1.7.jar" md5="f009d089845a4aa835f5d28d3111db93" download="server"
-                 type="mods"
+                 type="mods" optional="yes"
                  website="http://www.curseforge.com/projects/79287/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/waila-harvestability?gameCategorySlug=mc-mods&amp;projectID=79287&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=squeek502%40hotmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="squeek"
                  description="An add-on for Waila that adds information about the harvestability of what you are looking at"
@@ -883,40 +937,20 @@
              description="Server Only Mod List."
              />
 
-        <mod name="Better Achievements"
-             version="0.3.0"
-             url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.0.28.jar" file="BetterAchievements-1.10.2-0.3.0.28.jar" md5="d563d4cb1bed98032a6ad3ca40ea03e8" download="server"
-             type="mods"
-             website="https://github.com/way2muchnoise/BetterAchievements"
-             authors="way2muchnoise"
-             description="An improvement to the Achievementscreen"
-             />
-
         <mod name="BetterFps"
              version="1.3.2"
              url="packs/ResonantRise/files/4.x/BetterFps-1.3.2.jar" file="BetterFps-1.3.2.jar" md5="47794cef01de8f9164a276d101cbb995" download="server"
-             type="mods"
+             type="mods" optional="yes"
              website="http://www.curseforge.com/projects/229876/"
              authors="Guichaguri"
              description="Performance Improvement"
-             />
-
-        <mod name="BetterMinecraftChat"
-             version="4.1.2"
-             url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/243506/"
-             authors="BlayTheNinth"
-             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
              />
 
 
 
 
         <!--Client and Server Only List:
-            Better Achievements
             Better FPS
-            Better Minecraft Chat
 
         -->
 
