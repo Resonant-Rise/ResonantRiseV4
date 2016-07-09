@@ -623,7 +623,7 @@
         <mod name="Resource Loader"
              version="1.5.1"
              url="packs/ResonantRise/files/4.x/ResourceLoader-MC1.9.4-1.5.1.jar" file="ResourceLoader-MC1.9.4-1.5.1.jar" md5="fd851602890014f31b54ad0e009e5612" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/226447/"
              authors="lumien"
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
