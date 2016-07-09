@@ -806,15 +806,50 @@
              description="Optional Mod List."
              />
 
-        <mod name="Default Options" version="6.1.5" url="packs/ResonantRise/files/4.x/DefaultOptions_1.10.2-6.1.5.jar" file="DefaultOptions_1.10.2-6.1.5.jar" md5="0d8289e550100778a67fbf5a37b82d7a" download="server" type="mods" website="http://blay09.net" authors="BlayTheNinth" description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file." />
+        <mod name="Default Options"
+             version="6.1.5"
+             url="packs/ResonantRise/files/4.x/DefaultOptions_1.10.2-6.1.5.jar" file="DefaultOptions_1.10.2-6.1.5.jar" md5="0d8289e550100778a67fbf5a37b82d7a" download="server"
+             type="mods"
+             website="http://blay09.net"
+             authors="BlayTheNinth"
+             description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
+             />
 
-        <mod name="The One Probe" version="1.10-1.0.13" url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.13.jar" file="theoneprobe-1.10-1.0.13.jar" md5="d238c7715a4865b9f58961cd25dd4d17" download="server" type="mods" website="http://www.curseforge.com/projects/245211/" authors="McJty" description="A Probe to rule them all!" />
+        <mod name="The One Probe"
+             version="1.10-1.0.13"
+             url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.13.jar" file="theoneprobe-1.10-1.0.13.jar" md5="d238c7715a4865b9f58961cd25dd4d17" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/245211/"
+             authors="McJty"
+             description="A Probe to rule them all!"
+             />
 
-            <mod name="TOP Addons" version="" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.2.0.jar" file="topaddons-1.10.2-0.2.0.jar" md5="c4e6860ca1ad8213825dba2e5b2672eb" download="server" type="mods" website="http://www.curseforge.com/projects/247111/" authors="DrMathiasDJ" description="Adds mod support to The One Probe by McJty" />
+            <mod name="TOP Addons"
+                 version=""
+                 url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.2.0.jar" file="topaddons-1.10.2-0.2.0.jar" md5="c4e6860ca1ad8213825dba2e5b2672eb" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/247111/"
+                 authors="DrMathiasDJ"
+                 description="Adds mod support to The One Probe by McJty"
+                 />
 
-        <mod name="Waila" version="1.7.0-B3" url="packs/ResonantRise/files/4.x/Waila-1.7.0-B3_1.9.4.jar" file="Waila-1.7.0-B3_1.9.4.jar" md5="ad5733255dac0b85b9bbe38749638060" download="server" type="mods" website="http://www.curseforge.com/projects/73488/" authors="ProfMobius" description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame." />
+        <mod name="Waila"
+             version="1.7.0-B3"
+             url="packs/ResonantRise/files/4.x/Waila-1.7.0-B3_1.9.4.jar" file="Waila-1.7.0-B3_1.9.4.jar" md5="ad5733255dac0b85b9bbe38749638060" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/73488/"
+             authors="ProfMobius"
+             description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame."
+             />
 
-            <mod name="Waila Harvestability" version="1.1.7" url="packs/ResonantRise/files/4.x/WailaHarvestability-mc1.10-1.1.7.jar" file="WailaHarvestability-mc1.10-1.1.7.jar" md5="f009d089845a4aa835f5d28d3111db93" download="server" type="mods" website="http://www.curseforge.com/projects/79287/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/waila-harvestability?gameCategorySlug=mc-mods&amp;projectID=79287&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=squeek502%40hotmail.com&amp;bn=PP-DonationsBF:btn_do" authors="squeek" description="An add-on for Waila that adds information about the harvestability of what you are looking at" />
+            <mod name="Waila Harvestability"
+                 version="1.1.7"
+                 url="packs/ResonantRise/files/4.x/WailaHarvestability-mc1.10-1.1.7.jar" file="WailaHarvestability-mc1.10-1.1.7.jar" md5="f009d089845a4aa835f5d28d3111db93" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/79287/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/waila-harvestability?gameCategorySlug=mc-mods&amp;projectID=79287&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=squeek502%40hotmail.com&amp;bn=PP-DonationsBF:btn_do"
+                 authors="squeek"
+                 description="An add-on for Waila that adds information about the harvestability of what you are looking at"
+                 />
 
 
 
@@ -848,11 +883,32 @@
              description="Server Only Mod List."
              />
 
-        <mod name="Better Achievements" version="0.3.0" url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.0.28.jar" file="BetterAchievements-1.10.2-0.3.0.28.jar" md5="d563d4cb1bed98032a6ad3ca40ea03e8" download="server" type="mods" website="https://github.com/way2muchnoise/BetterAchievements" authors="way2muchnoise" description="An improvement to the Achievementscreen" />
+        <mod name="Better Achievements"
+             version="0.3.0"
+             url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.0.28.jar" file="BetterAchievements-1.10.2-0.3.0.28.jar" md5="d563d4cb1bed98032a6ad3ca40ea03e8" download="server"
+             type="mods"
+             website="https://github.com/way2muchnoise/BetterAchievements"
+             authors="way2muchnoise"
+             description="An improvement to the Achievementscreen"
+             />
 
-        <mod name="BetterFps" version="" url="packs/ResonantRise/files/4.x/BetterFps-1.3.2.jar" file="BetterFps-1.3.2.jar" md5="47794cef01de8f9164a276d101cbb995" download="server" type="mods" website="http://www.curseforge.com/projects/229876/" authors="Guichaguri" description="Performance Improvement" />
+        <mod name="BetterFps"
+             version=""
+             url="packs/ResonantRise/files/4.x/BetterFps-1.3.2.jar" file="BetterFps-1.3.2.jar" md5="47794cef01de8f9164a276d101cbb995" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/229876/"
+             authors="Guichaguri"
+             description="Performance Improvement"
+             />
 
-        <mod name="BetterMinecraftChat" version="4.1.2" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server" type="mods" website="http://www.curseforge.com/projects/243506/" authors="BlayTheNinth" description="Emoticons, Image Preview, Tabs and Filters. Client-side only." />
+        <mod name="BetterMinecraftChat"
+             version="4.1.2"
+             url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/243506/"
+             authors="BlayTheNinth"
+             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
+             />
 
 
 
