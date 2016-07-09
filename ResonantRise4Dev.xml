@@ -399,6 +399,14 @@
              description="Server Only Mod List."
              />
 
+        <mod name="Better Achievements" version="0.3.0" url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.0.28.jar" file="BetterAchievements-1.10.2-0.3.0.28.jar" md5="d563d4cb1bed98032a6ad3ca40ea03e8" download="server" type="mods" website="https://github.com/way2muchnoise/BetterAchievements" authors="way2muchnoise" description="An improvement to the Achievementscreen" />
+
+        <mod name="BetterFps" version="" url="packs/ResonantRise/files/4.x/BetterFps-1.3.2.jar" file="BetterFps-1.3.2.jar" md5="47794cef01de8f9164a276d101cbb995" download="server" type="mods" website="http://www.curseforge.com/projects/229876/" authors="Guichaguri" description="Performance Improvement" />
+
+        <mod name="BetterMinecraftChat" version="4.1.2" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server" type="mods" website="http://www.curseforge.com/projects/243506/" authors="BlayTheNinth" description="Emoticons, Image Preview, Tabs and Filters. Client-side only." />
+
+
+
 
         <!--Client and Server Only List:
 
