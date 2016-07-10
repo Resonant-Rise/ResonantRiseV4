@@ -174,7 +174,7 @@
              version="1.12.0.2"
              url="packs/ResonantRise/files/4.x/bdlib-1.12.0.2-mc1.10.2.jar" file="bdlib-1.12.0.2-mc1.10.2.jar" md5="e9882d1c23bea2a6d31154e9d8f9d85c" download="server"
              type="mods"
-             website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
+             website="https://bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="bdew"
              description="A library of generic code for my other mods"
              />
@@ -201,7 +201,7 @@
                  version="0.3.0.3"
                  url="packs/ResonantRise/files/4.x/covers-0.3.0.3-mc1.10.2.jar" file="covers-0.3.0.3-mc1.10.2.jar" md5="d9225d7f3e8cc4501b75ad76c3e83089" download="server"
                  type="mods"
-                 website="htts://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/simple-covers?gameCategorySlug=mc-mods&amp;projectID=242498&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
+                 website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/simple-covers?gameCategorySlug=mc-mods&amp;projectID=242498&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
                  authors="bdew"
                  description="Basic microblocks (covers, etc.) for MCMultipart"
                  />
