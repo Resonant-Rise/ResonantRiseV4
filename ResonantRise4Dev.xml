@@ -377,15 +377,6 @@
              description="Handy block to swap your gear"
              />
 
-        <mod name="Harvest"
-             version="1.9.4-1.0.1-8"
-             url="packs/ResonantRise/files/4.x/Harvest-1.9.4-1.0.1-8.jar" file="Harvest-1.9.4-1.0.1-8.jar" md5="467191c7a893c05244e9fe7857d8201a" download="server"
-             type="mods"
-             website="http://tehnut.info/"
-             authors="TehNut"
-             description="Right click crop harvesting"
-             />
-
         <mod name="HideNames"
              version="1.10-1.2"
              url="packs/ResonantRise/files/4.x/Hide Names-1.10-1.2.jar" file="Hide Names-1.10-1.2.jar" md5="fd3fdb24101b104b64dcee612b19e6ba" download="server"
