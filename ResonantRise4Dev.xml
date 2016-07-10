@@ -210,7 +210,7 @@
                  version="1.6.4.7"
                  url="packs/ResonantRise/files/4.x/gendustry-1.6.4.7-mc1.10.2.jar" file="gendustry-1.6.4.7-mc1.10.2.jar" md5="ef42b049526ffac8c2c7fb1549b43c2c" download="server"
                  type="mods"
-                 website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/gendustry?gameCategorySlug=mc-mods&amp;projectID=70492&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
+                 website="https://bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/gendustry?gameCategorySlug=mc-mods&amp;projectID=70492&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
                  authors="bdew"
                  description="Adds industrial apiaries, advanced genetic manipulation and mutation (Forestry addon)"
                  />
@@ -228,7 +228,7 @@
                  version="1.3.1.3"
                  url="packs/ResonantRise/files/4.x/pressure-1.3.1.3-mc1.10.2.jar" file="pressure-1.3.1.3-mc1.10.2.jar" md5="d0b6000eb183448473dd2cde5994714a" download="server"
                  type="mods"
-                 website="htts://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
+                 website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
                  authors="bdew"
                  description="Unlimited Fluid Transport"
                  />
