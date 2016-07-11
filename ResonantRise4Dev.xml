@@ -143,6 +143,14 @@
              description="Core Mod List."
              />
 
+        <mod
+             name="Forge" version="1.10.2-12.18.0.2010"
+             url="packs/ResonantRise/files/4.x/forge-1.10.2-12.18.0.2010-universal.jar" file="forge-1.10.2-12.18.0.2010-universal.jar" md5="6518ecbd825e76d524f98ee573a65e07" download="server"
+             type="mods"
+             website="http://files.minecraftforge.net/"
+             description="Minecraft Forge"
+             />
+
         <mod name="Actually Additions"
              version="1.10.2-r49"
              url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r49.jar" file="ActuallyAdditions-1.10.2-r49.jar" md5="2cfccdd483498c808f6772e9ef8df7c9" download="server"
