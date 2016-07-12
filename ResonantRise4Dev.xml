@@ -386,6 +386,15 @@
              description="Adds commands to hide and show the name that displays above your head."
              />
 
+        <mod name="Inventory Tweaks"
+             version="1.61-58-a1fd884"
+             url="packs/ResonantRise/files/4.x/InventoryTweaks-1.61-58.jar" file="InventoryTweaks-1.61-58.jar" md5="d1c7fede0527f38a1c8b561416cb7154" download="server"
+             type="mods"
+             website="https://github.com/Kobata/inventory-tweaks"
+             authors="Jimeo Wan,Kobata"
+             description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
+             />
+
         <mod name="Just Enough Items"
              version="3.7.5.227"
              url="packs/ResonantRise/files/4.x/jei_1.10.2-3.7.5.227.jar" file="jei_1.10.2-3.7.5.227.jar" md5="9e269ebbb3ef971733c18db7dcac26cd" download="server"
@@ -523,6 +532,15 @@
              />
 -->
 
+        <mod name="Morph-o-Tool"
+             version="1.0-4"
+             url="packs/ResonantRise/files/4.x/Morph-o-Tool-1.0-4.jar" file="Morph-o-Tool-1.0-4.jar" md5="5d08b1e841d9f1884ba6a5795bf010fa" download="server"
+             type="mods"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="The wrench to end all wrenches."
+             />
+
         <mod name="NetherPortalFix"
              version="4.0.1"
              url="packs/ResonantRise/files/4.x/netherportalfix-mc1.9.4-4.0.1.jar" file="netherportalfix-mc1.9.4-4.0.1.jar" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
@@ -532,13 +550,13 @@
              description="Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer."
              />
 
-        <mod name="Morph-o-Tool"
-             version="1.0-4"
-             url="packs/ResonantRise/files/4.x/Morph-o-Tool-1.0-4.jar" file="Morph-o-Tool-1.0-4.jar" md5="5d08b1e841d9f1884ba6a5795bf010fa" download="server"
+        <mod name="Ore Tweaker"
+             version="1.0.2-1.10.2"
+             url="packs/ResonantRise/files/4.x/OreTweaker-1.0.2-1.10.2.jar" file="OreTweaker-1.0.2-1.10.2.jar" md5="65c2a7f5350662153a568ca50a2d378d" download="server"
              type="mods"
-             website="http://www.vazkii.us"
-             authors="Vazkii"
-             description="The wrench to end all wrenches."
+             website="http://www.curseforge.com/projects/242436/"
+             authors="EwyBoy"
+             description="Allows you to tweak vanilla ore generation"
              />
 
         <mod name="Progressive Automation"
@@ -798,6 +816,7 @@
             Generators
             Harvest
             Hide Names
+            Inventory Tweaks
             Just Enough Items
             Just Enough Resources
             Levels
@@ -813,6 +832,7 @@
             Multistorage
             Nether Portal Fix
             No Nausea
+            Ore Tweaker
             Platforms
             Pressure Pipes
             Progressive Automation
@@ -862,6 +882,15 @@
              description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
              />
 
+        <mod name="Item Scroller"
+             version="0.5.2"
+             url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.5.2.jar" file="itemscroller-1.10.2-0.5.2.jar" md5="3eb602e4641f0e6a800a4439360a945e" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://minecraft.curseforge.com/projects/item-scroller" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
+             authors="masa"
+             description="Move items in inventory GUIs by scrolling the mouse wheel over slots with items in them"
+             />
+
         <mod name="The One Probe"
              version="1.10-1.0.13"
              url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.13.jar" file="theoneprobe-1.10-1.0.13.jar" md5="d238c7715a4865b9f58961cd25dd4d17" download="server"
@@ -903,6 +932,7 @@
         <!--
             Optional Mods List:
             Default Options
+            Item Scroller
             The One Probe
             The One Probe Addons
             Waila
