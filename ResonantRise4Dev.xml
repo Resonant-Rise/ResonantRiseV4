@@ -820,6 +820,42 @@
              description="An item frame that can craft items when punched."
              />
 
+        <mod name="TESLA"
+             version="1.10.2-1.2.0.38"
+             url="packs/ResonantRise/files/4.x/Tesla-1.10.2-1.2.0.38.jar" file="Tesla-1.10.2-1.2.0.38.jar" md5="86a71cfc41fa1d76fd62b715bbb1a84f" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/244651/"
+             authors="Darkhax"
+             description="TBA"
+             />
+
+            <mod name="Tesla Arsenal"
+                 version="1.2"
+                 url="packs/ResonantRise/files/4.x/TeslaArsenal-1.2.jar" file="TeslaArsenal-1.2.jar" md5="c83a38750371207b86672f987aa3e167" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/247634/"
+                 authors="koxhack"
+                 description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API"
+                 />
+
+            <mod name="Tesla Coils"
+                 version="0.2.0.0"
+                 url="packs/ResonantRise/files/4.x/teslacoils-0.2.0.0.jar" file="teslacoils-0.2.0.0.jar" md5="128097ba30902eb03a5dc3cafd347f67" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/projects/tesla-coils" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/tesla-coils?gameCategorySlug=mc-mods&amp;projectID=247619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=skidsirongenesisdev%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
+                 authors="GunnerWolf"
+                 description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."
+                 />
+
+            <mod name="Solar Village"
+                 version="1.10.2-1.1.0.18"
+                 url="packs/ResonantRise/files/4.x/SolarVillage-1.10.2-1.1.0.18.jar" file="SolarVillage-1.10.2-1.1.0.18.jar" md5="a55bc703e497e1cc4c571db0df40328d" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/245322/"
+                 authors="Darkhax"
+                 description="A solar panel mod for Minecraft and the Tesla API"
+                 />
+
         <mod name="TrashSlot"
              version="6.3.2"
              url="packs/ResonantRise/files/4.x/TrashSlot_1.10.2-6.3.2.jar" file="TrashSlot_1.10.2-6.3.2.jar" md5="24608f73e146eccb43d7f63e19797dda" download="server"
