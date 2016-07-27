@@ -647,6 +647,15 @@
              description="Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer."
              />
 
+        <mod name="Not Enough Wands"
+             version="1.9.4-1.3.5"
+             url="packs/ResonantRise/files/4.x/notenoughwands-1.9.4-1.3.5.jar" file="notenoughwands-1.9.4-1.3.5.jar" md5="bd673435cc4f2e61f7787f9af7796ebf" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/235595/"
+             authors="romelo333,McJty"
+             description="Wands, wands, and more wands"
+             />
+
         <mod name="Ore Tweaker"
              version="1.0.2-1.10.2"
              url="packs/ResonantRise/files/4.x/OreTweaker-1.0.2-1.10.2.jar" file="OreTweaker-1.0.2-1.10.2.jar" md5="65c2a7f5350662153a568ca50a2d378d" download="server"
