@@ -548,6 +548,15 @@
                  description="A little of this, a little of that, a lot of tinkering, and a lot of tools"
                  />
 
+            <mod name="Tinker I/O"
+                 version="1.10.2-beta 2.3.2b"
+                 url="packs/ResonantRise/files/4.x/tinker_io-1.10.2-beta 2.3.2b.jar" file="tinker_io-1.10.2-beta 2.3.2b.jar" md5="18e3462382500d87b5ade5f23dbd2045" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/tinker-i-o?gameCategorySlug=mc-mods&amp;projectID=229503&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gkbm2013%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+                 authors="GKB,tokomikea"
+                 description="Smeltery Upgrade!"
+                 />
+
         <mod name="McJtyLib"
              version="1.10-1.9.9-SNAPSHOT"
              url="packs/ResonantRise/files/4.x/mcjtylib-1.10-1.9.9.jar" file="mcjtylib-1.10-1.9.9.jar" md5="0e12f38ade5a712602b6c23a4ab1bb7a" download="server"
