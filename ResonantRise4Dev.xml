@@ -287,6 +287,15 @@
              description="The Charset Project"
              />
 
+        <mod name="Chisel"
+             version="0.0.6.33"
+             url="packs/ResonantRise/files/4.x/Chisel-MC1.9.4-0.0.6.33.jar" file="Chisel-MC1.9.4-0.0.6.33.jar" md5="dc3a14107500b05d542de4a6ed4480b9" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/235279/"
+             authors="tterrag1098,Drullkus,Minecreatr"
+             description="Chisel: A New Hope. For 1.7 and 1.8!"
+             />
+
         <mod name="Chisels &amp; Bits"
              version="11.7"
              url="packs/ResonantRise/files/4.x/chiselsandbits-11.7.jar" file="chiselsandbits-11.7.jar" md5="451dec1347a1e2f1b6bf33809cff31e0" download="server"
