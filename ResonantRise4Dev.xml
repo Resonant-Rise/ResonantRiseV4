@@ -440,6 +440,24 @@
                  description="Stack entities into groups to decrease lag."
                  />
 
+        <mod name="MalisisCore"
+             version="1.9.4-4.0.1"
+             url="packs/ResonantRise/files/4.x/malisiscore-1.9.4-4.0.1.jar" file="malisiscore-1.9.4-4.0.1.jar" md5="a4785aa6090ec885b6b7cae209da2f12" download="server"
+             type="mods"
+             website="http://github.com/Ordinastie/MalisisCore"
+             authors="Ordinastie,PaleoCrafter"
+             description="MalisisCore is a framework dedicated to simplify many processes required during a mod development."
+             />
+
+            <mod name="MalisisDoors"
+                 version="1.9.4-5.0.0"
+                 url="packs/ResonantRise/files/4.x/malisisdoors-1.9.4-5.0.1.jar" file="malisisdoors-1.9.4-5.0.1.jar" md5="b4ed739a7df5e607357197a0cfac1b11" download="server"
+                 type="mods"
+                 website="http://github.com/Ordinastie/MalisisDoors" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/malisisdoors?gameCategorySlug=mc-mods&amp;projectID=223891&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=ordinastie%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
+                 authors="Ordinastie"
+                 description="Better doors!"
+                 />
+
         <mod name="Mantle"
              version="0.10.3"
              url="packs/ResonantRise/files/4.x/Mantle-1.10-0.10.3.jar" file="Mantle-1.10-0.10.3.jar" md5="e7b0633a8c97984aae17df6fa3d3a188" download="server"
