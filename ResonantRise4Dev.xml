@@ -377,6 +377,15 @@
                  description="FEI === NEI for 1.9 === JEI + Chunk Edge Indicator + Light Level Overlay Reloaded + More"
                  />
 
+        <mod name="Extra Utilities 2"
+             version="1.0.1"
+             url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-alpha-1.0.1.jar" file="extrautils2-1.10.2-alpha-1.0.1.jar" md5="303ffb78f62504c1a4bc55492093160f" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/225561/"
+             authors="RWTema"
+             description="A bunch of useful things."
+             />
+
         <mod name="Forestry"
              version="5.2.3.213"
              url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.3.213.jar" file="forestry_1.10.2-5.2.3.213.jar" md5="7a3bf1aaa3b05ec4d0fd7e1643a3f288" download="server"
