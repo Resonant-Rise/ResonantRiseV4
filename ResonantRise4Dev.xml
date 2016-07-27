@@ -658,6 +658,24 @@
              description="Druidic Magic Mod"
              />
 
+        <mod name="Router Reborn"
+             version="1.10.2-4.0.1.14b_universal"
+             url="packs/ResonantRise/files/4.x/RouterReborn-1.10.2-4.0.1.14b_universal.jar" file="RouterReborn-1.10.2-4.0.1.14b_universal.jar" md5="0e7d9adf543b4f61a43210d6698a63b3" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/223808/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/router-reborn?gameCategorySlug=mc-mods&amp;projectID=223808&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=zyberwax%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
+             authors="Tom Erik Voll"
+             description="Bringing the router back to 1.8.9"
+             />
+
+        <mod name="Realistic Terrain Generation"
+             version="2.0.0-alpha.6"
+             url="packs/ResonantRise/files/4.x/RTG-1.9.4-2.0.0-alpha.6.jar" file="RTG-1.9.4-2.0.0-alpha.6.jar" md5="125649426abad2dac888d559bbbcfe43" download="server"
+             type="mods"
+             website="https://github.com/Team-RTG/Realistic-Terrain-Generation"
+             authors="Team RTG"
+             description="Adds a new world type which generates realistic terrain for Overworld biomes."
+             />
+
         <mod name="ShetiPhian-Core"
              version="1.10.0-3.3.0"
              url="packs/ResonantRise/files/4.x/shetiphiancore-1.10.0-3.3.0.jar" file="shetiphiancore-1.10.0-3.3.0.jar" md5="dadd2914e705c5b773efd74e17f64351" download="server"
@@ -746,6 +764,15 @@
                  website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40outlook.com&amp;bn=PP-DonationsBF:btn_donate"
                  authors="Ollie Lansdell"
                  description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes. Change the way you craft, change the way you play, change the way you think. Thank you for trying Calculator!"
+                 />
+
+            <mod name="Flux Networks"
+                 version="1.9.4-1.0.1"
+                 url="packs/ResonantRise/files/4.x/Flux-Networks-1.9.4-1.0.1.jar" file="Flux-Networks-1.9.4-1.0.1.jar" md5="5577ced084291b699dfafbdc12871996" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/248020/"
+                 authors="Ollie Lansdell"
+                 description="Create Wireless Energy Networks"
                  />
 
         <mod name="Storage Drawers"
