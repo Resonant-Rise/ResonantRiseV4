@@ -674,6 +674,15 @@
              description="The wrench to end all wrenches."
              />
 
+        <mod name="Neat"
+             version="1.3-11"
+             url="packs/ResonantRise/files/4.x/Neat 1.3-11.jar" file="Neat 1.3-11.jar" md5="90a6b0c324197dd3290e3c7705422c36" download="server"
+             type="mods" server="no"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="Minimalistic Functional Unit Plates for the modern Minecrafter"
+             />
+
         <mod name="NetherPortalFix"
              version="4.0.1"
              url="packs/ResonantRise/files/4.x/netherportalfix-mc1.9.4-4.0.1.jar" file="netherportalfix-mc1.9.4-4.0.1.jar" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
