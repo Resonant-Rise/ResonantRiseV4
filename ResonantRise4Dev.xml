@@ -604,6 +604,15 @@
              description="Allows you to tweak vanilla ore generation"
              />
 
+        <mod name="Pam&apos;s HarvestCraft"
+             version="1.9.4-pre"
+             url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4-1.10.2a.jar" file="Pams HarvestCraft 1.9.4-1.10.2a.jar" md5="083b8c518f3470d167655e395450a0e1" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
+             authors="Pamela Collins"
+             description="Expanding minecraft&apos;s food system."
+             />
+
         <mod name="Progressive Automation"
              version="1.6.49"
              url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.10.2-1.6.49.jar" file="ProgressiveAutomation-1.10.2-1.6.49.jar" md5="a1a5fbb34cf117dd7ebc0a986f3282ed" download="server"
