@@ -1007,6 +1007,15 @@
              description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
              />
 
+        <mod name="Woot"
+             version="1.10.2-0.2.3-alpha"
+             url="packs/ResonantRise/files/4.x/woot-1.10.2-0.2.3-alpha.jar" file="woot-1.10.2-0.2.3-alpha.jar" md5="309294c66f89ac2a0696d29b5c7d9b8b" download="server"
+             type="mods"
+             website="http://www.github.com/ipsis/Woot/"
+             authors="Ipsis"
+             description="The alternative mob spawner/grinder system"
+             />
+
 
 
 
