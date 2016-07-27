@@ -829,6 +829,15 @@
                  description="Specialized storage drawers for Chisels &amp; Bits."
                  />
 
+            <mod name="Chisels &amp; Bytes"
+                 version="1.9.4-0.4"
+                 url="packs/ResonantRise/files/4.x/ChiselsBytes-1.9.4-0.4.jar" file="ChiselsBytes-1.9.4-0.4.jar" md5="c856eebfe4f620d44a244776369c59e1" download="server"
+                 type="mods"
+                 website="https://github.com/Belgabor/ChiselsBytes"
+                 authors="Belgabor"
+                 description="Chisels &amp; Bytes is an addon for the Minecraft mod Chisels &amp; Bits by AlgorithmX2. The mod allows you to export a Chisels &amp; Bits block as a descriptive file for the OpenComputers 3d printer and works client-side only."
+                 />
+
         <mod name="Substratum"
              version="1.6.0.1"
              url="packs/ResonantRise/files/4.x/Substratum-1.10.2-1.6.0.1.jar" file="Substratum-1.10.2-1.6.0.1.jar" md5="8e66a6b6feecebe283557e4954d253d2" download="server"
