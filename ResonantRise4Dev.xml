@@ -584,6 +584,31 @@
              description="Base Mod for all MattDahEpic mods."
              />
 
+        <mod name="Mekanism"
+             version="9.1.0"
+             url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.1.0.288.jar" file="Mekanism-1.10.2-9.1.0.288.jar" md5="8b786996ef385261aa4d0b50fe944f01" download="server"
+             type="mods"
+             website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
+             description="Energy, Armor, Tools, Weapons, Machines, Magic."
+             />
+
+            <mod name="MekanismTools"
+                 version="9.1.0"
+                 url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.1.0.288.jar" file="MekanismTools-1.10.2-9.1.0.288.jar" md5="3d93cfa4baa1732374955afd8adbf60d" download="server"
+                 type="mods"
+                 website="https://aidancbrady.com/mekanism/download/"
+                 authors="aidancbrady" description="Tools module for Mekanism."
+                 />
+
+            <mod name="MekanismGenerators"
+                 version="9.1.0"
+                 url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.1.0.288.jar" file="MekanismGenerators-1.10.2-9.1.0.288.jar" md5="77b2b1bdb66b884a61b1c09394d498f1" download="server"
+                 type="mods"
+                 website="https://aidancbrady.com/mekanism/download/"
+                 authors="aidancbrady"
+                 description="Generators module of Mekanism."
+                 />
+
         <mod name="MineMenu"
              version="1.10.X-1.4.4.B9"
              url="packs/ResonantRise/files/4.x/MineMenu-1.10.X-1.4.4.B9-universal.jar" file="MineMenu-1.10.X-1.4.4.B9-universal.jar" md5="cc066a56ae4305c70a95b466e34bf560" download="server"
