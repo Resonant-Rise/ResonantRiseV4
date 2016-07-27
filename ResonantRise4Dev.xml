@@ -323,6 +323,24 @@
              description="Allows you to edit the mainmenu using json"
              />
 
+        <mod name="ElecCore | Rendering Library"
+             version="1.5.292"
+             url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.292.jar" file="ElecCore-1.9.4-1.5.292.jar" md5="e020530de4aeb7316b09b01b7a558434" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/227391/"
+             authors="Elec332"
+             description="Shared code for Forge mods"
+             />
+
+            <mod name="DeepResonance"
+                 version="1.9.4-1.2.0beta35"
+                 url="packs/ResonantRise/files/4.x/deepresonance-1.9.4-1.2.0beta35.jar" file="deepresonance-1.9.4-1.2.0beta35.jar" md5="bee65b91a83388195e275fd7ef4c3962" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/233398/"
+                 authors="McJty,Elec332"
+                 description="Power generation based on resonanting crystals"
+                 />
+
         <mod name="Enchiridion"
              version="1.9.4-3.1.6"
              url="packs/ResonantRise/files/4.x/Enchiridion-1.9.4-3.1.6.jar" file="Enchiridion-1.9.4-3.1.6.jar" md5="25a4650fbc3076d153903db5b743e887" download="server"
