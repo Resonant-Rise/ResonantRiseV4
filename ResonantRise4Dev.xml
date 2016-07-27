@@ -820,6 +820,15 @@
              description="Multi-drawer storage blocks for quick storage and retrieval."
              />
 
+            <mod name="Drawers &amp; Bits"
+                 version="1.9.4-0.2"
+                 url="packs/ResonantRise/files/4.x/DrawersBits-1.9.4-0.2.jar" file="DrawersBits-1.9.4-0.2.jar" md5="23bf5943f109eed099acce61174b71c8" download="server"
+                 type="mods"
+                 website="https://github.com/Belgabor/BitDrawers"
+                 authors="Belgabor"
+                 description="Specialized storage drawers for Chisels &amp; Bits."
+                 />
+
         <mod name="Substratum"
              version="1.6.0.1"
              url="packs/ResonantRise/files/4.x/Substratum-1.10.2-1.6.0.1.jar" file="Substratum-1.10.2-1.6.0.1.jar" md5="8e66a6b6feecebe283557e4954d253d2" download="server"
