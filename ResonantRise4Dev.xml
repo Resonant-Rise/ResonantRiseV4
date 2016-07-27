@@ -341,6 +341,15 @@
                  description="Compact conduits, painted things and all sorts of stuff and bling."
                  />
 
+            <mod name="Ender Zoo"
+                 version="1.10-1.2.3.43"
+                 url="packs/ResonantRise/files/4.x/EnderZoo-1.10-1.2.3.43.jar" file="EnderZoo-1.10-1.2.3.43.jar" md5="98ee1f5abf0fe484b0cccbf4ba0e54e4" download="server"
+                 type="mods"
+                 website="http://enderio.com"
+                 authors="crazypants"
+                 description="More Mobs"
+                 />
+
         <mod name="EXCore"
              version="1.6.1"
              url="packs/ResonantRise/files/4.x/Excore-1.6.1-1.10.2.jar" file="Excore-1.6.1-1.10.2.jar" md5="b032672dd613b84e1f9bac4b54098a3b" download="server"
