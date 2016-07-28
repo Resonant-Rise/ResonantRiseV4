@@ -200,10 +200,19 @@
         <mod name="BetterMinecraftChat"
              version="4.1.2"
              url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.2.jar" file="BetterMinecraftChat_1.10.2-4.1.2.jar" md5="922300a4e2ba6f4cd8d790e1e3b9272c" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/243506/"
              authors="BlayTheNinth"
              description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
+             />
+
+        <mod name="Biomes O&apos; Plenty"
+             version="4.1.0"
+             url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.9.4-4.1.0.2052-universal.jar" file="BiomesOPlenty-1.9.4-4.1.0.2052-universal.jar" md5="cdd392d569b9bfc59a30f12455fcf117" download="server"
+             type="mods"
+             website="http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
+             authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80"
+             description="Adds over 50 new biomes, blocks, and more!"
              />
 
         <mod name="BD Lib"
