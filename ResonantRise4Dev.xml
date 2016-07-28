@@ -593,24 +593,6 @@
                  description="RFTools Dimensions Addon"
                  />
 
-            <mod name="The One Probe"
-                 version="1.10-1.0.13"
-                 url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.13.jar" file="theoneprobe-1.10-1.0.13.jar" md5="d238c7715a4865b9f58961cd25dd4d17" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/245211/"
-                 authors="McJty"
-                 description="A Probe to rule them all!"
-                 />
-
-            <mod name="TOP Addons"
-                 version="0.2.0"
-                 url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.2.0.jar" file="topaddons-1.10.2-0.2.0.jar" md5="c4e6860ca1ad8213825dba2e5b2672eb" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/247111/"
-                 authors="DrMathiasDJ"
-                 description="Adds mod support to The One Probe by McJty"
-                 />
-
         <mod name="MCMultiPart"
              version="1.2.0"
              url="packs/ResonantRise/files/4.x/MCMultiPart-1.2.0-universal.jar" file="MCMultiPart-1.2.0-universal.jar" md5="5adb21b081d2232da3c42dea3b4d3cd3" download="server"
