@@ -594,6 +594,7 @@
                  description="RFTools Dimensions Addon"
                  />
 
+<!--
         <mod name="MCMultiPart"
              version="1.2.0"
              url="packs/ResonantRise/files/4.x/MCMultiPart-1.2.0-universal.jar" file="MCMultiPart-1.2.0-universal.jar" md5="5adb21b081d2232da3c42dea3b4d3cd3" download="server"
@@ -602,6 +603,7 @@
              authors="amadornes"
              description="A universal multipart API for MC 1.8.9"
              />
+-->
 
         <mod name="MattDahEpic Core"
              version="1.10.2-1.0"
