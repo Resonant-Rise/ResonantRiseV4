@@ -467,9 +467,16 @@
              description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
              />
 
+        <mod name="JourneyMap"
+             version="1.10.2-5.2.4" url="packs/ResonantRise/files/4.x/journeymap-1.10.2-5.2.4-unlimited.jar" file="journeymap-1.10.2-5.2.4-unlimited.jar" md5="c782fe7ce43b3a55f256fbde301eeeef" download="server"
+             type="mods"
+             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="techbrew,mysticdrew"
+             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
+             />
+
         <mod name="Just Enough Items"
-             version="3.7.8.234"
-             url="packs/ResonantRise/files/4.x/jei_1.10.2-3.7.8.234.jar" file="jei_1.10.2-3.7.8.234.jar" md5="52f460f092d06e4faccbd314d761305d" download="server"
+             version="3.7.8.234" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.7.8.234.jar" file="jei_1.10.2-3.7.8.234.jar" md5="52f460f092d06e4faccbd314d761305d" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
