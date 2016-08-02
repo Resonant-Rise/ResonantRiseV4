@@ -875,6 +875,7 @@
              description="A simple mod that allows you to create additional dimensions."
              />
 
+<!--
         <mod name="Solar Flux"
              version="1.9.4_0.7b"
              url="packs/ResonantRise/files/4.x/SolarFluxReborn-1.9.4_0.7b.jar" file="SolarFluxReborn-1.9.4_0.7b.jar" md5="abfb165073cbb65c5c7779acabdfa8bd" download="server"
@@ -883,6 +884,7 @@
              authors="MrDimkas_Studio"
              description="Solar Panels producing Redstone Flux"
              />
+-->
 
         <mod name="SonarCore"
              version="1.9.4-3.0.7"
@@ -981,6 +983,7 @@
                  description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."
                  />
 
+<!--
             <mod name="Solar Village"
                  version="1.10.2-1.1.0.18"
                  url="packs/ResonantRise/files/4.x/SolarVillage-1.10.2-1.1.0.18.jar" file="SolarVillage-1.10.2-1.1.0.18.jar" md5="a55bc703e497e1cc4c571db0df40328d" download="server"
@@ -989,6 +992,7 @@
                  authors="Darkhax"
                  description="A solar panel mod for Minecraft and the Tesla API"
                  />
+-->
 
         <mod name="TrashSlot"
              version="6.3.2"
