@@ -335,6 +335,14 @@
              description="Allows you to edit the mainmenu using json"
              />
 
+        <mod name="Cyberware"
+             version="beta-0.1.10" url="packs/ResonantRise/files/4.x/cyberware-1.9.4-1.10.2-beta-0.1.10.jar" file="cyberware-1.9.4-1.10.2-beta-0.1.10.jar" md5="b5bcca4b65130808e7f52a14e8d983a8" download="server"
+             type="mods"
+             website="https://github.com/Flaxbeard/Cyberware"
+             authors="Flaxbeard"
+             description="Augmentation in Minecraft"
+             />
+
         <mod name="ElecCore | Rendering Library"
              version="1.5.292"
              url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.292.jar" file="ElecCore-1.9.4-1.5.292.jar" md5="e020530de4aeb7316b09b01b7a558434" download="server"
