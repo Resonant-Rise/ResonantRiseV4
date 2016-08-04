@@ -307,8 +307,7 @@
              />
 
         <mod name="Chisels &amp; Bits"
-             version="11.7"
-             url="packs/ResonantRise/files/4.x/chiselsandbits-11.7.jar" file="chiselsandbits-11.7.jar" md5="451dec1347a1e2f1b6bf33809cff31e0" download="server"
+             version="11.9" url="packs/ResonantRise/files/4.x/chiselsandbits-11.9.jar" file="chiselsandbits-11.9.jar" md5="f4b70b1d1c0390e814920915ae0f7c5e" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
              authors="AlgorithmX2"
@@ -936,6 +935,7 @@
                  description="Specialized storage drawers for Chisels &amp; Bits."
                  />
 
+<!--
             <mod name="Chisels &amp; Bytes"
                  version="11.9" url="packs/ResonantRise/files/4.x/chiselsandbits-11.9.jar" file="chiselsandbits-11.9.jar" md5="f4b70b1d1c0390e814920915ae0f7c5e" download="server"
                  type="mods"
@@ -943,6 +943,7 @@
                  authors="Belgabor"
                  description="Chisels &amp; Bytes is an addon for the Minecraft mod Chisels &amp; Bits by AlgorithmX2. The mod allows you to export a Chisels &amp; Bits block as a descriptive file for the OpenComputers 3d printer and works client-side only."
                  />
+-->
 
         <mod name="Substratum"
              version="1.7.0.0" url="packs/ResonantRise/files/4.x/Substratum-1.10.2-1.7.0.0.jar" file="Substratum-1.10.2-1.7.0.0.jar" md5="f5ea124c1799dc9f40af29bdd6753405" download="server"
