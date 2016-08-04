@@ -255,6 +255,7 @@
                  description="Unlimited Fluid Transport"
                  />
 
+<!--
         <mod name="Block Drops"
              version="1.10.2-1.0.9" url="packs/ResonantRise/files/4.x/BlockDrops-1.10.2-1.0.9.jar" file="BlockDrops-1.10.2-1.0.9.jar" md5="ea5cbd12515bfaf416ffe616299ab97e" download="server"
              type="mods"
@@ -262,6 +263,7 @@
              authors="MrRiegel"
              description="Block Drops (JEI Addon)"
              />
+-->
 
         <mod name="Blood Magic: Alchemical Wizardry"
              version="1.9.4-2.0.3-53"
