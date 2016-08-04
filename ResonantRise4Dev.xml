@@ -971,6 +971,7 @@
              description="TBA"
              />
 
+<!--
             <mod name="Tesla Arsenal"
                  version="1.2"
                  url="packs/ResonantRise/files/4.x/TeslaArsenal-1.2.jar" file="TeslaArsenal-1.2.jar" md5="c83a38750371207b86672f987aa3e167" download="server"
@@ -979,7 +980,9 @@
                  authors="koxhack"
                  description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API"
                  />
+-->
 
+<!--
             <mod name="Tesla Coils"
                  version="0.2.0.0"
                  url="packs/ResonantRise/files/4.x/teslacoils-0.2.0.0.jar" file="teslacoils-0.2.0.0.jar" md5="128097ba30902eb03a5dc3cafd347f67" download="server"
@@ -988,6 +991,7 @@
                  authors="GunnerWolf"
                  description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."
                  />
+-->
 
         <mod name="The One Probe"
              version="1.10-1.0.15" url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.15.jar" file="theoneprobe-1.10-1.0.15.jar" md5="fd7703ad010a4a35913485ea20b07121" download="server"
