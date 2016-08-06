@@ -622,24 +622,21 @@
                  />
 
         <mod name="Mekanism"
-             version="9.1.0"
-             url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.1.0.288.jar" file="Mekanism-1.10.2-9.1.0.288.jar" md5="8b786996ef385261aa4d0b50fe944f01" download="server"
+             version="9.1.1" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.1.1.289.jar" file="Mekanism-1.10.2-9.1.1.289.jar" md5="a3e40a95a624b9ad13f7dbad9f3c78f1" download="server"
              type="mods"
              website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
              description="Energy, Armor, Tools, Weapons, Machines, Magic."
              />
 
             <mod name="MekanismTools"
-                 version="9.1.0"
-                 url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.1.0.288.jar" file="MekanismTools-1.10.2-9.1.0.288.jar" md5="3d93cfa4baa1732374955afd8adbf60d" download="server"
+                 version="9.1.1" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.1.1.289.jar" file="MekanismTools-1.10.2-9.1.1.289.jar" md5="5bb93a41a1340a7afee962f14a251b6f" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady" description="Tools module for Mekanism."
                  />
 
             <mod name="MekanismGenerators"
-                 version="9.1.0"
-                 url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.1.0.288.jar" file="MekanismGenerators-1.10.2-9.1.0.288.jar" md5="77b2b1bdb66b884a61b1c09394d498f1" download="server"
+                 version="9.1.1" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.1.1.289.jar" file="MekanismGenerators-1.10.2-9.1.1.289.jar" md5="973ba809d22da7f4f010260564a8b653" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady"
@@ -897,7 +894,7 @@
 -->
 
         <mod name="SonarCore"
-             version="1.9.4-3.0.8" url="packs/ResonantRise/files/4.x/SonarCore-1.9.4-3.0.8.jar" file="SonarCore-1.9.4-3.0.8.jar" md5="80497863aafd7ba7bc1c4afbcf83ed09" download="server"
+             version="1.9.4-3.0.9" url="packs/ResonantRise/files/4.x/SonarCore-1.9.4-3.0.9.jar" file="SonarCore-1.9.4-3.0.9.jar" md5="232cb4293cdeeac50deeaa397209da26" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/239418/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/sonar-core?gameCategorySlug=mc-mods&amp;projectID=239418&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40outlook.com&amp;bn=PP-DonationsBF:btn_donate"
              authors="Ollie Lansdell"
