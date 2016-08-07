@@ -146,7 +146,7 @@
              />
 
         <mod name="Actually Additions"
-             version="1.10.2-r57" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r57.jar" file="ActuallyAdditions-1.10.2-r57.jar" md5="97ef3f265935f8cd6e523989eff33660" download="server"
+             version="1.10.2-r58" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r58.jar" file="ActuallyAdditions-1.10.2-r58.jar" md5="049013551d8b0252bf51770d0cd88f7d" download="server"
              type="mods"
              website="http://github.com/Ellpeck/ActuallyAdditions"
              authors="Ellpeck"
@@ -224,7 +224,7 @@
              />
 
             <mod name="Simple Covers"
-                 version="0.3.0.5" url="packs/ResonantRise/files/4.x/covers-0.3.0.5-mc1.10.2.jar" file="covers-0.3.0.5-mc1.10.2.jar" md5="4b456e88f687b4196a1836e9c1db09ef" download="server"
+                 version="0.3.0.6" url="packs/ResonantRise/files/4.x/covers-0.3.0.6-mc1.10.2.jar" file="covers-0.3.0.6-mc1.10.2.jar" md5="43ddea6dc00fe461d2433642b1ceb246" download="server"
                  type="mods"
                  website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/simple-covers?gameCategorySlug=mc-mods&amp;projectID=242498&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
                  authors="bdew"
@@ -232,7 +232,7 @@
                  />
 
             <mod name="GenDustry"
-                 version="1.6.4.15" url="packs/ResonantRise/files/4.x/gendustry-1.6.4.15-mc1.10.2.jar" file="gendustry-1.6.4.15-mc1.10.2.jar" md5="d0ebfd8b6f9676243a74f198dc5eab88" download="server"
+                 version="1.6.4.16" url="packs/ResonantRise/files/4.x/gendustry-1.6.4.16-mc1.10.2.jar" file="gendustry-1.6.4.16-mc1.10.2.jar" md5="1093cda05c00cab6c0e480968bb56bf5" download="server"
                  type="mods"
                  website="https://bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/gendustry?gameCategorySlug=mc-mods&amp;projectID=70492&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
                  authors="bdew"
@@ -483,7 +483,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="3.7.9.236" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.7.9.236.jar" file="jei_1.10.2-3.7.9.236.jar" md5="76bacae4d6238ad15d028558efca4f46" download="server"
+             version="3.7.11.238" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.7.11.238.jar" file="jei_1.10.2-3.7.11.238.jar" md5="4a7c87c2b8501514a9617b75e28c8c5d" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
@@ -550,8 +550,8 @@
              />
 
             <mod name="Tinkers&apos; Construct"
-                 version="1.10-2.3.3a"
-                 url="packs/ResonantRise/files/4.x/TConstruct-1.10-2.3.3a.jar" file="TConstruct-1.10-2.3.3a.jar" md5="ce43a8dcd4af840977b64ca0dd4fd512" download="server"
+                 version="1.10.2-2.4.0.jenkins312"
+                 url="packs/ResonantRise/files/4.x/TConstruct-1.10.2-2.4.0.jenkins312.jar" file="TConstruct-1.10.2-2.4.0.jenkins312.jar" md5="5eb2052a343a945ab84e0e62bba1b255" download="server"
                  type="mods"
                  website="https://github.com/SlimeKnights/TinkersConstruct" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=GKGVLK75MTPUN&amp;item_name=Tinkers+Construct+(from+curseforge.com)&amp;cmd=_s-xclick"
                  authors="boni,KnightMiner"
@@ -559,7 +559,7 @@
                  />
 
             <mod name="Tinker I/O"
-                 version="1.10.2-release 2.3.3" url="packs/ResonantRise/files/4.x/tinker_io-1.10.2-release 2.3.3.jar" file="tinker_io-1.10.2-release 2.3.3.jar" md5="6921f4855d4f167fee33c45b5e8ded66" download="server"
+                 version="1.10.2-beta 2.3.4" url="packs/ResonantRise/files/4.x/tinker_io-1.10.2-beta 2.3.4.jar" file="tinker_io-1.10.2-beta 2.3.4.jar" md5="9548159ced723b9e86ad30e3e4a5c598" download="server"
                  type="mods"
                  website="http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/tinker-i-o?gameCategorySlug=mc-mods&amp;projectID=229503&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gkbm2013%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
                  authors="GKB,tokomikea"
@@ -1001,7 +1001,7 @@
              />
 
             <mod name="TOP Addons"
-                 version="0.4.0" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.4.0.jar" file="topaddons-1.10.2-0.4.0.jar" md5="10cc51e07878d36383169f2fe95fbf98" download="server"
+                 version="1.10.2-0.5.0" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.5.0.jar" file="topaddons-1.10.2-0.5.0.jar" md5="b37ca59b219bacdd1b189f4faa7a4b1a" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/247111/"
                  authors="DrMathiasDJ"
@@ -1038,8 +1038,7 @@
              />
 
         <mod name="Woot"
-             version="1.10.2-0.2.3-alpha"
-             url="packs/ResonantRise/files/4.x/woot-1.10.2-0.2.3-alpha.jar" file="woot-1.10.2-0.2.3-alpha.jar" md5="309294c66f89ac2a0696d29b5c7d9b8b" download="server"
+             version="1.10.2-0.2.4-alpha" url="packs/ResonantRise/files/4.x/woot-1.10.2-0.2.4-alpha.jar" file="woot-1.10.2-0.2.4-alpha.jar" md5="c9ecb926b6cef14d68bda8c6e1c8be7e" download="server"
              type="mods"
              website="http://www.github.com/ipsis/Woot/"
              authors="Ipsis"
