@@ -1025,6 +1025,14 @@
                  />
 -->
 
+        <mod name="Tomb Many Graves"
+             version="1.9.4_1.10.2-2.1.8" url="packs/ResonantRise/files/4.x/TombManyGraves-1.9.4_1.10.2-2.1.8.jar" file="TombManyGraves-1.9.4_1.10.2-2.1.8.jar" md5="85c809244f8a52a8037fbf2d73d51ae3" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/245224/"
+             authors="M4thG33k"
+             description="Stores your stuff when you bite the dust."
+             />
+
         <mod name="The One Probe"
              version="1.10-1.0.15" url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.0.15.jar" file="theoneprobe-1.10-1.0.15.jar" md5="fd7703ad010a4a35913485ea20b07121" download="server"
              type="mods"
