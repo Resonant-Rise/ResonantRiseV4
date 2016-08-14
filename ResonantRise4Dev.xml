@@ -161,6 +161,14 @@
              description="An API for modifying the food and hunger mechanics of Minecraft"
              />
 
+            <mod name="AppleSkin"
+                 version="1.0.1" url="packs/ResonantRise/files/4.x/AppleSkin-mc1.10.2-1.0.1.jar" file="AppleSkin-mc1.10.2-1.0.1.jar" md5="423455531cc75fc263c0fa70c6d4e96c" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/248787/"
+                 authors="squeek"
+                 description="Adds various food-related HUD improvements"
+                 />
+
         <mod name="Aroma1997Core"
              version="1.1.0.3"
              url="packs/ResonantRise/files/4.x/Aroma1997Core-1.9.4-1.1.0.3.jar" file="Aroma1997Core-1.9.4-1.1.0.3.jar" md5="44a7477b438254a9cccc1ba1c4b243d2" download="server"
