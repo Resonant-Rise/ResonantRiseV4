@@ -531,7 +531,7 @@
         <mod name="Light Level Overlay Reloaded"
              version="1.1.0-mc[1.9-1.10.2]" url="packs/ResonantRise/files/4.x/LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" file="LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" md5="b54170267d413529a98fa661567072ca" download="server"
              type="mods"
-             website="www.mmyzd.com"
+             website="http://www.mmyzd.com"
              authors="oldjunyi"
              description="A mod visualizes the light level on top of blocks."
              />
@@ -630,7 +630,7 @@
 
         <mod name="MCMultiPart"
              version="1.2.1" url="packs/ResonantRise/files/4.x/MCMultiPart-1.2.1-universal.jar" file="MCMultiPart-1.2.1-universal.jar" md5="8bfc727411eb9f4cd6d5027f71f24d41" download="server"
-             type="dependancy"
+             type="dependency"
              website="http://www.curseforge.com/projects/239431/"
              authors="amadornes"
              description="A universal multipart API for MC 1.8.9"
