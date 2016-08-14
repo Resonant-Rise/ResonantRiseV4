@@ -254,7 +254,7 @@
                  />
 
             <mod name="Pressure Pipes"
-                 version="1.3.1.10" url="packs/ResonantRise/files/4.x/pressure-1.3.1.10-mc1.10.2.jar" file="pressure-1.3.1.10-mc1.10.2.jar" md5="bc7c678dff261e87a006cb28850fad5c" download="server"
+                 version="1.3.1.11" url="packs/ResonantRise/files/4.x/pressure-1.3.1.11-mc1.10.2.jar" file="pressure-1.3.1.11-mc1.10.2.jar" md5="800e82f4edf89f010deac34e2fee65a0" download="server"
                  type="mods"
                  website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
                  authors="bdew"
@@ -809,7 +809,7 @@
              />
 
         <mod name="Reliquary"
-             version="1.10.2-1.3.3.455" url="packs/ResonantRise/files/4.x/Reliquary-1.10.2-1.3.3.455.jar" file="Reliquary-1.10.2-1.3.3.455.jar" md5="7ce270b378e5d65506bb454bd32759fa" download="server"
+             version="1.10.2-1.3.3.467" url="packs/ResonantRise/files/4.x/Reliquary-1.10.2-1.3.3.467.jar" file="Reliquary-1.10.2-1.3.3.467.jar" md5="0ce9d559f6cda1eda3deafc5a0c4396a" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241319/"
              authors="x3n0ph0b3,TheMike,P3pp3rF1y"
@@ -897,8 +897,7 @@
                  />
 
             <mod name="Terraqueous"
-                 version="1.10.0-1.2.2"
-                 url="packs/ResonantRise/files/4.x/terraqueous-1.10.0-1.2.2.jar" file="terraqueous-1.10.0-1.2.2.jar" md5="f02769fd1546fb89a3b4dac3e532e9e1" download="server"
+                 version="1.10.0-1.2.3" url="packs/ResonantRise/files/4.x/terraqueous-1.10.0-1.2.3.jar" file="terraqueous-1.10.0-1.2.3.jar" md5="4ff0eb068bae8c013e2c769cc845ce5e" download="server"
                  type="mods"
                  website="http://tomkinsbros.blogspot.ca/p/terraqueous.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/terraqueous?gameCategorySlug=mc-mods&amp;projectID=244870&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
                  authors="ShetiPhian"
@@ -1075,7 +1074,7 @@
              />
 
         <mod name="Woot"
-             version="1.10.2-0.2.5-alpha" url="packs/ResonantRise/files/4.x/woot-1.10.2-0.2.5-alpha.jar" file="woot-1.10.2-0.2.5-alpha.jar" md5="d1a9052b0d1a531afffae86ebde83c4c" download="server"
+             version="1.10.2-0.2.6-beta" url="packs/ResonantRise/files/4.x/woot-1.10.2-0.2.6-beta.jar" file="woot-1.10.2-0.2.6-beta.jar" md5="15c772e68f6e602dad486631eb1fdbc5" download="server"
              type="mods"
              website="http://www.github.com/ipsis/Woot/"
              authors="Ipsis"
