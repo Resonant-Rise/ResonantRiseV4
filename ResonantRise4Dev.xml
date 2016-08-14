@@ -282,6 +282,23 @@
              description="Botania is a mod that adds nature magic to Minecraft."
              />
 
+        <mod name="Brandon&apos;s Core"
+             version="1.10.2-2.1.0.36" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.0.36-universal.jar" file="BrandonsCore-1.10.2-2.1.0.36-universal.jar" md5="2bb4a4de0247a727ae0d6c93636ed436" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/brandons-core"
+             authors="brandon3055"
+             description="This is the core mod that will be used by most of my mods from now on"
+             />
+
+            <mod name="Draconic Evolution"
+                 version="1.10.2-2.0.0.82" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.0.82-universal.jar" file="Draconic-Evolution-1.10.2-2.0.0.82-universal.jar" md5="4918951c99324047176c1b4815e184ff"
+                 download="server"
+                 type="mods"
+                 website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
+                 authors="brandon3055"
+                 description="This is a mod that was originally made for the Tolkiencraft mod pack but it has since evolved way beyond that. This mod adds a mot of extremely expensive ant powerful end game items as well as a lot of random useful bits and peaces."
+                 />
+
         <mod name="Chameleon"
              version="1.9.4-2.1.6"
              url="packs/ResonantRise/files/4.x/Chameleon-1.9.4-2.1.6.jar" file="Chameleon-1.9.4-2.1.6.jar" md5="d25efde2414d4f87eb6847378a9c2dfb" download="server"
@@ -507,6 +524,14 @@
              description="A new, innovative leveling mod, focused around leveling up weapons to gain unique boosts."
              />
 
+        <mod name="Light Level Overlay Reloaded"
+             version="1.1.0-mc[1.9-1.10.2]" url="packs/ResonantRise/files/4.x/LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" file="LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" md5="b54170267d413529a98fa661567072ca" download="server"
+             type="mods"
+             website="www.mmyzd.com"
+             authors="oldjunyi"
+             description="A mod visualizes the light level on top of blocks."
+             />
+
         <mod name="LunatriusCore"
              version="1.1.2.36"
              url="packs/ResonantRise/files/4.x/LunatriusCore-1.10.2-1.1.2.36-universal.jar" file="LunatriusCore-1.10.2-1.1.2.36-universal.jar" md5="8cb69cb3cd7af030ef9a6ad752e2a507" download="server"
@@ -532,6 +557,14 @@
              authors="Ordinastie,PaleoCrafter"
              description="MalisisCore is a framework dedicated to simplify many processes required during a mod development."
              />
+
+            <mod name="MalisisBlocks"
+                 version="4.0.1" url="packs/ResonantRise/files/4.x/malisisblocks-1.9.4-4.0.1.jar" file="malisisblocks-1.9.4-4.0.1.jar" md5="b8d2e8d197a2369f0df163f2c1ccd71e" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/237862/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/malisisblocks?gameCategorySlug=mc-mods&amp;projectID=237862&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=ordinastie%40hotmail.com&amp;bn=PP-DonationsBF:btn_donate"
+                 authors="Ordinastie"
+                 description="Vanishing and mixed blocks."
+                 />
 
             <mod name="MalisisDoors"
                  version="1.9.4-5.0.2" url="packs/ResonantRise/files/4.x/malisisdoors-1.9.4-5.0.2.jar" file="malisisdoors-1.9.4-5.0.2.jar" md5="08ae3e91bfbecc7202716663e7359d86" download="server"
