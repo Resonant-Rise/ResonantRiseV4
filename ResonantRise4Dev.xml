@@ -406,6 +406,7 @@
                  description="More Mobs"
                  />
 
+<!--
         <mod name="EXCore"
              version="1.6.1"
              url="packs/ResonantRise/files/4.x/Excore-1.6.1-1.10.2.jar" file="Excore-1.6.1-1.10.2.jar" md5="b032672dd613b84e1f9bac4b54098a3b" download="server"
@@ -423,6 +424,7 @@
                  authors="Elix_x"
                  description="FEI === NEI for 1.9 === JEI + Chunk Edge Indicator + Light Level Overlay Reloaded + More"
                  />
+-->
 
         <mod name="Extra Utilities 2"
              version="1.0.1"
