@@ -103,6 +103,7 @@
 
 <!-- Forge -->
 
+<!--
         <mod name="=== Forge ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="GC"
@@ -110,6 +111,7 @@
              authors="RR Dev Team"
              description="Minecraft Forge."
              />
+-->
 
         <mod
              name="Forge" version="12.18.1.2064"
@@ -137,6 +139,7 @@
 <!-- Core Mods -->
 
 
+<!--
         <mod name="=== Core ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="rred"
@@ -144,6 +147,7 @@
              authors="RR Dev Team"
              description="Core Mod List."
              />
+-->
 
         <mod name="Actually Additions"
              version="1.10.2-r60" url="packs/ResonantRiseDev/files/RR4-1.10.2/ACTUALLYADDITIONS-1.10.2-R60.jar" file="ACTUALLYADDITIONS-1.10.2-R60.jar" md5="f2ab11aa449ab90da8c1c72901dd295c" download="server"
@@ -592,7 +596,7 @@
                  />
 
         <mod name="MCMultiPart"
-             version="1.2.1" url="packs/ResonantRise/files/4.x/MCMultiPart-1.2.1-universal.jar" file="MCMultiPart-1.2.1-universal.jar" md5="8bfc727411eb9f4cd6d5027f71f24d41" download="server"
+             version="1.2.1" url="packs/ResonantRiseDev/files/RR4-1.10.2/MCMultiPart-1.2.1-universal.jar" file="MCMultiPart-1.2.1-universal.jar" md5="8bfc727411eb9f4cd6d5027f71f24d41" download="server"
              type="dependency"
              website="http://www.curseforge.com/projects/239431/"
              authors="amadornes"
@@ -1109,6 +1113,7 @@
 
 <!-- Optional Mods -->
 
+<!--
         <mod name="=== Optional Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="Im"
@@ -1116,6 +1121,7 @@
              authors="RR Dev Team"
              description="Optional Mod List."
              />
+-->
 
         <mod name="Crafting Tweaks"
              version="6.1.9" url="packs/ResonantRiseDev/files/RR4-1.10.2/CRAFTINGTWEAKS_1.10.2-6.1.9.jar" file="CRAFTINGTWEAKS_1.10.2-6.1.9.jar" md5="d5a9f69b56cdf63cbe0cbdedd22e7275" download="server"
@@ -1141,6 +1147,7 @@
              description="Move items in inventory GUIs by scrolling the mouse wheel over slots with items in them"
              />
 
+<!--
         <mod name="Waila"
              version="1.7.0-B3"
              url="packs/ResonantRise/files/4.x/Waila-1.7.0-B3_1.9.4.jar" file="Waila-1.7.0-B3_1.9.4.jar" md5="ad5733255dac0b85b9bbe38749638060" download="server"
@@ -1158,6 +1165,7 @@
                  authors="squeek"
                  description="An add-on for Waila that adds information about the harvestability of what you are looking at"
                  />
+-->
 
 
 
@@ -1176,6 +1184,7 @@
 
 <!-- Client / Server Mods -->
 
+<!--
         <mod name="=== Client Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="lite"
@@ -1183,7 +1192,9 @@
              authors="RR Dev Team"
              description="Client Only Mod List."
              />
+-->
 
+<!--
         <mod name="=== Server Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" client="no" colour="lite"
@@ -1191,7 +1202,9 @@
              authors="RR Dev Team"
              description="Server Only Mod List."
              />
+-->
 
+<!--
         <mod name="BetterFps"
              version="1.3.2" url="packs/ResonantRiseDev/files/RR4-1.10.2/BETTERFPS-1.3.2.jar" file="BETTERFPS-1.3.2.jar" md5="47794cef01de8f9164a276d101cbb995" download="server"
              type="mods" optional="yes" server="no"
@@ -1199,6 +1212,7 @@
              authors="Guichaguri"
              description="Performance Improvement"
              />
+-->
 
 
 
@@ -1212,6 +1226,7 @@
 
 <!-- Dev Only -->
 
+<!--
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" colour="Hyd"
@@ -1219,6 +1234,7 @@
              authors="RR Dev Team"
              description="Developer Tool List."
              />
+-->
 
 
         <!-- Developer Tool List:
