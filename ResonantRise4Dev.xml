@@ -801,7 +801,7 @@
              />
 
         <mod name="Refined Storage"
-             version="0.8.19" url="packs/ResonantRise/files/4.x/refinedstorage-0.8.19.jar" file="refinedstorage-0.8.19.jar" md5="a2ae0b62d7fcde98f433fa3c10af9c33" download="server"
+             version="0.8.20" url="packs/ResonantRise/files/4.x/refinedstorage-0.8.20.jar" file="refinedstorage-0.8.20.jar" md5="b2518b64379dfccdb281fd2e0467ceba" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
