@@ -187,6 +187,14 @@
                  description="This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)"
                  />
 
+        <mod name="Bagelsmore: The Return"
+             version="" url="packs/ResonantRise/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/248538/"
+             authors="Ollie Lansdell"
+             description="Take a desk on me."
+             />
+
         <mod name="Baubles"
              version="1.9.4-1.2.1.0"
              url="packs/ResonantRise/files/4.x/Baubles-1.9.4-1.2.1.0.jar" file="Baubles-1.9.4-1.2.1.0.jar" md5="47ca37ca2019bb4f143a1e9be06911d3" download="server"
@@ -364,6 +372,14 @@
              description="Augmentation in Minecraft"
              />
 
+            <mod name="WIRED: More Augs"
+                 version="1.3.1" url="packs/ResonantRise/files/4.x/WIRED-1.3.1.jar" file="WIRED-1.3.1.jar" md5="95178db3be89c5168f212703073aaa9d" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/248479/"
+                 authors="mallrat208"
+                 description="Expanding upon Cyberware with Questionable Choices"
+                 />
+
         <mod name="ElecCore | Rendering Library"
              version="1.5.303" url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.303.jar" file="ElecCore-1.9.4-1.5.303.jar" md5="288c68a4241055797273c8b7a75dd27d" download="server"
              type="mods"
@@ -387,6 +403,13 @@
              website="http://www.curseforge.com/projects/76612/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/enchiridion?gameCategorySlug=mc-mods&amp;projectID=76612&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC"
              authors="joshie"
              description="Books mod for minecraft"
+             />
+
+        <mod name="Ender Compass"
+             version="1.2.3.2" url="packs/ResonantRise/files/4.x/EnderCompass-1.9.x-1.2.3.2.jar" file="EnderCompass-1.9.x-1.2.3.2.jar" md5="bb9666ed48ab0273e032427b2acf3158" download="server"
+             type="mods"
+             website="https://github.com/MrIbby/EnderCompass" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/ender-compass?gameCategorySlug=mc-mods&amp;projectID=223106&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bui.gabe%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG" authors="MrIbby"
+             description="The ender compass is an item that leads to strongholds."
              />
 
         <mod name="EnderCore"
@@ -484,6 +507,14 @@
              website="https://skmedix.pl/hidenames/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/hide-names?gameCategorySlug=mc-mods&amp;projectID=62786&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=hi%40skmedix.pl&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="thislooksfun,skmedix"
              description="Adds commands to hide and show the name that displays above your head."
+             />
+
+        <mod name="Immersive Engineering"
+             version="0.10-38" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-38.jar" file="ImmersiveEngineering-0.10-38.jar" md5="2e4e36fa69592f310830a8d712b6e72c" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/231951/"
+             authors="BluSunrize,Damien A.W. Hazard"
+             description="A retro-futuristic tech mod!"
              />
 
         <mod name="Inventory Tweaks"
@@ -741,6 +772,13 @@
              description="Allows you to tweak vanilla ore generation"
              />
 
+        <mod name="Pam&apos;s Get all the Seeds!"
+             version="1.9.4-1.10.2a" url="packs/ResonantRise/files/4.x/Pams Get all the Seeds! 1.9.4-1.10.2a.jar" file="Pams Get all the Seeds! 1.9.4-1.10.2a.jar" md5="a99e7df8517bd0666454dbbbdb9fdf4d" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/pams-get-all-the-seeds?gameCategorySlug=mc-mods&amp;projectID=221914&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_"
+             authors="Pamela Collins" description="This mod makes pumpkin seeds, melon seeds, carrots, and potatoes drop from tall grass at a very low frequency in addition to ..."
+             />
+
         <mod name="Pam&apos;s HarvestCraft"
              version="1.9.4-pre" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4-1.10.2b.jar" file="Pams HarvestCraft 1.9.4-1.10.2b.jar" md5="5f959a8d75373980d05a3b9310a3d2b5" download="server"
              type="mods"
@@ -849,6 +887,14 @@
              website="https://github.com/Team-RTG/Realistic-Terrain-Generation"
              authors="Team RTG"
              description="Adds a new world type which generates realistic terrain for Overworld biomes."
+             />
+
+        <mod name="Shear Madness"
+             version="1.0.2" url="packs/ResonantRise/files/4.x/shearmadness-1.10.2-1.0.2.jar" file="shearmadness-1.10.2-1.0.2.jar" md5="937a4fac23669b3d18d82ce5499c3064" download="server"
+             type="mods"
+             website="http://github.com/AtomicBlom/ShearMadness"
+             authors="AtomicBlom"
+             description="That thing you&apos;ve always wanted to do with a chisel."
              />
 
         <mod name="ShetiPhian-Core"
@@ -999,16 +1045,13 @@
              description="TBA"
              />
 
-<!--
             <mod name="Tesla Arsenal"
-                 version="1.2"
-                 url="packs/ResonantRise/files/4.x/TeslaArsenal-1.2.jar" file="TeslaArsenal-1.2.jar" md5="c83a38750371207b86672f987aa3e167" download="server"
+                 version="1.4" url="packs/ResonantRise/files/4.x/TeslaArsenal-1.4.jar" file="TeslaArsenal-1.4.jar" md5="cf6e2290ed8cc8f466f4390c357b123c" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/247634/"
                  authors="koxhack"
                  description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API"
                  />
--->
 
 <!--
             <mod name="Tesla Coils"
@@ -1080,6 +1123,22 @@
              authors="Ipsis"
              description="The alternative mob spawner/grinder system"
              />
+
+        <mod name="Zero CORE"
+             version="1.10.2-0.0.8.0" url="packs/ResonantRise/files/4.x/zerocore-1.10.2-0.0.8.0.jar" file="zerocore-1.10.2-0.0.8.0.jar" md5="0933cdf7210ef0186a19631f75438fc2" download="server"
+             type="mods"
+             website="http://zerono.it/"
+             authors="ZeroNoRyouki"
+             description="Utility mod and multiblock API"
+             />
+
+            <mod name="Big Reactors"
+                 version="0.4.5.6" url="packs/ResonantRise/files/4.x/BigReactors-1.9.4-0.4.5.6.jar" file="BigReactors-1.9.4-0.4.5.6.jar" md5="9ff38e383abd77c7db9338c30d464ef7" download="server"
+                 type="mods"
+                 website="http://zerono.it/big-reactors"
+                 authors="ErogenousBeef,ZeroNoRyouki,ABookFreak"
+                 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power."
+                 />
 
 
 
