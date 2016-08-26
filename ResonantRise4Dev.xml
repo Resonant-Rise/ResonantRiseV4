@@ -369,6 +369,7 @@
              description="Augmentation in Minecraft"
              />
 
+<!--
             <mod name="WIRED: More Augs"
                  version="1.3.1" url="packs/ResonantRise/files/4.x/WIRED-1.3.1.jar" file="WIRED-1.3.1.jar" md5="95178db3be89c5168f212703073aaa9d" download="server"
                  type="mods"
@@ -376,6 +377,7 @@
                  authors="mallrat208"
                  description="Expanding upon Cyberware with Questionable Choices"
                  />
+-->
 
         <mod name="ElecCore | Rendering Library"
              version="1.5.311" url="packs/ResonantRise/files/4.x/ElecCore-1.9.4-1.5.311.jar" file="ElecCore-1.9.4-1.5.311.jar" md5="a33ee36278d4e1599b04abad9e22ac64" download="server"
