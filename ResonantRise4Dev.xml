@@ -470,22 +470,6 @@
              description="Trees, bees and more."
              />
 
-        <mod name="FTBLib"
-             version="1.9.4-2.1.0" url="packs/ResonantRise/files/4.x/FTBLib-1.9.4-2.1.0-pre3.jar" file="FTBLib-1.9.4-2.1.0-pre3.jar" md5="c75406ee6326d15214edb5d54c44f3ec" download="server"
-             type="mods" client="no" optional="yes"
-             website="http://minecraft.curseforge.com/projects/ftblib"
-             authors="LatvianModder,Jared"
-             description="FTBLib"
-             />
-
-            <mod name="FTBUtilities"
-                 version="1.9.4-2.1.0" url="packs/ResonantRise/files/4.x/FTBUtilities-1.9.4-2.1.0-pre3.jar" file="FTBUtilities-1.9.4-2.1.0-pre3.jar" md5="ba570738ca3ed3ad58d45b4ac20ee6ff" download="server"
-                 type="mods" client="no" optional="yes"
-                 website="http://minecraft.curseforge.com/projects/ftb-utilities"
-                 authors="LatvianModder"
-                 description="FTBUtilities"
-                 />
-
         <mod name="Gear Swapper"
              version="1.9.4-1.2.6"
              url="packs/ResonantRise/files/4.x/gearswap-1.9.4-1.2.6.jar" file="gearswap-1.9.4-1.2.6.jar" md5="d67167999a512354dca2e1f635061fad" download="server"
@@ -1239,7 +1223,7 @@
 
         <mod name="Crafting Tweaks"
              version="6.1.9" url="packs/ResonantRise/files/4.x/CraftingTweaks_1.10.2-6.1.9.jar" file="CraftingTweaks_1.10.2-6.1.9.jar" md5="d5a9f69b56cdf63cbe0cbdedd22e7275" download="server"
-             type="mods" optional="yes"
+             type="mods" optional="yes" server="no"
              website="http://balyware.com"
              authors="BlayTheNinth"
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
@@ -1323,6 +1307,22 @@
              authors="Guichaguri"
              description="Performance Improvement"
              />
+
+        <mod name="FTBLib"
+             version="1.9.4-2.1.0" url="packs/ResonantRise/files/4.x/FTBLib-1.9.4-2.1.0-pre3.jar" file="FTBLib-1.9.4-2.1.0-pre3.jar" md5="c75406ee6326d15214edb5d54c44f3ec" download="server"
+             type="mods" client="no" optional="yes"
+             website="http://minecraft.curseforge.com/projects/ftblib"
+             authors="LatvianModder,Jared"
+             description="FTBLib"
+             />
+
+            <mod name="FTBUtilities"
+                 version="1.9.4-2.1.0" url="packs/ResonantRise/files/4.x/FTBUtilities-1.9.4-2.1.0-pre3.jar" file="FTBUtilities-1.9.4-2.1.0-pre3.jar" md5="ba570738ca3ed3ad58d45b4ac20ee6ff" download="server"
+                 type="mods" client="no" optional="yes"
+                 website="http://minecraft.curseforge.com/projects/ftb-utilities"
+                 authors="LatvianModder"
+                 description="FTBUtilities"
+                 />
 
 
 
