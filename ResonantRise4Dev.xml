@@ -479,6 +479,14 @@
              description="Handy block to swap your gear"
              />
 
+        <mod name="Guide-API"
+             version="1.10.2-2.0.2-45" url="packs/ResonantRise/files/4.x/Guide-API-1.10.2-2.0.2-45.jar" file="Guide-API-1.10.2-2.0.2-45.jar" md5="31a0d5f2482a01850aae3ab8cc4a3cba" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/228832/"
+             authors="Tombenpotter,TehNut"
+             description="Simple mod guide creation."
+             />
+
         <mod name="HideNames"
              version="1.10.2-1.2.1" url="packs/ResonantRise/files/4.x/HideNames-1.10.2-1.2.1.jar" file="HideNames-1.10.2-1.2.1.jar" md5="2cebc22030bfdbad10ef7000b5e8ece4" download="server"
              type="mods"
