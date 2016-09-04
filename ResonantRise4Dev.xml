@@ -312,6 +312,14 @@
                  description="This is a mod that was originally made for the Tolkiencraft mod pack but it has since evolved way beyond that. This mod adds a mot of extremely expensive ant powerful end game items as well as a lot of random useful bits and peaces."
                  />
 
+        <mod name="Buttons"
+             version="1.10.2-0.0.3-3" url="packs/ResonantRise/files/4.x/Buttons-1.10.2-0.0.3-3.jar" file="Buttons-1.10.2-0.0.3-3.jar" md5="e15cf9e25bd69264cd7a2a48e586ac9e" download="server"
+             type="mods"
+             website="http://tehnut.info/"
+             authors="TehNut"
+             description="Adds buttons to the lefthand side of the screen."
+             />
+
         <mod name="Chameleon"
              version="1.10-2.1.7" url="packs/ResonantRise/files/4.x/Chameleon-1.10-2.1.7.jar" file="Chameleon-1.10-2.1.7.jar" md5="ee5cb37e5c96a3f57b58e64e7f089e30" download="server"
              type="mods"
