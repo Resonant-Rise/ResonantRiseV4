@@ -345,6 +345,14 @@
              description="a mod about Sculpting, Decorating and Aesthetics"
              />
 
+        <mod name="Controlling"
+             version="1.0.0" url="packs/ResonantRise/files/4.x/Controlling-1.0.0.jar" file="Controlling-1.0.0.jar" md5="c858c065c5cfa97fd6b2c3c8adbfcc16" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/250398/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
+             authors="jaredlll08"
+             description="Adds a search bar to the Key-Bindings menu"
+             />
+
         <mod name="Cooking for Blockheads"
              version="4.1.12" url="packs/ResonantRise/files/4.x/CookingForBlockheads_1.10.2-4.1.12.jar" file="CookingForBlockheads_1.10.2-4.1.12.jar" md5="1fba7eeba71d19a38c267a6f96335da0" download="server"
              type="mods"
@@ -724,6 +732,22 @@
              description="The wrench to end all wrenches."
              />
 
+        <mod name="ModPack Utilities"
+             version="1.1.8" url="packs/ResonantRise/files/4.x/mputils-1.10.2-1.1.8.jar" file="mputils-1.10.2-1.1.8.jar" md5="835a97d3d58fcf3e86e185c546dda4eb" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/GenDeathrow/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mputils?gameCategorySlug=mc-mods&amp;projectID=244940&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gendeathrow%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g"
+             authors="GenDeathrow,Darkosto"
+             description="will add various tools for modpack developers"
+             />
+
+            <mod name="ModPack Basic Tools"
+                 version="1.0.0" url="packs/ResonantRise/files/4.x/mpbasic-1.9.4-1.0.0.jar" file="mpbasic-1.9.4-1.0.0.jar" md5="71348919db14f1a10efa7e6f50562fb4" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/245889/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mputils-basic-tools?gameCategorySlug=mc-mods&amp;projectID=245889&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gendeathrow%40gmail.com&amp;bn=PP-DonationsBF:btn_d"
+                 authors="GenDeathrow"
+                 description="Adds Change logs, info, and bug reporting tab."
+                 />
+
         <mod name="Neat"
              version="1.3-11"
              url="packs/ResonantRise/files/4.x/Neat 1.3-11.jar" file="Neat 1.3-11.jar" md5="90a6b0c324197dd3290e3c7705422c36" download="server"
@@ -1022,6 +1046,14 @@
              description="An item frame that can craft items when punched."
              />
 
+        <mod name="Surge"
+             version="1.10.2-1.0.0.50" url="packs/ResonantRise/files/4.x/Surge-1.10.2-1.0.0.50.jar" file="Surge-1.10.2-1.0.0.50.jar" md5="17417bd727569435ef2017903d8f0f41" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/250290/"
+             authors="Darkhax,lclc98"
+             description="A tweak mod that improves Minecraft performance and stability."
+             />
+
         <mod name="TESLA"
              version="1.10.2-1.2.1.46" url="packs/ResonantRise/files/4.x/Tesla-1.10.2-1.2.1.46.jar" file="Tesla-1.10.2-1.2.1.46.jar" md5="8b356dc3953335243d3767d1149774c5" download="server"
              type="mods"
@@ -1090,6 +1122,14 @@
              website="http://www.curseforge.com/projects/235577/"
              authors="BlayTheNinth"
              description="Adds a trash slot to the inventory screen that allows deletion of unwanted items."
+             />
+
+        <mod name="UniDict"
+             version="1.8b" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-1.8b.jar" file="UniDict-1.10.2-1.8b.jar" md5="19b6bce9196edd274c9c285fd2c18f23" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/unidict" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wanioncane%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+             authors="WanionCane"
+             description="a mod about unifying all the things."
              />
 
         <mod name="Vein Miner"
