@@ -1184,13 +1184,11 @@
             Auto Ore Dictionary Converter
             Bdlib
             Blood Magic
-            Block Drops
             Botania
             Calculator
             Chameleon
             Chisel
             Chisel and Bits
-            Chisel and Bytes
             Drawers and Bits
             Cooking for Blockheads
             Deep Resonance
@@ -1201,15 +1199,12 @@
             Enderio
             Enderzoo
             Endertanks
-            Excore
             Forestry
-            Forever Enough Items
             FTBLib
             FTBUtilities
             Gearswap
             Gendustry
             Generators
-            Harvest
             Hide Names
             Inventory Tweaks
             Just Enough Items
@@ -1223,13 +1218,11 @@
             MCMultipart
             MattDahEpic Core
             MineMenu
-            MmmMmmMmmMmm
             Morph-o-Tool
             Multibeds
             Multistorage
             Not Enough Wands
             Nether Portal Fix
-            No Nausea
             Ore Tweaker
             Pams Harvestcraft
             Platforms
@@ -1247,7 +1240,6 @@
             Roots
             Shetiphian Core
             Simple Dimensions
-            Solar Flux Reborn
             Sonar Core
             Stackie
             Storage Drawers
@@ -1256,7 +1248,6 @@
             Tinkers Construct
             Tesla
             Tesla Arsenal
-            Tesla Coils
             Solar Village
             Terraqueous
             Trash Slot
@@ -1366,8 +1357,10 @@
 
 
 
-        <!--Client and Server Only List:
+        <!--Server Only List:
             Better FPS
+            FTBLib
+            FTBUtilities
 
         -->
 
