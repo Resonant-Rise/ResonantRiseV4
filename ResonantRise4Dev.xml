@@ -1303,7 +1303,7 @@
 
         <mod name="Surge"
              version="1.10.2-1.0.0.50" url="packs/ResonantRise/files/4.x/Surge-1.10.2-1.0.0.50.jar" file="Surge-1.10.2-1.0.0.50.jar" md5="17417bd727569435ef2017903d8f0f41" download="server"
-             type="mods" optional="yes"
+             type="mods" optional="yes" server="no"
              website="http://www.curseforge.com/projects/250290/"
              authors="Darkhax,lclc98"
              description="A tweak mod that improves Minecraft performance and stability."
