@@ -187,6 +187,14 @@
                  description="This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)"
                  />
 
+        <mod name="AutoRegLib"
+             version="1.0-2" url="packs/ResonantRise/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
+             type="mods"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="Automatically item, block, and model registration for mods."
+             />
+
         <mod name="Bagelsmore: The Return"
              version="1.0.1" url="packs/ResonantRise/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
              type="mods"
