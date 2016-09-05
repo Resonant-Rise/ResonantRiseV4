@@ -1127,6 +1127,7 @@
              description="Adds a trash slot to the inventory screen that allows deletion of unwanted items."
              />
 
+<!--
         <mod name="UniDict"
              version="1.8b" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-1.8b.jar" file="UniDict-1.10.2-1.8b.jar" md5="19b6bce9196edd274c9c285fd2c18f23" download="server"
              type="mods"
@@ -1134,6 +1135,7 @@
              authors="WanionCane"
              description="a mod about unifying all the things."
              />
+-->
 
         <mod name="Vein Miner"
              version="0.34.1"
