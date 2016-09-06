@@ -230,7 +230,7 @@
              />
 
         <mod name="Biomes O&apos; Plenty"
-             version="5.0.0.2080" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar" file="BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar" md5="223e7f3560f54a8e53680a1e304fee71" download="server"
+             version="5.0.0.2082" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.10.2-5.0.0.2082-universal.jar" file="BiomesOPlenty-1.10.2-5.0.0.2082-universal.jar" md5="1cba918c1527ff7d4f4a5b3501f32cb0" download="server"
              type="mods"
              website="http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC"
              authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80"
@@ -262,7 +262,7 @@
                  />
 
             <mod name="Advanced Generators"
-                 version="0.9.20.12" url="packs/ResonantRise/files/4.x/generators-0.9.20.12-mc1.10.2.jar" file="generators-0.9.20.12-mc1.10.2.jar" md5="12410be5684577508cb7107f266da805" download="server"
+                 version="0.9.20.13" url="packs/ResonantRise/files/4.x/generators-0.9.20.13-mc1.10.2.jar" file="generators-0.9.20.13-mc1.10.2.jar" md5="491543735048706e8eb5585433fb5bd8" download="server"
                  type="mods"
                  website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/advanced-generators?gameCategorySlug=mc-mods&amp;projectID=223622&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donat"
                  authors="bdew"
@@ -522,7 +522,7 @@
              />
 
         <mod name="Immersive Engineering"
-             version="0.10-38" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-38.jar" file="ImmersiveEngineering-0.10-38.jar" md5="2e4e36fa69592f310830a8d712b6e72c" download="server"
+             version="0.10-40" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-40.jar" file="ImmersiveEngineering-0.10-40.jar" md5="b9d948726bcca30da29d6347409a05e1" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231951/"
              authors="BluSunrize,Damien A.W. Hazard"
@@ -555,7 +555,7 @@
              />
 
             <mod name="Just Enough Resources"
-                 version="0.4.8" url="packs/ResonantRise/files/4.x/JustEnoughResources-1.10.2-0.4.8.48.jar" file="JustEnoughResources-1.10.2-0.4.8.48.jar" md5="f15bd164906f6f5582004c30346ffcde" download="server"
+                 version="0.5.0" url="packs/ResonantRise/files/4.x/JustEnoughResources-1.10.2-0.5.0.52.jar" file="JustEnoughResources-1.10.2-0.5.0.52.jar" md5="9203c670177622244a5552989225ac16" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/240630/"
                  authors="way2muchnoise"
@@ -647,8 +647,7 @@
                  />
 
         <mod name="McJtyLib"
-             version="1.10-1.9.9-SNAPSHOT"
-             url="packs/ResonantRise/files/4.x/mcjtylib-1.10-1.9.9.jar" file="mcjtylib-1.10-1.9.9.jar" md5="0e12f38ade5a712602b6c23a4ab1bb7a" download="server"
+             version="1.10-2.0.0-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.10-2.0.0.jar" file="mcjtylib-1.10-2.0.0.jar" md5="9204e62a303457f759b79aef5d180939" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -656,7 +655,7 @@
              />
 
             <mod name="RFTools"
-                 version="1.10-5.21" url="packs/ResonantRise/files/4.x/rftools-1.10-5.21.jar" file="rftools-1.10-5.21.jar" md5="c52bfeff83fe0cc8e79dfb52ba39a73b" download="server"
+                 version="1.10-5.22" url="packs/ResonantRise/files/4.x/rftools-1.10-5.22.jar" file="rftools-1.10-5.22.jar" md5="2de99851b3ec87df8240f840639a81dd" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                  authors="McJty"
@@ -669,6 +668,14 @@
                  website="http://www.curseforge.com/projects/240950/"
                  authors="McJty"
                  description="RFTools Dimensions Addon"
+                 />
+
+            <mod name="RFTools Control"
+                 version="1.10-0.0.1beta1" url="packs/ResonantRise/files/4.x/rftoolsctrl-1.10-0.0.1beta1.jar" file="rftoolsctrl-1.10-0.0.1beta1.jar" md5="a04dc2e451f047a5b024b7abddc60c17" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/250763/"
+                 authors="McJty"
+                 description="RFTools Control Addon"
                  />
 
         <mod name="MCMultiPart"
@@ -887,7 +894,7 @@
              />
 
         <mod name="Roots"
-             version="0.200" url="packs/ResonantRise/files/4.x/roots-1.10.2-0.200.0.jar" file="roots-1.10.2-0.200.0.jar" md5="5e888ee034362252dce6598e13e9bfe2" download="server"
+             version="0.201.0" url="packs/ResonantRise/files/4.x/roots-1.10.2-0.201.0.jar" file="roots-1.10.2-0.201.0.jar" md5="fb569f93cc6d2f6c18103932b5bf99dc" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/246183/"
              authors="Elucent"
