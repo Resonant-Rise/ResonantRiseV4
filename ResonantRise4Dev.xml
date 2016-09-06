@@ -304,7 +304,7 @@
              />
 
         <mod name="Brandon&apos;s Core"
-             version="1.10.2-2.1.0.36" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.0.36-universal.jar" file="BrandonsCore-1.10.2-2.1.0.36-universal.jar" md5="2bb4a4de0247a727ae0d6c93636ed436" download="server"
+             version="1.10.2-2.1.0.40" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.0.40-universal.jar" file="BrandonsCore-1.10.2-2.1.0.40-universal.jar" md5="64126832b92f244eb846eb5e3b48b527" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/brandons-core"
              authors="brandon3055"
@@ -312,8 +312,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.0.0.82" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.0.82-universal.jar" file="Draconic-Evolution-1.10.2-2.0.0.82-universal.jar" md5="4918951c99324047176c1b4815e184ff"
-                 download="server"
+                 version="1.10.2-2.0.0.90" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.0.90-universal.jar" file="Draconic-Evolution-1.10.2-2.0.0.90-universal.jar" md5="b5a955c38a91ebd3f57f23a2e8652d46" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
