@@ -385,7 +385,7 @@
              />
 
         <mod name="Cyberware"
-             version="beta-0.1.10" url="packs/ResonantRise/files/4.x/cyberware-1.9.4-1.10.2-beta-0.1.10.jar" file="cyberware-1.9.4-1.10.2-beta-0.1.10.jar" md5="b5bcca4b65130808e7f52a14e8d983a8" download="server"
+             version="beta-0.2.1" url="packs/ResonantRise/files/4.x/cyberware-1.9.4-1.10.2-beta-0.2.1.jar" file="cyberware-1.9.4-1.10.2-beta-0.2.1.jar" md5="94bb10c37ee07d385c918d4f07fef6d0" download="server"
              type="mods"
              website="https://github.com/Flaxbeard/Cyberware"
              authors="Flaxbeard"
