@@ -182,7 +182,7 @@
              />
 
         <mod name="Bagelsmore: The Return"
-             version="" url="packs/ResonantRiseDev/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
+             version="1.0.1" url="packs/ResonantRiseDev/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/248538/"
              authors="Ollie Lansdell"
