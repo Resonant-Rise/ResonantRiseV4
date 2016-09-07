@@ -173,6 +173,22 @@
                  description="Adds various food-related HUD improvements"
                  />
 
+        <mod name="AutoRegLib"
+             version="1.0-2" url="packs/ResonantRiseDev/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
+             type="mods"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="Automatically item, block, and model registration for mods."
+             />
+
+        <mod name="Bagelsmore: The Return"
+             version="" url="packs/ResonantRiseDev/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/248538/"
+             authors="Ollie Lansdell"
+             description="Take a desk on me."
+             />
+
         <mod name="Baubles"
              version="1.9.4-1.2.1.0" url="packs/ResonantRiseDev/files/RR4-1.10.2/BAUBLES-1.9.4-1.2.1.0.jar" file="BAUBLES-1.9.4-1.2.1.0.jar" md5="47ca37ca2019bb4f143a1e9be06911d3" download="server"
              type="mods"
@@ -365,6 +381,14 @@
              website="http://www.curseforge.com/projects/76612/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/enchiridion?gameCategorySlug=mc-mods&amp;projectID=76612&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC"
              authors="joshie"
              description="Books mod for minecraft"
+             />
+
+        <mod name="Ender Compass"
+             version="1.2.3.2" url="packs/ResonantRiseDev/files/4.x/EnderCompass-1.9.x-1.2.3.2.jar" file="EnderCompass-1.9.x-1.2.3.2.jar" md5="bb9666ed48ab0273e032427b2acf3158" download="server"
+             type="mods"
+             website="https://github.com/MrIbby/EnderCompass" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/ender-compass?gameCategorySlug=mc-mods&amp;projectID=223106&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bui.gabe%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
+             authors="MrIbby"
+             description="The ender compass is an item that leads to strongholds."
              />
 
         <mod name="EnderCore"
@@ -700,6 +724,14 @@
              description="Allows you to tweak vanilla ore generation"
              />
 
+        <mod name="Pam&apos;s Get all the Seeds!"
+             version="1.9.4-1.10.2a" url="packs/ResonantRiseDev/files/4.x/Pams Get all the Seeds! 1.9.4-1.10.2a.jar" file="Pams Get all the Seeds! 1.9.4-1.10.2a.jar" md5="a99e7df8517bd0666454dbbbdb9fdf4d" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/pams-get-all-the-seeds?gameCategorySlug=mc-mods&amp;projectID=221914&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_"
+             authors="Pamela Collins"
+             description="This mod makes pumpkin seeds, melon seeds, carrots, and potatoes drop from tall grass at a very low frequency in addition to ..."
+             />
+
         <mod name="Pam&apos;s HarvestCraft"
              version="1.9.4-pre" url="packs/ResonantRiseDev/files/RR4-1.10.2/PAMS HARVESTCRAFT 1.9.4-1.10.2B.jar" file="PAMS HARVESTCRAFT 1.9.4-1.10.2B.jar" md5="5f959a8d75373980d05a3b9310a3d2b5" download="server"
              type="mods"
@@ -802,6 +834,14 @@
              website="https://github.com/Team-RTG/Realistic-Terrain-Generation"
              authors="Team RTG"
              description="Adds a new world type which generates realistic terrain for Overworld biomes."
+             />
+
+        <mod name="Shear Madness"
+             version="1.0.2" url="packs/ResonantRiseDev/files/4.x/shearmadness-1.10.2-1.0.2.jar" file="shearmadness-1.10.2-1.0.2.jar" md5="937a4fac23669b3d18d82ce5499c3064" download="server"
+             type="mods"
+             website="http://github.com/AtomicBlom/ShearMadness"
+             authors="AtomicBlom"
+             description="That thing you&apos;ve always wanted to do with a chisel."
              />
 
         <mod name="ShetiPhian-Core"
@@ -1014,6 +1054,22 @@
              authors="Ipsis"
              description="The alternative mob spawner/grinder system"
              />
+
+        <mod name="Zero CORE"
+             version="1.10.2-0.0.8.0" url="packs/ResonantRiseDev/files/4.x/zerocore-1.10.2-0.0.8.0.jar" file="zerocore-1.10.2-0.0.8.0.jar" md5="0933cdf7210ef0186a19631f75438fc2" download="server"
+             type="mods"
+             website="http://zerono.it/"
+             authors="ZeroNoRyouki"
+             description="Utility mod and multiblock API"
+             />
+
+            <mod name="Big Reactors"
+                 version="0.4.5.6" url="packs/ResonantRiseDev/files/4.x/BigReactors-1.9.4-0.4.5.6.jar" file="BigReactors-1.9.4-0.4.5.6.jar" md5="9ff38e383abd77c7db9338c30d464ef7" download="server"
+                 type="mods"
+                 website="http://zerono.it/big-reactors"
+                 authors="ErogenousBeef,ZeroNoRyouki,ABookFreak"
+                 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power."
+                 />
 
 
 
