@@ -703,6 +703,14 @@
                  description="Converts specified ore dictionary items automatically or on keybinding."
                  />
 
+            <mod name="Exchange Orb"
+                 version="1.10.2-1.0" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.0.jar" file="exchangeorb-1.10.2-1.0.jar" md5="8ec54acd9b2d318f04725043ef79f499" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/226399/"
+                 authors="MattDahEpic"
+                 description="Simple mod for converting various vanilla resources and mob drops."
+                 />
+
         <mod name="Mekanism"
              version="9.2.0" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.0.292.jar" file="Mekanism-1.10.2-9.2.0.292.jar" md5="a199a6ebf622fa80514aad5c4e3c97d1" download="server"
              type="mods"
