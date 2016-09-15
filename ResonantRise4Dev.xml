@@ -704,21 +704,21 @@
                  />
 
         <mod name="Mekanism"
-             version="9.1.1.290" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.1.1.290.jar" file="Mekanism-1.10.2-9.1.1.290.jar" md5="2ed981dd645591a641d2616df23d29e4" download="server"
+             version="9.2.0" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.0.292.jar" file="Mekanism-1.10.2-9.2.0.292.jar" md5="a199a6ebf622fa80514aad5c4e3c97d1" download="server"
              type="mods"
              website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
              description="Energy, Armor, Tools, Weapons, Machines, Magic."
              />
 
             <mod name="MekanismTools"
-                 version="9.1.1.290" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.1.1.290.jar" file="MekanismTools-1.10.2-9.1.1.290.jar" md5="f5204be3c43d4f8c81c363290c757a91" download="server"
+                 version="9.2.0" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.0.292.jar" file="MekanismTools-1.10.2-9.2.0.292.jar" md5="59ec646b2f6de67c46c5163b181e644e" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady" description="Tools module for Mekanism."
                  />
 
             <mod name="MekanismGenerators"
-                 version="9.1.1.290" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.1.1.290.jar" file="MekanismGenerators-1.10.2-9.1.1.290.jar" md5="afc24b0693598be42eaa8b69843d7fc8" download="server"
+                 version="9.2.0" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.0.292.jar" file="MekanismGenerators-1.10.2-9.2.0.292.jar" md5="1d6baec4bb020a9ca058b0e0ad0e63e7" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady"
