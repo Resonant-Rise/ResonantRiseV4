@@ -146,7 +146,7 @@
              />
 
         <mod name="Actually Additions"
-             version="1.10.2-r62" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r62.jar" file="ActuallyAdditions-1.10.2-r62.jar" md5="4634c7bc2f1a06494d687ee4c5537ed0" download="server"
+             version="1.10.2-r63" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r63.jar" file="ActuallyAdditions-1.10.2-r63.jar" md5="278fff0d33c54a482d2bae728270031a" download="server"
              type="mods"
              website="http://github.com/Ellpeck/ActuallyAdditions"
              authors="Ellpeck"
@@ -304,7 +304,7 @@
              />
 
         <mod name="Brandon&apos;s Core"
-             version="1.10.2-2.1.0.40" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.0.40-universal.jar" file="BrandonsCore-1.10.2-2.1.0.40-universal.jar" md5="64126832b92f244eb846eb5e3b48b527" download="server"
+             version="1.10.2-2.1.0.42" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.0.42-universal.jar" file="BrandonsCore-1.10.2-2.1.0.42-universal.jar" md5="f84c0f4d90e6a45cd3cf05d4d438bd4a" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/brandons-core"
              authors="brandon3055"
@@ -312,7 +312,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.0.0.93" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.0.93-universal.jar" file="Draconic-Evolution-1.10.2-2.0.0.93-universal.jar" md5="74495f09ac32a4824b8243b78873b1db" download="server"
+                 version="1.10.2-2.0.0.94" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.0.94-universal.jar" file="Draconic-Evolution-1.10.2-2.0.0.94-universal.jar" md5="905577f8bd2bc11ca44abcb53f1ce056" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
@@ -521,7 +521,7 @@
              />
 
         <mod name="Immersive Engineering"
-             version="0.10-40" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-40.jar" file="ImmersiveEngineering-0.10-40.jar" md5="b9d948726bcca30da29d6347409a05e1" download="server"
+             version="0.10-42" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-42.jar" file="ImmersiveEngineering-0.10-42.jar" md5="ab669ca6eee6152add0033371c23a50a" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231951/"
              authors="BluSunrize,Damien A.W. Hazard"
@@ -535,14 +535,6 @@
              website="https://github.com/Kobata/inventory-tweaks"
              authors="Jimeo Wan,Kobata"
              description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
-             />
-
-        <mod name="JourneyMap"
-             version="1.10.2-5.2.4" url="packs/ResonantRise/files/4.x/journeymap-1.10.2-5.2.4-unlimited.jar" file="journeymap-1.10.2-5.2.4-unlimited.jar" md5="c782fe7ce43b3a55f256fbde301eeeef" download="server"
-             type="mods"
-             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
-             authors="techbrew,mysticdrew"
-             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
              />
 
         <mod name="Just Enough Items"
@@ -876,7 +868,7 @@
              />
 
         <mod name="Refined Storage"
-             version="1.0.2" url="packs/ResonantRise/files/4.x/refinedstorage-1.0.2.jar" file="refinedstorage-1.0.2.jar" md5="951a87d1651d9898b02de3b2884a7299" download="server"
+             version="1.0.4" url="packs/ResonantRise/files/4.x/refinedstorage-1.0.4.jar" file="refinedstorage-1.0.4.jar" md5="4827407307f35b386f7644f60e676ec6" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
@@ -1304,6 +1296,22 @@
              website="http://minecraft.curseforge.com/projects/item-scroller" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="masa"
              description="Move items in inventory GUIs by scrolling the mouse wheel over slots with items in them"
+             />
+
+        <mod name="JourneyMap"
+             version="1.10.2-5.2.4" url="packs/ResonantRise/files/4.x/journeymap-1.10.2-5.2.4-unlimited.jar" file="journeymap-1.10.2-5.2.4-unlimited.jar" md5="c782fe7ce43b3a55f256fbde301eeeef" download="server"
+             type="mods"
+             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="techbrew,mysticdrew"
+             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
+             />
+
+        <mod name="MapWriter"
+             version="2.6.19" url="packs/ResonantRise/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
+             authors="mapwriter"
+             description="An open source mini map mod"
              />
 
         <mod name="Surge"
