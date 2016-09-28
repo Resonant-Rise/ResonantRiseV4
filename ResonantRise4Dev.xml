@@ -537,7 +537,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="3.11.2.279" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.11.2.279.jar" file="jei_1.10.2-3.11.2.279.jar" md5="3292faa394638b701df52df6b5f89658" download="server"
+             version="3.11.2.280" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.11.2.280.jar" file="jei_1.10.2-3.11.2.280.jar" md5="e821ad134eb829dd4595033856ad585a" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
@@ -865,7 +865,7 @@
              />
 
         <mod name="Refined Storage"
-             version="1.0.5" url="packs/ResonantRise/files/4.x/refinedstorage-1.0.5.jar" file="refinedstorage-1.0.5.jar" md5="0e37d028f05f6dc6781afe273ee85ae7" download="server"
+             version="1.1" url="packs/ResonantRise/files/4.x/refinedstorage-1.1.jar" file="refinedstorage-1.1.jar" md5="a004ba6baeb05b33cb63d36bc2caa38a" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
