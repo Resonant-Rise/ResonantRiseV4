@@ -344,7 +344,7 @@
              />
 
         <mod name="Cyberware"
-             version="beta-0.2.2" url="packs/ResonantRiseDev/files/4.x/cyberware-1.9.4-1.10.2-beta-0.2.2.jar" file="cyberware-1.9.4-1.10.2-beta-0.2.2.jar" md5="10663609afe55a047b374af23e9af8bb" download="server" download="server"
+             version="beta-0.2.2" url="packs/ResonantRiseDev/files/4.x/cyberware-1.9.4-1.10.2-beta-0.2.2.jar" file="cyberware-1.9.4-1.10.2-beta-0.2.2.jar" md5="10663609afe55a047b374af23e9af8bb" download="server"
              type="mods"
              website="https://github.com/Flaxbeard/Cyberware"
              authors="Flaxbeard"
@@ -1005,7 +1005,7 @@
 -->
 
         <mod name="Tomb Many Graves"
-             version="1.10.2-2.1.10" url="packs/ResonantRiseDev/files/4.x/TombManyGraves-1.10.2-2.1.10.jar" file="TombManyGraves-1.10.2-2.1.10.jar" md5="bc649310e3cf8644fb63268c9c3db0d0" download="server" download="server"
+             version="1.10.2-2.1.10" url="packs/ResonantRiseDev/files/4.x/TombManyGraves-1.10.2-2.1.10.jar" file="TombManyGraves-1.10.2-2.1.10.jar" md5="bc649310e3cf8644fb63268c9c3db0d0" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/245224/"
              authors="M4thG33k"
