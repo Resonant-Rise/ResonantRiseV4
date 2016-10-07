@@ -499,14 +499,6 @@
              description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
              />
 
-        <mod name="JourneyMap"
-             version="1.10.2-5.2.4" url="packs/ResonantRiseDev/files/RR4-1.10.2/JOURNEYMAP-1.10.2-5.2.4-UNLIMITED.jar" file="JOURNEYMAP-1.10.2-5.2.4-UNLIMITED.jar" md5="c782fe7ce43b3a55f256fbde301eeeef" download="server"
-             type="mods"
-             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
-             authors="techbrew,mysticdrew"
-             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
-             />
-
         <mod name="Just Enough Items"
              version="3.9.0.246" url="packs/ResonantRiseDev/files/4.x/jei_1.10.2-3.9.0.246.jar" file="jei_1.10.2-3.9.0.246.jar" md5="ebdf3e824a7e352eaab0fa42367fb71c" download="server"
              type="mods"
@@ -1071,12 +1063,12 @@
              description="Utility mod and multiblock API"
              />
 
-            <mod name="Big Reactors"
-                 version="0.4.5.6" url="packs/ResonantRiseDev/files/4.x/BigReactors-1.9.4-0.4.5.6.jar" file="BigReactors-1.9.4-0.4.5.6.jar" md5="9ff38e383abd77c7db9338c30d464ef7" download="server"
+            <mod name="Extreme Reactors"
+                 version="0.4.5.15" url="packs/ResonantRiseDev/files/4.x/ExtremeReactors-1.10.2-0.4.5.15.jar" file="ExtremeReactors-1.10.2-0.4.5.15.jar" md5="9ad45c4a5af5bbf02d2b3293e6554934" download="server"
                  type="mods"
-                 website="http://zerono.it/big-reactors"
+                 website="http://zerono.it/extreme-reactors"
                  authors="ErogenousBeef,ZeroNoRyouki,ABookFreak"
-                 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power."
+                 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef"
                  />
 
 
@@ -1209,6 +1201,22 @@
              website="http://minecraft.curseforge.com/projects/item-scroller" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="masa"
              description="Move items in inventory GUIs by scrolling the mouse wheel over slots with items in them"
+             />
+
+        <mod name="JourneyMap"
+             version="1.10.2-5.2.4" url="packs/ResonantRiseDev/files/RR4-1.10.2/JOURNEYMAP-1.10.2-5.2.4-UNLIMITED.jar" file="JOURNEYMAP-1.10.2-5.2.4-UNLIMITED.jar" md5="c782fe7ce43b3a55f256fbde301eeeef" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="techbrew,mysticdrew"
+             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
+             />
+
+        <mod name="MapWriter"
+             version="2.6.19" url="packs/ResonantRiseDev/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
+             authors="mapwriter"
+             description="An open source mini map mod"
              />
 
 <!--
