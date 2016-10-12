@@ -797,7 +797,7 @@
              />
 
         <mod name="Refined Storage"
-             version="0.9.4" url="packs/ResonantRiseDev/files/4.x/refinedstorage-0.9.4.jar" file="refinedstorage-0.9.4.jar" md5="36573512396b3726a02f684b533f730f" download="server"
+             version="1.1.1" url="packs/ResonantRiseDev/files/4.x/refinedstorage-1.1.1.jar" file="refinedstorage-1.1.1.jar" md5="201e3fb60e5730b86433f32bdc955f5e" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
