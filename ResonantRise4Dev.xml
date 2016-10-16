@@ -1278,6 +1278,22 @@
              />
 -->
 
+        <mod name="Valkyrie Lib"
+             version="1.10.2-0.10.3" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5d.jar" file="valkyrielib-1.10.2-0.10.5d.jar" md5="856cee160d5ae797edec8407c8fff2c0" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/valkyrielib"
+             authors="ValkyrieofNight"
+             description="Library for all of ValkyrieofNight&apos;s Mods"
+             />
+
+            <mod name="Environmental Tech"
+                 version="1.10.2-0.10.5a" url="packs/ResonantRise/files/4.x/environmentaltech-1.10.2-0.10.5e.jar" file="environmentaltech-1.10.2-0.10.5e.jar" md5="df1b84b143dc4bf70f170c33fb52f3e1" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/projects/environmental-tech"
+                 authors="ValkyrieofNight"
+                 description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
+                 />
+
         <mod name="Vein Miner"
              version="0.34.1"
              url="packs/ResonantRise/files/4.x/VeinMiner-0.34.1-1.9r57173be663.jar" file="VeinMiner-0.34.1-1.9r57173be663.jar" md5="8e845c7cdeedb4e856e37e9dfbdc8020" download="server"
