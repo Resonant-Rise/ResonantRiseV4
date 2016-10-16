@@ -622,6 +622,14 @@
              description="Upgradeable backpacks!"
              />
 
+        <mod name="IvToolkit"
+             version="1.2.8.5" url="packs/ResonantRise/files/4.x/IvToolkit-1.2.8.5.jar" file="IvToolkit-1.2.8.5.jar" md5="dbadcc1ed6137b7c61d232c47254c9d8" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/ivtoolkit" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ivtoolkit?gameCategorySlug=mc-mods&amp;projectID=224535&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
+             authors="Ivorius"
+             description="This is a framework that I mostly use in my own mods, for shared functionality."
+             />
+
         <mod name="Just Enough Items"
              version="3.12.8.323" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.12.8.323.jar" file="jei_1.10.2-3.12.8.323.jar" md5="bb9295e3bef3b4878f0a05a51f81a03a" download="server"
              type="mods"
