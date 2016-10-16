@@ -548,6 +548,14 @@
                  />
 -->
 
+        <mod name="Embers"
+             version="0.010" url="packs/ResonantRise/files/4.x/embers-0.010.jar" file="embers-0.010.jar" md5="088da60750c13a740b1709d81ba45033" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/embers"
+             authors="Elucent,AlexisMachina,ShadowGamerXY,werty1124"
+             description="Dwarven-style Magitech Mod"
+             />
+
         <mod name="Extra Utilities 2"
              version="1.1.0c" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-alpha-1.1.0c.jar" file="extrautils2-1.10.2-alpha-1.1.0c.jar" md5="e1e57bc17e3bdc0c598d053502378dac" download="server"
              type="mods"
