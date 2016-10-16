@@ -416,7 +416,7 @@
 
             <mod name="CodeChicken Lib"
                  version="2.4.2.106" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.4.2.106-universal.jar" file="CodeChickenLib-1.10.2-2.4.2.106-universal.jar" md5="d80f0259a0706f06e3f6c208538e0cdb" download="server"
-                 type="dependancy"
+                 type="dependency"
                  website="http://chickenbones.net/Pages/links.html"
                  authors="ChickenBones,covers1624"
                  description="CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things.."
