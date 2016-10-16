@@ -319,7 +319,7 @@
              />
 
             <mod name="ModularUtilities"
-                 version="" url="packs/ResonantRise/files/4.x/ModularUtilities-1.10.2-0.3.1.jar" file="ModularUtilities-1.10.2-0.3.1.jar" md5="1e90b08f823d8c00300fc9315cc292ce" download="server"
+                 version="0.3.1" url="packs/ResonantRise/files/4.x/ModularUtilities-1.10.2-0.3.1.jar" file="ModularUtilities-1.10.2-0.3.1.jar" md5="1e90b08f823d8c00300fc9315cc292ce" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/246390/"
                  authors="warlordjones"
