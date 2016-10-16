@@ -211,6 +211,7 @@
              description="Take a desk on me."
              />
 
+<!--
         <mod name="B.A.S.E"
              version="1.10-21" url="packs/ResonantRise/files/4.x/base-1.10-21-universal.jar" file="base-1.10-21-universal.jar" md5="a06b2ad774a1c9406c0b3432149616a5" download="server"
              type="mods"
@@ -218,6 +219,7 @@
              authors="Lanse505,Jared,EwyBoy"
              description="Placeholder Text"
              />
+-->
 
         <mod name="Baubles"
              version="1.10.2-1.3.BETA11" url="packs/ResonantRise/files/4.x/Baubles-1.10.2-1.3.BETA11.jar" file="Baubles-1.10.2-1.3.BETA11.jar" md5="fc4c3b2e3b3c3a9e398fb056db8f9e0d" download="server"
