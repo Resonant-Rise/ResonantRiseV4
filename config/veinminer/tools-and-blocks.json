@@ -400,7 +400,8 @@
       "blocklist": [
         "minecraft:clay",
         "minecraft:gravel",
-        "minecraft:sand"
+        "minecraft:sand",
+        "mekanism:SaltBlock"
       ]
     }
   }
