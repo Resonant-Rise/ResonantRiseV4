@@ -304,7 +304,8 @@
       ],
       "blocklist": [
         "minecraft:clay",
-        "minecraft:gravel"
+        "minecraft:gravel",
+        "mekansim:SaltBlock"
       ]
     }
   }
