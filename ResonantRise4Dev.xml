@@ -169,6 +169,7 @@
                  description="Adds various food-related HUD improvements"
                  />
 
+<!--
         <mod name="Aroma1997Core"
              version="1.1.0.3"
              url="packs/ResonantRise/files/4.x/Aroma1997Core-1.9.4-1.1.0.3.jar" file="Aroma1997Core-1.9.4-1.1.0.3.jar" md5="44a7477b438254a9cccc1ba1c4b243d2" download="server"
@@ -186,6 +187,7 @@
                  authors="Aroma1997,Schillaa"
                  description="This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)"
                  />
+-->
 
         <mod name="AutoRegLib"
              version="1.0-2" url="packs/ResonantRise/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
@@ -312,6 +314,7 @@
              description="Rituals, spells, and more!"
              />
 
+<!--
         <mod name="Boilerplate"
              version="1.10.2-9.0.1" url="packs/ResonantRise/files/4.x/Boilerplate-1.10.2-9.0.1.jar" file="Boilerplate-1.10.2-9.0.1.jar" md5="90ad74d6546b526a62525583b1754ce3" download="server"
              type="mods"
@@ -327,6 +330,7 @@
                  authors="warlordjones"
                  description="BrassUtils, rewritten for 1.9.4. Plus new shinies!"
                  />
+-->
 
         <mod name="Botania"
              version="r1.9-332" url="packs/ResonantRise/files/4.x/Botania r1.9-332.jar" file="Botania r1.9-332.jar" md5="f798db2504dbd37917c537379f47ad26" download="server"
@@ -490,6 +494,7 @@
                  description="Power generation based on resonanting crystals"
                  />
 
+<!--
         <mod name="Enchiridion"
              version="1.10.2-3.1.12" url="packs/ResonantRise/files/4.x/Enchiridion-1.10.2-3.1.12.jar" file="Enchiridion-1.10.2-3.1.12.jar" md5="03e31507affe2cc0e26df2f2bbb66762" download="server"
              type="mods"
@@ -497,6 +502,7 @@
              authors="joshie"
              description="Books mod for minecraft"
              />
+-->
 
         <mod name="Ender Compass"
              version="1.2.3.2" url="packs/ResonantRise/files/4.x/EnderCompass-1.9.x-1.2.3.2.jar" file="EnderCompass-1.9.x-1.2.3.2.jar" md5="bb9666ed48ab0273e032427b2acf3158" download="server"
@@ -864,7 +870,7 @@
 
         <mod name="Morpheus"
              version="1.10.2-3.1.8" url="packs/ResonantRise/files/4.x/Morpheus-1.10.2-3.1.8.jar" file="Morpheus-1.10.2-3.1.8.jar" md5="6c0513eb35c5175c48b96f56d1b18990" download="server"
-             type="mods"
+             type="mods" client="no" server="yes"
              website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="Quetzi"
              description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
@@ -1339,13 +1345,13 @@
              description="Utility mod and multiblock API"
              />
 
-        <mod name="Extreme Reactors"
-             version="0.4.5.17" url="packs/ResonantRise/files/4.x/ExtremeReactors-1.10.2-0.4.5.17.jar" file="ExtremeReactors-1.10.2-0.4.5.17.jar" md5="1c1945761c1896cea940542d7292f02d" download="server"
-             type="mods"
-             website="http://zerono.it/extreme-reactors"
-             authors="ErogenousBeef,ZeroNoRyouki,ABookFreak"
-             description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef"
-             />
+            <mod name="Extreme Reactors"
+                 version="0.4.5.17" url="packs/ResonantRise/files/4.x/ExtremeReactors-1.10.2-0.4.5.17.jar" file="ExtremeReactors-1.10.2-0.4.5.17.jar" md5="1c1945761c1896cea940542d7292f02d" download="server"
+                 type="mods"
+                 website="http://zerono.it/extreme-reactors"
+                 authors="ErogenousBeef,ZeroNoRyouki,ABookFreak"
+                 description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef"
+                 />
 
 
 
@@ -1356,8 +1362,6 @@
             Core List:
             Actually Additions
             AppleCore
-            Aroma1997Core
-            Aroma1997 Dimensional World
             Auto Ore Dictionary Converter
             Bdlib
             Blood Magic
@@ -1425,7 +1429,6 @@
             Tinkers Construct
             Tesla
             Tesla Arsenal
-            Solar Village
             Terraqueous
             Trash Slot
             Veinminer
@@ -1498,6 +1501,8 @@
             Crafting Tweaks
             Default Options
             Item Scroller
+            Journeymap
+            Mapwriter
             Surge
 
         -->
