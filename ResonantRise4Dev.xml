@@ -1101,7 +1101,7 @@
         <mod name="Roguelike Dungeons"
              version="1.5.4" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.4.jar" file="RoguelikeDungeons-1.10.2-1.5.4.jar" md5="4d1bfb6001e522437a7abc08dd458c43" download="server"
              type="mods"
-             website="github.com/Greymerk/minecraft-roguelike"
+             website="https://github.com/Greymerk/minecraft-roguelike"
              authors="Greymerk"
              description="Adds randomized dungeons to the world"
              />
