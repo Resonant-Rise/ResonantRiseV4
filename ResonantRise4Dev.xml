@@ -452,6 +452,22 @@
              description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory."
              />
 
+        <mod name="MineTweaker 3"
+             version="1.10.2-3.0.12" url="packs/ResonantRise/files/4.x/CraftTweaker-1.10.2-3.0.12.jar" file="CraftTweaker-1.10.2-3.0.12.jar" md5="836ee1ede8cd786f80c4db4dfaa87170" download="server"
+             type="mods"
+             website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
+             authors="Stan Hebben"
+             description="Customize your minecraft experience!"
+             />
+
+            <mod name="Mod Tweaker"
+                 version="1.10.2-2.0.4" url="packs/ResonantRise/files/4.x/ModTweaker2-1.10.2-2.0.4.jar" file="ModTweaker2-1.10.2-2.0.4.jar" md5="02adcc35cf341451df7ac7dd1a5beed8" download="server"
+                 type="mods"
+                 website="https://minecraft.curseforge.com/projects/ModTweaker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g"
+                 authors="Jaredlll08,SnowShock35"
+                 description="ModTweaker is an addon for CraftTweaker, a recipe manipulator utility for Minecraft. It allows you to modify the recipes of other mods that add their own crafting mechanics"
+                 />
+
         <mod name="Custom Main Menu"
              version="2.0.2" url="packs/ResonantRise/files/4.x/CustomMainMenu-MC1.10.2-2.0.2.jar" file="CustomMainMenu-MC1.10.2-2.0.2.jar" md5="55cbc1d629a1476028e6868adf065a11" download="server"
              type="mods" server="no"
@@ -933,6 +949,14 @@
              description="Wands, wands, and more wands"
              />
 
+        <mod name="OpenComputers"
+             version="1.6.0.3-rc.1" url="packs/ResonantRise/files/4.x/OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" file="OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" md5="714a970c9ecb6513b530cc8c33298a72" download="server"
+             type="mods"
+             website="http://oc.cil.li/"
+             authors="Florian &apos;Sangar&apos; Nuecke,Johannes &apos;Lord Joda&apos; Lohrer,Everyone who contributed to the mod on Github - thank you!"
+             description="This mod adds modular computers and robots that can be programmed in Lua."
+             />
+
         <mod name="Ore Tweaker"
              version="1.0.2-1.10.2"
              url="packs/ResonantRise/files/4.x/OreTweaker-1.0.2-1.10.2.jar" file="OreTweaker-1.0.2-1.10.2.jar" md5="65c2a7f5350662153a568ca50a2d378d" download="server"
@@ -972,6 +996,14 @@
              authors="Vazkii"
              description="Psionic SpellCasting Instruments"
              />
+
+            <mod name="PSIonic Upgrades"
+                 version="1.15" url="packs/ResonantRise/files/4.x/PSIonicUpgrades-r1.15.jar" file="PSIonicUpgrades-r1.15.jar" md5="9e28f2ffcf018e3c0418a16acc44614b" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/247038/"
+                 authors="WireSegal"
+                 description="Assorted addons for PSI."
+                 />
 
 <!--
         <mod name="QuantumFlux"
