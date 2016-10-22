@@ -973,6 +973,7 @@
              description="Psionic SpellCasting Instruments"
              />
 
+<!--
         <mod name="QuantumFlux"
              version="1.10.2-2.0.8" url="packs/ResonantRise/files/4.x/quantumflux-1.10.2-2.0.8.jar" file="quantumflux-1.10.2-2.0.8.jar" md5="d169edd550a9fbdbc565f1b11cae0c81" download="server"
              type="mods"
@@ -980,6 +981,7 @@
              authors="Jotato"
              description="Wireless Redstone Flux"
              />
+-->
 
         <mod name="Quark"
              version="r1.0-56" url="packs/ResonantRise/files/4.x/Quark-r1.0-56.jar" file="Quark-r1.0-56.jar" md5="d474eb4f6627fee18877e03245db930c" download="server"
@@ -1295,7 +1297,6 @@
              description="Adds a trash slot to the inventory screen that allows deletion of unwanted items."
              />
 
-<!--
         <mod name="UniDict"
              version="2.3b" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-2.3b.jar" file="UniDict-1.10.2-2.3b.jar" md5="509793d49ae392ddda6ef166eb06c99c" download="server"
              type="mods"
@@ -1303,7 +1304,6 @@
              authors="WanionCane"
              description="a mod about unifying all the things."
              />
--->
 
         <mod name="Valkyrie Lib"
              version="1.10.2-0.10.3" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5d.jar" file="valkyrielib-1.10.2-0.10.5d.jar" md5="856cee160d5ae797edec8407c8fff2c0" download="server"
