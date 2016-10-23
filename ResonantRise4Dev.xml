@@ -769,6 +769,7 @@
                  description="Smeltery Upgrade!"
                  />
 
+<!--
             <mod name="Tinkers Tool Leveling"
                  version="1.10.2-1.0.0" url="packs/ResonantRise/files/4.x/TinkerToolLeveling-1.10.2-1.0.0.jar" file="TinkerToolLeveling-1.10.2-1.0.0.jar" md5="f72197c217a2849ac80c019ed07d96bb" download="server"
                  type="mods"
@@ -776,6 +777,7 @@
                  authors="boni"
                  description="A small mod that gives your tools XP and awards extra modifiers on levelup"
                  />
+-->
 
         <mod name="McJtyLib"
              version="1.10-2.2.0-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.10-2.2.0.jar" file="mcjtylib-1.10-2.2.0.jar" md5="85b531e3a970482cd2a6d9ba2fb009b5" download="server"
