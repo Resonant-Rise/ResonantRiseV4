@@ -205,6 +205,7 @@
                  description="The book of books."
                  />
 
+<!--
         <mod name="Bagelsmore: The Return"
              version="1.0.1" url="packs/ResonantRise/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
              type="mods"
@@ -212,6 +213,7 @@
              authors="Ollie Lansdell"
              description="Take a desk on me."
              />
+-->
 
 <!--
         <mod name="B.A.S.E"
