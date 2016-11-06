@@ -980,12 +980,14 @@
              description="Allows you to tweak vanilla ore generation"
              />
 
+<!--
         <mod name="Pam&apos;s Get all the Seeds!"
              version="1.9.4-1.10.2a" url="packs/ResonantRise/files/4.x/Pams Get all the Seeds! 1.9.4-1.10.2a.jar" file="Pams Get all the Seeds! 1.9.4-1.10.2a.jar" md5="a99e7df8517bd0666454dbbbdb9fdf4d" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/pams-get-all-the-seeds?gameCategorySlug=mc-mods&amp;projectID=221914&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_"
              authors="Pamela Collins" description="This mod makes pumpkin seeds, melon seeds, carrots, and potatoes drop from tall grass at a very low frequency in addition to ..."
              />
+-->
 
         <mod name="Pam&apos;s HarvestCraft"
              version="1.9.4-1.10.2g" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4-1.10.2g.jar" file="Pams HarvestCraft 1.9.4-1.10.2g.jar" md5="07716fdc409d7e3af069cafbb79a7102" download="server"
@@ -1512,6 +1514,7 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
+<!--
         <mod name="Default Options"
              version="6.1.5"
              url="packs/ResonantRise/files/4.x/DefaultOptions_1.10.2-6.1.5.jar" file="DefaultOptions_1.10.2-6.1.5.jar" md5="0d8289e550100778a67fbf5a37b82d7a" download="server"
@@ -1520,6 +1523,7 @@
              authors="BlayTheNinth"
              description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
              />
+-->
 
         <mod name="Item Scroller"
              version="0.7.1" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.7.1.jar" file="itemscroller-1.10.2-0.7.1.jar" md5="a036930a75f4f62572eb0e161478a9b6" download="server"
