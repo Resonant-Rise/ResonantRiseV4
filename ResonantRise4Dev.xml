@@ -539,6 +539,14 @@
                  description="More Mobs"
                  />
 
+        <mod name="Ender Utilities"
+             version="0.6.5" url="packs/ResonantRise/files/4.x/enderutilities-1.10.2-0.6.5.jar" file="enderutilities-1.10.2-0.6.5.jar" md5="5ec37c06ae3eba05e7fbb493ea6927fb" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/ender-utilities" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ender-utilities?gameCategorySlug=mc-mods&amp;projectID=224320&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_"
+             authors="masa"
+             description="Some random, hopefully fun, and possibly even useful utilities (Modjam 4)"
+             />
+
 <!--
         <mod name="EXCore"
              version="1.6.1"
@@ -1044,6 +1052,22 @@
              authors="CovertJaguar"
              description="Redefine your rails"
              />
+
+        <mod name="RebornCore"
+             version="2.7.3.47" url="packs/ResonantRise/files/4.x/RebornCore-1.10.2-2.8.1.64-universal.jar" file="RebornCore-1.10.2-2.8.1.64-universal.jar" md5="d2b5161496e68f2fe1293a09183ae5c8" download="server"
+             type="mods"
+             website="https://github.com/TechReborn/RebornCore"
+             authors="modmuss50,Gigabit101"
+             description="RebornCore, A core set of classes."
+             />
+
+            <mod name="QuantumStorage"
+                 version="3.2.7" url="packs/ResonantRise/files/4.x/QuantumStorage-1.10.2-3.2.7.jar" file="QuantumStorage-1.10.2-3.2.7.jar" md5="f98217d49531eb660ab93f085c530f82" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/235121/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/quantumstorage?gameCategorySlug=mc-mods&amp;projectID=235121&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_dona"
+                 authors="Gigabit101"
+                 description="A mod that adds a Deep Storage Unit to hold all the things "
+                 />
 
         <mod name="Recurrent Complex"
              version="1.2.3.4" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.2.3.4.jar" file="RecurrentComplex-1.2.3.4.jar" md5="6668dd33fcb3e8daaf556b8bd6d62d46" download="server"
