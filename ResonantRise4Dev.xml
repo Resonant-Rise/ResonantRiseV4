@@ -1256,6 +1256,7 @@
              description="TBA"
              />
 
+<!--
             <mod name="Tesla Arsenal"
                  version="1.4" url="packs/ResonantRise/files/4.x/TeslaArsenal-1.4.jar" file="TeslaArsenal-1.4.jar" md5="cf6e2290ed8cc8f466f4390c357b123c" download="server"
                  type="mods"
@@ -1263,6 +1264,7 @@
                  authors="koxhack"
                  description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API"
                  />
+-->
 
 <!--
             <mod name="Tesla Coils"
