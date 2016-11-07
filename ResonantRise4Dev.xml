@@ -1547,7 +1547,7 @@
 
         <mod name="Schematica"
              version="1.7.8.153" url="packs/ResonantRise/files/4.x/Schematica-1.10.2-1.7.8.153-universal.jar" file="Schematica-1.10.2-1.7.8.153-universal.jar" md5="6524bd7464b40b961b4c2ce14b8824bf" download="server"
-             type="mods"
+             type="mods" optional="yes" server="no"
              website="http://mc.lunatri.us/"
              authors="Lunatrius"
              description="Import and export Minecraft schematic files in Minecraft!"
