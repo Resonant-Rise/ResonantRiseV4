@@ -169,6 +169,14 @@
                  description="Adds various food-related HUD improvements"
                  />
 
+        <mod name="ArchitectureCraft"
+             version="1.5.1-mc1.10.2" url="packs/ResonantRise/files/4.x/ArchitectureCraft-1.5.1-mc1.10.2.jar" file="ArchitectureCraft-1.5.1-mc1.10.2.jar" md5="816d5fc8e37f7294c2731d1df67ff94c" download="server"
+             type="mods"
+             website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ArchitectureCraft/"
+             authors="Greg Ewing"
+             description="Distinguished architectural features for your Minecraft buildings."
+             />
+
 <!--
         <mod name="Aroma1997Core"
              version="1.1.0.3"
@@ -573,6 +581,14 @@
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
              description="Trees, bees and more."
+             />
+
+        <mod name="Foundry"
+             version="2.2.1.0" url="packs/ResonantRise/files/4.x/Foundry-1.10.2-2.2.1.0.jar" file="Foundry-1.10.2-2.2.1.0.jar" md5="14040aaad314b5a758f54feefb4ca2ad" download="server"
+             type="mods"
+             website="https://github.com/EXTER7/Foundry"
+             authors="EXTER"
+             description="Liquid Metals"
              />
 
         <mod name="Gear Swapper"
@@ -1163,12 +1179,19 @@
                  />
 
         <mod name="Simple Dimensions"
-             version="1.3"
-             url="packs/ResonantRise/files/4.x/SimpleDimensions-MC1.10-1.3.jar" file="SimpleDimensions-MC1.10-1.3.jar" md5="c1a63e8a6679b69cc4302132053eb990" download="server"
+             version="1.3" url="packs/ResonantRise/files/4.x/SimpleDimensions-MC1.10-1.3.jar" file="SimpleDimensions-MC1.10-1.3.jar" md5="c1a63e8a6679b69cc4302132053eb990" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/235444/"
              authors="lumien"
              description="A simple mod that allows you to create additional dimensions."
+             />
+
+        <mod name="Simply Jetpacks 2"
+             version="2.0.3.19" url="packs/ResonantRise/files/4.x/SimplyJetpacks2-1.10.2-2.0.3.19.jar" file="SimplyJetpacks2-1.10.2-2.0.3.19.jar" md5="2dfac22df80ecce062d8ed45ea29b96f" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/simply-jetpacks-2" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/simply-jetpacks-2?gameCategorySlug=mc-mods&amp;projectID=251792&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=thomas.wolfgruber%40t-online.de&amp;bn=PP-DonationsBF"
+             authors="tonius11,Tomson124"
+             description="Redstone Flux jetpacks and more"
              />
 
 <!--
@@ -1238,6 +1261,14 @@
              website="https://github.com/EXTER7/Substratum"
              authors="EXTER"
              description="Base resources and crafting materials."
+             />
+
+        <mod name="Super Circuit Maker"
+             version="" url="packs/ResonantRise/files/4.x/SuperCircuitMaker-1.0.2.jar" file="SuperCircuitMaker-1.0.2.jar" md5="2c97f8f1ec0d5d47a4fb8a415e1cb477" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/248619/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/super-circuit-maker?gameCategorySlug=mc-mods&amp;projectID=248619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amadornes%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
+             authors="amadornes"
+             description="Ever wanted to build custom logic gates and complex circuits? Now you can! "
              />
 
         <mod name="Super Crafting Frame"
@@ -1346,6 +1377,14 @@
                  authors="ValkyrieofNight"
                  description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
                  />
+
+            <mod name="Simple Generators"
+                version="1.10.2-0.10.5b" url="packs/ResonantRise/files/4.x/simplegenerators-1.10.2-0.10.5b.jar" file="simplegenerators-1.10.2-0.10.5b.jar" md5="f60ce1ad8acf2ff198b6116a3d427778" download="server"
+                type="mods"
+                website="http://minecraft.curseforge.com/projects/simple-generators"
+                authors="ValkyrieofNight"
+                description="Simple Generators gives you access to several tiers of early game generators."
+                />
 
         <mod name="Vein Miner"
              version="0.34.1"
@@ -1482,17 +1521,6 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
-<!--
-        <mod name="Default Options"
-             version="6.1.5"
-             url="packs/ResonantRise/files/4.x/DefaultOptions_1.10.2-6.1.5.jar" file="DefaultOptions_1.10.2-6.1.5.jar" md5="0d8289e550100778a67fbf5a37b82d7a" download="server"
-             type="mods" optional="yes"
-             website="http://blay09.net"
-             authors="BlayTheNinth"
-             description="A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file."
-             />
--->
-
         <mod name="Item Scroller"
              version="0.7.1" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.7.1.jar" file="itemscroller-1.10.2-0.7.1.jar" md5="a036930a75f4f62572eb0e161478a9b6" download="server"
              type="mods" optional="yes" server="no"
@@ -1515,6 +1543,14 @@
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
              authors="mapwriter"
              description="An open source mini map mod"
+             />
+
+        <mod name="Schematica"
+             version="1.7.8.153" url="packs/ResonantRise/files/4.x/Schematica-1.10.2-1.7.8.153-universal.jar" file="Schematica-1.10.2-1.7.8.153-universal.jar" md5="6524bd7464b40b961b4c2ce14b8824bf" download="server"
+             type="mods"
+             website="http://mc.lunatri.us/"
+             authors="Lunatrius"
+             description="Import and export Minecraft schematic files in Minecraft!"
              />
 
         <mod name="Surge"
@@ -1580,6 +1616,14 @@
                  authors="LatvianModder"
                  description="FTBUtilities"
                  />
+
+        <mod name="TickProfiler"
+             version="1.10.2.jenkins.10" url="packs/ResonantRise/files/4.x/TickProfiler-1.10.2.jenkins.10.jar" file="TickProfiler-1.10.2.jenkins.10.jar" md5="85fb0d086b2ce9dbe79a17167a1156ea" download="server"
+             type="mods" client="no" optional="yes"
+             website="http://nallar.me/minecraft/"
+             authors="nallar"
+             description="A small mod for servers to assist with finding which TileEntities(machines) and Entities are being slow."
+             />
 
 
 
