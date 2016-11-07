@@ -449,6 +449,14 @@
                  description="ModTweaker is an addon for CraftTweaker, a recipe manipulator utility for Minecraft. It allows you to modify the recipes of other mods that add their own crafting mechanics"
                  />
 
+            <mod name="MTLib"
+                 version="1.0.0" url="packs/ResonantRise/files/4.x/MTLib-1.0.0.jar" file="MTLib-1.0.0.jar" md5="f7c092c4690ba180a7da0535226b245a" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/253211/"
+                 authors="Jaredlll08"
+                 description="Library files for Minetweaker Addons"
+                 />
+
         <mod name="Custom Main Menu"
              version="2.0.2" url="packs/ResonantRise/files/4.x/CustomMainMenu-MC1.10.2-2.0.2.jar" file="CustomMainMenu-MC1.10.2-2.0.2.jar" md5="55cbc1d629a1476028e6868adf065a11" download="server"
              type="mods" server="no"
@@ -796,7 +804,7 @@
                  />
 
         <mod name="MCMultiPart"
-             version="1.2.1" url="packs/ResonantRise/files/4.x/MCMultiPart-1.2.1-universal.jar" file="MCMultiPart-1.2.1-universal.jar" md5="8bfc727411eb9f4cd6d5027f71f24d41" download="server"
+             version="1.3.0" url="packs/ResonantRise/files/4.x/MCMultiPart-1.3.0-universal.jar" file="MCMultiPart-1.3.0-universal.jar" md5="0bbe580fc5562903f28df55a69984e91" download="server"
              type="dependency"
              website="http://www.curseforge.com/projects/239431/"
              authors="amadornes"
