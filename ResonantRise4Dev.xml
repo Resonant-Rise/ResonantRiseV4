@@ -1395,7 +1395,7 @@
              />
 
         <mod name="Valkyrie Lib"
-             version="1.10.2-0.10.3" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5d.jar" file="valkyrielib-1.10.2-0.10.5d.jar" md5="856cee160d5ae797edec8407c8fff2c0" download="server"
+             version="1.10.2-0.10.5d" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5d.jar" file="valkyrielib-1.10.2-0.10.5d.jar" md5="856cee160d5ae797edec8407c8fff2c0" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/valkyrielib"
              authors="ValkyrieofNight"
