@@ -592,7 +592,7 @@
              />
 
         <mod name="Forestry"
-             version="5.2.16.315" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.16.315.jar" file="forestry_1.10.2-5.2.16.315.jar" md5="5088edcbc1c41781ab873bcc9afa3367" download="server"
+             version="5.2.16.325" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.16.325.jar" file="forestry_1.10.2-5.2.16.325.jar" md5="814b749d664ea348475644992c0938d6" download="server"
              type="mods"
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
