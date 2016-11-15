@@ -343,6 +343,38 @@
              description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory."
              />
 
+        <mod name="CodeChicken Core"
+             version="2.3.5.91" url="packs/ResonantRiseDev/files/4.x/CodeChickenCore-1.10.2-2.3.5.91-universal.jar" file="CodeChickenCore-1.10.2-2.3.5.91-universal.jar" md5="82a30efa8470f7b670102f278784d5e8" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/909223"
+             authors="ChickenBones"
+             description="Base common code for all chickenbones mods."
+             />
+
+            <mod name="CodeChicken Lib"
+                 version="2.4.3.124" url="packs/ResonantRiseDev/files/4.x/CodeChickenLib-1.10.2-2.4.3.124-universal.jar" file="CodeChickenLib-1.10.2-2.4.3.124-universal.jar" md5="f6d847e32da08003c9d37a89800f4d28" download="server"
+                 type="mods"
+                 website="http://chickenbones.net/Pages/links.html"
+                 authors="ChickenBones,covers1624"
+                 description="CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things.."
+                 />
+
+            <mod name="ChickenChunks"
+                 version="2.1.5.42" url="packs/ResonantRiseDev/files/4.x/ChickenChunks-1.10.2-2.1.5.42-universal.jar" file="ChickenChunks-1.10.2-2.1.5.42-universal.jar" md5="7bd2885d463713d4d0433b2abf5f9a5f" download="server"
+                 type="mods"
+                 website="http://www.minecraftforum.net/topic/909223"
+                 authors="ChickenBones"
+                 description="Advanced chunkloading management Credits: Sanguine - Texture Supporters:"
+                 />
+
+            <mod name="Translocator"
+                 version="2.1.3.34" url="packs/ResonantRiseDev/files/4.x/Translocators-1.10.2-2.1.3.34-universal.jar" file="Translocators-1.10.2-2.1.3.34-universal.jar" md5="2c395af6db738a8e426b0bd516d34fac" download="server"
+                 type="mods"
+                 website="http://www.minecraftforum.net/topic/909223"
+                 authors="ChickenBones"
+                 description="Translocates stuff! Credits: MouseCop - Textures Supporters:"
+                 />
+
         <mod name="Custom Main Menu"
              version="2.0.2" url="packs/ResonantRiseDev/files/4.x/CustomMainMenu-MC1.10.2-2.0.2.jar" file="CustomMainMenu-MC1.10.2-2.0.2.jar" md5="55cbc1d629a1476028e6868adf065a11" download="server"
              type="mods" server="no"
