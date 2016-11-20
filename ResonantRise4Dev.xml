@@ -146,7 +146,7 @@
              />
 
         <mod name="Actually Additions"
-             version="1.10.2-r70" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r70.jar" file="ActuallyAdditions-1.10.2-r70.jar" md5="af659aae478bc912f8c7fab5126e41e3" download="server"
+             version="1.10.2-r75" url="packs/ResonantRise/files/4.x/ActuallyAdditions-1.10.2-r75.jar" file="ActuallyAdditions-1.10.2-r75.jar" md5="8e10aa8d29c02eee0b33bfdf81e16adc" download="server"
              type="mods"
              website="http://github.com/Ellpeck/ActuallyAdditions"
              authors="Ellpeck"
@@ -234,7 +234,7 @@
 -->
 
         <mod name="Baubles"
-             version="1.10.2-1.3.2" url="packs/ResonantRise/files/4.x/Baubles-1.10.2-1.3.2.jar" file="Baubles-1.10.2-1.3.2.jar" md5="d0d3da1617624b6e2cde77c2a23bcbec" download="server"
+             version="1.10.2-1.3.5" url="packs/ResonantRise/files/4.x/Baubles-1.10.2-1.3.5.jar" file="Baubles-1.10.2-1.3.5.jar" md5="017b91cd7c919ea89c8513fe3c0da947" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
              authors="Azanor"
@@ -576,7 +576,7 @@
              />
 
         <mod name="Extra Utilities 2"
-             version="1.2.2" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-alpha-1.2.2.jar" file="extrautils2-1.10.2-alpha-1.2.2.jar" md5="b3f94dc26c24014f2239df110b486d91" download="server"
+             version="1.0.0" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.0.0.jar" file="extrautils2-1.10.2-1.0.0.jar" md5="ba0def88c507d54b6d3e679161271ea6" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225561/"
              authors="RWTema"
@@ -633,7 +633,7 @@
              />
 
         <mod name="Immersive Engineering"
-             version="0.10-48" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-48.jar" file="ImmersiveEngineering-0.10-48.jar" md5="99e437232c52d8dc93adbb22890dab56" download="server"
+             version="0.10-49" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-49.jar" file="ImmersiveEngineering-0.10-49.jar" md5="cbf26bc219d676d6d6b17bb394006580" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231951/"
              authors="BluSunrize,Damien A.W. Hazard"
@@ -820,7 +820,7 @@
              />
 
         <mod name="MattDahEpic Core"
-             version="1.10.2-1.2" url="packs/ResonantRise/files/4.x/mdecore-1.10.2-1.2.jar" file="mdecore-1.10.2-1.2.jar" md5="4274f887cea544e2aa93700e2fedabdf" download="server"
+             version="1.10.2-1.3" url="packs/ResonantRise/files/4.x/mdecore-1.10.2-1.3.jar" file="mdecore-1.10.2-1.3.jar" md5="866037a1a342767baab998acba815f09" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/229595/"
              authors="MattDahEpic"
@@ -837,7 +837,7 @@
                  />
 
             <mod name="Exchange Orb"
-                 version="1.10.2-1.0.1" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.0.1.jar" file="exchangeorb-1.10.2-1.0.1.jar" md5="19b1a19811582840f5bcadedcfd5296a" download="server"
+                 version="1.10.2-1.1" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.1.jar" file="exchangeorb-1.10.2-1.1.jar" md5="0874b014d5a0cfaca176526b01bb81f7" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/226399/"
                  authors="MattDahEpic"
@@ -996,7 +996,7 @@
              />
 
         <mod name="Progressive Automation"
-             version="1.6.51" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.10.2-1.6.51.jar" file="ProgressiveAutomation-1.10.2-1.6.51.jar" md5="588cd222f70409a92e0e1e15e10263cc" download="server"
+             version="1.6.53" url="packs/ResonantRise/files/4.x/ProgressiveAutomation-1.10.2-1.6.53.jar" file="ProgressiveAutomation-1.10.2-1.6.53.jar" md5="72249d0ca709f40a9832f4af2db13bb8" download="server"
              type="mods"
              website="https://github.com/Vanhal/ProgressiveAutomation/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/progressive-automation-early-miner?gameCategorySlug=mc-mods&amp;projectID=220606&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=obriensh%40gmail.com&amp;bn=PP-Donati"
              authors="Vanhal"
@@ -1086,7 +1086,7 @@
              />
 
         <mod name="Refined Storage"
-             version="1.1.3" url="packs/ResonantRise/files/4.x/refinedstorage-1.1.3.jar" file="refinedstorage-1.1.3.jar" md5="d5c8e53b9548705108591b4ae42aebd2" download="server"
+             version="1.2.3" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.3.jar" file="refinedstorage-1.2.3.jar" md5="22bd72cc35629cd698c7ffc426f9951b" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
@@ -1350,7 +1350,7 @@
              />
 
         <mod name="The One Probe"
-             version="1.10-1.2.1" url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.2.1.jar" file="theoneprobe-1.10-1.2.1.jar" md5="716412502f3fe4e3936b6afbf17f371f" download="server"
+             version="1.10-1.3.3" url="packs/ResonantRise/files/4.x/theoneprobe-1.10-1.3.3.jar" file="theoneprobe-1.10-1.3.3.jar" md5="1b3e3b8a488a56f4a1a696a47754e591" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/245211/"
              authors="McJty"
@@ -1395,7 +1395,7 @@
              />
 
         <mod name="Valkyrie Lib"
-             version="1.10.2-0.10.5d" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5d.jar" file="valkyrielib-1.10.2-0.10.5d.jar" md5="856cee160d5ae797edec8407c8fff2c0" download="server"
+             version="1.10.2-0.10.5e" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5e.jar" file="valkyrielib-1.10.2-0.10.5e.jar" md5="16cb0d79e05838102f4e9d0bc950766a" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/valkyrielib"
              authors="ValkyrieofNight"
@@ -1403,13 +1403,14 @@
              />
 
             <mod name="Environmental Tech"
-                 version="1.10.2-0.10.5g" url="packs/ResonantRise/files/4.x/environmentaltech-1.10.2-0.10.5g.jar" file="environmentaltech-1.10.2-0.10.5g.jar" md5="43e1ab2ab81f0cbeec879d9731b14e94" download="server"
+                 version="1.10.2-0.10.5h" url="packs/ResonantRise/files/4.x/environmentaltech-1.10.2-0.10.5h.jar" file="environmentaltech-1.10.2-0.10.5h.jar" md5="9a2f09b757e4265988f2f15f19ca6a37" download="server"
                  type="mods"
                  website="http://minecraft.curseforge.com/projects/environmental-tech"
                  authors="ValkyrieofNight"
                  description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
                  />
 
+<!--
             <mod name="Simple Generators"
                 version="1.10.2-0.10.5b" url="packs/ResonantRise/files/4.x/simplegenerators-1.10.2-0.10.5b.jar" file="simplegenerators-1.10.2-0.10.5b.jar" md5="f60ce1ad8acf2ff198b6116a3d427778" download="server"
                 type="mods"
@@ -1417,6 +1418,7 @@
                 authors="ValkyrieofNight"
                 description="Simple Generators gives you access to several tiers of early game generators."
                 />
+-->
 
         <mod name="Vein Miner"
              version="0.34.1"
