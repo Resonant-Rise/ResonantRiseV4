@@ -633,7 +633,7 @@
              />
 
         <mod name="Immersive Engineering"
-             version="0.10-49" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-49.jar" file="ImmersiveEngineering-0.10-49.jar" md5="cbf26bc219d676d6d6b17bb394006580" download="server"
+             version="0.10-48" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-48.jar" file="ImmersiveEngineering-0.10-48.jar" md5="99e437232c52d8dc93adbb22890dab56" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231951/"
              authors="BluSunrize,Damien A.W. Hazard"
