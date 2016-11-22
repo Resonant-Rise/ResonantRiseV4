@@ -377,6 +377,7 @@
              description="a mod about Sculpting, Decorating and Aesthetics"
              />
 
+<!--
         <mod name="CobbleWorks"
              version="1.2.1" url="packs/ResonantRise/files/4.x/Cobbleworks 1.10.2-1.2.1.jar" file="Cobbleworks 1.10.2-1.2.1.jar" md5="c2de14bccc7b217a9ba974c39a6b4f38" download="server"
              type="mods"
@@ -384,6 +385,7 @@
              authors="Name_Is_Taken_Now,CobbleWorksMC"
              description="A small mod with a single goal: Generate the basics!"
              />
+-->
 
         <mod name="CodeChicken Core"
              version="2.3.5.91" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.3.5.91-universal.jar" file="CodeChickenCore-1.10.2-2.3.5.91-universal.jar" md5="82a30efa8470f7b670102f278784d5e8" download="server"
@@ -788,7 +790,7 @@
              />
 
             <mod name="RFTools"
-                 version="1.10-5.58" url="packs/ResonantRise/files/4.x/rftools-1.10-5.58.jar" file="rftools-1.10-5.58.jar" md5="3bf104605f9b414aacaef32ca9dac78a" download="server"
+                 version="1.10-5.62" url="packs/ResonantRise/files/4.x/rftools-1.10-5.62.jar" file="rftools-1.10-5.62.jar" md5="b0e9464846a4cc15e33dde48eaf6cb9b" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                  authors="McJty"
@@ -796,7 +798,7 @@
                  />
 
             <mod name="RFTools Dimensions"
-                 version="1.10-4.44" url="packs/ResonantRise/files/4.x/rftoolsdim-1.10-4.44.jar" file="rftoolsdim-1.10-4.44.jar" md5="fb077dc36d8cbc9ce287a2028e3865ba" download="server"
+                 version="1.10-4.45" url="packs/ResonantRise/files/4.x/rftoolsdim-1.10-4.45.jar" file="rftoolsdim-1.10-4.45.jar" md5="8a333111781f32b04fce9078fa3508c2" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/240950/"
                  authors="McJty"
@@ -804,7 +806,7 @@
                  />
 
             <mod name="RFTools Control"
-                 version="1.10-1.5.1" url="packs/ResonantRise/files/4.x/rftoolsctrl-1.10-1.5.1.jar" file="rftoolsctrl-1.10-1.5.1.jar" md5="9766182ec0a67fb72d3aba78274693fa" download="server"
+                 version="1.10-1.5.2" url="packs/ResonantRise/files/4.x/rftoolsctrl-1.10-1.5.2.jar" file="rftoolsctrl-1.10-1.5.2.jar" md5="bcf7a3df10cd5c05dd2d550a6d28d507" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/250763/"
                  authors="McJty"
@@ -1110,6 +1112,7 @@
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
              />
 
+<!--
         <mod name="Rice Crafting Table"
              version="Beta-2" url="packs/ResonantRise/files/4.x/RiceCraftingTableBeta2.jar" file="RiceCraftingTableBeta2.jar" md5="617f795e68e3b18a4d0f724814e7fa01" download="server"
              type="mods"
@@ -1117,6 +1120,7 @@
              authors="KewaiiGamer,TheBritishBrotherhood,vincentmet"
              description="A 9x9 crafting table for all your hardcore needs."
              />
+-->
 
         <mod name="Roguelike Dungeons"
              version="1.5.4" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.4.jar" file="RoguelikeDungeons-1.10.2-1.5.4.jar" md5="4d1bfb6001e522437a7abc08dd458c43" download="server"
