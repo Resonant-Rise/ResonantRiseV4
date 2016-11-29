@@ -153,6 +153,7 @@
              description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!"
              />
 
+<!--
         <mod name="AppleCore"
              version="2.0.1" url="packs/ResonantRise/files/4.x/AppleCore-mc1.10.2-2.0.1.jar" file="AppleCore-mc1.10.2-2.0.1.jar" md5="67d7b08ca5e97b0e2a8ec509f70f7207" download="server"
              type="mods"
@@ -160,6 +161,7 @@
              authors="squeek502"
              description="An API for modifying the food and hunger mechanics of Minecraft"
              />
+-->
 
             <mod name="AppleSkin"
                  version="1.0.4" url="packs/ResonantRise/files/4.x/AppleSkin-mc1.10.2-1.0.4.jar" file="AppleSkin-mc1.10.2-1.0.4.jar" md5="682d5bb9795be7cb7d86445610b514ea" download="server"
