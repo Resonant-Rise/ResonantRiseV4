@@ -551,26 +551,6 @@
              description="Some random, hopefully fun, and possibly even useful utilities (Modjam 4)"
              />
 
-<!--
-        <mod name="EXCore"
-             version="1.6.1"
-             url="packs/ResonantRise/files/4.x/Excore-1.6.1-1.10.2.jar" file="Excore-1.6.1-1.10.2.jar" md5="b032672dd613b84e1f9bac4b54098a3b" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/233180/"
-             authors="Elix_x"
-             description="Elix&apos;x Core"
-             />
-
-            <mod name="Forever Enough Items"
-                 version="1.0.15"
-                 url="packs/ResonantRise/files/4.x/ForeverEnoughItems-1.0.15-1.10.2.jar" file="ForeverEnoughItems-1.0.15-1.10.2.jar" md5="6ee0b1e5af02f6182c2603f57bb4fc11" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/244314/"
-                 authors="Elix_x"
-                 description="FEI === NEI for 1.9 === JEI + Chunk Edge Indicator + Light Level Overlay Reloaded + More"
-                 />
--->
-
         <mod name="Embers"
              version="0.010" url="packs/ResonantRise/files/4.x/embers-0.010.jar" file="embers-0.010.jar" md5="088da60750c13a740b1709d81ba45033" download="server"
              type="mods"
@@ -879,17 +859,6 @@
              description="MineMenu supports key bindings, commands, and creative functions to make your life easier."
              />
 
-<!--
-        <mod name="MmmMmmMmmMmm"
-             version="1.11"
-             url="packs/ResonantRise/files/4.x/MmmMmmMmmMmm-1.11.jar" file="MmmMmmMmmMmm-1.11.jar" md5="7849460650455fc1bb96e6c131320067" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/225738/"
-             authors="boni"
-             description="Provides a test dummy that can be placed in the world. Punch it, kick it, slice it, push it, pop it, twist it,...."
-             />
--->
-
         <mod name="Morpheus"
              version="1.10.2-3.1.9" url="packs/ResonantRise/files/4.x/Morpheus-1.10.2-3.1.9.jar" file="Morpheus-1.10.2-3.1.9.jar" md5="dd6389719309ae76cc6acef25aa42e4e" download="server"
              type="mods" client="no" server="yes"
@@ -982,15 +951,6 @@
              description="Allows you to tweak vanilla ore generation"
              />
 
-<!--
-        <mod name="Pam&apos;s Get all the Seeds!"
-             version="1.9.4-1.10.2a" url="packs/ResonantRise/files/4.x/Pams Get all the Seeds! 1.9.4-1.10.2a.jar" file="Pams Get all the Seeds! 1.9.4-1.10.2a.jar" md5="a99e7df8517bd0666454dbbbdb9fdf4d" download="server"
-             type="mods"
-             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/pams-get-all-the-seeds?gameCategorySlug=mc-mods&amp;projectID=221914&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_"
-             authors="Pamela Collins" description="This mod makes pumpkin seeds, melon seeds, carrots, and potatoes drop from tall grass at a very low frequency in addition to ..."
-             />
--->
-
         <mod name="Pam&apos;s HarvestCraft"
              version="1.9.4-1.10.2g" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4-1.10.2h.jar" file="Pams HarvestCraft 1.9.4-1.10.2h.jar" md5="49095051cacbf4a1554374f58c3f74da" download="server"
              type="mods"
@@ -1022,16 +982,6 @@
                  authors="WireSegal"
                  description="Assorted addons for PSI."
                  />
-
-<!--
-        <mod name="QuantumFlux"
-             version="1.10.2-2.0.8" url="packs/ResonantRise/files/4.x/quantumflux-1.10.2-2.0.8.jar" file="quantumflux-1.10.2-2.0.8.jar" md5="d169edd550a9fbdbc565f1b11cae0c81" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/228609/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/quantumflux?gameCategorySlug=mc-mods&amp;projectID=228609&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jotato%40zoho.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
-             authors="Jotato"
-             description="Wireless Redstone Flux"
-             />
--->
 
         <mod name="Quark"
              version="r1.0-59" url="packs/ResonantRise/files/4.x/Quark-r1.0-59.jar" file="Quark-r1.0-59.jar" md5="94f15797090fbb6fc4e59f5535bea6c8" download="server"
@@ -1114,16 +1064,6 @@
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
              />
 
-<!--
-        <mod name="Rice Crafting Table"
-             version="Beta-2" url="packs/ResonantRise/files/4.x/RiceCraftingTableBeta2.jar" file="RiceCraftingTableBeta2.jar" md5="617f795e68e3b18a4d0f724814e7fa01" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/251216/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/rice-crafting-table?gameCategorySlug=mc-mods&amp;projectID=251216&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=miguelviegas1999%40gmail.com&amp;bn=PP-DonationsBF:"
-             authors="KewaiiGamer,TheBritishBrotherhood,vincentmet"
-             description="A 9x9 crafting table for all your hardcore needs."
-             />
--->
-
         <mod name="Roguelike Dungeons"
              version="1.5.4" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.4.jar" file="RoguelikeDungeons-1.10.2-1.5.4.jar" md5="4d1bfb6001e522437a7abc08dd458c43" download="server"
              type="mods"
@@ -1156,16 +1096,6 @@
              authors="Team RTG"
              description="Adds a new world type which generates realistic terrain for Overworld biomes."
              />
-
-<!--
-        <mod name="Shear Madness"
-             version="1.3.0" url="packs/ResonantRise/files/4.x/shearmadness-1.10.2-1.3.0.jar" file="shearmadness-1.10.2-1.3.0.jar" md5="43c7dddd73fb4e4cf611a15bfa612590" download="server"
-             type="mods"
-             website="http://github.com/AtomicBlom/ShearMadness"
-             authors="AtomicBlom"
-             description="That thing you&apos;ve always wanted to do with a chisel."
-             />
--->
 
         <mod name="ShetiPhian-Core"
              version="1.10.0-3.3.3" url="packs/ResonantRise/files/4.x/shetiphiancore-1.10.0-3.3.3.jar" file="shetiphiancore-1.10.0-3.3.3.jar" md5="10eb27b02dec73b3da583552a5abb1b6" download="server"
@@ -1232,17 +1162,6 @@
              description="Redstone Flux jetpacks and more"
              />
 
-<!--
-        <mod name="Solar Flux"
-             version="1.9.4_0.7b"
-             url="packs/ResonantRise/files/4.x/SolarFluxReborn-1.9.4_0.7b.jar" file="SolarFluxReborn-1.9.4_0.7b.jar" md5="abfb165073cbb65c5c7779acabdfa8bd" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/246974/"
-             authors="MrDimkas_Studio"
-             description="Solar Panels producing Redstone Flux"
-             />
--->
-
         <mod name="SonarCore"
              version="1.9.4-3.1.6" url="packs/ResonantRise/files/4.x/SonarCore-1.9.4-3.1.6.jar" file="SonarCore-1.9.4-3.1.6.jar" md5="6462544098b6f17b662b0380fa915fd5" download="server"
              type="mods"
@@ -1283,16 +1202,6 @@
                  description="Specialized storage drawers for Chisels &amp; Bits."
                  />
 
-<!--
-            <mod name="Chisels &amp; Bytes"
-                 version="11.9" url="packs/ResonantRise/files/4.x/chiselsandbits-11.9.jar" file="chiselsandbits-11.9.jar" md5="f4b70b1d1c0390e814920915ae0f7c5e" download="server"
-                 type="mods"
-                 website="https://github.com/Belgabor/ChiselsBytes"
-                 authors="Belgabor"
-                 description="Chisels &amp; Bytes is an addon for the Minecraft mod Chisels &amp; Bits by AlgorithmX2. The mod allows you to export a Chisels &amp; Bits block as a descriptive file for the OpenComputers 3d printer and works client-side only."
-                 />
--->
-
         <mod name="Substratum"
              version="1.8.2.0" url="packs/ResonantRise/files/4.x/Substratum-1.10.2-1.8.2.0.jar" file="Substratum-1.10.2-1.8.2.0.jar" md5="fcd636ce7452e6ddbd629a34a1d6f133" download="server"
              type="mods"
@@ -1325,27 +1234,6 @@
              description="TBA"
              />
 
-<!--
-            <mod name="Tesla Arsenal"
-                 version="1.4" url="packs/ResonantRise/files/4.x/TeslaArsenal-1.4.jar" file="TeslaArsenal-1.4.jar" md5="cf6e2290ed8cc8f466f4390c357b123c" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/247634/"
-                 authors="koxhack"
-                 description="Tesla Arsenal adds tools and weapons that use the energy of Tesla, the energy system added by the Tesla API"
-                 />
--->
-
-<!--
-            <mod name="Tesla Coils"
-                 version="0.2.0.0"
-                 url="packs/ResonantRise/files/4.x/teslacoils-0.2.0.0.jar" file="teslacoils-0.2.0.0.jar" md5="128097ba30902eb03a5dc3cafd347f67" download="server"
-                 type="mods"
-                 website="http://minecraft.curseforge.com/projects/tesla-coils" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/tesla-coils?gameCategorySlug=mc-mods&amp;projectID=247619&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=skidsirongenesisdev%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
-                 authors="GunnerWolf"
-                 description="Tesla Coils is a simple mod for minecraft that adds Immersive Engineering inspired power transfer for Tesla power machines."
-                 />
--->
-
         <mod name="Tomb Many Graves"
              version="1.10.2-2.1.13" url="packs/ResonantRise/files/4.x/TombManyGraves-1.10.2-2.1.13.jar" file="TombManyGraves-1.10.2-2.1.13.jar" md5="13afcffbaf8ec76239b7d46e773e5a8d" download="server"
 
@@ -1370,17 +1258,6 @@
                  website="http://www.curseforge.com/projects/247111/"
                  authors="DrMathiasDJ"
                  description="Adds mod support to The One Probe by McJty"
-                 />
--->
-
-<!--
-            <mod name="Solar Village"
-                 version="1.10.2-1.1.0.18"
-                 url="packs/ResonantRise/files/4.x/SolarVillage-1.10.2-1.1.0.18.jar" file="SolarVillage-1.10.2-1.1.0.18.jar" md5="a55bc703e497e1cc4c571db0df40328d" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/245322/"
-                 authors="Darkhax"
-                 description="A solar panel mod for Minecraft and the Tesla API"
                  />
 -->
 
@@ -1415,16 +1292,6 @@
                  authors="ValkyrieofNight"
                  description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
                  />
-
-<!--
-            <mod name="Simple Generators"
-                version="1.10.2-0.10.5b" url="packs/ResonantRise/files/4.x/simplegenerators-1.10.2-0.10.5b.jar" file="simplegenerators-1.10.2-0.10.5b.jar" md5="f60ce1ad8acf2ff198b6116a3d427778" download="server"
-                type="mods"
-                website="http://minecraft.curseforge.com/projects/simple-generators"
-                authors="ValkyrieofNight"
-                description="Simple Generators gives you access to several tiers of early game generators."
-                />
--->
 
         <mod name="Vein Miner"
              version="0.34.1"
