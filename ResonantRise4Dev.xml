@@ -1162,6 +1162,7 @@
              description="Redstone Flux jetpacks and more"
              />
 
+<!--
         <mod name="SonarCore"
              version="1.9.4-3.1.6" url="packs/ResonantRise/files/4.x/SonarCore-1.9.4-3.1.6.jar" file="SonarCore-1.9.4-3.1.6.jar" md5="6462544098b6f17b662b0380fa915fd5" download="server"
              type="mods"
@@ -1185,6 +1186,7 @@
                  authors="Ollie Lansdell"
                  description="Create Wireless Energy Networks"
                  />
+-->
 
         <mod name="Storage Drawers"
              version="1.10.2-3.4.2" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.4.2.jar" file="StorageDrawers-1.10.2-3.4.2.jar" md5="5398458ff9da3afc338aa256458936e3" download="server"
