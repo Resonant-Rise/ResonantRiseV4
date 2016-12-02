@@ -465,16 +465,6 @@
                  description="Power generation based on resonanting crystals"
                  />
 
-<!--
-        <mod name="Enchiridion"
-             version="1.10.2-3.1.12" url="packs/ResonantRise/files/4.x/Enchiridion-1.10.2-3.1.12.jar" file="Enchiridion-1.10.2-3.1.12.jar" md5="03e31507affe2cc0e26df2f2bbb66762" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/76612/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/enchiridion?gameCategorySlug=mc-mods&amp;projectID=76612&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC"
-             authors="joshie"
-             description="Books mod for minecraft"
-             />
--->
-
         <mod name="Ender Compass"
              version="1.2.3.2" url="packs/ResonantRise/files/4.x/EnderCompass-1.9.x-1.2.3.2.jar" file="EnderCompass-1.9.x-1.2.3.2.jar" md5="bb9666ed48ab0273e032427b2acf3158" download="server"
              type="mods"
@@ -554,16 +544,6 @@
                  authors="lach_01298"
                  description="Adds more bees to forestry"
                  />
-
-<!--
-        <mod name="Foundry"
-             version="2.2.1.0" url="packs/ResonantRise/files/4.x/Foundry-1.10.2-2.2.1.0.jar" file="Foundry-1.10.2-2.2.1.0.jar" md5="14040aaad314b5a758f54feefb4ca2ad" download="server"
-             type="mods"
-             website="https://github.com/EXTER7/Foundry"
-             authors="EXTER"
-             description="Liquid Metals"
-             />
--->
 
         <mod name="Furnus"
              version="1.10.2-1.83" url="packs/ResonantRise/files/4.x/Furnus-1.10.2-1.83.jar" file="Furnus-1.10.2-1.83.jar" md5="02e723b0c21671b0beb70ba42b3e3d64" download="server"
@@ -1242,14 +1222,6 @@
                  description="Specialized storage drawers for Chisels &amp; Bits."
                  />
 
-        <mod name="Substratum"
-             version="1.8.2.0" url="packs/ResonantRise/files/4.x/Substratum-1.10.2-1.8.2.0.jar" file="Substratum-1.10.2-1.8.2.0.jar" md5="fcd636ce7452e6ddbd629a34a1d6f133" download="server"
-             type="mods"
-             website="https://github.com/EXTER7/Substratum"
-             authors="EXTER"
-             description="Base resources and crafting materials."
-             />
-
         <mod name="Super Circuit Maker"
              version="1.0.2" url="packs/ResonantRise/files/4.x/SuperCircuitMaker-1.0.2.jar" file="SuperCircuitMaker-1.0.2.jar" md5="2c97f8f1ec0d5d47a4fb8a415e1cb477" download="server"
              type="mods"
@@ -1284,7 +1256,6 @@
 
         <mod name="Tomb Many Graves"
              version="1.10.2-2.1.13" url="packs/ResonantRise/files/4.x/TombManyGraves-1.10.2-2.1.13.jar" file="TombManyGraves-1.10.2-2.1.13.jar" md5="13afcffbaf8ec76239b7d46e773e5a8d" download="server"
-
              type="mods"
              website="http://www.curseforge.com/projects/245224/"
              authors="M4thG33k"
@@ -1341,6 +1312,7 @@
                  description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
                  />
 
+<!--
         <mod name="Vein Miner"
              version="0.34.1"
              url="packs/ResonantRise/files/4.x/VeinMiner-0.34.1-1.9r57173be663.jar" file="VeinMiner-0.34.1-1.9r57173be663.jar" md5="8e845c7cdeedb4e856e37e9dfbdc8020" download="server"
@@ -1349,6 +1321,7 @@
              authors="portablejim"
              description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
              />
+-->
 
         <mod name="Woot"
              version="1.10.2-1.2.1" url="packs/ResonantRise/files/4.x/woot-1.10.2-1.2.1.jar" file="woot-1.10.2-1.2.1.jar" md5="a8166e4a8e9685d58562d0365c82483f" download="server"
