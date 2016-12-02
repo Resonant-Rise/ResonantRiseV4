@@ -561,6 +561,13 @@
              description="Handy block to swap your gear"
              />
 
+        <mod name="grimoire of gaia"
+             version="1.4.5" url="packs/ResonantRise/files/4.x/GrimoireOfGaia3-1.10.2-ALPHA-1.4.5.jar" file="GrimoireOfGaia3-1.10.2-ALPHA-1.4.5.jar" md5="728293129c7f5f2c6eff1b9f60c71235" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/grimoire-of-gaia"
+             description="Nightmare's come to life and more created"
+             />
+
         <mod name="Guide-API"
              version="1.10.2-2.0.2-45" url="packs/ResonantRise/files/4.x/Guide-API-1.10.2-2.0.2-45.jar" file="Guide-API-1.10.2-2.0.2-45.jar" md5="31a0d5f2482a01850aae3ab8cc4a3cba" download="server"
              type="mods"
@@ -984,7 +991,7 @@
                  />
 
         <mod name="Quark"
-             version="r1.1-61" url="packs/ResonantRise/files/4.x/Quark-r1.1-61.jar" file="Quark-r1.1-61.jar" md5="017dfd90fc6bc3ec98bfff7e04a99214" download="server"
+             version="r1.0-60" url="packs/ResonantRise/files/4.x/Quark-r1.0-60.jar" file="Quark-r1.0-60.jar" md5="cc415c298c06e3095525ac3350727da1" download="server"
              type="mods"
              website="http://www.vazkii.us"
              authors="Vazkii,wiiv"
