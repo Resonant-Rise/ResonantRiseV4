@@ -1291,13 +1291,21 @@
              description="Adds a trash slot to the inventory screen that allows deletion of unwanted items."
              />
 
-        <mod name="UniDict"
-             version="2.4" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-2.4.jar" file="UniDict-1.10.2-2.4.jar" md5="ff9c3dc343ba3e1b695e56a68b7ac3a8" download="server"
+        <mod name="WanionLib"
+             version="1.2" url="packs/ResonantRise/files/4.x/WanionLib-1.10.2-1.2.jar" file="WanionLib-1.10.2-1.2.jar" md5="4484caebb6fdc590f2067d539bd2357b" download="server"
              type="mods"
-             website="http://minecraft.curseforge.com/projects/unidict" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wanioncane%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+             website="http://minecraft.curseforge.com/projects/wanionlib"
              authors="WanionCane"
-             description="a mod about unifying all the things."
+             description="Shared Code Library Used by (not)all WanionCane mods!"
              />
+
+            <mod name="UniDict"
+                 version="2.4" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-2.4.jar" file="UniDict-1.10.2-2.4.jar" md5="ff9c3dc343ba3e1b695e56a68b7ac3a8" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/projects/unidict" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wanioncane%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+                 authors="WanionCane"
+                 description="a mod about unifying all the things."
+                 />
 
         <mod name="Valkyrie Lib"
              version="1.10.2-0.10.5e" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5e.jar" file="valkyrielib-1.10.2-0.10.5e.jar" md5="16cb0d79e05838102f4e9d0bc950766a" download="server"
