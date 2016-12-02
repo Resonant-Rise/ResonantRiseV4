@@ -323,6 +323,14 @@
              description="Botania is a mod that adds nature magic to Minecraft. This time with a fancy number in front."
              />
 
+            <mod name="Natural Pledge"
+                 version="1.6" url="packs/ResonantRise/files/4.x/NaturalPledge-r1.6.jar" file="NaturalPledge-r1.6.jar" md5="1972401818dbe5def47f65247dc0ce8d" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/247704/"
+                 authors="WireSegal"
+                 description="The successor to Botanical Addons from 1.7."
+                 />
+
         <mod name="Brandon&apos;s Core"
              version="1.10.2-2.1.1.61" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.1.61-universal.jar" file="BrandonsCore-1.10.2-2.1.1.61-universal.jar" md5="0dd3c1913a8fb90b7ead096984d54ac1" download="server"
              type="mods"
@@ -388,6 +396,14 @@
              description="A small mod with a single goal: Generate the basics!"
              />
 -->
+
+        <mod name="Client Tweaks"
+             version="1.1.16" url="packs/ResonantRise/files/4.x/ClientTweaks_1.10.2-1.1.16.jar" file="ClientTweaks_1.10.2-1.1.16.jar" md5="71d7ae2e55e9e697247627ca77ef668c" download="server"
+             type="mods"
+             website="http://balyware.com"
+             authors="BlayTheNinth"
+             description="There, I fixed Minecraft for you."
+             />
 
         <mod name="CodeChicken Core"
              version="2.3.5.91" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.3.5.91-universal.jar" file="CodeChickenCore-1.10.2-2.3.5.91-universal.jar" md5="82a30efa8470f7b670102f278784d5e8" download="server"
@@ -583,12 +599,30 @@
              description="Trees, bees and more."
              />
 
+            <mod name="More Bees"
+                 version="1.10.2-1.1.5" url="packs/ResonantRise/files/4.x/morebees-1.10.2-1.1.5.jar" file="morebees-1.10.2-1.1.5.jar" md5="d0f1e17ee6c23cfc80d0bb103ecdfc96" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/250226/"
+                 authors="lach_01298"
+                 description="Adds more bees to forestry"
+                 />
+
+<!--
         <mod name="Foundry"
              version="2.2.1.0" url="packs/ResonantRise/files/4.x/Foundry-1.10.2-2.2.1.0.jar" file="Foundry-1.10.2-2.2.1.0.jar" md5="14040aaad314b5a758f54feefb4ca2ad" download="server"
              type="mods"
              website="https://github.com/EXTER7/Foundry"
              authors="EXTER"
              description="Liquid Metals"
+             />
+-->
+
+        <mod name="Furnus"
+             version="1.10.2-1.83" url="packs/ResonantRise/files/4.x/Furnus-1.10.2-1.83.jar" file="Furnus-1.10.2-1.83.jar" md5="02e723b0c21671b0beb70ba42b3e3d64" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/239336/"
+             authors="MrRiegel"
+             description="A configurable furnace and pulverizer"
              />
 
         <mod name="Gear Swapper"
@@ -763,6 +797,14 @@
                  description="A small mod that gives your tools XP and awards extra modifiers on levelup"
                  />
 
+            <mod name="Natura"
+                 version="1.10.2-4.0.0.92" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.0.0.93.jar" file="natura-1.10.2-4.0.0.93.jar" md5="fd8a232f358ae0d771369d95a8da2579" download="server"
+                 type="mods"
+                 website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura"
+                 authors="mDiyo, Slime Knights"
+                 description="Heyo, Redwood trees! Chop them all day long!"
+                 />
+
         <mod name="McJtyLib"
              version="1.10-2.2.0-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.10-2.2.0.jar" file="mcjtylib-1.10-2.2.0.jar" md5="85b531e3a970482cd2a6d9ba2fb009b5" download="server"
              type="mods"
@@ -875,6 +917,14 @@
              description="The wrench to end all wrenches."
              />
 
+        <mod name="Mod Name Tooltip"
+             version="1.6.0" url="packs/ResonantRise/files/4.x/modnametooltip_1.10.2-1.6.0.jar" file="modnametooltip_1.10.2-1.6.0.jar" md5="2727d8078bd2c3879019ece5c2a23622" download="server"
+             type="mods"
+             website="https://github.com/mezz/ModNameTooltip"
+             authors="mezz"
+             description="Show the ItemStack&apos;s mod on its tooltip."
+             />
+
         <mod name="ModPack Utilities"
              version="1.2.0" url="packs/ResonantRise/files/4.x/mputils-1.10.2-1.2.0.jar" file="mputils-1.10.2-1.2.0.jar" md5="780a7e0183803a9468ec79b021b47f32" download="server"
              type="mods"
@@ -940,6 +990,14 @@
              website="http://github.com/Ellpeck/OptionSync"
              authors="Ellpeck"
              description="A Mod about syncing your options between Minecraft instances"
+             />
+
+        <mod name="OreExcavation"
+             version="1.2.36" url="packs/ResonantRise/files/4.x/OreExcavation-1.2.36.jar" file="OreExcavation-1.2.36.jar" md5="38ec89c492bd118d71f45fd0ebb2635d" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/250898/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ore-excavation?gameCategorySlug=mc-mods&amp;projectID=250898&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
+             authors="Funwayguy,Darkosto"
+             description="Allows players to mine whole veins of ore, cut down whole trees or any other tool based action in one go. Simple easy to understand configs are also provided for mod pack developers"
              />
 
         <mod name="Ore Tweaker"
@@ -1188,6 +1246,22 @@
                  />
 -->
 
+        <mod name="Steve&apos;s Carts 2"
+             version="2.1.0.59" url="packs/ResonantRise/files/4.x/StevesCarts-1.10.2-2.1.0.59.jar" file="StevesCarts-1.10.2-2.1.0.59.jar" md5="011e9bb7df88df7cabe4016a73942c13" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/253462/"
+             authors="Vswe"
+             description="A carttastic mod adding a near infinite number of carts possible to the game, through the creation of modular carts."
+             />
+
+        <mod name="Steve&apos;s Factory Manager"
+             version="1.0.9" url="packs/ResonantRise/files/4.x/StevesFactoryManager-1.10.2-1.0.9.jar" file="StevesFactoryManager-1.10.2-1.0.9.jar" md5="d8172a47ffed5a7c365b9622f93eb084" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/253338/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&amp;projectID=253338&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-Donat"
+             authors="Vswe, Gigabit101"
+             description="Steve&apos;s Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"
+             />
+
         <mod name="Storage Drawers"
              version="1.10.2-3.4.2" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.4.2.jar" file="StorageDrawers-1.10.2-3.4.2.jar" md5="5398458ff9da3afc338aa256458936e3" download="server"
              type="mods"
@@ -1234,6 +1308,14 @@
              website="http://www.curseforge.com/projects/244651/"
              authors="Darkhax"
              description="TBA"
+             />
+
+        <mod name="Tiny Progressions"
+             version="1.0.10" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.0.10.jar" file="tinyprogressions-1.10.2-1.0.10.jar" md5="e2825c233c363709854879581d8c2422" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/tiny-progressions" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tiny-progressions?gameCategorySlug=mc-mods&amp;projectID=250850&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_dona"
+             authors="Kashdeya,Darkosto,GenDeathrow"
+             description="Cobblegens, Growth Crystals and Watering Cans oh my!"
              />
 
         <mod name="Tomb Many Graves"
