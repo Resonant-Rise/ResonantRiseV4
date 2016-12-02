@@ -153,16 +153,6 @@
              description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!"
              />
 
-<!--
-        <mod name="AppleCore"
-             version="2.0.1" url="packs/ResonantRise/files/4.x/AppleCore-mc1.10.2-2.0.1.jar" file="AppleCore-mc1.10.2-2.0.1.jar" md5="67d7b08ca5e97b0e2a8ec509f70f7207" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/224472/"
-             authors="squeek502"
-             description="An API for modifying the food and hunger mechanics of Minecraft"
-             />
--->
-
             <mod name="AppleSkin"
                  version="1.0.4" url="packs/ResonantRise/files/4.x/AppleSkin-mc1.10.2-1.0.4.jar" file="AppleSkin-mc1.10.2-1.0.4.jar" md5="682d5bb9795be7cb7d86445610b514ea" download="server"
                  type="mods"
@@ -178,26 +168,6 @@
              authors="Greg Ewing"
              description="Distinguished architectural features for your Minecraft buildings."
              />
-
-<!--
-        <mod name="Aroma1997Core"
-             version="1.1.0.3"
-             url="packs/ResonantRise/files/4.x/Aroma1997Core-1.9.4-1.1.0.3.jar" file="Aroma1997Core-1.9.4-1.1.0.3.jar" md5="44a7477b438254a9cccc1ba1c4b243d2" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/aroma1997core?gameCategorySlug=mc-mods&amp;projectID=223735&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=robin_marius%40web.de&amp;bn=PP-DonationsBF:btn_donateCC_L"
-             authors="Aroma1997, Schillaa"
-             description="This is basically a library used by most my other mods."
-             />
-
-            <mod name="Aroma1997&apos;s Dimensional World"
-                 version="1.2.0.1"
-                 url="packs/ResonantRise/files/4.x/Aroma1997s-Dimensional-World-1.9.4-1.2.0.1.jar" file="Aroma1997s-Dimensional-World-1.9.4-1.2.0.1.jar" md5="69c083a5105b708063123631c727380d" download="server"
-                 type="mods"
-                 website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/aroma1997s-dimensional-world?gameCategorySlug=mc-mods&amp;projectID=60092&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=robin_marius%40web.de&amp;bn=PP-DonationsBF:"
-                 authors="Aroma1997,Schillaa"
-                 description="This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)"
-                 />
--->
 
         <mod name="AutoRegLib"
              version="1.0-2" url="packs/ResonantRise/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
@@ -215,17 +185,6 @@
                  description="The book of books."
                  />
 
-<!--
-        <mod name="Bagelsmore: The Return"
-             version="1.0.1" url="packs/ResonantRise/files/4.x/Bagelsmore-1.9.4-1.0.1.jar" file="Bagelsmore-1.9.4-1.0.1.jar" md5="83d030395901c5020accce99bd37a112" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/248538/"
-             authors="Ollie Lansdell"
-             description="Take a desk on me."
-             />
--->
-
-<!--
         <mod name="B.A.S.E"
              version="1.10-21" url="packs/ResonantRise/files/4.x/base-1.10-21-universal.jar" file="base-1.10-21-universal.jar" md5="a06b2ad774a1c9406c0b3432149616a5" download="server"
              type="mods"
@@ -233,7 +192,6 @@
              authors="Lanse505,Jared,EwyBoy"
              description="Placeholder Text"
              />
--->
 
         <mod name="Baubles"
              version="1.10.2-1.3.5" url="packs/ResonantRise/files/4.x/Baubles-1.10.2-1.3.5.jar" file="Baubles-1.10.2-1.3.5.jar" md5="017b91cd7c919ea89c8513fe3c0da947" download="server"
@@ -386,16 +344,6 @@
              authors="AlgorithmX2"
              description="a mod about Sculpting, Decorating and Aesthetics"
              />
-
-<!--
-        <mod name="CobbleWorks"
-             version="1.2.1" url="packs/ResonantRise/files/4.x/Cobbleworks 1.10.2-1.2.1.jar" file="Cobbleworks 1.10.2-1.2.1.jar" md5="c2de14bccc7b217a9ba974c39a6b4f38" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/242565/"
-             authors="Name_Is_Taken_Now,CobbleWorksMC"
-             description="A small mod with a single goal: Generate the basics!"
-             />
--->
 
         <mod name="Client Tweaks"
              version="1.1.16" url="packs/ResonantRise/files/4.x/ClientTweaks_1.10.2-1.1.16.jar" file="ClientTweaks_1.10.2-1.1.16.jar" md5="71d7ae2e55e9e697247627ca77ef668c" download="server"
@@ -723,6 +671,22 @@
              authors="oldjunyi"
              description="A mod visualizes the light level on top of blocks."
              />
+
+        <mod name="LimeLib"
+             version="1.10.2-1.3.3" url="packs/ResonantRise/files/4.x/limelib-1.10.2-1.3.3.jar" file="limelib-1.10.2-1.3.3.jar" md5="6a48d7d1d033121db060190dac92fc17" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/250711/"
+             authors="MrRiegel"
+             description="Library"
+             />
+
+            <mod name="Charge Pads"
+                 version="1.10.2-1.0.0" url="packs/ResonantRise/files/4.x/chargepads-1.10.2-1.0.0.jar" file="chargepads-1.10.2-1.0.0.jar" md5="c25da9c7087ccf9133bfef4dab014e08" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/252130/"
+                 authors="MrRiegel"
+                 description="Blocks that charge your items and your health."
+                 />
 
         <mod name="LunatriusCore"
              version="1.1.2.38" url="packs/ResonantRise/files/4.x/LunatriusCore-1.10.2-1.1.2.38-universal.jar" file="LunatriusCore-1.10.2-1.1.2.38-universal.jar" md5="5443394f11988ee81c673f93adc02e33" download="server"
