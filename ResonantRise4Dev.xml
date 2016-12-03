@@ -529,6 +529,13 @@
              description="Makes leave decay faster"
              />
 
+        <mod name="FoamFix"
+             version="0.3.2a" url="packs/ResonantRise/files/4.x/foamfix-0.3.2a-law.jar" file="foamfix-0.3.2a-law.jar" md5="a1cce2646cb2a4ffcdffeba16c5946fe" download="server"
+             type="mods"
+             website="http://asie.pl/foamfix/index.html?"
+             description="FoamFix is a mod which makes Minecraft go fast - by which I mean use less memory. It is also not a coremod, because a certain guy writing a certain tutorial said that's a very very bad thing a while ago, or something like that."
+             />
+
         <mod name="Forestry"
              version="5.2.16.330" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.16.330.jar" file="forestry_1.10.2-5.2.16.330.jar" md5="e00515b2dcc585a5bc7546b327bbe1ed" download="server"
              type="mods"
@@ -726,7 +733,7 @@
              />
 
             <mod name="Tinkers&apos; Construct"
-                 version="1.10.2-2.5.6b" url="packs/ResonantRise/files/4.x/TConstruct-1.10.2-2.5.6b.jar" file="TConstruct-1.10.2-2.5.6b.jar" md5="19e8988621e8413c8d7e13f6cc0ba85a" download="server"
+                 version="2.6.0" url="packs/ResonantRise/files/4.x/TConstruct-1.10.2-2.6.0.jar" file="TConstruct-1.10.2-2.6.0.jar" md5="e1c222753adaae1de1b1d6d89511b923" download="server"
                  type="mods"
                  website="https://github.com/SlimeKnights/TinkersConstruct" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=GKGVLK75MTPUN&amp;item_name=Tinkers+Construct+(from+curseforge.com)&amp;cmd=_s-xclick"
                  authors="boni,KnightMiner"
