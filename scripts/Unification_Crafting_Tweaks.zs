@@ -1,257 +1,125 @@
-//Crafting Unification
+///////////////////////////////////////////////////////////////////////////////
+///
+/// These scripts are the Intellectual Property of Resonant Rise LLC
+/// Usage of These Scripts are Prohibited outside of Resonant Rise!
+/// However do feel Free To Use Them As Inspiriation/Learning Material!
+///
+///////////////////////////////////////////////////////////////////////////////
 
-//Variables
+////////////////
+// Variables
+////////////////
 
-//Plates
-var penderium = <ore:plateEnderium>;
-var pplatinum = <ore:platePlatinum>;
-var pzinc = <ore:plateZinc>;
-var pbrass = <ore:plateBrass>;
 var piron = <ore:plateIron>;
+var pgold = <ore:plateGold>;
 var pcopper = <ore:plateCopper>;
-var pnickel = <ore:plateNickel>;
-var pelectrum = <ore:plateElectrum>;
+var ptin = <ore:plateTin>;
+var pzinc = <ore:plateZinc>;
+var pbronze = <ore:plateBronze>;
+var pbrass = <ore:plateBrass>;
 var psilver = <ore:plateSilver>;
 var plead = <ore:plateLead>;
-var ptin = <ore:plateTin>;
+var pnickel = <ore:plateNickel>;
 var paluminum = <ore:plateAluminum>;
-var pgold = <ore:plateGold>;
+var pplatinum = <ore:platePlatinum>;
 var pinvar = <ore:plateInvar>;
 var psteel = <ore:plateSteel>;
-var pElectricalSteel = <ore:plateElectricalSteel>;
-var pEnergeticAlloy = <ore:plateEnergeticAlloy>;
-var pVibrantAlloy = <ore:plateVibrantAlloy>;
-var pRedstoneAlloy = <ore:plateRedstoneAlloy>;
-var pConductiveIron = <ore:plateConductiveIron>;
-var pPulsatingIron = <ore:platePulsatingIron>;
-var pDarkSteel = <ore:plateDarkSteel>;
-var pSoularium = <ore:plateSoularium>;
-var pManasteel = <ore:plateManaSteel>;
-var pTerrasteel = <ore:plateTerraSteel>;
-var pElementium = <ore:plateElementium>;
-var pDraconium = <ore:plateDraconium>;
-var pAwakenedDraconium = <ore:plateAwakenedDraconium>;
-var pDawnstone = <ore:plateDawnstone>;
-var pDemon = <ore:plateDemon>;
-var pRefinedObsidian = <ore:plateRefinedObsidian>;
-var pOsmium = <ore:plateOsmium>;
-var pGlowstone = <ore:plateRefinedGlowstone>;
-var pPsimetal = <ore:platePsimetal>;
-var pEbonyPsimetal = <ore:plateEbonyPsimetal>;
-var pIvoryPsimetal = <ore:plateIvoryPsimetal>;
-var pQuartzEnrichedIron = <ore:plateQuartzEnrichedIron>;
-
-//Gears
-var genderium = <ore:gearEnderium>;
-var gplatinum = <ore:gearPlatinum>;
-var gzinc = <ore:gearZinc>;
-var gbrass = <ore:gearBrass>;
+var pelectrum = <ore:plateElectrum>;
+var penderium = <ore:plateEnderium>;
 var giron = <ore:gearIron>;
+var ggold = <ore:gearGold>;
 var gcopper = <ore:gearCopper>;
-var gnickel = <ore:gearNickel>;
-var gelectrum = <ore:gearElectrum>;
+var gtin = <ore:gearTin>;
+var gzinc = <ore:gearZinc>;
+var gbronze = <ore:gearBronze>;
+var gbrass = <ore:gearBrass>;
 var gsilver = <ore:gearSilver>;
 var glead = <ore:gearLead>;
-var gtin = <ore:gearTin>;
+var gnickel = <ore:gearNickel>;
 var galuminum = <ore:gearAluminum>;
-var ggold = <ore:gearGold>;
+var gplatinum = <ore:gearPlatinum>;
 var ginvar = <ore:gearInvar>;
 var gsteel = <ore:gearSteel>;
-var gElectricalSteel = <ore:gearElectricalSteel>;
-var gEnergeticAlloy = <ore:gearEnergeticAlloy>;
-var gVibrantAlloy = <ore:gearVibrantAlloy>;
-var gRedstoneAlloy = <ore:gearRedstoneAlloy>;
-var gConductiveIron = <ore:gearConductiveIron>;
-var gPulsatingIron = <ore:gearPulsatingIron>;
-var gDarkSteel = <ore:gearDarkSteel>;
-var gSoularium = <ore:gearSoularium>;
-var gManasteel = <ore:gearManaSteel>;
-var gTerrasteel = <ore:gearTerraSteel>;
-var gElementium = <ore:gearElementium>;
-var gDraconium = <ore:gearDraconium>;
-var gAwakenedDraconium = <ore:gearAwakenedDraconium>;
-var gDawnstone = <ore:gearDawnstone>;
-var gDemon = <ore:gearDemon>;
-var gRefinedObsidian = <ore:gearRefinedObsidian>;
-var gOsmium = <ore:gearOsmium>;
-var gGlowstone = <ore:gearRefinedGlowstone>;
-var gPsimetal = <ore:gearPsimetal>;
-var gEbonyPsimetal = <ore:gearEbonyPsimetal>;
-var gIvoryPsimetal = <ore:gearIvoryPsimetal>;
-var gQuartzEnrichedIron = <ore:gearQuartzEnrichedIron>;
-
-//Ingots
-var ienderium = <ore:ingotEnderium>;
-var iplatinum = <ore:ingotPlatinum>;
-var izinc = <ore:ingotZinc>;
-var ibrass = <ore:ingotBrass>;
+var gelectrum = <ore:gearElectrum>;
+var genderium = <ore:gearEnderium>;
 var iiron = <ore:ingotIron>;
+var igold = <ore:ingotGold>;
 var icopper = <ore:ingotCopper>;
-var inickel = <ore:ingotNickel>;
-var ielectrum = <ore:ingotElectrum>;
+var itin = <ore:ingotTin>;
+var izinc = <ore:ingotZinc>;
+var ibronze = <ore:ingotBronze>;
+var ibrass = <ore:ingotBrass>;
 var isilver = <ore:ingotSilver>;
 var ilead = <ore:ingotLead>;
-var itin = <ore:ingotTin>;
+var inickel = <ore:ingotNickel>;
 var ialuminum = <ore:ingotAluminum>;
-var igold = <ore:ingotGold>;
+var iplatinum = <ore:ingotPlatinum>;
 var iinvar = <ore:ingotInvar>;
 var isteel = <ore:ingotSteel>;
-var iElectricalSteel = <ore:ingotElectricalSteel>;
-var iEnergeticAlloy = <ore:ingotEnergeticAlloy>;
-var iVibrantAlloy = <ore:ingotVibrantAlloy>;
-var iRedstoneAlloy = <ore:ingotRedstoneAlloy>;
+var ielectrum = <ore:ingotElectrum>;
+var ienderium = <ore:ingotEnderium>;
 var iConductiveIron = <ore:ingotConductiveIron>;
-var iPulsatingIron = <ore:ingotPulsatingIron>;
-var iDarkSteel = <ore:ingotDarkSteel>;
-var iSoularium = <ore:ingotSoularium>;
-var iManasteel = <ore:ingotManasteel>;
-var iTerrasteel = <ore:ingotTerrasteel>;
-var iElementium = <ore:ingotElvenElementium>;
-var iDraconium = <ore:ingotDraconium>;
-var iAwakenedDraconium = <ore:ingotDraconiumAwakened>;
-var iDawnstone = <ore:ingotDawnstone>;
-var iDemon = <ore:ingotDemonic>;
-var iRefinedObsidian = <ore:ingotRefinedObsidian>;
-var iOsmium = <ore:ingotOsmium>;
-var iGlowstone = <ore:ingotRefinedGlowstone>;
-var iPsimetal = <ore:ingotPsi>;
-var iEbonyPsimetal = <ore:ingotEbonyPsi>;
-var iIvoryPsimetal = <ore:ingotIvoryPsi>;
-var iQuartzEnrichedIron = <refinedstorage:quartz_enriched_iron>;
-
-//Dusts
-var denderium = <ore:dustEnderium>;
-var dplatinum = <ore:dustPlatinum>;
-var dzinc = <ore:dustZinc>;
-var dbrass = <ore:dustBrass>;
 var diron = <ore:dustIron>;
+var dgold = <ore:dustGold>;
 var dcopper = <ore:dustCopper>;
-var dnickel = <ore:dustNickel>;
-var delectrum = <ore:dustElectrum>;
+var dtin = <ore:dustTin>;
+var dzinc = <ore:dustZinc>;
+var dbronze = <ore:dustBronze>;
+var dbrass = <ore:dustBrass>;
 var dsilver = <ore:dustSilver>;
 var dlead = <ore:dustLead>;
-var dtin = <ore:dustTin>;
+var dnickel = <ore:dustNickel>;
 var daluminum = <ore:dustAluminum>;
-var dgold = <ore:dustGold>;
+var dplatinum = <ore:dustPlatinum>;
 var dinvar = <ore:dustInvar>;
 var dsteel = <ore:dustSteel>;
-var dElectricalSteel = <ore:dustElectricalSteel>;
-var dEnergeticAlloy = <ore:dustEnergeticAlloy>;
-var dVibrantAlloy = <ore:dustVibrantAlloy>;
-var dRedstoneAlloy = <ore:dustRedstoneAlloy>;
-var dConductiveIron = <ore:dustConductiveIron>;
-var dPulsatingIron = <ore:dustPulsatingIron>;
-var dDarkSteel = <ore:dustDarkSteel>;
-var dSoularium = <ore:dustSoularium>;
-var dManasteel = <ore:dustManaSteel>;
-var dTerrasteel = <ore:dustTerraSteel>;
-var dElementium = <ore:dustElementium>;
-var dDraconium = <ore:dustDraconium>;
-var dAwakenedDraconium = <ore:dustAwakenedDraconium>;
-var dDawnstone = <ore:dustDawnstone>;
-var dDemon = <ore:dustDemon>;
-var dRefinedObsidian = <ore:dustRefinedObsidian>;
-var dOsmium = <ore:dustOsmium>;
-var dGlowstone = <ore:dustRefinedGlowstone>;
-var dPsimetal = <ore:dustPsi>;
-var dEbonyPsimetal = <ore:dustEbonyPsimetal>;
-var dIvoryPsimetal = <ore:dustIvoryPsimetal>;
-var dQuartzEnrichedIron = <ore:dustQuartzEnrichedIron>;
-var dredstone = <minecraft:redstone>;
-
-//Nuggets
-var nenderium = <ore:nuggetEnderium>;
-var nplatinum = <ore:nuggetPlatinum>;
-var nzinc = <ore:nuggetZinc>;
-var nbrass = <ore:nuggetBrass>;
+var delectrum = <ore:dustElectrum>;
+var denderium = <ore:dustEnderium>;
+var dredstone = <ore:dustRedstone>;
 var niron = <ore:nuggetIron>;
+var ngold = <ore:nuggetGold>;
 var ncopper = <ore:nuggetCopper>;
-var nnickel = <ore:nuggetNickel>;
-var nelectrum = <ore:nuggetElectrum>;
+var ntin = <ore:nuggetTin>;
+var nzinc = <ore:nuggetZinc>;
+var nbronze = <ore:nuggetBronze>;
+var nbrass = <ore:nuggetBrass>;
 var nsilver = <ore:nuggetSilver>;
 var nlead = <ore:nuggetLead>;
-var ntin = <ore:nuggetTin>;
+var nnickel = <ore:nuggetNickel>;
 var naluminum = <ore:nuggetAluminum>;
-var ngold = <ore:nuggetGold>;
+var nplatinum = <ore:nuggetPlatinum>;
 var ninvar = <ore:nuggetInvar>;
 var nsteel = <ore:nuggetSteel>;
-var nElectricalSteel = <ore:nuggetElectricalSteel>;
-var nEnergeticAlloy = <ore:nuggetEnergeticAlloy>;
-var nVibrantAlloy = <ore:nuggetVibrantAlloy>;
-var nRedstoneAlloy = <ore:nuggetRedstoneAlloy>;
-var nConductiveIron = <ore:nuggetConductiveIron>;
-var nPulsatingIron = <ore:nuggetPulsatingIron>;
-var nDarkSteel = <ore:nuggetDarkSteel>;
-var nSoularium = <ore:nuggetSoularium>;
-var nManasteel = <ore:nuggetManaSteel>;
-var nTerrasteel = <ore:nuggetTerraSteel>;
-var nElementium = <ore:nuggetElementium>;
-var nDraconium = <ore:nuggetDraconium>;
-var nAwakenedDraconium = <ore:nuggetAwakenedDraconium>;
-var nDawnstone = <ore:nuggetDawnstone>;
-var nDemon = <ore:nuggetDemon>;
-var nRefinedObsidian = <ore:nuggetRefinedObsidian>;
-var nOsmium = <ore:nuggetOsmium>;
-var nGlowstone = <ore:nuggetRefinedGlowstone>;
-var nPsimetal = <ore:nuggetPsimetal>;
-var nEbonyPsimetal = <ore:nuggetEbonyPsimetal>;
-var nIvoryPsimetal = <ore:nuggetIvoryPsimetal>;
-var nQuartzEnrichedIron = <ore:nuggetQuartzEnrichedIron>;
-
-//Ender IO
+var nelectrum = <ore:nuggetElectrum>;
+var nenderium = <ore:nuggetEnderium>;
 var chassis = <enderio:itemMachinePart>;
 var capacitor = <enderio:itemBasicCapacitor>;
 var redstoneconduit = <enderio:itemRedstoneConduit>;
-
-//Embers
+var eioshears = <enderio:darkSteel_shears>;
 var melter = <embers:blockFurnace>;
 var mechCore = <embers:blockFurnace>;
 var smelter = <embers:stamper>;
-
-//Hammer Tool
-var iehammer = <immersiveengineering:tool>;
 var emhammer = <embers:tinkerHammer>;
-
-//Other
+var iehammer = <immersiveengineering:tool>;
 var thruster = <simplyjetpacks:metaItemEIO:4>;
 var rcshears = <railcraft:tool_shears_steel>;
 var shears = <minecraft:shears>;
 var bmshears = <botania:manasteelShears>;
 var beshears = <botania:elementiumShears>;
-var eioshears = <enderio:darkSteel_shears>;
+var ic2hammer = <ic2:forge_hammer>;
 
-//EIO Crafting Unification
-recipes.remove(chassis);
-recipes.addShaped(chassis, [[piron, iiron, piron], [iiron, capacitor, iiron], [piron, iiron, piron]]);
-recipes.addShaped(chassis, [[iiron, piron, iiron], [piron, capacitor, piron], [iiron, piron, iiron]]);
+////////////////
+// Recipie Fix
+////////////////
 
 //Simply Jetpack Fix
 recipes.remove(thruster);
 recipes.addShaped(thruster, [[iConductiveIron, capacitor, iConductiveIron], [redstoneconduit, capacitor, redstoneconduit], [giron, dredstone, giron]]);
 
-//Embers
-//recipes.remove(melter);
-//recipes.addShaped(melter, [[iConductiveIron, capacitor, iConductiveIron], [redstoneconduit, capacitor, redstoneconduit], [irong, redstone, irong]]);
+////////////////////////
+// Plate Unification
+////////////////////////
 
-//Sheers
-recipes.remove(rcshears);
-recipes.addShaped(rcshears, [[null, psteel, null], [psteel, null, null], [null, null, null]]);
-recipes.addShaped(rcshears, [[psteel, null, null], [null, psteel, null], [null, null, null]]);
-//recipes.remove(shears);
-//recipes.addShaped(shears, [[null, piron, null], [piron, null, null], [null, null, null]]);
-//recipes.addShaped(shears, [[piron, null, null], [null, piron, null], [null, null, null]]);
-recipes.remove(bmshears);
-recipes.addShaped(bmshears, [[null, pManasteel, null], [pManasteel, null, null], [null, null, null]]);
-recipes.addShaped(bmshears, [[pManasteel, null, null], [null, pManasteel, null], [null, null, null]]);
-recipes.remove(beshears);
-recipes.addShaped(beshears, [[null, pElementium, null], [pElementium, null, null], [null, null, null]]);
-recipes.addShaped(beshears, [[pElementium, null, null], [null, pElementium, null], [null, null, null]]);
-recipes.remove(eioshears);
-recipes.addShaped(eioshears, [[null, pDarkSteel, null], [pDarkSteel, null, null], [null, null, null]]);
-recipes.addShaped(eioshears, [[pDarkSteel, null, null], [null, pDarkSteel, null], [null, null, null]]);
-
-//Plate crafting
-//recipe removal
 recipes.remove(<immersiveengineering:metal:30>);
 recipes.remove(<immersiveengineering:metal:31>);
 recipes.remove(<immersiveengineering:metal:32>);
@@ -265,87 +133,155 @@ recipes.remove(<railcraft:plate:2>);
 recipes.remove(<railcraft:plate:3>);
 recipes.remove(<railcraft:plate:4>);
 recipes.remove(<railcraft:plate:5>);
+recipes.remove(<ic2:plate:0>);
+recipes.remove(<ic2:plate:1>);
+recipes.remove(<ic2:plate:2>);
+recipes.remove(<ic2:plate:3>);
+recipes.remove(<ic2:plate:5>);
+recipes.remove(<ic2:plate:7>);
+recipes.remove(<ic2:plate:8>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:0>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:1>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:2>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:3>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:5>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:7>);
+mods.immersiveengineering.MetalPress.removeRecipe(<ic2:plate:8>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:30>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:31>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:32>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:37>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:38>);
+mods.immersiveengineering.MetalPress.removeRecipe(<immersiveengineering:metal:39>);
+recipes.addShapeless(<base:plate:20>, [iiron, iiron, iiron, iiron, iehammer]);
+recipes.addShapeless(<base:plate:21>, [igold, igold, igold, igold, iehammer]);
+recipes.addShapeless(<base:plate:22>, [icopper, icopper, icopper, icopper, iehammer]);
+recipes.addShapeless(<base:plate:23>, [itin, itin, itin, itin, iehammer]);
+recipes.addShapeless(<base:plate:24>, [izinc, izinc, izinc, izinc, iehammer]);
+recipes.addShapeless(<base:plate:25>, [ibronze, ibronze, ibronze, ibronze, iehammer]);
+recipes.addShapeless(<base:plate:26>, [ibrass, ibrass, ibrass, ibrass, iehammer]);
+recipes.addShapeless(<base:plate:27>, [isilver, isilver, isilver, isilver, iehammer]);
+recipes.addShapeless(<base:plate:28>, [ilead, ilead, ilead, ilead, iehammer]);
+recipes.addShapeless(<base:plate:29>, [inickel, inickel, inickel, inickel, iehammer]);
+recipes.addShapeless(<base:plate:30>, [ialuminum, ialuminum, ialuminum, ialuminum, iehammer]);
+recipes.addShapeless(<base:plate:31>, [iplatinum, iplatinum, iplatinum, iplatinum, iehammer]);
+recipes.addShapeless(<base:plate:32>, [iinvar, iinvar, iinvar, iinvar, iehammer]);
+recipes.addShapeless(<base:plate:33>, [isteel, isteel, isteel, isteel, iehammer]);
+recipes.addShapeless(<base:plate:34>, [ielectrum, ielectrum, ielectrum, ielectrum, iehammer]);
+recipes.addShapeless(<base:plate:35>, [ienderium, ienderium, ienderium, ienderium, iehammer]);
+recipes.addShapeless(<base:plate:20>, [iiron, iiron, iiron, iiron, ic2hammer]);
+recipes.addShapeless(<base:plate:21>, [igold, igold, igold, igold, ic2hammer]);
+recipes.addShapeless(<base:plate:22>, [icopper, icopper, icopper, icopper, ic2hammer]);
+recipes.addShapeless(<base:plate:23>, [itin, itin, itin, itin, ic2hammer]);
+recipes.addShapeless(<base:plate:24>, [izinc, izinc, izinc, izinc, ic2hammer]);
+recipes.addShapeless(<base:plate:25>, [ibronze, ibronze, ibronze, ibronze, ic2hammer]);
+recipes.addShapeless(<base:plate:26>, [ibrass, ibrass, ibrass, ibrass, ic2hammer]);
+recipes.addShapeless(<base:plate:27>, [isilver, isilver, isilver, isilver, ic2hammer]);
+recipes.addShapeless(<base:plate:28>, [ilead, ilead, ilead, ilead, ic2hammer]);
+recipes.addShapeless(<base:plate:29>, [inickel, inickel, inickel, inickel, ic2hammer]);
+recipes.addShapeless(<base:plate:30>, [ialuminum, ialuminum, ialuminum, ialuminum, ic2hammer]);
+recipes.addShapeless(<base:plate:31>, [iplatinum, iplatinum, iplatinum, iplatinum, ic2hammer]);
+recipes.addShapeless(<base:plate:32>, [iinvar, iinvar, iinvar, iinvar, ic2hammer]);
+recipes.addShapeless(<base:plate:33>, [isteel, isteel, isteel, isteel, ic2hammer]);
+recipes.addShapeless(<base:plate:34>, [ielectrum, ielectrum, ielectrum, ielectrum, ic2hammer]);
+recipes.addShapeless(<base:plate:35>, [ienderium, ienderium, ienderium, ienderium, ic2hammer]);
+recipes.addShapeless(<base:plate:20>, [iiron, iiron, iiron, iiron, emhammer]);
+recipes.addShapeless(<base:plate:21>, [igold, igold, igold, igold, emhammer]);
+recipes.addShapeless(<base:plate:22>, [icopper, icopper, icopper, icopper, emhammer]);
+recipes.addShapeless(<base:plate:23>, [itin, itin, itin, itin, emhammer]);
+recipes.addShapeless(<base:plate:24>, [izinc, izinc, izinc, izinc, emhammer]);
+recipes.addShapeless(<base:plate:25>, [ibronze, ibronze, ibronze, ibronze, emhammer]);
+recipes.addShapeless(<base:plate:26>, [ibrass, ibrass, ibrass, ibrass, emhammer]);
+recipes.addShapeless(<base:plate:27>, [isilver, isilver, isilver, isilver, emhammer]);
+recipes.addShapeless(<base:plate:28>, [ilead, ilead, ilead, ilead, emhammer]);
+recipes.addShapeless(<base:plate:29>, [inickel, inickel, inickel, inickel, emhammer]);
+recipes.addShapeless(<base:plate:30>, [ialuminum, ialuminum, ialuminum, ialuminum, emhammer]);
+recipes.addShapeless(<base:plate:31>, [iplatinum, iplatinum, iplatinum, iplatinum, emhammer]);
+recipes.addShapeless(<base:plate:32>, [iinvar, iinvar, iinvar, iinvar, emhammer]);
+recipes.addShapeless(<base:plate:33>, [isteel, isteel, isteel, isteel, emhammer]);
+recipes.addShapeless(<base:plate:34>, [ielectrum, ielectrum, ielectrum, ielectrum, emhammer]);
+recipes.addShapeless(<base:plate:35>, [ienderium, ienderium, ienderium, ienderium, emhammer]);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:20>, iiron, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:21>, igold, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:22>, icopper, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:23>, itin, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:24>, izinc, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:25>, ibronze, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:26>, ibrass, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:27>, isilver, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:28>, ilead, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:29>, inickel, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:30>, ialuminum, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:31>, iplatinum, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:32>, iinvar, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:33>, isteel, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:34>, ielectrum, <immersiveengineering:mold:0>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:plate:35>, ienderium, <immersiveengineering:mold:0>, 500);
 
-//Immersive Engineering Hammer Recipes
-//Recipe Template (<plate>, ingot, ingot, ingot, ingot, hammer)
-recipes.addShapeless(<base:plate:20>, [ienderium, ienderium, ienderium, ienderium, iehammer]);
-recipes.addShapeless(<base:plate:21>, [iplatinum, iplatinum, iplatinum, iplatinum, iehammer]);
-recipes.addShapeless(<base:plate:22>, [izinc, izinc, izinc, izinc, iehammer]);
-recipes.addShapeless(<base:plate:23>, [ibrass, ibrass, ibrass, ibrass, iehammer]);
-recipes.addShapeless(<base:plate:24>, [iiron, iiron, iiron, iiron, iehammer]);
-recipes.addShapeless(<base:plate:25>, [icopper, icopper, icopper, icopper, iehammer]);
-recipes.addShapeless(<base:plate:26>, [inickel, inickel, inickel, inickel, iehammer]);
-recipes.addShapeless(<base:plate:27>, [ielectrum, ielectrum, ielectrum, ielectrum, iehammer]);
-recipes.addShapeless(<base:plate:28>, [isilver, isilver, isilver, isilver, iehammer]);
-recipes.addShapeless(<base:plate:29>, [ilead, ilead, ilead, ilead, iehammer]);
-recipes.addShapeless(<base:plate:30>, [itin, itin, itin, itin, iehammer]);
-recipes.addShapeless(<base:plate:31>, [ialuminum, ialuminum, ialuminum, ialuminum, iehammer]);
-recipes.addShapeless(<base:plate:32>, [igold, igold, igold, igold, iehammer]);
-recipes.addShapeless(<base:plate:33>, [iinvar, iinvar, iinvar, iinvar, iehammer]);
-recipes.addShapeless(<base:plate:34>, [isteel, isteel, isteel, isteel, iehammer]);
-recipes.addShapeless(<base:plate:40>, [iElectricalSteel, iElectricalSteel, iElectricalSteel, iElectricalSteel, iehammer]);
-recipes.addShapeless(<base:plate:41>, [iEnergeticAlloy, iEnergeticAlloy, iEnergeticAlloy, iEnergeticAlloy, iehammer]);
-recipes.addShapeless(<base:plate:42>, [iVibrantAlloy, iVibrantAlloy, iVibrantAlloy, iVibrantAlloy, iehammer]);
-recipes.addShapeless(<base:plate:43>, [iRedstoneAlloy, iRedstoneAlloy, iRedstoneAlloy, iRedstoneAlloy, iehammer]);
-recipes.addShapeless(<base:plate:44>, [iConductiveIron, iConductiveIron, iConductiveIron, iConductiveIron, iehammer]);
-recipes.addShapeless(<base:plate:45>, [iPulsatingIron, iPulsatingIron, iPulsatingIron, iPulsatingIron, iehammer]);
-recipes.addShapeless(<base:plate:46>, [iDarkSteel, iDarkSteel, iDarkSteel, iDarkSteel, iehammer]);
-recipes.addShapeless(<base:plate:47>, [iSoularium, iSoularium, iSoularium, iSoularium, iehammer]);
-recipes.addShapeless(<base:plate:48>, [iManasteel, iManasteel, iManasteel, iManasteel, iehammer]);
-recipes.addShapeless(<base:plate:49>, [iTerrasteel, iTerrasteel, iTerrasteel, iTerrasteel, iehammer]);
-recipes.addShapeless(<base:plate:50>, [iElementium, iElementium, iElementium, iElementium, iehammer]);
-recipes.addShapeless(<base:plate:51>, [iDraconium, iDraconium, iDraconium, iDraconium, iehammer]);
-recipes.addShapeless(<base:plate:52>, [iAwakenedDraconium, iAwakenedDraconium, iAwakenedDraconium, iAwakenedDraconium, iehammer]);
-recipes.addShapeless(<embers:plateDawnstone>, [iDawnstone, iDawnstone, iDawnstone, iDawnstone, iehammer]);
-recipes.addShapeless(<base:plate:54>, [iDemon, iDemon, iDemon, iDemon, iehammer]);
-recipes.addShapeless(<base:plate:55>, [iRefinedObsidian, iRefinedObsidian, iRefinedObsidian, iRefinedObsidian, iehammer]);
-recipes.addShapeless(<base:plate:56>, [iOsmium, iOsmium, iOsmium, iOsmium, iehammer]);
-recipes.addShapeless(<base:plate:57>, [iGlowstone, iGlowstone, iGlowstone, iGlowstone, iehammer]);
-recipes.addShapeless(<base:plate:58>, [iPsimetal, iPsimetal, iPsimetal, iPsimetal, iehammer]);
-recipes.addShapeless(<base:plate:59>, [iEbonyPsimetal, iEbonyPsimetal, iEbonyPsimetal, iEbonyPsimetal, iehammer]);
-recipes.addShapeless(<base:plate:60>, [iIvoryPsimetal, iIvoryPsimetal, iIvoryPsimetal, iIvoryPsimetal, iehammer]);
-recipes.addShapeless(<base:plate:61>, [iQuartzEnrichedIron, iQuartzEnrichedIron, iQuartzEnrichedIron, iQuartzEnrichedIron, iehammer]);
+////////////////////////
+// Gear Unification
+////////////////////////
 
-//Embers Hammer Recipes
-//Recipe Template (<plate>, ingot, ingot, ingot, ingot, hammer)
-recipes.addShapeless(<base:plate:20>, [ienderium, ienderium, ienderium, ienderium, emhammer]);
-recipes.addShapeless(<base:plate:21>, [iplatinum, iplatinum, iplatinum, iplatinum, emhammer]);
-recipes.addShapeless(<base:plate:22>, [izinc, izinc, izinc, izinc, emhammer]);
-recipes.addShapeless(<base:plate:23>, [ibrass, ibrass, ibrass, ibrass, emhammer]);
-recipes.addShapeless(<base:plate:24>, [iiron, iiron, iiron, iiron, emhammer]);
-recipes.addShapeless(<base:plate:25>, [icopper, icopper, icopper, icopper, emhammer]);
-recipes.addShapeless(<base:plate:26>, [inickel, inickel, inickel, inickel, emhammer]);
-recipes.addShapeless(<base:plate:27>, [ielectrum, ielectrum, ielectrum, ielectrum, emhammer]);
-recipes.addShapeless(<base:plate:28>, [isilver, isilver, isilver, isilver, emhammer]);
-recipes.addShapeless(<base:plate:29>, [ilead, ilead, ilead, ilead, emhammer]);
-recipes.addShapeless(<base:plate:30>, [itin, itin, itin, itin, emhammer]);
-recipes.addShapeless(<base:plate:31>, [ialuminum, ialuminum, ialuminum, ialuminum, emhammer]);
-recipes.addShapeless(<base:plate:32>, [igold, igold, igold, igold, emhammer]);
-recipes.addShapeless(<base:plate:33>, [iinvar, iinvar, iinvar, iinvar, emhammer]);
-recipes.addShapeless(<base:plate:34>, [isteel, isteel, isteel, isteel, emhammer]);
-recipes.addShapeless(<base:plate:40>, [iElectricalSteel, iElectricalSteel, iElectricalSteel, iElectricalSteel, emhammer]);
-recipes.addShapeless(<base:plate:41>, [iEnergeticAlloy, iEnergeticAlloy, iEnergeticAlloy, iEnergeticAlloy, emhammer]);
-recipes.addShapeless(<base:plate:42>, [iVibrantAlloy, iVibrantAlloy, iVibrantAlloy, iVibrantAlloy, emhammer]);
-recipes.addShapeless(<base:plate:43>, [iRedstoneAlloy, iRedstoneAlloy, iRedstoneAlloy, iRedstoneAlloy, emhammer]);
-recipes.addShapeless(<base:plate:44>, [iConductiveIron, iConductiveIron, iConductiveIron, iConductiveIron, emhammer]);
-recipes.addShapeless(<base:plate:45>, [iPulsatingIron, iPulsatingIron, iPulsatingIron, iPulsatingIron, emhammer]);
-recipes.addShapeless(<base:plate:46>, [iDarkSteel, iDarkSteel, iDarkSteel, iDarkSteel, emhammer]);
-recipes.addShapeless(<base:plate:47>, [iSoularium, iSoularium, iSoularium, iSoularium, emhammer]);
-recipes.addShapeless(<base:plate:48>, [iManasteel, iManasteel, iManasteel, iManasteel, emhammer]);
-recipes.addShapeless(<base:plate:49>, [iTerrasteel, iTerrasteel, iTerrasteel, iTerrasteel, emhammer]);
-recipes.addShapeless(<base:plate:50>, [iElementium, iElementium, iElementium, iElementium, emhammer]);
-recipes.addShapeless(<base:plate:51>, [iDraconium, iDraconium, iDraconium, iDraconium, emhammer]);
-recipes.addShapeless(<base:plate:52>, [iAwakenedDraconium, iAwakenedDraconium, iAwakenedDraconium, iAwakenedDraconium, emhammer]);
-recipes.addShapeless(<embers:plateDawnstone>, [iDawnstone, iDawnstone, iDawnstone, iDawnstone, emhammer]);
-recipes.addShapeless(<base:plate:54>, [iDemon, iDemon, iDemon, iDemon, emhammer]);
-recipes.addShapeless(<base:plate:55>, [iRefinedObsidian, iRefinedObsidian, iRefinedObsidian, iRefinedObsidian, emhammer]);
-recipes.addShapeless(<base:plate:56>, [iOsmium, iOsmium, iOsmium, iOsmium, emhammer]);
-recipes.addShapeless(<base:plate:57>, [iGlowstone, iGlowstone, iGlowstone, iGlowstone, emhammer]);
-recipes.addShapeless(<base:plate:58>, [iPsimetal, iPsimetal, iPsimetal, iPsimetal, emhammer]);
-recipes.addShapeless(<base:plate:59>, [iEbonyPsimetal, iEbonyPsimetal, iEbonyPsimetal, iEbonyPsimetal, emhammer]);
-recipes.addShapeless(<base:plate:60>, [iIvoryPsimetal, iIvoryPsimetal, iIvoryPsimetal, iIvoryPsimetal, emhammer]);
-recipes.addShapeless(<base:plate:61>, [iQuartzEnrichedIron, iQuartzEnrichedIron, iQuartzEnrichedIron, iQuartzEnrichedIron, emhammer]);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:20>, iiron, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:21>, igold, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:22>, icopper, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:23>, itin, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:24>, izinc, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:25>, ibronze, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:26>, ibrass, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:27>, isilver, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:28>, ilead, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:29>, inickel, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:30>, ialuminum, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:31>, iplatinum, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:32>, iinvar, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:33>, isteel, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:34>, ielectrum, <immersiveengineering:mold:1>, 500);
+mods.immersiveengineering.MetalPress.addRecipe(<base:gear:35>, ienderium, <immersiveengineering:mold:1>, 500);
 
-//mods.immersiveengineering.MetalPress
+////////////////////////
+// Ingots Unification
+////////////////////////
 
-//mods.immersiveengineering.Crusher
+////////////////////////
+// Dusts Unification
+////////////////////////
+
+//mods.immersiveengineering.Crusher.removeRecipe(<minecraft:blaze_powder>);
+
+////////////////////////
+// Nuggets Unification
+////////////////////////
+
+///recipes.remove(<ore:nuggetIron>);
+///recipes.remove(<ore:nuggetGold>);
+///recipes.remove(<ore:nuggetCopper>);
+///recipes.remove(<ore:nuggetTin>);
+///recipes.remove(<ore:nuggetZinc>);
+///recipes.remove(<ore:nuggetBronze>);
+///recipes.remove(<ore:nuggetBrass>);
+///recipes.remove(<ore:nuggetSilver>);
+///recipes.remove(<ore:nuggetLead>);
+///recipes.remove(<ore:nuggetNickel>);
+///recipes.remove(<ore:nuggetAluminum>);
+///recipes.remove(<ore:nuggetPlatinum>);
+///recipes.remove(<ore:nuggetInvar>);
+///recipes.remove(<ore:nuggetSteel>);
+///recipes.remove(<ore:nuggetElectrum>);
+///recipes.remove(<ore:nuggetEnderium>);
+///recipes.addShapeless(<base:nugget:20> * 9, [iiron]);
+///recipes.addShapeless(<base:nugget:21> * 9, [igold]);
+///recipes.addShapeless(<base:nugget:22> * 9, [icopper]);
+///recipes.addShapeless(<base:nugget:23> * 9, [itin]);
+///recipes.addShapeless(<base:nugget:24> * 9, [izinc]);
+///recipes.addShapeless(<base:nugget:25> * 9, [ibronze]);
+///recipes.addShapeless(<base:nugget:26> * 9, [ibrass]);
+///recipes.addShapeless(<base:nugget:27> * 9, [isilver]);
+///recipes.addShapeless(<base:nugget:28> * 9, [ilead]);
+///recipes.addShapeless(<base:nugget:29> * 9, [inickel]);
+///recipes.addShapeless(<base:nugget:30> * 9, [ialuminum]);
+///recipes.addShapeless(<base:nugget:31> * 9, [iplatinum]);
+///recipes.addShapeless(<base:nugget:32> * 9, [iinvar]);
+///recipes.addShapeless(<base:nugget:33> * 9, [isteel]);
+///recipes.addShapeless(<base:nugget:34> * 9, [ielectrum]);
+///recipes.addShapeless(<base:nugget:35> * 9, [ienderium]);
