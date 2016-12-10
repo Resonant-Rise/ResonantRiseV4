@@ -812,6 +812,14 @@
              description="McJtyLib library for RFTools, Deep Resonance, ..."
              />
 
+            <mod name="compatlayer"
+                 version="1.10-0.1.3" url="packs/ResonantRise/files/4.x/compatlayer-1.10-0.1.3.jar" file="compatlayer-1.10-0.1.3.jar" md5="09317686c0a4d0e495f56abd8f8e0a6a" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/253729/"
+                 authors="McJty"
+                 description="Compatibility layer to make migrating between different vanilla/forge versions easier"
+                 />
+
             <mod name="RFTools"
                  version="1.10-5.62" url="packs/ResonantRise/files/4.x/rftools-1.10-5.62.jar" file="rftools-1.10-5.62.jar" md5="b0e9464846a4cc15e33dde48eaf6cb9b" download="server"
                  type="mods"
