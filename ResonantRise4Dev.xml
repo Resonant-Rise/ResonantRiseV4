@@ -305,6 +305,14 @@
                  description="This is a mod that was originally made for the Tolkiencraft mod pack but it has since evolved way beyond that. This mod adds a mot of extremely expensive ant powerful end game items as well as a lot of random useful bits and peaces."
                  />
 
+        <mod name="BetterBedrockGen"
+             version="5.0.0" url="packs/ResonantRise/files/4.x/BBG-1.9.4-5.0.0.jar" file="BBG-1.9.4-5.0.0.jar" md5="f9fa3861ef7483c0706d16297472bd1f" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/223275/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/betterbedrockgen?gameCategorySlug=mc-mods&amp;projectID=223275&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_do"
+             authors="gigabit101"
+             description="Bedrock Is Flat"
+             />
+
         <mod name="Buttons"
              version="1.10.2-0.0.3-3" url="packs/ResonantRise/files/4.x/Buttons-1.10.2-0.0.3-3.jar" file="Buttons-1.10.2-0.0.3-3.jar" md5="e15cf9e25bd69264cd7a2a48e586ac9e" download="server"
              type="mods"
@@ -598,6 +606,38 @@
              authors="BluSunrize,Damien A.W. Hazard"
              description="A retro-futuristic tech mod!"
              />
+
+        <mod name="IndustrialCraft 2"
+             version="2.6.105-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.105-ex110.jar" file="industrialcraft-2-2.6.105-ex110.jar" md5="9c39dde1d9e433bf7f8bb09cb4cb6d26" download="server"
+             type="mods"
+             website="http://www.industrial-craft.net"
+             authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead"
+             description="Industrial age themed expansion for Minecraft."
+             />
+
+            <mod name="Advanced Machines"
+                 version="60.0.0" url="packs/ResonantRise/files/4.x/Advanced Machines-60.0.0.jar" file="Advanced Machines-60.0.0.jar" md5="3d0eef8089671408abfc67ccfd77904e" download="server"
+                 type="mods"
+                 website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=13358"
+                 authors="immibis,Chocohead"
+                 description="Upgraded IC2 machines"
+                 />
+
+            <mod name="Advanced Solar Panels"
+                 version="4.0.4" url="packs/ResonantRise/files/4.x/Advanced Solar Panels-4.0.4.jar" file="Advanced Solar Panels-4.0.4.jar" md5="d09582760f19443c60371bcf1e194cf2" download="server"
+                 type="mods"
+                 website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=13358"
+                 authors="Icedfire,SeNtiMeL,Chocohead"
+                 description="Advanced solar panels is new generation of using solar power. This is addon for IndustrialCraft 2."
+                 />
+
+            <mod name="Gravitation Suite"
+                 version="3.0.1" url="packs/ResonantRise/files/4.x/Gravitation Suite-3.0.1.jar" file="Gravitation Suite-3.0.1.jar" md5="7557e5363227e0d5650d0831b055e482" download="server"
+                 type="mods"
+                 website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=13598"
+                 authors="SeNtiMeL,Chocohead"
+                 description="Gravitation Suite gives you ability to fly. This is addon for IndustrialCraft 2"
+                 />
 
         <mod name="Inventory Tweaks"
              version="1.61-58-a1fd884"
