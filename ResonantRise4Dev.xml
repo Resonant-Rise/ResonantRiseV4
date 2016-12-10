@@ -371,7 +371,7 @@
 
             <mod name="CodeChicken Lib"
                  version="2.4.3.145" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.4.3.145-universal.jar" file="CodeChickenLib-1.10.2-2.4.3.145-universal.jar" md5="783e262d6436ea2e18367c43ccf1f225" download="server"
-                 type="dependency"
+                 type="mods"
                  website="http://chickenbones.net/Pages/links.html"
                  authors="ChickenBones,covers1624"
                  description="CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things.."
@@ -798,7 +798,7 @@
 
         <mod name="MCMultiPart"
              version="1.3.0" url="packs/ResonantRise/files/4.x/MCMultiPart-1.3.0-universal.jar" file="MCMultiPart-1.3.0-universal.jar" md5="0bbe580fc5562903f28df55a69984e91" download="server"
-             type="dependency"
+             type="mods"
              website="http://www.curseforge.com/projects/239431/"
              authors="amadornes"
              description="A universal multipart API for MC 1.8.9"
@@ -828,6 +828,7 @@
                  description="Simple mod for converting various vanilla resources and mob drops."
                  />
 
+<!--
         <mod name="Mekanism"
              version="9.2.1" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.1.295.jar" file="Mekanism-1.10.2-9.2.1.295.jar" md5="c337f3f19b8c43fd70f9b13b44de768a" download="server"
              type="mods"
@@ -849,6 +850,7 @@
                  authors="aidancbrady"
                  description="Generators module of Mekanism."
                  />
+-->
 
         <mod name="MineMenu"
              version="1.10.X-1.4.4.B9"
