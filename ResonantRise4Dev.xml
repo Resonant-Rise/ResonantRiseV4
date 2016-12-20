@@ -1528,8 +1528,8 @@
              />
 
         <mod name="JourneyMap"
-             version="1.10.2-5.3.1" url="packs/ResonantRise/files/4.x/journeymap-1.10.2-5.3.1.jar" file="journeymap-1.10.2-5.3.1.jar" md5="8944995c8b85da5f2d7d7a0f815cc010" download="server"
-             type="mods" optional="yes"
+             version="1.10.2-5.3.1" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2354561/download" download="server"
+             type="direct" optional="yes"
              website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="techbrew,mysticdrew"
              description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
