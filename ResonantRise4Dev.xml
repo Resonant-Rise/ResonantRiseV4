@@ -1019,6 +1019,14 @@
                  description="All a man needs are meat ingots, and big ass turrets. Adds a heap of new turrets and upgrades!"
                  />
 
+        <mod name="Open Modular Passive Defense"
+             version="3.0.0-16" url="packs/ResonantRise/files/4.x/ompd-1.10.2-3.0.0-16.jar" file="ompd-1.10.2-3.0.0-16.jar" md5="e64f0eb897c0cb44d9cf94c3d06c1c0d" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/open-modular-passive-defense"
+             authors="Poenjabiesous,Keridos"
+             description="All a man needs are meat ingots, and big ass walls. Adds new walls and fences!"
+             />
+
         <mod name="OptionSync"
              version="1.10.2-r1" url="packs/ResonantRise/files/4.x/OptionSync-1.10.2-r1.jar" file="OptionSync-1.10.2-r1.jar" md5="d59116554871ac02557deab66e7a6e12" download="server"
              type="mods"
@@ -1579,15 +1587,15 @@
              />
 
         <mod name="JourneyMap"
-             version="1.10.2-5.3.1" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2354561/download" download="server"
-             type="direct" optional="yes"
+             version="1.10.2-5.3.1" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2354561/download" download="direct"
+             type="mods" optional="yes"
              website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="techbrew,mysticdrew"
              description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
              />
 
         <mod name="MapWriter"
-             version="2.6.19" url="packs/ResonantRise/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
+            version="2.6.19" url="packs/ResonantRise/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
              type="mods" optional="yes"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
              authors="mapwriter"
