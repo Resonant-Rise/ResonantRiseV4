@@ -7,18 +7,18 @@ This is a list of the licenses with affiliated mods, mod devs and mod web pages 
 ====
 
 * Charset by Asie:
-  *[Mod Download](http://charset.asie.pl/index.html)
+  * [Mod Download](http://charset.asie.pl/index.html)
 * IvToolkit by Ivorius:
-  *[Mod Download](https://minecraft.curseforge.com/projects/ivtoolkit)
+  * [Mod Download](https://minecraft.curseforge.com/projects/ivtoolkit)
 
 Creative Commons:
 ====
-[BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-[BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)
-[BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
-[BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-[BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[[BY 3.0]](https://creativecommons.org/licenses/by/3.0/)
+[[BY-NC-ND 3.0]](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+[[BY-NC-SA 3.0]](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
+[[BY 4.0]](http://creativecommons.org/licenses/by/4.0/)
+[[BY-NC-ND 4.0]](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[[BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ___
 
 * Akashic Tome by Vazkii ([BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)):
@@ -58,45 +58,45 @@ ___
 
 GNU General Public License
 ====
-[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
-[LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
-[LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)
-[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[[GPLv2]](http://www.gnu.org/licenses/gpl-2.0.html)
+[[GPLv3]](http://www.gnu.org/licenses/gpl-3.0.html)
+[[LGPLv2.1]](http://www.gnu.org/licenses/lgpl-2.1.html)
+[[LGPLv3]](http://www.gnu.org/licenses/lgpl-3.0.html)
+[[AGPLv3]](https://www.gnu.org/licenses/agpl-3.0.en.html)
 ___
 
 * BetterBedrockGen ([AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/betterbedrockgen)
+  * [Mod Download](https://minecraft.curseforge.com/projects/betterbedrockgen)
 * BetterFPS by Guichaguri ([LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/betterfps)
+  * [Mod Download](https://minecraft.curseforge.com/projects/betterfps)
 * Charset Addendum:
-  *CharsetAudio comes bundled with libresample4j (https://github.com/dnault/libresample4j), which is licensed under the [LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
+  * CharsetAudio comes bundled with libresample4j (https://github.com/dnault/libresample4j), which is licensed under the [LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
 * Chisel by tterrag1098, Drullkus, and Minecreatr ([GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/chisel)
+  * [Mod Download](https://minecraft.curseforge.com/projects/chisel)
 * Chisels & Bits by AlgorithmX2 ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/chisels-bits)
+  * [Mod Download](https://minecraft.curseforge.com/projects/chisels-bits)
 * CodeChickenLib by covers1624 and chicken_bones ([LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
+  * [Mod Download](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
 * Ender Utilities by masa ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/ender-utilities)
+  * [Mod Download](https://minecraft.curseforge.com/projects/ender-utilities)
 * FoamFix by Asie ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) + Minecraft Linking Exception):
-  *[Mod Download](http://asie.pl/foamfix/)
+  * [Mod Download](http://asie.pl/foamfix/)
 * Forestry by SirSengir, CovertJaguar, Player, MysteriousAges, Binnie, RichardG, cpw, mezz, and others (LGPL v3):
-  *[Mod Download](https://minecraft.curseforge.com/projects/forestry)
+  * [Mod Download](https://minecraft.curseforge.com/projects/forestry)
 * Furnus by MrRiegel ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/furnus)
+  * [Mod Download](https://minecraft.curseforge.com/projects/furnus)
 * Hide Names by thislooksfun and skmedix ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/hide-names)
+  * [Mod Download](https://minecraft.curseforge.com/projects/hide-names)
 * Iron Backpacks by gra8pefish ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/inventory-tweaks)
+  * [Mod Download](https://minecraft.curseforge.com/projects/inventory-tweaks)
 * Item Scroller by masa ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/item-scroller)
+  * [Mod Download](https://minecraft.curseforge.com/projects/item-scroller)
 * JEI Bees by BDew ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/jei-bees)
+  * [Mod Download](https://minecraft.curseforge.com/projects/jei-bees)
 * Levels by TheXFactor117 ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/levels)
+  * [Mod Download](https://minecraft.curseforge.com/projects/levels)
 * MineMenu by dmillerw ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
-  *[Mod Download](https://minecraft.curseforge.com/projects/minemenu)
+  * [Mod Download](https://minecraft.curseforge.com/projects/minemenu)
 * More Bees by Lach_01298 ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
   * [Mod Download](https://minecraft.curseforge.com/projects/more-bees)
 * omlib by Keridos and Poenjabiesous([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
@@ -243,8 +243,8 @@ ___
 
 MMPL - Minecraft Mod Public License
 ====
-[1.0.1](http://www.mod-buildcraft.com/MMPL-1.0.txt)
-[2.0.2](https://github.com/iopleke/MMPLv2)
+[[1.0.1]](http://www.mod-buildcraft.com/MMPL-1.0.txt)
+[[2.0.2]](https://github.com/iopleke/MMPLv2)
 ____
 
 * Advanced Generators by BDew (1.0.1):
