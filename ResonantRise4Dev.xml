@@ -201,6 +201,14 @@
              description="Adding a touch of bling to Minecraft"
              />
 
+        <mod name="Bed Bugs"
+             version="1.10.2-1.1.3" url="packs/ResonantRise/files/4.x/BedBugs-1.10.2-1.1.3.jar" file="BedBugs-1.10.2-1.1.3.jar" md5="033bb6611eb2b60f5d8c39d443786a97" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/254508/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/bed-bugs?gameCategorySlug=mc-mods&amp;projectID=254508&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=xwason%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/bed-bugs?gameCategorySlug=mc-mods&amp;projectID=254508&amp;lc=US&amp;item_name=Bed+Bugs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="gr8pefish"
+             description="Adds a button and command to leave the bed/server when stuck!"
+             />
+
         <mod name="Better Achievements"
              version="0.3.2" url="packs/ResonantRise/files/4.x/BetterAchievements-1.10.2-0.3.2.39.jar" file="BetterAchievements-1.10.2-0.3.2.39.jar" md5="4fc1ed563f96cd9069e022ce88c8dad4" download="server"
              type="mods" server="no"
@@ -329,12 +337,13 @@
              description="Shared code and render support for mods. Used by jaquadro&apos;s mods."
              />
 
-        <mod name="Charset"
-             version="0.3.0-pre15" url="packs/ResonantRise/files/4.x/Charset-0.3.0-pre15.jar" file="Charset-0.3.0-pre15.jar" md5="2610961164c7740fe1972ed6f5000e51" download="server"
+        <mod name="charset"
+             version="0.3.3" url="packs/ResonantRise/files/4.x/Charset-mc1.10.2-0.3.3-fc63183d1db778a2.jar" file="Charset-mc1.10.2-0.3.3-fc63183d1db778a2.jar" md5="b15ac41d69975146dae9477a1a1d5f56"
+             download="server"
              type="mods"
-             website="http://www.curseforge.com/projects/246634/"
-             authors="Vazkii,buildcraftchildsplay"
-             description="The Charset Project"
+             website="http://charset.asie.pl"
+             authors="asiekierka"
+             description="A wrench which happens to rotate multiparts"
              />
 
         <mod name="Chisel"
@@ -992,6 +1001,24 @@
              />
 -->
 
+        <mod name="OMLib"
+             version="1.10.2-3.0.0-37" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-37.jar" file="omlib-1.10.2-3.0.0-37.jar" md5="1ae7407fd462597a625aaab3e18cb4e5"
+             download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/omlib"
+             authors="Poenjabiesous,Keridos"
+             description="Lib for OMT and its companion mods!"
+             />
+
+            <mod name="Open Modular Turrets"
+                 version="1.10.2-3.0.0-42" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-42.jar" file="openmodularturrets-1.10.2-3.0.0-42.jar" md5="4d8affb94ec9834efb642ae945b5b1f6"
+                 download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/224663/"
+                 authors="Poenjabiesous,UntouchedWagons,Keridos"
+                 description="All a man needs are meat ingots, and big ass turrets. Adds a heap of new turrets and upgrades!"
+                 />
+
         <mod name="OptionSync"
              version="1.10.2-r1" url="packs/ResonantRise/files/4.x/OptionSync-1.10.2-r1.jar" file="OptionSync-1.10.2-r1.jar" md5="d59116554871ac02557deab66e7a6e12" download="server"
              type="mods"
@@ -1016,6 +1043,22 @@
              authors="EwyBoy"
              description="Allows you to tweak vanilla ore generation"
              />
+
+        <mod name="p455w0rd&apos;s Library"
+             version="1.9.4-1.0.2" url="packs/ResonantRise/files/4.x/p455w0rdslib-1.9.4-1.0.2.jar" file="p455w0rdslib-1.9.4-1.0.2.jar" md5="4e5d76cf2f1216f248208c9f155f2f3c" download="server"
+             type="mods"
+             website="http://p455w0rd.net/"
+             authors="TheRealp455w0rd"
+             description="Library component for all of p455w0rd&apos;s mods"
+             />
+
+            <mod name="Wireless Crafting Grid"
+                 version="1.10.2-1.0.0" url="packs/ResonantRise/files/4.x/WirelessCraftingGrid-1.10.2-1.0.0.jar" file="WirelessCraftingGrid-1.10.2-1.0.0.jar" md5="63c9325cc2c7bb02f85ff98f3f889084" download="server"
+                 type="mods"
+                 website="http://p455w0rd.net/"
+                 authors="TheRealp455w0rd"
+                 description="Refined Storage addons that adds a wireless version of the crafting grid"
+                 />
 
         <mod name="Pam&apos;s HarvestCraft"
              version="1.9.4-1.10.2g" url="packs/ResonantRise/files/4.x/Pams HarvestCraft 1.9.4-1.10.2h.jar" file="Pams HarvestCraft 1.9.4-1.10.2h.jar" md5="49095051cacbf4a1554374f58c3f74da" download="server"
@@ -1282,6 +1325,14 @@
                  website="https://github.com/Belgabor/BitDrawers"
                  authors="Belgabor"
                  description="Specialized storage drawers for Chisels &amp; Bits."
+                 />
+
+            <mod name="Storage Drawers Extras"
+                 version="1.10-1.0.0" url="packs/ResonantRise/files/4.x/StorageDrawersExtras-1.10.2-1.0.0.jar" file="StorageDrawersExtras-1.10.2-1.0.0.jar" md5="6a16a49a7a351193942d7f479333d594" download="server"
+                 type="mods"
+                 website="http://www.jaquadro.com/"
+                 authors="jaquadro"
+                 description="Additional drawers from third party materials."
                  />
 
         <mod name="Super Circuit Maker"
