@@ -400,181 +400,179 @@ https://minecraft.curseforge.com/projects/ender-io
 Ender Zoo by CrazyPants and tterrag1098:
 https://minecraft.curseforge.com/projects/ender-zoo
 
-////////////////////////////////////////////////////////////
-/// WTFPL - Do What the Fuck You Want to Public License
-/// http://www.wtfpl.net/
-////////////////////////////////////////////////////////////
+WTFPL - Do What the Fuck You Want to Public License
+===================================================
+http://www.wtfpl.net/
+___
 
-AutoRegLib by Vazkii:
-https://minecraft.curseforge.com/projects/autoreglib
+AutoRegLib by Vazkii: https://minecraft.curseforge.com/projects/autoreglib
 
-Nether Core by RenEvo:
-https://minecraft.curseforge.com/projects/nether-core
+Nether Core by RenEvo: https://minecraft.curseforge.com/projects/nether-core
 
 Custom (CUS) and All Rights Reserved (ARR)
 ==========================================
 
-Acctually Additions by Ellpeck (CUS):
-Modpack Permissions/Redistribution Rights/License: https://github.com/Ellpeck/ActuallyAdditions/blob/master/LICENSE.md
-Mod: https://minecraft.curseforge.com/projects/actually-additions
+.*Acctually Additions by Ellpeck (CUS):
+..*[Permissions](https://github.com/Ellpeck/ActuallyAdditions/blob/master/LICENSE.md)
+..*[Mod Download](https://minecraft.curseforge.com/projects/actually-additions)
 
-Advanced Machines by Chocohead (ARR):
-Modpack Permissions/Redistribution Rights/License: Please refer to Industrial Craft 2 permissions.
-Mod: https://minecraft.curseforge.com/projects/advanced-machines
-Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=13494
+.*Advanced Machines by Chocohead (ARR):
+..*[Permissions](Please refer to Industrial Craft 2 permissions.)
+..*[Mod Download](https://minecraft.curseforge.com/projects/advanced-machines)
+..*[Website](http://forum.industrial-craft.net/index.php?page=Thread&threadID=13494)
 
-Advanced Solar Panels by Chocohead (ARR):
-Modpack Permissions/Redistribution Rights/License: Please refer to Industrial Craft 2 permissions.
-Mod: https://minecraft.curseforge.com/projects/advanced-solar-panels
-Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=13358
+.*Advanced Solar Panels by Chocohead (ARR):
+..*[Permissions](Please refer to Industrial Craft 2 permissions.)
+..*[Mod Download](https://minecraft.curseforge.com/projects/advanced-solar-panels)
+..*[Website](http://forum.industrial-craft.net/index.php?page=Thread&threadID=13358)
 
-Auto Ore Dictionary Converter by MattDahEpic (ARR):
-Modpack Permissions/Redistribution Rights: https://puu.sh/sV4wW/f9b4225298.png
-License: https://mattdahepic.com/mods/eula/
-Mod: https://minecraft.curseforge.com/projects/auto-ore-dictionary-converter
+.*Auto Ore Dictionary Converter by MattDahEpic (ARR):
+..*[Permissions](https://puu.sh/sV4wW/f9b4225298.png)
+..*[License](https://mattdahepic.com/mods/eula/)
+..*[Mod Download](https://minecraft.curseforge.com/projects/auto-ore-dictionary-converter)
 
-Botania by Vazkii (CUS):
-Modpack Permissions/Redistribution Rights/License: http://botaniamod.net/license.php
-Mod: http://botaniamod.net/index.php
+.*Botania by Vazkii (CUS):
+..*[Permissions](http://botaniamod.net/license.php)
+..*[Mod Download](http://botaniamod.net/index.php)
 
-Controlling by jaredlll08 (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/controlling
-Mod: https://minecraft.curseforge.com/projects/controlling
+.*Controlling by jaredlll08 (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/controlling)
+..*[Mod Download](https://minecraft.curseforge.com/projects/controlling)
 
-Custom Main Menu by Lumien (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/custom-main-menu
-mod: https://minecraft.curseforge.com/projects/custom-main-menu
+.*Custom Main Menu by Lumien (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/custom-main-menu)
+..*[Mod Download](https://minecraft.curseforge.com/projects/custom-main-menu)
 
-ElecCore | Rendering Library by Elec332 (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/eleccore-rendering-library
-mod: https://minecraft.curseforge.com/projects/eleccore-rendering-library
+.*ElecCore | Rendering Library by Elec332 (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/eleccore-rendering-library)
+..*[Mod Download](https://minecraft.curseforge.com/projects/eleccore-rendering-library)
 
-Exhange Orb by MattDahEpic (ARR):
-Modpack Permissions/Redistribution Rights: https://puu.sh/sV4wW/f9b4225298.png
-License: https://mattdahepic.com/mods/eula/
-Mod: https://minecraft.curseforge.com/projects/exchange-orb
+.*Exhange Orb by MattDahEpic (ARR):
+..*[Permissions](https://puu.sh/sV4wW/f9b4225298.png)
+..*[License](https://mattdahepic.com/mods/eula/)
+..*[Mod Download](https://minecraft.curseforge.com/projects/exchange-orb)
 
-Extra Utilities 2 by RWTema (ARR):
-Mod: https://minecraft.curseforge.com/projects/extra-utilities
-Website: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k
+.*Extra Utilities 2 by RWTema (ARR):
+..*[Permissions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k)
+..*[Mod Download](https://minecraft.curseforge.com/projects/extra-utilities)
 
-Eviromental Tech by ValkyrieofNight (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/environmental-tech
-Mod: https://minecraft.curseforge.com/projects/environmental-tech
+.*Eviromental Tech by ValkyrieofNight (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/environmental-tech)
+..*[Mod Download](https://minecraft.curseforge.com/projects/environmental-tech)
 
-FastLeafDecay by Olafski (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/fastleafdecay
-Mod: https://minecraft.curseforge.com/projects/fastleafdecay
+.*FastLeafDecay by Olafski (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/fastleafdecay)
+..*[Mod Download](https://minecraft.curseforge.com/projects/fastleafdecay)
 
-Gravitation Suite by Chocohead (ARR):
-Modpack Permissions/Redistribution Rights/License: Please refer to Industrial Craft 2 permissions.
-Mod: https://minecraft.curseforge.com/projects/gravitation-suite
-Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=13598
+.*Gravitation Suite by Chocohead (ARR):
+..*[Permissions](Please refer to Industrial Craft 2 permissions.)
+..*[Mod Download](https://minecraft.curseforge.com/projects/gravitation-suite)
+..*[Website](http://forum.industrial-craft.net/index.php?page=Thread&threadID=13598)
 
-Grimoire of Gaia 3 by Silentine (ARR):
-Modpack Permissions/Redistribution Rights/License: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284614-grimoire-of-gaia-3-1-8-9-1-3-3-4-03-2016-mobs
-Mod: https://github.com/DoctorWiggles/GrimoireOfGaia/releases/tag/1.4.0-ALPHA
+.*Grimoire of Gaia 3 by Silentine (ARR):
+..*[Permissions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284614-grimoire-of-gaia-3-1-8-9-1-3-3-4-03-2016-mobs)
+..*[Mod Download](https://github.com/DoctorWiggles/GrimoireOfGaia/releases/tag/1.4.0-ALPHA)
 
-Immersive Engineering by BluSunrize (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/immersive-engineering
-Mod: https://minecraft.curseforge.com/projects/immersive-engineering
+.*Immersive Engineering by BluSunrize (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/immersive-engineering)
+..*[Mod Download](https://minecraft.curseforge.com/projects/immersive-engineering)
 
-Industrial Craft 2 by IC² Dev Team (ARR):
-Modpack Permissions/Redistribution Rights/License: http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
-Mod: https://minecraft.curseforge.com/projects/industrial-craft
-Website: http://www.industrial-craft.net/
+.*Industrial Craft 2 by IC² Dev Team (ARR):
+..*[Permissions](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994)
+..*[Mod Download](https://minecraft.curseforge.com/projects/industrial-craft)
+..*[Website](http://www.industrial-craft.net/)
 
-Journey Map by Techbrew (ARR):
-Modpack Permissions/Redistribution Rights/License: http://journeymap.info/Modpack_FAQ
-Mod: https://minecraft.curseforge.com/projects/journeymap-32274
+.*Journey Map by Techbrew (ARR):
+..*[Permissions](http://journeymap.info/Modpack_FAQ)
+..*[Mod Download](https://minecraft.curseforge.com/projects/journeymap-32274)
 Website: http://journeymap.info/Home
 
-MPUtils Basic Tools by GenDeathrow (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/mputils-basic-tools
-Mod: https://minecraft.curseforge.com/projects/mputils-basic-tools
+.*MPUtils Basic Tools by GenDeathrow (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/mputils-basic-tools)
+..*[Mod Download](https://minecraft.curseforge.com/projects/mputils-basic-tools)
 
-MPUtils by GenDeathrow and Darkosto (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/mputils
-Mod: https://minecraft.curseforge.com/projects/mputils
+.*MPUtils by GenDeathrow and Darkosto (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/mputils)
+..*[Mod Download](https://minecraft.curseforge.com/projects/mputils)
 
-Natural Pledge by yrsegal and Tristaric (CUS):
-Modpack Permissions/Redistribution Rights/License: Please see Botania license above.
-Mod: https://minecraft.curseforge.com/projects/optionsync
+.*Natural Pledge by yrsegal and Tristaric (CUS):
+..*[Permissions](Please see Botania license above.)
+..*[Mod Download](https://minecraft.curseforge.com/projects/optionsync)
 
-OptionSync by Ellpeck (CUS):
-Modpack Permissions/Redistribution Rights/License: https://github.com/Ellpeck/OptionSync/blob/master/LICENSE.md
-Mod: https://minecraft.curseforge.com/projects/actually-additions
+.*OptionSync by Ellpeck (CUS):
+..*[Permissions](https://github.com/Ellpeck/OptionSync/blob/master/LICENSE.md)
+..*[Mod Download](https://minecraft.curseforge.com/projects/actually-additions)
 
-Ore Excavation by funwayguy (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/ore-excavation
-Mod: https://minecraft.curseforge.com/projects/ore-excavation
+.*Ore Excavation by funwayguy (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/ore-excavation)
+..*[Mod Download](https://minecraft.curseforge.com/projects/ore-excavation)
 
-OreTweaker by (CUS):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/ore-tweaker/license
-Mod: https://minecraft.curseforge.com/projects/ore-tweaker
+.*OreTweaker by (CUS):
+..*[Permissions](https://minecraft.curseforge.com/projects/ore-tweaker/license)
+..*[Mod Download](https://minecraft.curseforge.com/projects/ore-tweaker)
 
-p455w0rdslib by TheRealp455w0rd (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/p455w0rds-library
-Mod: https://minecraft.curseforge.com/projects/p455w0rds-library
+.*p455w0rdslib by TheRealp455w0rd (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/p455w0rds-library)
+..*[Mod Download](https://minecraft.curseforge.com/projects/p455w0rds-library)
 
-Pam's Harvestcraft by MatrexsVigil and Rohdox (ARR):
-Modpack Permissions/Redistribution Rights/License: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-aug-111th-2016-harvestcraft-1-9-4-1-10
-Mod: https://minecraft.curseforge.com/projects/pams-harvestcraft
+.*Pam's Harvestcraft by MatrexsVigil and Rohdox (ARR):
+..*[Permissions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-aug-111th-2016-harvestcraft-1-9-4-1-10)
+..*[Mod Download](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 
-Progressive Automation by Vanhal (CUS):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/progressive-automation-early-miner/license
-Mod: https://minecraft.curseforge.com/projects/progressive-automation-early-miner
+.*Progressive Automation by Vanhal (CUS):
+..*[Permissions](https://minecraft.curseforge.com/projects/progressive-automation-early-miner/license)
+..*[Mod Download](https://minecraft.curseforge.com/projects/progressive-automation-early-miner)
 
-PSI by Vazkii (CUS):
-Modpack Permissions/Redistribution Rights/License: http://psi.vazkii.us/license.php
-Mod: http://psi.vazkii.us/index.php
+.*PSI by Vazkii (CUS):
+..*[Permissions](http://psi.vazkii.us/license.php)
+..*[Mod Download](http://psi.vazkii.us/index.php)
 
-PSIonic Upgrades by yrsegal and Tristaric (CUS):
-Modpack Permissions/Redistribution Rights/License: Please see PSI license above.
-Mod: https://minecraft.curseforge.com/projects/psionic-upgrades
+.*PSIonic Upgrades by yrsegal and Tristaric (CUS):
+..*[Permissions](Please see PSI license above.)
+..*[Mod Download](https://minecraft.curseforge.com/projects/psionic-upgrades)
 
-Railcraft by CovertJagaur (CUS):
-Modpack Permissions/Redistribution Rights/License: https://github.com/CovertJaguar/Railcraft/blob/master/LICENSE.md
-Railcraft Blog: http://www.railcraft.info/
-Railcraft Wiki: http://railcraft.info/wiki/
-Mod: https://minecraft.curseforge.com/projects/railcraft
+.*Railcraft by CovertJagaur (CUS):
+..*[Permissions](https://github.com/CovertJaguar/Railcraft/blob/master/LICENSE.md)
+..*[Railcraft Blog](http://www.railcraft.info/)
+..*[Railcraft Wiki](http://railcraft.info/wiki/)
+..*[Mod Download](https://minecraft.curseforge.com/projects/railcraft)
 
-Recurrent Complex by Ivorious (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/recurrent-complex
-Mod: https://minecraft.curseforge.com/projects/recurrent-complex
+.*Recurrent Complex by Ivorious (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/recurrent-complex)
+..*[Mod Download](https://minecraft.curseforge.com/projects/recurrent-complex)
 
-Resource Loader by Lumien (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/resource-loader
-Mod: https://minecraft.curseforge.com/projects/resource-loader
+.*Resource Loader by Lumien (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/resource-loader)
+..*[Mod Download](https://minecraft.curseforge.com/projects/resource-loader)
 
-Router Reborn by TomEV (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/router-reborn
-Mod: https://minecraft.curseforge.com/projects/router-reborn
+.*Router Reborn by TomEV (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/router-reborn)
+..*[Mod Download](https://minecraft.curseforge.com/projects/router-reborn)
 
-Steves Carts Reborn by modmuss50 and Nedelosk (CUS):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/steves-carts-reborn/license
-Mod: https://minecraft.curseforge.com/projects/steves-carts-reborn
+.*Steves Carts Reborn by modmuss50 and Nedelosk (CUS):
+..*[Permissions](https://minecraft.curseforge.com/projects/steves-carts-reborn/license)
+..*[Mod Download](https://minecraft.curseforge.com/projects/steves-carts-reborn)
 
-Super Circuit Maker by amadornes (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/super-circuit-maker
-Mod: https://minecraft.curseforge.com/projects/super-circuit-maker
+.*Super Circuit Maker by amadornes (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/super-circuit-maker)
+..*[Mod Download](https://minecraft.curseforge.com/projects/super-circuit-maker)
 
 Super Crafting Frame by EdgarAllen (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/super-crafting-frame
-Mod: https://minecraft.curseforge.com/projects/super-crafting-frame
+..*[Permissions](https://minecraft.curseforge.com/projects/super-crafting-frame)
+..*[Mod Download](https://minecraft.curseforge.com/projects/super-crafting-frame)
 
 ValkyrieLib by ValkyrieofNght (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/valkyrielib
-Mod: https://minecraft.curseforge.com/projects/valkyrielib
+..*[Permissions](https://minecraft.curseforge.com/projects/valkyrielib)
+..*[Mod Download](https://minecraft.curseforge.com/projects/valkyrielib)
 
 WIRED: More Augs by mallrat208 (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/wired-more-augs
-Mod: https://minecraft.curseforge.com/projects/wired-more-augs
+..*[Permissions](https://minecraft.curseforge.com/projects/wired-more-augs)
+..*[Mod Download](https://minecraft.curseforge.com/projects/wired-more-augs)
 
 Wireless Crafting Grid by (ARR):
-Modpack Permissions/Redistribution Rights/License: http://psi.vazkii.us/license.php
-Mod: http://psi.vazkii.us/index.php
+..*[Permissions](http://psi.vazkii.us/license.php)
+..*[Mod Download](http://psi.vazkii.us/index.php)
 
-ZeroCore by ZeroNoRyouki (ARR):
-Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/zerocore
-Mod: https://minecraft.curseforge.com/projects/zerocore
+*ZeroCore by ZeroNoRyouki (ARR):
+..*[Permissions](https://minecraft.curseforge.com/projects/zerocore)
+..*[Mod Download](https://minecraft.curseforge.com/projects/zerocore)
