@@ -27,34 +27,34 @@ ___
   * [Mod Download](https://minecraft.curseforge.com/projects/baubles)
 * Bloood Magic by WayofTime ([BY 4.0](http://creativecommons.org/licenses/by/4.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/blood-magic)
-* Biome O' Plenty by Glitchfiend, Adubbz, and Forstride (BY-NC-ND 4.0):
+* Biome O' Plenty by Glitchfiend, Adubbz, and Forstride ([BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/biomes-o-plenty)
-* EnderTanks by SetiPhian (BY-NC-ND 3.0):
+* EnderTanks by SetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/endertanks)
-* Multi-Beds by ShetiPhian (BY-NC-ND 3.0):
+* Multi-Beds by ShetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/multibeds)
-* Multi-Storage by ShetiPhian (BY-NC-ND 3.0):
+* Multi-Storage by ShetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/multistorage)
-* Natura by mDiyo, Alexbegt, progwml6 (By 3.0):
+* Natura by mDiyo, Alexbegt, progwml6 ([BY 3.0](https://creativecommons.org/licenses/by/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/natura)
 * Neat by Vazkii ([BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)):
   * [Mod Download](https://minecraft.curseforge.com/projects/neat)
 * Morph-o-Tool by Vazkii ([BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)):
   * [Mod Download](https://minecraft.curseforge.com/projects/morph-o-tool)
-* Platforms by ShetiPhian (BY-NC-ND 3.0):
+* Platforms by ShetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/platforms)
 * Quark by Vazkii ([BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)):
   * [Mod Download](https://minecraft.curseforge.com/projects/quark)
-* ShetiPhianCore by ShetiPhian (BY-NC-ND 3.0):
+* ShetiPhianCore by ShetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/shetiphiancore)
-* Terraqueous by ShetiPhian (BY-NC-ND 3.0):
+* Terraqueous by ShetiPhian ([BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)):
   * [Mod Download](https://minecraft.curseforge.com/projects/terraqueous)
 
 [Don't Be A Jerk](https://github.com/evantahler/Dont-be-a-Jerk)
 ====
 
 * BetterAchievments by Way2muchnoise:
-  *[Mod Download](https://minecraft.curseforge.com/projects/betterachievements)
+  * [Mod Download](https://minecraft.curseforge.com/projects/betterachievements)
 
 GNU General Public License
 ====
@@ -70,7 +70,7 @@ ___
 * BetterFPS by Guichaguri ([LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)):
   * [Mod Download](https://minecraft.curseforge.com/projects/betterfps)
 * Charset Addendum:
-  * CharsetAudio comes bundled with libresample4j (https://github.com/dnault/libresample4j), which is licensed under the [LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
+  * CharsetAudio comes bundled with [libresample4j](https://github.com/dnault/libresample4j), which is licensed under the [LGPLv2.1](http://www.gnu.org/licenses/lgpl-2.1.html)
 * Chisel by tterrag1098, Drullkus, and Minecreatr ([GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)):
   * [Mod Download](https://minecraft.curseforge.com/projects/chisel)
 * Chisels & Bits by AlgorithmX2 ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
@@ -81,7 +81,7 @@ ___
   * [Mod Download](https://minecraft.curseforge.com/projects/ender-utilities)
 * FoamFix by Asie ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) + Minecraft Linking Exception):
   * [Mod Download](http://asie.pl/foamfix/)
-* Forestry by SirSengir, CovertJaguar, Player, MysteriousAges, Binnie, RichardG, cpw, mezz, and others (LGPL v3):
+* Forestry by SirSengir, CovertJaguar, Player, MysteriousAges, Binnie, RichardG, cpw, mezz, and others ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
   * [Mod Download](https://minecraft.curseforge.com/projects/forestry)
 * Furnus by MrRiegel ([LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html)):
   * [Mod Download](https://minecraft.curseforge.com/projects/furnus)
@@ -132,7 +132,7 @@ ___
 ====
 
 * ArchitectureCraft by gcewing:
-  * [Mod Download](mod: https://minecraft.curseforge.com/projects/architecturecraft)
+  * [Mod Download](https://minecraft.curseforge.com/projects/architecturecraft)
   * [website](http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ArchitectureCraft/)
 * B.A.S.E. by The Acronym Coders:
   * [Mod Download](https://minecraft.curseforge.com/projects/b-a-s-e)
