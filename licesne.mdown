@@ -380,38 +380,31 @@ https://minecraft.curseforge.com/projects/unidict
 WannionCore by WanionCane:
 https://minecraft.curseforge.com/projects/wanionlib
 
-////////////////////////////////////////////////////////////////////
-/// Public domain
-/// http://fairuse.stanford.edu/overview/public-domain/welcome/
-////////////////////////////////////////////////////////////////////
 
-AppleSkin by squeek502:
-https://minecraft.curseforge.com/projects/appleskin
+[Public domain](/// http://fairuse.stanford.edu/overview/public-domain/welcome/)
+====
 
-CraftTweaker by jaredlll08:
-https://minecraft.curseforge.com/projects/crafttweaker
+* AppleSkin by squeek502
+  * [Mod Download](https://minecraft.curseforge.com/projects/appleskin)
+* CraftTweaker by jaredlll08:
+  * [Mod Download](https://minecraft.curseforge.com/projects/crafttweaker)
+* EnderCore by CrazyPants and tterrag1098:
+  * [Mod Download](https://minecraft.curseforge.com/projects/endercore)
+* Ender IO by CrazyPants, Henry_leonWind, MatthiasM, and tterrag1098:
+  * [Mod Download](https://minecraft.curseforge.com/projects/ender-io)
+* Ender Zoo by CrazyPants and tterrag1098:
+  * [Mod Download](https://minecraft.curseforge.com/projects/ender-zoo)
 
-EnderCore by CrazyPants and tterrag1098:
-https://minecraft.curseforge.com/projects/endercore
+[WTFPL - Do What the Fuck You Want to Public License](http://www.wtfpl.net/)
+====
 
-Ender IO by CrazyPants, Henry_leonWind, MatthiasM, and tterrag1098:
-https://minecraft.curseforge.com/projects/ender-io
-
-Ender Zoo by CrazyPants and tterrag1098:
-https://minecraft.curseforge.com/projects/ender-zoo
-
-WTFPL - Do What the Fuck You Want to Public License
-===================================================
-http://www.wtfpl.net/
-___
-
-AutoRegLib by Vazkii: https://minecraft.curseforge.com/projects/autoreglib
-
-Nether Core by RenEvo: https://minecraft.curseforge.com/projects/nether-core
+* AutoRegLib by Vazkii
+  * [Mod Download](https://minecraft.curseforge.com/projects/autoreglib)
+* Nether Core by RenEvo
+  * [Mod Download](https://minecraft.curseforge.com/projects/nether-core)
 
 Custom (CUS) and All Rights Reserved (ARR)
 ==========================================
-
 
 * Acctually Additions by Ellpeck (CUS):
   * [Permissions](https://github.com/Ellpeck/ActuallyAdditions/blob/master/LICENSE.md)
