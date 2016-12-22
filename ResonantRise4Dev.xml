@@ -337,6 +337,7 @@
              description="Shared code and render support for mods. Used by jaquadro&apos;s mods."
              />
 
+<!--
         <mod name="charset"
              version="0.3.3" url="packs/ResonantRise/files/4.x/Charset-mc1.10.2-0.3.3-fc63183d1db778a2.jar" file="Charset-mc1.10.2-0.3.3-fc63183d1db778a2.jar" md5="b15ac41d69975146dae9477a1a1d5f56"
              download="server"
@@ -345,6 +346,7 @@
              authors="asiekierka"
              description="A wrench which happens to rotate multiparts"
              />
+-->
 
         <mod name="Chisel"
              version="MC1.10.2-0.0.7.7" url="packs/ResonantRise/files/4.x/Chisel-MC1.10.2-0.0.7.7.jar" file="Chisel-MC1.10.2-0.0.7.7.jar" md5="ebf56ad04d4cb5edb272cc35b0107d54" download="server"
