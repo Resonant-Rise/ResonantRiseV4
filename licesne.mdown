@@ -411,9 +411,8 @@ https://minecraft.curseforge.com/projects/autoreglib
 Nether Core by RenEvo:
 https://minecraft.curseforge.com/projects/nether-core
 
-/////////////////////////////////////////////////
-/// Custom (CUS) and All Rights Reserved (ARR)
-/////////////////////////////////////////////////
+Custom (CUS) and All Rights Reserved (ARR)
+==========================================
 
 Acctually Additions by Ellpeck (CUS):
 Modpack Permissions/Redistribution Rights/License: https://github.com/Ellpeck/ActuallyAdditions/blob/master/LICENSE.md
