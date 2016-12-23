@@ -709,7 +709,7 @@
              />
 
         <mod name="LimeLib"
-             version="1.10.2-1.3.3" url="packs/ResonantRise/files/4.x/limelib-1.10.2-1.3.3.jar" file="limelib-1.10.2-1.3.3.jar" md5="6a48d7d1d033121db060190dac92fc17" download="server"
+             version="1.10.2-1.3.5" url="packs/ResonantRise/files/4.x/limelib-1.10.2-1.3.5.jar" file="limelib-1.10.2-1.3.5.jar" md5="d56e25748c0ec9da600d544d4860fc88" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/250711/"
              authors="MrRiegel"
