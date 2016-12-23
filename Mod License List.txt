@@ -1,7 +1,9 @@
 ///////////////////////////////////////////////////////////////////////////////
 ///
-/// List of the licenses with affiliated mods, mod devs
-/// and mod web pages in the Resonant Rise 4 Pack
+/// This is a list of the licenses with affiliated mods, mod devs
+/// and mod web pages used in the Resonant Rise 4 Pack. These are
+/// ordered by licenses Alphabatized, exception to Custom and 
+/// All rights Reserved at the bottom.
 ///
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -18,13 +20,15 @@ https://minecraft.curseforge.com/projects/ivtoolkit
 
 //////////////////////////////////////////////////////////////////////////
 /// Creative Commons:
+/// BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+/// BY-NC-ND 3.0 - https://creativecommons.org/licenses/by-nc-nd/3.0/
 /// BY-NC-SA 3.0 - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB
 /// BY 4.0 - http://creativecommons.org/licenses/by/4.0/
-/// BY-NC-ND 3.0 - https://creativecommons.org/licenses/by-nc-nd/3.0/
 /// BY-NC-ND 4.0 - https://creativecommons.org/licenses/by-nc-nd/4.0/
+/// BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/
 //////////////////////////////////////////////////////////////////////////
 
-Akashic Tome by Vazkii (BY-NC-SA 3.0):
+Akashic Tome by Vazkii (BY-NC-SA 3.0):mine
 https://minecraft.curseforge.com/projects/akashic-tome
 
 Baubles by Azanor (BY-NC-SA 3.0):
@@ -38,6 +42,15 @@ https://minecraft.curseforge.com/projects/biomes-o-plenty
 
 EnderTanks by SetiPhian (BY-NC-ND 3.0):
 https://minecraft.curseforge.com/projects/endertanks
+
+Multi-Beds by ShetiPhian (BY-NC-ND 3.0):
+https://minecraft.curseforge.com/projects/multibeds
+
+Multi-Storage by ShetiPhian (BY-NC-ND 3.0):
+https://minecraft.curseforge.com/projects/multistorage
+
+Natura by mDiyo, Alexbegt, progwml6 (By 3.0):
+https://minecraft.curseforge.com/projects/natura
 
 Neat by Vazkii (BY-NC-SA 3.0):
 https://minecraft.curseforge.com/projects/neat
@@ -60,7 +73,7 @@ https://minecraft.curseforge.com/projects/terraqueous
 //////////////////////////////////////////////////////
 /// Don't Be A Jerk
 /// https://github.com/evantahler/Dont-be-a-Jerk
-/////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
 
 BetterAchievments by Way2muchnoise:
 https://minecraft.curseforge.com/projects/betterachievements
@@ -119,8 +132,53 @@ https://minecraft.curseforge.com/projects/jei-bees
 Levels by TheXFactor117 (LGPLv3):
 https://minecraft.curseforge.com/projects/levels
 
+MineMenu by dmillerw (LGPLv3):
+https://minecraft.curseforge.com/projects/minemenu
+
+More Bees by Lach_01298 (LGPLv3):
+https://minecraft.curseforge.com/projects/more-bees
+
+omlib by Keridos and Poenjabiesous(LGPLv3):
+https://minecraft.curseforge.com/projects/omlib?gameCategorySlug=mc-mods&projectID=254334
+
+Open Modular Defenses by Keridos and Poenjabiesous(LGPLv3):
+https://minecraft.curseforge.com/projects/open-modular-passive-defense?gameCategorySlug=mc-mods&projectID=254332
+
+Open Modular Turrets by Keridos and Poenjabiesous(LGPLv3):
+https://minecraft.curseforge.com/projects/openmodularturrets
+
+QuantumStorage by Gigabit101 and Keridos (LGPLv3):
+https://minecraft.curseforge.com/projects/quantumstorage
+
+Refined Relocation 2 by BlayTheNinth and Dynious (LGPLv3):
+https://minecraft.curseforge.com/projects/refined-relocation-2
+
+Reliquary by P3pp3rF1l (LGPLv3):
+https://minecraft.curseforge.com/projects/reliquary-v1-3
+
+Rougelike Dungeons by Greymerk (LGPLv3):
+https://minecraft.curseforge.com/projects/roguelike-dungeons
+
+Realistic Terrain Generation by WhichOnesPink, KdotJPG, lightningo1, srs_bsns, Topisani, Vel0cityX, and Zeno410 (LGPLv3):
+https://minecraft.curseforge.com/projects/realistic-terrain-generation
+
 Simple Covers by BDew (LGPLv3):
 https://minecraft.curseforge.com/projects/simple-covers
+
+Steve's Factory Manager Reborn by Gigabit101 (LGPLv3):
+https://minecraft.curseforge.com/projects/steves-factory-manager-reborn?gameCategorySlug=mc-mods&projectID=253338
+
+Tinker I/O by GKB, frank89722, and tokomikea (LGPLv3):
+https://minecraft.curseforge.com/projects/tinker-i-o
+
+Tiny-Progressions by Kashdeya, Darkosto, and GenDeathrow (LGPLv2.1):
+https://minecraft.curseforge.com/projects/tiny-progressions
+
+Tomb Many Graves by M4thG33k (LGPLv3):
+https://minecraft.curseforge.com/projects/tomb-many-graves
+
+Woot by Ipsis (LGPLv3):
+https://minecraft.curseforge.com/projects/woot
 
 ////////////////////////////////////////////
 /// MIT License (MIT)
@@ -200,17 +258,101 @@ https://minecraft.curseforge.com/projects/limelib
 LunatriusCore by Lunatrius:
 https://minecraft.curseforge.com/projects/lunatriuscore
 
+Malisis Blocks by Ordinastie:
+https://minecraft.curseforge.com/projects/malisisblocks?gameCategorySlug=mc-mods
+
+Malisis Core by Ordinastie:
+https://minecraft.curseforge.com/projects/malisiscore
+
+Malisis Doors by Ordinastie:
+https://minecraft.curseforge.com/projects/malisisdoors
+
+Mantle by mDiyo, Alexbegt, Arckan, boni, fuj1n, progwml6:
+https://minecraft.curseforge.com/projects/mantle
+
+MCJtyLib by McJty:
+https://minecraft.curseforge.com/projects/mcjtylib
+
+MCMultiPart by amadornes:
+https://minecraft.curseforge.com/projects/mcmultipart
+
+Mod Name Tooltip by mezz:
+https://minecraft.curseforge.com/projects/mod-name-tooltip
+
+ModTweaker by jaredlll08:
+https://minecraft.curseforge.com/projects/modtweaker
+
+MTLib by jaredlll08:
+https://minecraft.curseforge.com/projects/mtlib
+
+Nether Portal Fix by BlayTheNinth:
+https://minecraft.curseforge.com/projects/netherportalfix
+
+Not Enought Wands by romelo333:
+https://minecraft.curseforge.com/projects/not-enough-wands
+
+Random Things by Lumien:
+https://minecraft.curseforge.com/projects/random-things
+
+RebornCore by modmuss50, Gigabit101, and ProfessorProspecter:
+https://minecraft.curseforge.com/projects/reborncore
+
+Refined Storage by raoulvdberge and Way2muchnoise:
+https://minecraft.curseforge.com/projects/refined-storage
+
+RFTools by McJty:
+https://minecraft.curseforge.com/projects/rftools
+
+RFTools Control by McJty:
+https://minecraft.curseforge.com/projects/rftools-control
+
+RFTools Dimensions by McJty:
+https://minecraft.curseforge.com/projects/rftools-dimensions
+
+Roots by Elucent, Alexismachina, ShadowGamerXY, and werty1125:
+https://minecraft.curseforge.com/projects/roots
+
+Simple Dimensions by Lumien:
+https://minecraft.curseforge.com/projects/simple-dimensions
+
+Simply Jetpacks 2 by Tomson124 and Tonius:
+https://minecraft.curseforge.com/projects/simply-jetpacks-2
+
+Stackie by Lunatrius:
+https://minecraft.curseforge.com/projects/stackie
+
 Storage Drawers by jaquadro:
 https://minecraft.curseforge.com/projects/storage-drawers
 
 Storage Drawers Extras by jaquadro:
 https://minecraft.curseforge.com/projects/storage-drawers-extras
 
+Surge by Darkhax, Epoxide, and IcIc98:
+https://minecraft.curseforge.com/projects/surge
+
+Tesla by Darkhax and Epoxide:
+https://minecraft.curseforge.com/projects/tesla
+
+The One Probe by McJty:
+https://minecraft.curseforge.com/projects/the-one-probe
+
+Tinkers' Construct by mDiyo, boni, and KnightMiner:
+https://minecraft.curseforge.com/projects/tinkers-construct
+
+Tinkers' Tool Leveling by boni:
+https://minecraft.curseforge.com/projects/tinkers-tool-leveling
+
+Translocators by chicken_bones and covers1624:
+https://minecraft.curseforge.com/projects/translocators-1-8
+
+TrashSlot by BlayTheNinth:
+https://minecraft.curseforge.com/projects/trashslot
+
 ////////////////////////////////////////////////////////////
 /// MMPL - Minecraft Mod Public License
 /// 1.0.1 - http://www.mod-buildcraft.com/MMPL-1.0.txt
 /// 2.0.2 - https://github.com/iopleke/MMPLv2
-///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
 
 Advanced Generators by BDew (1.0.1):
 https://minecraft.curseforge.com/projects/Advanced-Generators
@@ -221,16 +363,27 @@ https://minecraft.curseforge.com/projects/bdlib
 Gendustry by BDew (1.0.1):
 https://minecraft.curseforge.com/projects/Gendustry
 
-Guide-API (2.0.2):
+Guide-API by Vazkii (2.0.2):
 https://minecraft.curseforge.com/projects/guide-api
 
 Pressure Pipes by BDew (1.0.1):
 https://minecraft.curseforge.com/projects/Pressure-Pipes
 
-//////////////////////////////////////
-/// Public public-domain
+////////////////////////////////////////////////////////////////////
+/// Mozilla Public Library 2.0
+/// https://www.mozilla.org/en-US/MPL/2.0/
+////////////////////////////////////////////////////////////////////
+
+Unidict by WanionCane:
+https://minecraft.curseforge.com/projects/unidict
+
+WannionCore by WanionCane:
+https://minecraft.curseforge.com/projects/wanionlib
+
+////////////////////////////////////////////////////////////////////
+/// Public domain
 /// http://fairuse.stanford.edu/overview/public-domain/welcome/
-//////////////////////////////////////
+////////////////////////////////////////////////////////////////////
 
 AppleSkin by squeek502:
 https://minecraft.curseforge.com/projects/appleskin
@@ -238,13 +391,13 @@ https://minecraft.curseforge.com/projects/appleskin
 CraftTweaker by jaredlll08:
 https://minecraft.curseforge.com/projects/crafttweaker
 
-EnderCore by CrazyPants and tterrag1098
+EnderCore by CrazyPants and tterrag1098:
 https://minecraft.curseforge.com/projects/endercore
 
-Ender IO by CrazyPants, Henry_leonWind, MatthiasM, and tterrag1098
+Ender IO by CrazyPants, Henry_leonWind, MatthiasM, and tterrag1098:
 https://minecraft.curseforge.com/projects/ender-io
 
-Ender Zoo by CrazyPants and tterrag1098
+Ender Zoo by CrazyPants and tterrag1098:
 https://minecraft.curseforge.com/projects/ender-zoo
 
 ////////////////////////////////////////////////////////////
@@ -254,6 +407,9 @@ https://minecraft.curseforge.com/projects/ender-zoo
 
 AutoRegLib by Vazkii:
 https://minecraft.curseforge.com/projects/autoreglib
+
+Nether Core by RenEvo:
+https://minecraft.curseforge.com/projects/nether-core
 
 /////////////////////////////////////////////////
 /// Custom (CUS) and All Rights Reserved (ARR)
@@ -274,8 +430,9 @@ Mod: https://minecraft.curseforge.com/projects/advanced-solar-panels
 Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=13358
 
 Auto Ore Dictionary Converter by MattDahEpic (ARR):
+Modpack Permissions/Redistribution Rights: https://puu.sh/sV4wW/f9b4225298.png
+License: https://mattdahepic.com/mods/eula/
 Mod: https://minecraft.curseforge.com/projects/auto-ore-dictionary-converter
-Modpack Permissions/Redistribution Rights/License: https://puu.sh/sV4wW/f9b4225298.png
 
 Botania by Vazkii (CUS):
 Modpack Permissions/Redistribution Rights/License: http://botaniamod.net/license.php
@@ -294,8 +451,9 @@ Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.
 mod: https://minecraft.curseforge.com/projects/eleccore-rendering-library
 
 Exhange Orb by MattDahEpic (ARR):
+Modpack Permissions/Redistribution Rights: https://puu.sh/sV4wW/f9b4225298.png
+License: https://mattdahepic.com/mods/eula/
 Mod: https://minecraft.curseforge.com/projects/exchange-orb
-Modpack Permissions/Redistribution Rights/License: https://puu.sh/sV4wW/f9b4225298.png
 
 Extra Utilities 2 by RWTema (ARR):
 Mod: https://minecraft.curseforge.com/projects/extra-utilities
@@ -332,6 +490,92 @@ Modpack Permissions/Redistribution Rights/License: http://journeymap.info/Modpac
 Mod: https://minecraft.curseforge.com/projects/journeymap-32274
 Website: http://journeymap.info/Home
 
-psi by Vazkii (CUS):
+MPUtils Basic Tools by GenDeathrow (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/mputils-basic-tools
+Mod: https://minecraft.curseforge.com/projects/mputils-basic-tools
+
+MPUtils by GenDeathrow and Darkosto (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/mputils
+Mod: https://minecraft.curseforge.com/projects/mputils
+
+Natural Pledge by yrsegal and Tristaric (CUS):
+Modpack Permissions/Redistribution Rights/License: Please see Botania license above.
+Mod: https://minecraft.curseforge.com/projects/optionsync
+
+OptionSync by Ellpeck (CUS):
+Modpack Permissions/Redistribution Rights/License: https://github.com/Ellpeck/OptionSync/blob/master/LICENSE.md
+Mod: https://minecraft.curseforge.com/projects/actually-additions
+
+Ore Excavation by funwayguy (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/ore-excavation
+Mod: https://minecraft.curseforge.com/projects/ore-excavation
+
+OreTweaker by (CUS):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/ore-tweaker/license
+Mod: https://minecraft.curseforge.com/projects/ore-tweaker
+
+p455w0rdslib by TheRealp455w0rd (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/p455w0rds-library
+Mod: https://minecraft.curseforge.com/projects/p455w0rds-library
+
+Pam's Harvestcraft by MatrexsVigil and Rohdox (ARR):
+Modpack Permissions/Redistribution Rights/License: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-aug-111th-2016-harvestcraft-1-9-4-1-10
+Mod: https://minecraft.curseforge.com/projects/pams-harvestcraft
+
+Progressive Automation by Vanhal (CUS):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/progressive-automation-early-miner/license
+Mod: https://minecraft.curseforge.com/projects/progressive-automation-early-miner
+
+PSI by Vazkii (CUS):
 Modpack Permissions/Redistribution Rights/License: http://psi.vazkii.us/license.php
 Mod: http://psi.vazkii.us/index.php
+
+PSIonic Upgrades by yrsegal and Tristaric (CUS):
+Modpack Permissions/Redistribution Rights/License: Please see PSI license above.
+Mod: https://minecraft.curseforge.com/projects/psionic-upgrades
+
+Railcraft by CovertJagaur (CUS):
+Modpack Permissions/Redistribution Rights/License: https://github.com/CovertJaguar/Railcraft/blob/master/LICENSE.md
+Railcraft Blog: http://www.railcraft.info/
+Railcraft Wiki: http://railcraft.info/wiki/
+Mod: https://minecraft.curseforge.com/projects/railcraft
+
+Recurrent Complex by Ivorious (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/recurrent-complex
+Mod: https://minecraft.curseforge.com/projects/recurrent-complex
+
+Resource Loader by Lumien (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/resource-loader
+Mod: https://minecraft.curseforge.com/projects/resource-loader
+
+Router Reborn by TomEV (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/router-reborn
+Mod: https://minecraft.curseforge.com/projects/router-reborn
+
+Steves Carts Reborn by modmuss50 and Nedelosk (CUS):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/steves-carts-reborn/license
+Mod: https://minecraft.curseforge.com/projects/steves-carts-reborn
+
+Super Circuit Maker by amadornes (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/super-circuit-maker
+Mod: https://minecraft.curseforge.com/projects/super-circuit-maker
+
+Super Crafting Frame by EdgarAllen (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/super-crafting-frame
+Mod: https://minecraft.curseforge.com/projects/super-crafting-frame
+
+ValkyrieLib by ValkyrieofNght (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/valkyrielib
+Mod: https://minecraft.curseforge.com/projects/valkyrielib
+
+WIRED: More Augs by mallrat208 (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/wired-more-augs
+Mod: https://minecraft.curseforge.com/projects/wired-more-augs
+
+Wireless Crafting Grid by (ARR):
+Modpack Permissions/Redistribution Rights/License: http://psi.vazkii.us/license.php
+Mod: http://psi.vazkii.us/index.php
+
+ZeroCore by ZeroNoRyouki (ARR):
+Modpack Permissions/Redistribution Rights/License: https://minecraft.curseforge.com/projects/zerocore
+Mod: https://minecraft.curseforge.com/projects/zerocore
