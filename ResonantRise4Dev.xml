@@ -1580,6 +1580,22 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
+        <mod name="FTBLib"
+             version="1.10.2-3.1.5" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.1.5.jar" file="FTBLib-1.10.2-3.1.5.jar" md5="330dde43a9f9233e539a6eacd6a76a67" download="server"
+             type="mods" optional="yes"
+             website="http://minecraft.curseforge.com/projects/ftblib"
+             authors="LatvianModder,Jared"
+             description="FTBLib"
+             />
+
+            <mod name="FTBUtilities"
+                 version="1.10.2-3.1.4" url="packs/ResonantRise/files/4.x/FTBUtilities-1.10.2-3.1.4.jar" file="FTBUtilities-1.10.2-3.1.4.jar" md5="14cbc460b46db2b3f70684759af09bbe" download="server"
+                 type="mods" optional="yes"
+                 website="http://minecraft.curseforge.com/projects/ftb-utilities"
+                 authors="LatvianModder"
+                 description="FTBUtilities"
+                 />
+
         <mod name="Item Scroller"
              version="0.8.0" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.8.0.jar" file="itemscroller-1.10.2-0.8.0.jar" md5="ca75a727007031099bcbf6446a584155" download="server"
              type="mods" optional="yes" server="no"
@@ -1659,22 +1675,6 @@
              authors="Guichaguri"
              description="Performance Improvement"
              />
-
-        <mod name="FTBLib"
-             version="1.10.2-3.1.5" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.1.5.jar" file="FTBLib-1.10.2-3.1.5.jar" md5="330dde43a9f9233e539a6eacd6a76a67" download="server"
-             type="mods" optional="yes"
-             website="http://minecraft.curseforge.com/projects/ftblib"
-             authors="LatvianModder,Jared"
-             description="FTBLib"
-             />
-
-            <mod name="FTBUtilities"
-                 version="1.10.2-3.1.4" url="packs/ResonantRise/files/4.x/FTBUtilities-1.10.2-3.1.4.jar" file="FTBUtilities-1.10.2-3.1.4.jar" md5="14cbc460b46db2b3f70684759af09bbe" download="server"
-                 type="mods" optional="yes"
-                 website="http://minecraft.curseforge.com/projects/ftb-utilities"
-                 authors="LatvianModder"
-                 description="FTBUtilities"
-                 />
 
         <mod name="TickProfiler"
              version="1.10.2.jenkins.10" url="packs/ResonantRise/files/4.x/TickProfiler-1.10.2.jenkins.10.jar" file="TickProfiler-1.10.2.jenkins.10.jar" md5="85fb0d086b2ce9dbe79a17167a1156ea" download="server"
