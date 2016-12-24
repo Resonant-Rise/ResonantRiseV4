@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>a.1.2.3</version>
+        <version>b.1.0.0</version>
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1662,7 +1662,7 @@
 
         <mod name="FTBLib"
              version="1.10.2-3.1.5" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.1.5.jar" file="FTBLib-1.10.2-3.1.5.jar" md5="330dde43a9f9233e539a6eacd6a76a67" download="server"
-             type="mods" client="no" optional="yes"
+             type="mods" optional="yes"
              website="http://minecraft.curseforge.com/projects/ftblib"
              authors="LatvianModder,Jared"
              description="FTBLib"
@@ -1670,7 +1670,7 @@
 
             <mod name="FTBUtilities"
                  version="1.10.2-3.1.4" url="packs/ResonantRise/files/4.x/FTBUtilities-1.10.2-3.1.4.jar" file="FTBUtilities-1.10.2-3.1.4.jar" md5="14cbc460b46db2b3f70684759af09bbe" download="server"
-                 type="mods" client="no" optional="yes"
+                 type="mods" optional="yes"
                  website="http://minecraft.curseforge.com/projects/ftb-utilities"
                  authors="LatvianModder"
                  description="FTBUtilities"
