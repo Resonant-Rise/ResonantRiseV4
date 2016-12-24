@@ -1,29 +1,47 @@
 {
     "images":
     {
+
 		"black":
         {
             "image" : "mainmenu:textures/bg_menu.png",
-            "posX" : 95,
+            "posX" : 70,
             "posY" : -80,
-            "width" : 200,
+            "width" : 250,
             "height" : 1500,
             "alignment" : "top_left"
         },
 		"logo":
         {
             "image" : "mainmenu:textures/logo.png",
-            "posX" : 0,
-            "posY" : 0,
-            "width" : 475,
-            "height" : 240,
-            "alignment" : "top_left"
+            "posX" : 100,
+            "posY" : -195,
+            "width" : 200,
+            "height" : 200,
+            "alignment" : "left_center"
         }
 
 	},
 
     "buttons":
     {
+    "discord":
+        {
+            "text" : "",
+            "texture" : "mainmenu:textures/discord.png",
+            "posX" : -150,
+            "posY" : -150,
+            "width" : 125,
+            "height" : 40,
+            "imageWidth" : 500,
+			      "imageHeight" : 160,
+            "alignment" : "bottom_right",
+             "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://discord.resonantri.se"
+            }
+        },
 		"singleplayer":
         {
             "text" : "menu.singleplayer",
@@ -31,7 +49,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : -40,
+            "posY" : 10,
             "width" : 196,
             "height" : 30,
 			imageWidth : 100,
@@ -51,7 +69,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : -10,
+            "posY" : 40,
             "width" : 196,
             "height" : 30,
 			imageWidth : 100,
@@ -71,7 +89,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : 30,
+            "posY" : 80,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
@@ -89,7 +107,7 @@
             "text" : "options.language",
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : 50,
+            "posY" : 100,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
@@ -109,7 +127,7 @@
 			"hoverTextColor" : 14483456,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : 70,
+            "posY" : 120,
             "width" : 196,
             "height" : 20,
 			imageWidth : 100,
@@ -129,8 +147,8 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : 100,
-            "width" : 96,
+            "posY" : 150,
+            "width" : 196,
             "height" : 20,
 			imageWidth : 100,
 			imageHeight : 50,
@@ -140,29 +158,22 @@
                 "type" : "openGui",
                 "gui" : "mods"
             }
-        },
-        "versionChecker":
-        {
-            "text" : "Version-Checker",
-			"normalTextColor" : 6710886,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 193,
-            "posY" : 100,
-            "width" : 100,
-            "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "wrappedButton" : 404
         }
 	},
 
-    "texts":
+    "labels":
     {
+        "forge":
+        {
+            "text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : -25,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
         "mojang":
         {
-            "text" : "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "text" : "Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
             "posX" : 2,
             "posY" : -10,
             "color" : -1,
@@ -171,9 +182,9 @@
 
 		"packTxt":
         {
-            "text" : "RRv4 Build a.0.4.7",
+            "text" : "RRv4 Build b.1.0.0",
             "posX" : 2,
-            "posY" : -25,
+            "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_left"
         }
