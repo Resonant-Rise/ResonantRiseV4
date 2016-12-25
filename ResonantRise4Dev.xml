@@ -1,6 +1,10 @@
 <version>
     <pack>
+<<<<<<< HEAD
         <version>b.1.0.0</version>
+=======
+        <version>b.1.0.1</version>
+>>>>>>> origin/1.10.2
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -189,7 +193,7 @@
              version="1.10.2-1.1.2" url="packs/ResonantRise/files/4.x/base-1.10.2-1.1.2.jar" file="base-1.10.2-1.1.2.jar" md5="553fbd37d1538aafacdb0fa9bcc963c1" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/b-a-s-e"
-             authors="Lanse505,Jared,EwyBoy"
+             authors="Lanse505,Jared,EwyBoy,Slysom"
              description="Placeholder Text"
              />
 
@@ -420,11 +424,11 @@
              description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory."
              />
 
-        <mod name="MineTweaker 3"
+        <mod name="Crafttweaker"
              version="1.10.2-3.0.15" url="packs/ResonantRise/files/4.x/CraftTweaker-1.10.2-3.0.15.jar" file="CraftTweaker-1.10.2-3.0.15.jar" md5="1ca2a8131860428d897a3b2812110ab9" download="server"
              type="mods"
              website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
-             authors="Stan Hebben"
+             authors="Jared08 & StanHebben"
              description="Customize your minecraft experience!"
              />
 
