@@ -1231,6 +1231,7 @@
                  description="Store liquids inside a subspace pocket located in the End."
                  />
 
+<!--
             <mod name="Multi-Beds"
                  version="1.10.0-1.2.3" url="packs/ResonantRise/files/4.x/multibeds-1.10.0-1.2.3.jar" file="multibeds-1.10.0-1.2.3.jar" md5="26e05953e047b6f6db622d98156ed899" download="server"
                  type="mods"
@@ -1238,6 +1239,7 @@
                  authors="ShetiPhian"
                  description="272 bed spreads to choose from"
                  />
+-->
 
             <mod name="Multi-Storage"
                  version="1.10.0-1.2.12" url="packs/ResonantRise/files/4.x/multistorage-1.10.0-1.2.12.jar" file="multistorage-1.10.0-1.2.12.jar" md5="63f741e3b101a8427e3f810cef6513f5" download="server"
