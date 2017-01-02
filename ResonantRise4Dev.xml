@@ -559,10 +559,10 @@
              />
 
         <mod name="FoamFix"
-             version="0.4.2" url="packs/ResonantRise/files/4.x/foamfix-0.4.2-law.jar" file="foamfix-0.4.2-law.jar" md5="019a4eb65d9a9365bce616d7601d46f4" download="server"
+             version="0.5.0-beta2" url="packs/ResonantRise/files/4.x/foamfix-0.5.0-BETA2-anarchy.jar" file="foamfix-0.5.0-BETA2-anarchy.jar" md5="832dcdc837330a1bc8a8af587d5cf8b3" download="server"
              type="mods"
              website="http://asie.pl/foamfix/index.html?"
-             description="FoamFix is a mod which makes Minecraft go fast - by which I mean use less memory. It is also not a coremod, because a certain guy writing a certain tutorial said that's a very very bad thing a while ago, or something like that."
+             description="FoamFix is a mod which makes Minecraft go fast - by which I mean use less memory."
              />
 
         <mod name="Forestry"
