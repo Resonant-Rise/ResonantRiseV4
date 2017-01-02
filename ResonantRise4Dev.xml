@@ -358,7 +358,8 @@
 
         <mod name="Chisels &amp; Bits"
              version="12.9" url="packs/ResonantRise/files/4.x/chiselsandbits-12.9.jar" file="chiselsandbits-12.9.jar" md5="c1ab2006d6bb0eb6857b94fe2dd9c0f4" download="server"
-             website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/chisels-bits"
              authors="AlgorithmX2"
              description="a mod about Sculpting, Decorating and Aesthetics"
              />
@@ -423,13 +424,14 @@
              version="1.10.2-3.0.16" url="packs/ResonantRise/files/4.x/CraftTweaker-1.10.2-3.0.16.jar" file="CraftTweaker-1.10.2-3.0.16.jar" md5="73f47136a2a6b5a68a00547a561aede6" download="server"
              type="mods"
              website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
-             authors="Jared08 & StanHebben"
+             authors="Jared08, StanHebben"
              description="Customize your minecraft experience!"
              />
 
             <mod name="Mod Tweaker"
                  version="2.0.8" url="packs/ResonantRise/files/4.x/ModTweaker2-2.0.8.jar" file="ModTweaker2-2.0.8.jar" md5="17fd0407d348e6b3a37fd25d500bb58f" download="server"
-                 website="https://minecraft.curseforge.com/projects/ModTweaker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g"
+                 type="mods"
+                 website="https://minecraft.curseforge.com/projects/ModTweaker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;lc=US&amp;item_name=ModTweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
                  authors="Jaredlll08,SnowShock35"
                  description="ModTweaker is an addon for CraftTweaker, a recipe manipulator utility for Minecraft. It allows you to modify the recipes of other mods that add their own crafting mechanics"
                  />
@@ -1428,10 +1430,10 @@
 
             <mod name="UniDict"
                  version="2.5b" url="packs/ResonantRise/files/4.x/UniDict-1.10.2-2.5b.jar" file="UniDict-1.10.2-2.5b.jar" md5="232553dbaeca90d72ea574a02a770c23" download="server"
-                 website="http://minecraft.curseforge.com/projects/unidict" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wanioncane%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/projects/unidict" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wanioncane%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&amp;projectID=244258&amp;lc=US&amp;item_name=UniDict+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
                  authors="WanionCane"
-                 description="a mod about unifying all the things."
-                 />
+                 description="a mod about unifying all the things." />
 
         <mod name="Valkyrie Lib"
              version="1.10.2-0.10.5e" url="packs/ResonantRise/files/4.x/valkyrielib-1.10.2-0.10.5e.jar" file="valkyrielib-1.10.2-0.10.5e.jar" md5="16cb0d79e05838102f4e9d0bc950766a" download="server"
