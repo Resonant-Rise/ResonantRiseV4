@@ -1215,7 +1215,7 @@
              />
 
         <mod name="Realistic Terrain Generation"
-             version="4.1.2.1" url="packs/ResonantRise/files/4.x/RTG-1.10.2-4.1.2.1.jar" file="RTG-1.10.2-4.1.2.1.jar" md5="f768e95092c543f17b149a2b6a4f0dd5" download="server"
+             version="4.1.2.0" url="packs/ResonantRise/files/4.x/RTG-1.10.2-4.1.2.0.jar" file="RTG-1.10.2-4.1.2.0.jar" md5="4472ba421f758d7d345687ad6f4a293f" download="server"
              type="mods"
              website="https://github.com/Team-RTG/Realistic-Terrain-Generation"
              authors="Team RTG"
