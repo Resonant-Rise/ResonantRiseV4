@@ -306,7 +306,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.0.5.154" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.5.154-universal.jar" file="Draconic-Evolution-1.10.2-2.0.5.154-universal.jar" md5="5ba09d14498ad060f363c255085b1be3" download="server"
+                 version="1.10.2-2.0.6.157" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.6.157-universal.jar" file="Draconic-Evolution-1.10.2-2.0.6.157-universal.jar" md5="621f810ddb96fbe8e83b86fb65e1efa0" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
@@ -619,7 +619,7 @@
              />
 
         <mod name="IndustrialCraft 2"
-             version="2.6.128-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.128-ex110.jar" file="industrialcraft-2-2.6.128-ex110.jar" md5="eb4163690c84ea883843d8db56dc05ef" download="server"
+             version="2.6.142-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.142-ex110.jar" file="industrialcraft-2-2.6.142-ex110.jar" md5="c2fc0a3657e7a439f66865d9d92cd3c7" download="server"
              type="mods"
              website="http://www.industrial-craft.net"
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead"
@@ -1166,7 +1166,7 @@
              />
 
         <mod name="Refined Storage"
-             version="1.2.14" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.14.jar" file="refinedstorage-1.2.14.jar" md5="4ca39eeea683aa122ba78c3a7c578711" download="server"
+             version="1.2.15" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.15.jar" file="refinedstorage-1.2.15.jar" md5="a13dc1079dbf31ce0affb7c805857bd4" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
@@ -1191,7 +1191,7 @@
              />
 
         <mod name="Roguelike Dungeons"
-             version="1.5.4" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.4.jar" file="RoguelikeDungeons-1.10.2-1.5.4.jar" md5="4d1bfb6001e522437a7abc08dd458c43" download="server"
+             version="1.10.2-1.5.5" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.5.jar" file="RoguelikeDungeons-1.10.2-1.5.5.jar" md5="35b20a343a3f44dd7cbb45c1638ed4de" download="server"
              type="mods" optional="yes"
              website="https://github.com/Greymerk/minecraft-roguelike"
              authors="Greymerk"
@@ -1379,7 +1379,7 @@
              />
 
         <mod name="Tiny Progressions"
-             version="1.0.12" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.0.13.jar" file="tinyprogressions-1.10.2-1.0.13.jar" md5="36b81a00a246559199e6c4c384a54182" download="server"
+             version="1.10.2-1.0.15" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.0.15.jar" file="tinyprogressions-1.10.2-1.0.15.jar" md5="b57bae8ec71646f50b5a6d7607b8c586" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/tiny-progressions" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tiny-progressions?gameCategorySlug=mc-mods&amp;projectID=250850&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_dona"
              authors="Kashdeya,Darkosto,GenDeathrow"
@@ -1590,7 +1590,7 @@
 
         <mod name="FTBLib"
              version="1.10.2-3.2.3" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.2.3.jar" file="FTBLib-1.10.2-3.2.3.jar" md5="793829ce2e41f9a77a4097d7114a9891" download="server"
-             type="mods" optional="yes"
+             type="mods"
              website="http://minecraft.curseforge.com/projects/ftblib"
              authors="LatvianModder,Jared"
              description="FTBLib"
