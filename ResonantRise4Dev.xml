@@ -1086,7 +1086,7 @@
 
         <mod name="OptionSync"
              version="1.10.2-r1" url="packs/ResonantRise/files/4.x/OptionSync-1.10.2-r1.jar" file="OptionSync-1.10.2-r1.jar" md5="d59116554871ac02557deab66e7a6e12" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://github.com/Ellpeck/OptionSync"
              authors="Ellpeck"
              description="A Mod about syncing your options between Minecraft instances"
