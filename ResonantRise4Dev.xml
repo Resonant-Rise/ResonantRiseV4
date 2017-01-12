@@ -1682,7 +1682,7 @@
 
         <mod name="JourneyMap"
              version="1.10.2-5.4.0" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2363017/download" file="journeymap-1.10.2-5.4.0.jar" md5="6ae0550dc1840fc776d24832cf432162" download="direct"
-             type="mods" optional="yes"
+             type="mods" optional="yes" server="no"
              website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="techbrew,mysticdrew"
              description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
@@ -1690,7 +1690,7 @@
 
         <mod name="MapWriter"
              version="2.6.19" url="packs/ResonantRise/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
-             type="mods" optional="yes"
+             type="mods" optional="yes" server="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
              authors="mapwriter"
              description="An open source mini map mod"
