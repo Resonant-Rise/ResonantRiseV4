@@ -186,7 +186,7 @@
                  />
 
         <mod name="B.A.S.E"
-             version="1.10.2-1.2.1" url="packs/ResonantRise/files/4.x/base-1.10.2-1.2.1.jar" file="base-1.10.2-1.2.1.jar" md5="b444f10eda05277a65a3b8a4cc16746c" download="server"
+             version="1.10.2-1.2.3" url="packs/ResonantRise/files/4.x/base-1.10.2-1.2.3.jar" file="base-1.10.2-1.2.3.jar" md5="be3ca8a31bd7861e879f91e04e275794" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/b-a-s-e"
              authors="Lanse505,Jared,EwyBoy,Slysom"
