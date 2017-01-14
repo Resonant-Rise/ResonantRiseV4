@@ -484,6 +484,14 @@
                  description="Expanding upon Cyberware with Questionable Choices"
                  />
 
+        <mod name="Decocraft"
+             version="2.3.6.1" url="packs/ResonantRise/files/4.x/Decocraft-2.3.6.1_1.10.2.jar" file="Decocraft-2.3.6.1_1.10.2.jar" md5="e5cf4924fc246bf3452c7b521034b1fc" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/79616-decocraft2"
+             authors="RazzleberryFox"
+             description="Adds 500+ models to decorate your Minecraft world."
+             />
+
         <mod name="ElecCore | Rendering Library"
              version="1.6.379" url="packs/ResonantRise/files/4.x/ElecCore-1.10.2-1.6.379.jar" file="ElecCore-1.10.2-1.6.379.jar" md5="7c3bcc2c853b327df4389f7d19f0d4ef" download="server"
              type="mods"
@@ -1507,6 +1515,14 @@
                  website="http://minecraft.curseforge.com/projects/environmental-tech"
                  authors="ValkyrieofNight"
                  description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come."
+                 />
+
+            <mod name="ET Lunar"
+                 version="1.10.2-0.10.5a" url="packs/ResonantRise/files/4.x/etlunar-1102-0105a.jar" file="etlunar-1102-0105a.jar" md5="48dc28d1cbf21424f88cfda20d554d11" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/et-lunar-environmental-tech-addon/"
+                 authors="ValkyrieofNight"
+                 description="ET Lunar is an addon for Environmental Tech adding some lunar themed multiblocks."
                  />
 
 <!--
