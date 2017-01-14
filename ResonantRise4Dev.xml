@@ -1468,15 +1468,13 @@
              description="A Probe to rule them all!"
              />
 
-<!--
             <mod name="TOP Addons"
-                 version="1.10.2-0.7.0" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.7.0.jar" file="topaddons-1.10.2-0.7.0.jar" md5="f024eea9f56ad0f4b535c6c0559220a1" download="server"
+                 version="1.10.2-0.9.0" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.9.0.jar" file="topaddons-1.10.2-0.9.0.jar" md5="8ce738cdacf9852b2e027a9564ff2db6" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/247111/"
                  authors="DrMathiasDJ"
                  description="Adds mod support to The One Probe by McJty"
                  />
--->
 
         <mod name="TrashSlot"
              version="6.3.7" url="packs/ResonantRise/files/4.x/TrashSlot_1.10.2-6.3.7.jar" file="TrashSlot_1.10.2-6.3.7.jar" md5="b17e96ff7732195671c7cbfb79b21213" download="server"
