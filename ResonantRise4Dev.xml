@@ -389,7 +389,7 @@
              />
 
         <mod name="CodeChicken Core"
-             version="2.4.0.100" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.4.0.100-universal.jar" file="CodeChickenCore-1.10.2-2.4.0.100-universal.jar" md5="276f5ac04eb34e73abc2f8f880a7528a" download="server"
+             version="2.4.0.101" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.4.0.101-universal.jar" file="CodeChickenCore-1.10.2-2.4.0.101-universal.jar" md5="f6c2bcd6939a32dea4477bb98a4473aa" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223"
              authors="ChickenBones"
@@ -405,7 +405,7 @@
                  />
 
             <mod name="CodeChicken Lib"
-                 version="2.5.1.185" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.1.185-universal.jar" file="CodeChickenLib-1.10.2-2.5.1.185-universal.jar" md5="a0b4ad2cd5207c39d10380590ff0674f" download="server"
+                 version="2.5.2.198" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.2.198-universal.jar" file="CodeChickenLib-1.10.2-2.5.2.198-universal.jar" md5="e49ed2cb69e9a7958bb2f280f7b34455" download="server"
                  type="mods"
                  website="http://chickenbones.net/Pages/links.html"
                  authors="ChickenBones,covers1624"
@@ -739,6 +739,7 @@
                  description="Adds Resources and Mob Drops to JEI"
                  />
 
+<!--
         <mod name="Levels"
              version="r4.1.3"
              url="packs/ResonantRise/files/4.x/Levels-1.10.2-r4.1.3.jar" file="Levels-1.10.2-r4.1.3.jar" md5="777c5bf776a98877a5861ddb4815d9b0" download="server"
@@ -747,6 +748,7 @@
              authors="TheXFactor117"
              description="A new, innovative leveling mod, focused around leveling up weapons to gain unique boosts."
              />
+-->
 
         <mod name="Light Level Overlay Reloaded"
              version="1.1.0-mc[1.9-1.10.2]" url="packs/ResonantRise/files/4.x/LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" file="LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" md5="b54170267d413529a98fa661567072ca" download="server"
@@ -879,6 +881,14 @@
                  description="Compatibility layer to make migrating between different vanilla/forge versions easier"
                  />
 
+            <mod name="Interaction Wheel"
+                 version="1.1x-1.2.1" url="packs/ResonantRise/files/4.x/intwheel-1.1x-1.2.1.jar" file="intwheel-1.1x-1.2.1.jar" md5="84542c26d54edfb13d519c2fa88cdc13" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/interaction-wheel/"
+                 authors="McJty"
+                 description="Interaction Wheel"
+                 />
+
             <mod name="RFTools"
                  version="1.1x-5.76" url="packs/ResonantRise/files/4.x/rftools-1.1x-5.76.jar" file="rftools-1.1x-5.76.jar" md5="72cf6d6dc467725e17bf5ea135989ccc" download="server"
                  type="mods"
@@ -936,11 +946,19 @@
                  />
 
             <mod name="Exchange Orb"
-                 version="1.10.2-1.1" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.1.jar" file="exchangeorb-1.10.2-1.1.jar" md5="0874b014d5a0cfaca176526b01bb81f7" download="server"
+                 version="1.10.2-1.2" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.2.jar" file="exchangeorb-1.10.2-1.2.jar" md5="2c043c18dce80e942064c525f28bd219" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/226399/"
                  authors="MattDahEpic"
                  description="Simple mod for converting various vanilla resources and mob drops."
+                 />
+
+            <mod name="TelePacks"
+                 version="1.10.2-1.0" url="packs/ResonantRise/files/4.x/telepacks-1.10.2-1.0.jar" file="telepacks-1.10.2-1.0.jar" md5="ffbc2c408ec856d2bae4276722493f56" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/telepacks/"
+                 authors="MattDahEpic"
+                 description="Items that allow teleportation."
                  />
 
 <!--
@@ -1206,7 +1224,7 @@
              />
 
         <mod name="Refined Storage"
-             version="1.2.16" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.16.jar" file="refinedstorage-1.2.16.jar" md5="c46952df798066d5aa15c6109a247510" download="server"
+             version="1.2.17" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.17.jar" file="refinedstorage-1.2.17.jar" md5="46ce806d77dce3325307b48ef98e1d4b" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
@@ -1371,7 +1389,7 @@
              />
 
         <mod name="Storage Drawers"
-             version="3.5.16" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.5.16.jar" file="StorageDrawers-1.10.2-3.5.16.jar" md5="5b83e7ce9d335840ed921357310b177c" download="server"
+             version="3.5.17" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.5.17.jar" file="StorageDrawers-1.10.2-3.5.17.jar" md5="c9d2a2907a655d4dad78dc5fb63e0800" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
@@ -1419,7 +1437,7 @@
              />
 
         <mod name="Tiny Progressions"
-             version="1.10.2-1.0.18" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.0.18.jar" file="tinyprogressions-1.10.2-1.0.18.jar" md5="2d28057c5a4da29d0c78957f8ed18848" download="server"
+             version="1.10.2-1.0.19" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.0.19.jar" file="tinyprogressions-1.10.2-1.0.19.jar" md5="687359d8cf53bc369b7279b6f96a0709" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/tiny-progressions" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tiny-progressions?gameCategorySlug=mc-mods&amp;projectID=250850&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_dona"
              authors="Kashdeya,Darkosto,GenDeathrow"
@@ -1673,7 +1691,7 @@
              />
 
         <mod name="Item Scroller"
-             version="0.9.1" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.9.1.jar" file="itemscroller-1.10.2-0.9.1.jar" md5="1138a3ec2997c206184a5a9f5f3368fe" download="server"
+             version="0.10.2" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.10.2.jar" file="itemscroller-1.10.2-0.10.2.jar" md5="959fa8872ca50ff887fe8ae14bfe75a3" download="server"
              type="mods" optional="yes" server="no"
              website="http://minecraft.curseforge.com/projects/item-scroller" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="masa"
