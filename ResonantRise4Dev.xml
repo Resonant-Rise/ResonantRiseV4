@@ -225,14 +225,6 @@
              description="An improvement to the Achievementscreen"
              />
 
-        <mod name="BetterMinecraftChat"
-             version="4.1.6" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.6.jar" file="BetterMinecraftChat_1.10.2-4.1.6.jar" md5="afda04e360fb4d43fef9ea06f48e0dc7" download="server"
-             type="mods" server="no"
-             website="http://www.curseforge.com/projects/243506/"
-             authors="BlayTheNinth"
-             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
-             />
-
         <mod name="Biomes O&apos; Plenty"
              version="5.0.0" url="packs/ResonantRise/files/4.x/BiomesOPlenty-1.10.2-5.0.0.2109-universal.jar" file="BiomesOPlenty-1.10.2-5.0.0.2109-universal.jar" md5="90c543251dd2f74713fc7098ddb24b04" download="server"
              type="mods"
@@ -1685,6 +1677,14 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Client Only Mod List."
+             />
+
+        <mod name="BetterMinecraftChat"
+             version="4.1.6" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.6.jar" file="BetterMinecraftChat_1.10.2-4.1.6.jar" md5="afda04e360fb4d43fef9ea06f48e0dc7" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://www.curseforge.com/projects/243506/"
+             authors="BlayTheNinth"
+             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
              />
 
         <mod name="BetterFps"
