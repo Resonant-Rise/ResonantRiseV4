@@ -314,7 +314,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.0.6.157" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.6.157-universal.jar" file="Draconic-Evolution-1.10.2-2.0.6.157-universal.jar" md5="621f810ddb96fbe8e83b86fb65e1efa0" download="server"
+                 version="1.10.2-2.0.7.168" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.0.7.168-universal.jar" file="Draconic-Evolution-1.10.2-2.0.7.168-universal.jar" md5="b6f25d529b4fda1eeb988bc2b77b226e" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
@@ -1460,6 +1460,7 @@
              description="A Probe to rule them all!"
              />
 
+<!--
             <mod name="TOP Addons"
                  version="1.10.2-0.9.0" url="packs/ResonantRise/files/4.x/topaddons-1.10.2-0.9.0.jar" file="topaddons-1.10.2-0.9.0.jar" md5="8ce738cdacf9852b2e027a9564ff2db6" download="server"
                  type="mods"
@@ -1467,6 +1468,7 @@
                  authors="DrMathiasDJ"
                  description="Adds mod support to The One Probe by McJty"
                  />
+-->
 
         <mod name="TrashSlot"
              version="6.3.7" url="packs/ResonantRise/files/4.x/TrashSlot_1.10.2-6.3.7.jar" file="TrashSlot_1.10.2-6.3.7.jar" md5="b17e96ff7732195671c7cbfb79b21213" download="server"
