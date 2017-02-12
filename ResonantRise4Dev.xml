@@ -290,7 +290,7 @@
              />
 
             <mod name="Natural Pledge"
-                 version="1.10" url="packs/ResonantRise/files/4.x/NaturalPledge-r1.10.jar" file="NaturalPledge-r1.10.jar" md5="87b9858e32b719a2b14062f7fff1fa53" download="server"
+                 version="1.9.1" url="packs/ResonantRise/files/4.x/NaturalPledge-r1.9.1.jar" file="NaturalPledge-r1.9.1.jar" md5="1a6c7c1a36b7a64b20963cc332c4562f" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/247704/"
                  authors="WireSegal"
@@ -298,7 +298,7 @@
                  />
 
                 <mod name="LibrarianLib"
-                     version="1.9" url="packs/ResonantRise/files/4.x/librarianlib-1.9.jar" file="librarianlib-1.9.jar" md5="7f4fe1e90520c819908b0b9a14fc3aca" download="server"
+                     version="1.8" url="packs/ResonantRise/files/4.x/librarianlib-1.8.jar" file="librarianlib-1.8.jar" md5="8cae93f32f49b2ad415b6d4cc413239a" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/librarianlib/"
                      authors="LordSaad44,Elucent,thecodewarrior,murapix,werty1124,Leviathan143"
