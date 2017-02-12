@@ -306,7 +306,7 @@
                      />
 
                 <mod name="Shadowfacts&apos; Forgelin"
-                     version="" url="packs/ResonantRise/files/4.x/Forgelin-1.0.5.jar" file="Forgelin-1.0.5.jar" md5="15897abfe8ae05f223929095f0dd2a00" download="server"
+                     version="1.0.5" url="packs/ResonantRise/files/4.x/Forgelin-1.0.5.jar" file="Forgelin-1.0.5.jar" md5="15897abfe8ae05f223929095f0dd2a00" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/shadowfacts-forgelin/"
                      authors="shadowfactsmc"
