@@ -724,7 +724,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="3.14.5.406" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.14.5.406.jar" file="jei_1.10.2-3.14.5.406.jar" md5="205bca52e6526452795d8fb8fe7fc7db" download="server"
+             version="3.14.3.403" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.14.3.403.jar" file="jei_1.10.2-3.14.3.403.jar" md5="b3bde2274c7900b59661619087d7cf1e" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
