@@ -1,0 +1,19 @@
+[
+    {
+        "mode": "ADD",
+        "result": "3x[minecraft:dragon_breath]",
+        "catalyst": "[actuallyadditions:itemMisc]:19",
+        "energy": 187500,
+        "tier": 1,
+        "ingredients": [
+            "[minecraft:blaze_powder]",
+            "[minecraft:blaze_powder]",
+            "[draconicevolution:draconium_dust]",
+            "[draconicevolution:draconium_dust]",
+            "[draconicevolution:draconium_dust]",
+            "[botania:manaResource]:15",
+			"[botania:manaResource]:15",
+			"[botania:manaResource]:15"
+        ]
+    }
+]
