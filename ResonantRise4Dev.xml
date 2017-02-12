@@ -305,6 +305,14 @@
                      description="A library for the Team Wizardry mods"
                      />
 
+                <mod name="Shadowfacts&apos; Forgelin"
+                     version="" url="packs/ResonantRise/files/4.x/Forgelin-1.0.5.jar" file="Forgelin-1.0.5.jar" md5="15897abfe8ae05f223929095f0dd2a00" download="server"
+                     type="mods"
+                     website="http://www.curseforge.com/projects/shadowfacts-forgelin/"
+                     authors="shadowfactsmc"
+                     description="My fork of Emberwalker&apos;s Forgelin, with some sprinkles on top."
+                     />
+
         <mod name="Brandon&apos;s Core"
              version="1.10.2-2.1.4.92" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.4.92-universal.jar" file="BrandonsCore-1.10.2-2.1.4.92-universal.jar" md5="a6b90b2ecf96b8544fbcb4e9c18a8380" download="server"
              type="mods"
