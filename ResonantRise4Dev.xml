@@ -1378,6 +1378,7 @@
              description="A carttastic mod adding a near infinite number of carts possible to the game, through the creation of modular carts."
              />
 
+<!--
         <mod name="Steve&apos;s Factory Manager"
              version="1.0.12" url="packs/ResonantRise/files/4.x/StevesFactoryManager-1.10.2-1.0.12.jar" file="StevesFactoryManager-1.10.2-1.0.12.jar" md5="2d9a43740e8fced09e0d68fe9585bb49" download="server"
              type="mods"
@@ -1385,6 +1386,7 @@
              authors="Vswe, Gigabit101"
              description="Steve&apos;s Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines"
              />
+-->
 
         <mod name="Storage Drawers"
              version="3.5.17" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.5.17.jar" file="StorageDrawers-1.10.2-3.5.17.jar" md5="c9d2a2907a655d4dad78dc5fb63e0800" download="server"
