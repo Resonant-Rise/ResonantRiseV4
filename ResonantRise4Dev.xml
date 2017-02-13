@@ -1723,7 +1723,7 @@
              />
 
         <mod name="JourneyMap"
-             version="1.10.2-5.4.0" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2363017/download" file="journeymap-1.10.2-5.4.0.jar" md5="6ae0550dc1840fc776d24832cf432162" download="direct"
+             version="1.10.2-5.4.5" url="https://minecraft.curseforge.com/projects/journeymap-32274/files/2380921/download" file="journeymap-1.10.2-5.4.0.jar" md5="c89c1c5f467da38a379466ca870f1db8" download="direct"
              type="mods" optional="yes" server="no"
              website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="techbrew,mysticdrew"
