@@ -290,7 +290,7 @@
              />
 
             <mod name="Natural Pledge"
-                 version="1.9.1" url="packs/ResonantRise/files/4.x/NaturalPledge-r1.9.1.jar" file="NaturalPledge-r1.9.1.jar" md5="1a6c7c1a36b7a64b20963cc332c4562f" download="server"
+                 version="1.10" url="packs/ResonantRise/files/4.x/NaturalPledge-r1.10.jar" file="NaturalPledge-r1.10.jar" md5="87b9858e32b719a2b14062f7fff1fa53" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/247704/"
                  authors="WireSegal"
@@ -298,7 +298,7 @@
                  />
 
                 <mod name="LibrarianLib"
-                     version="1.8" url="packs/ResonantRise/files/4.x/librarianlib-1.8.jar" file="librarianlib-1.8.jar" md5="8cae93f32f49b2ad415b6d4cc413239a" download="server"
+                     version="1.10" url="packs/ResonantRise/files/4.x/librarianlib-1.10.jar" file="librarianlib-1.10.jar" md5="50d6c32559118d9b1d27a705535d88d5" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/librarianlib/"
                      authors="LordSaad44,Elucent,thecodewarrior,murapix,werty1124,Leviathan143"
@@ -306,7 +306,7 @@
                      />
 
                 <mod name="Shadowfacts&apos; Forgelin"
-                     version="1.0.5" url="packs/ResonantRise/files/4.x/Forgelin-1.0.5.jar" file="Forgelin-1.0.5.jar" md5="15897abfe8ae05f223929095f0dd2a00" download="server"
+                     version="1.2.0" url="packs/ResonantRise/files/4.x/Forgelin-1.2.0.jar" file="Forgelin-1.2.0.jar" md5="23e9075d06f3bd0207db920731c117c8" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/shadowfacts-forgelin/"
                      authors="shadowfactsmc"
@@ -1085,7 +1085,7 @@
 -->
 
         <mod name="OMLib"
-             version="1.10.2-3.0.0-56" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-56.jar" file="omlib-1.10.2-3.0.0-56.jar" md5="168438fcb18b88e13696c61e7075e77e" download="server"
+             version="1.10.2-3.0.0-60" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-60.jar" file="omlib-1.10.2-3.0.0-60.jar" md5="86f8e0649871b6a1fbc3d875a92b9238" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/omlib"
              authors="Poenjabiesous,Keridos"
@@ -1093,7 +1093,7 @@
              />
 
             <mod name="Open Modular Turrets"
-                 version="1.10.2-3.0.0-70" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-70.jar" file="openmodularturrets-1.10.2-3.0.0-70.jar" md5="926852d7bc36d09bdd820d5946f4f2d5" download="server"
+                 version="1.10.2-3.0.0-90" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-90.jar" file="openmodularturrets-1.10.2-3.0.0-90.jar" md5="580038876aa2a3a67a9bf5b46bc6bc5d" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224663/"
                  authors="Poenjabiesous,UntouchedWagons,Keridos"
