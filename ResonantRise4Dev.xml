@@ -842,7 +842,7 @@
              />
 
             <mod name="Tinkers&apos; Construct"
-                 version="2.6.2" url="packs/ResonantRise/files/4.x/TConstruct-1.10.2-2.6.2.jar" file="TConstruct-1.10.2-2.6.2.jar" md5="87ffe9e9c5956c4e72734e5435eea53b" download="server"
+                 version="2.6.3" url="packs/ResonantRise/files/4.x/TConstruct-1.10.2-2.6.3.jar" file="TConstruct-1.10.2-2.6.3.jar" md5="7c693d8c524aabe0ba6b2f2964070ce5" download="server"
                  type="mods"
                  website="https://github.com/SlimeKnights/TinkersConstruct" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=GKGVLK75MTPUN&amp;item_name=Tinkers+Construct+(from+curseforge.com)&amp;cmd=_s-xclick"
                  authors="boni,KnightMiner"
@@ -1537,7 +1537,7 @@
 -->
 
         <mod name="Woot"
-             version="1.10.2-1.2.4" url="packs/ResonantRise/files/4.x/woot-1.10.2-1.2.4.jar" file="woot-1.10.2-1.2.4.jar" md5="2ae8aab889a5c0a3d312357ab54267cb" download="server"
+             version="1.10.2-1.2.5" url="packs/ResonantRise/files/4.x/woot-1.10.2-1.2.5.jar" file="woot-1.10.2-1.2.5.jar" md5="670f6424205fdb14e697fa7a0d7b6ccf" download="server"
              type="mods"
              website="http://www.github.com/ipsis/Woot/"
              authors="Ipsis"
