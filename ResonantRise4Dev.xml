@@ -1121,6 +1121,14 @@
                  description="Redstone enthusiasts&apos; one-stop-shop. Exploration module for Project Red."
                  />
 
+            <mod name="Forge Multipart CBE"
+                 version="2.0.0.24" url="packs/ResonantRise/files/4.x/ForgeMultipart-1.10.2-2.0.0.24-universal.jar" file="ForgeMultipart-1.10.2-2.0.0.24-universal.jar" md5="376d928aeb14cd3cbd4dd204ab49f821" download="server"
+                 type="mods"
+                 website="https://github.com/Chicken-Bones/ForgeMultipart"
+                 authors="ChickenBones"
+                 description="Open source library for facilitation of multiple functional parts in the one block space."
+                 />
+
         <mod name="Neat"
              version="1.3-12" url="packs/ResonantRise/files/4.x/Neat 1.3-12.jar" file="Neat 1.3-12.jar" md5="aaf89d4f2dc07a29e53e2c0e7ac50918" download="server"
              type="mods" server="no"
