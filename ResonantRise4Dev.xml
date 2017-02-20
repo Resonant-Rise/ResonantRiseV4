@@ -389,7 +389,7 @@
              />
 
             <mod name="Extra Bit Manipulation"
-                 version="" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.3.2.jar" file="ExtraBitManipulation-1.10.2-2.3.2.jar" md5="947dcb3db957f42fc40768ffb5e2151c" download="server"
+                 version="2.3.2" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.3.2.jar" file="ExtraBitManipulation-1.10.2-2.3.2.jar" md5="947dcb3db957f42fc40768ffb5e2151c" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/extra-bit-manipulation/"
                  authors="MolecularPhylo"
