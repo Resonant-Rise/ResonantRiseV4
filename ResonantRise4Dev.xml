@@ -1382,6 +1382,7 @@
              description="Adds a paste form of redstone, which can stick to various surfaces."
              />
 
+<!--
         <mod name="Random Tool Kit"
              version="1.1.1" url="packs/ResonantRise/files/4.x/rtk-1.1.1.jar" file="rtk-1.1.1.jar" md5="061cec0566b61b4f7161a698d16fc23c" download="server"
              type="mods"
@@ -1389,6 +1390,7 @@
              authors="KodyJKing"
              description="Just a random assortment of tools."
              />
+-->
 
         <mod name="ShetiPhian-Core"
              version="1.10.0-3.3.7" url="packs/ResonantRise/files/4.x/shetiphiancore-1.10.0-3.3.7.jar" file="shetiphiancore-1.10.0-3.3.7.jar" md5="2190e2ca7bf952a4603f761aec7e5825" download="server"
