@@ -169,6 +169,14 @@
              description="Distinguished architectural features for your Minecraft buildings."
              />
 
+        <mod name="Ars Magica 2"
+             version="1.5.0-17" url="packs/ResonantRise/files/4.x/ArsMagica2-1.10.2-1.5.0-17b.jar" file="ArsMagica2-1.10.2-1.5.0-17b.jar" md5="cbcfce3584b94ca68fb33534296f8f87" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/ars-magica-2/"
+             authors="Mithion,Zerodaimaru,EdwinMindcraft,Growlith1223"
+             description="A look into what Minecraft could become if you add a splash of magic..."
+             />
+
         <mod name="AutoRegLib"
              version="1.0-2" url="packs/ResonantRise/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
              type="mods"
@@ -379,6 +387,14 @@
              authors="AlgorithmX2"
              description="a mod about Sculpting, Decorating and Aesthetics"
              />
+
+            <mod name="Extra Bit Manipulation"
+                 version="" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.3.2.jar" file="ExtraBitManipulation-1.10.2-2.3.2.jar" md5="947dcb3db957f42fc40768ffb5e2151c" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/extra-bit-manipulation/"
+                 authors="MolecularPhylo"
+                 description="Adds extra in-world bit manipulation to the Chisels &amp; Bits mod."
+                 />
 
         <mod name="Client Tweaks"
              version="1.1.16" url="packs/ResonantRise/files/4.x/ClientTweaks_1.10.2-1.1.16.jar" file="ClientTweaks_1.10.2-1.1.16.jar" md5="71d7ae2e55e9e697247627ca77ef668c" download="server"
@@ -758,6 +774,22 @@
              />
 -->
 
+        <mod name="libVulpes"
+             version="1.10.2-0.1.15" url="packs/ResonantRise/files/4.x/LibVulpes-1.10.2-0.1.15-universal.jar" file="LibVulpes-1.10.2-0.1.15-universal.jar" md5="e23a9293e9d6c5558129ad19720ce03d" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/libvulpes"
+             authors="zmaster587"
+             description="A Library containing code for multiblocks and ore/item registration and access"
+             />
+
+            <mod name="Advanced Rocketry"
+                 version="1.10.2-1.0.10" url="packs/ResonantRise/files/4.x/AdvancedRocketry-1.10.2-1.0.10.jar" file="AdvancedRocketry-1.10.2-1.0.10.jar" md5="b34139321e7e5f3598f1e0603b3e991e" download="server"
+                 type="mods"
+                 website="http://minecraft.curseforge.com/projects/advanced-rocketry"
+                 authors="zmaster587"
+                 description="A space mod for minecraft, adds planets, rockets, and some machines"
+                 />
+
         <mod name="Light Level Overlay Reloaded"
              version="1.1.0-mc[1.9-1.10.2]" url="packs/ResonantRise/files/4.x/LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" file="LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar" md5="b54170267d413529a98fa661567072ca" download="server"
              type="mods"
@@ -1041,6 +1073,54 @@
                  description="Adds Change logs, info, and bug reporting tab."
                  />
 
+        <mod name="MrTJPCore"
+             version="2.0.0.12" url="packs/ResonantRise/files/4.x/MrTJPCore-1.10.2-2.0.0.12-universal.jar" file="MrTJPCore-1.10.2-2.0.0.12-universal.jar" md5="21da30514a4d4f1195a9b971abe7b985" download="server"
+             type="mods"
+             website="https://minecraft.curseforge.com/projects/mrtjpcore"
+             authors="MrTJP"
+             description="Core libs and utilities"
+             />
+
+            <mod name="ProjectRed Core"
+                 version="4.8.0.17" url="packs/ResonantRise/files/4.x/ProjectRed-1.10.2-4.8.0.17-Base.jar" file="ProjectRed-1.10.2-4.8.0.17-Base.jar" md5="7151f2e7cc6cdcffdb446919cee95db9" download="server"
+                 type="mods"
+                 website="http://projectredwiki.com"
+                 authors="MrTJP,ChickenBones"
+                 description="Redstone. The way it was meant to be. Built against Forge 12.18.1.2095. Supporters: Jacob M "
+                 />
+
+            <mod name="ProjectRed Transmission"
+                 version="4.8.0.17" url="packs/ResonantRise/files/4.x/ProjectRed-1.10.2-4.8.0.17-integration.jar" file="ProjectRed-1.10.2-4.8.0.17-integration.jar" md5="397ec812d79271e3a10305fc7a73e571" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/project-red-integration/"
+                 authors="Mr_TJP"
+                 description="Redstone enthusiasts&apos; one-stop-shop. Integration and Transmission modules for Project Red."
+                 />
+
+            <mod name="ProjectRed Illumination"
+                 version="4.8.0.17" url="packs/ResonantRise/files/4.x/ProjectRed-1.10.2-4.8.0.17-lighting.jar" file="ProjectRed-1.10.2-4.8.0.17-lighting.jar" md5="85fe1891a7e010b43edf53655b92be95" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/project-red-lighting/"
+                 authors="Mr_TJP"
+                 description="Redstone enthusiasts&apos; one-stop-shop. Illumination module for Project Red."
+                 />
+
+            <mod name="ProjectRed Expansion"
+                 version="4.8.0.17" url="packs/ResonantRise/files/4.x/ProjectRed-1.10.2-4.8.0.17-mechanical.jar" file="ProjectRed-1.10.2-4.8.0.17-mechanical.jar" md5="bca3d856c45eb420eb8bb05cf1dcc2dc" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/project-red-mechanical/"
+                 authors="Mr_TJP"
+                 description="Redstone enthusiasts&apos; one-stop-shop. Expansion and Transportation modules for Project Red."
+                 />
+
+            <mod name="ProjectRed Exploration"
+                 version="4.8.0.17" url="packs/ResonantRise/files/4.x/ProjectRed-1.10.2-4.8.0.17-world.jar" file="ProjectRed-1.10.2-4.8.0.17-world.jar" md5="7aa0914e5ff1017abac15d87d5503c69" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/project-red-world/"
+                 authors="Mr_TJP"
+                 description="Redstone enthusiasts&apos; one-stop-shop. Exploration module for Project Red."
+                 />
+
         <mod name="Neat"
              version="1.3-12" url="packs/ResonantRise/files/4.x/Neat 1.3-12.jar" file="Neat 1.3-12.jar" md5="aaf89d4f2dc07a29e53e2c0e7ac50918" download="server"
              type="mods" server="no"
@@ -1284,6 +1364,22 @@
              website="https://github.com/Team-RTG/Realistic-Terrain-Generation"
              authors="Team RTG"
              description="Adds a new world type which generates realistic terrain for Overworld biomes."
+             />
+
+        <mod name="Redstone Paste"
+             version="mc1.9.4-1.7.4" url="packs/ResonantRise/files/4.x/redstonepaste-mc1.9.4-1.7.4.jar" file="redstonepaste-mc1.9.4-1.7.4.jar" md5="00266bbc4f770c9e82e4402cf645117f" download="server"
+             type="mods"
+             website="http://www.fybertech.net/minecraft" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/redstone-paste?gameCategorySlug=mc-mods&amp;projectID=67508&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=fyberoptic%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/redstone-paste?gameCategorySlug=mc-mods&amp;projectID=67508&amp;lc=US&amp;item_name=Redstone+Paste+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="FyberOptic"
+             description="Adds a paste form of redstone, which can stick to various surfaces."
+             />
+
+        <mod name="Random Tool Kit"
+             version="1.1.1" url="packs/ResonantRise/files/4.x/rtk-1.1.1.jar" file="rtk-1.1.1.jar" md5="061cec0566b61b4f7161a698d16fc23c" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/random-tool-kit/"
+             authors="KodyJKing"
+             description="Just a random assortment of tools."
              />
 
         <mod name="ShetiPhian-Core"
@@ -1711,6 +1807,14 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
+        <mod name="ItemPhysic"
+             version="1.3" url="packs/ResonantRise/files/4.x/ItemPhysic Lite 1.3.4 mc1.10.2.jar" file="ItemPhysic Lite 1.3.4 mc1.10.2.jar" md5="1347ef9a83a94899783ecedf0c3f7683" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336"
+             authors="CreativeMD"
+             description="New item animation! Better physics!"
+             />
+
         <mod name="Item Scroller"
              version="0.10.3" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.10.3.jar" file="itemscroller-1.10.2-0.10.3.jar" md5="763f5d7d5decef4caa13f54968dab45a" download="server"
              type="mods" optional="yes" server="no"
@@ -1751,6 +1855,22 @@
              description="A tweak mod that improves Minecraft performance and stability."
              />
         
+        <mod name="Thump"
+             version="1.10.2-4.3.0.12" url="packs/ResonantRise/files/4.x/Thump-1.10.2-4.3.0.12.jar" file="Thump-1.10.2-4.3.0.12.jar" md5="ec2b627d7e21e52266c8387752cd96bd" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/231124-thump"
+             authors="carrot"
+             description="A simple, highly configurable Minecraft chat multiplexer with built in IRC support"
+             />
+
+            <mod name="Thumpcord"
+                 version="1.10.2-0.0.2.3" url="packs/ResonantRise/files/4.x/Thumpcord-1.10.2-0.0.2.3.jar" file="Thumpcord-1.10.2-0.0.2.3.jar" md5="76bf8989ab28965b34c4b4156f6298fd" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/thumpcord/"
+                 authors="Arkan"
+                 description="Thump Discord adapter."
+                 />
+
         <mod name="=== Server Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" client="no" colour="lite"
