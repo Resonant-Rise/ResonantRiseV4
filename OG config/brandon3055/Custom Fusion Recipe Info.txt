@@ -38,7 +38,7 @@ The following is an example of what the json file should look like (See further 
     {
         "mode": "REMOVE",
         "result": "[draconicevolution:draconic_staff_of_power]",
-        "catalyst": "[draconicevolution:draconic_pick]",
+        "catalyst": "[draconicevolution:draconic_pick],"
         "ingredients": [
             "[draconicevolution:draconic_ingot]",
             "[draconicevolution:draconic_ingot]",
