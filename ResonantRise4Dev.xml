@@ -345,6 +345,7 @@
              description="Bedrock Is Flat"
              />
 
+<!--
         <mod name="Buttons"
              version="1.10.2-0.0.3-3" url="packs/ResonantRise/files/4.x/Buttons-1.10.2-0.0.3-3.jar" file="Buttons-1.10.2-0.0.3-3.jar" md5="e15cf9e25bd69264cd7a2a48e586ac9e" download="server"
              type="mods"
@@ -352,6 +353,7 @@
              authors="TehNut"
              description="Adds buttons to the lefthand side of the screen."
              />
+-->
 
         <mod name="Chameleon"
              version="2.2.2" url="packs/ResonantRise/files/4.x/Chameleon-1.10-2.2.2.jar" file="Chameleon-1.10-2.2.2.jar" md5="19e80437f28779f68fcc363031d3e064" download="server"
@@ -737,6 +739,14 @@
              website="http://minecraft.curseforge.com/projects/ivtoolkit" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ivtoolkit?gameCategorySlug=mc-mods&amp;projectID=224535&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
              authors="Ivorius"
              description="This is a framework that I mostly use in my own mods, for shared functionality."
+             />
+
+        <mod name="Just Enough Buttons"
+             version="1.10.2-1.7" url="packs/ResonantRise/files/4.x/justenoughbuttons-1.10.2-1.7.jar" file="justenoughbuttons-1.10.2-1.7.jar" md5="77be34aedcbf1dfae47635a76b79c739" download="server"
+             type="mods" server="no" client="yes"
+             website="https://github.com/UniversalLP/JustEnoughButtons/"
+             authors="universal"
+             description="Utility buttons for your inventory screen."
              />
 
         <mod name="Just Enough Items"
