@@ -169,6 +169,7 @@
              description="Distinguished architectural features for your Minecraft buildings."
              />
 
+<!--
         <mod name="Ars Magica 2"
              version="1.5.0-17" url="packs/ResonantRise/files/4.x/ArsMagica2-1.10.2-1.5.0-17b.jar" file="ArsMagica2-1.10.2-1.5.0-17b.jar" md5="cbcfce3584b94ca68fb33534296f8f87" download="server"
              type="mods"
@@ -176,6 +177,7 @@
              authors="Mithion,Zerodaimaru,EdwinMindcraft,Growlith1223"
              description="A look into what Minecraft could become if you add a splash of magic..."
              />
+-->
 
         <mod name="AutoRegLib"
              version="1.0-2" url="packs/ResonantRise/files/4.x/AutoRegLib-1.0-2.jar" file="AutoRegLib-1.0-2.jar" md5="527a86197be2f4c804747a7ae564a181" download="server"
@@ -1083,6 +1085,7 @@
                  description="Adds Change logs, info, and bug reporting tab."
                  />
 
+<!--
         <mod name="MrTJPCore"
              version="2.0.0.12" url="packs/ResonantRise/files/4.x/MrTJPCore-1.10.2-2.0.0.12-universal.jar" file="MrTJPCore-1.10.2-2.0.0.12-universal.jar" md5="21da30514a4d4f1195a9b971abe7b985" download="server"
              type="mods"
@@ -1138,6 +1141,7 @@
                  authors="ChickenBones"
                  description="Open source library for facilitation of multiple functional parts in the one block space."
                  />
+-->
 
         <mod name="Neat"
              version="1.3-12" url="packs/ResonantRise/files/4.x/Neat 1.3-12.jar" file="Neat 1.3-12.jar" md5="aaf89d4f2dc07a29e53e2c0e7ac50918" download="server"
