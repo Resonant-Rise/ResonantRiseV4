@@ -1,0 +1,66 @@
+{
+  "backups": {
+    "backups_to_keep": 12,
+    "display_file_size": true,
+    "enabled": false,
+    "backup_timer": 2.0,
+    "compression_level": 1,
+    "folder": "",
+    "use_separate_thread": true
+  },
+  "commands": {
+    "chunks": true,
+    "trash_can": true,
+    "ranks": true,
+    "view_crash": true,
+    "warp": true,
+    "tpl": true,
+    "inv": true,
+    "back": true,
+    "server_info": true,
+    "spawn": true,
+    "home": true,
+    "kickme": true
+  },
+  "general": {
+    "auto_restart": false,
+    "server_info": {
+      "admin_quick_access": true,
+      "difficulty": true,
+      "mode": true
+    },
+    "chat": {
+      "substitutes": [
+        {
+          "shrug": "¯\\_(ツ)_/¯"
+        }
+      ],
+      "substitute_prefix": "!"
+    },
+    "restart_timer": 12.0
+  },
+  "world": {
+    "chunk_loading": true,
+    "blocked_entities": [],
+    "chunk_claiming": true,
+    "safe_spawn": false,
+    "spawn_area_in_sp": false
+  },
+  "ranks": {
+    "override_chat_short_urls": true,
+    "override_chat": true,
+    "override_commands": true,
+    "enabled": true
+  },
+  "webapi": {
+    "update_interval": 5,
+    "enabled": false,
+    "file_location": ""
+  },
+  "login": {
+    "motd": [],
+    "enable_motd": true,
+    "enable_starting_items": true,
+    "starting_items": []
+  }
+}
