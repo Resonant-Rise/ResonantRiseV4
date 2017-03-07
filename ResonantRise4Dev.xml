@@ -1556,6 +1556,7 @@
              description="An item frame that can craft items when punched."
              />
 
+<!--
         <mod name="TERBFix"
              version="1.0.0.1" url="packs/ResonantRise/files/4.x/TERBFix-MC1.10.2-1.0.0.1.jar" file="TERBFix-MC1.10.2-1.0.0.1.jar" md5="d2cf2350dc523930b6003eb9fb2def7b" download="server"
              type="mods"
@@ -1563,6 +1564,7 @@
              authors="SangarWasTaken"
              description="Fixes a bug in the frustum culling logic of tile entities."
              />
+-->
 
         <mod name="TESLA"
              version="1.10.2-1.2.1.49" url="packs/ResonantRise/files/4.x/Tesla-1.10.2-1.2.1.49.jar" file="Tesla-1.10.2-1.2.1.49.jar" md5="c8d1afc04b8dfea3725bb53c9b378ade" download="server"
@@ -1879,6 +1881,7 @@
              description="A tweak mod that improves Minecraft performance and stability."
              />
         
+<!--
         <mod name="Thump"
              version="1.10.2-4.3.0.12" url="packs/ResonantRise/files/4.x/Thump-1.10.2-4.3.0.12.jar" file="Thump-1.10.2-4.3.0.12.jar" md5="ec2b627d7e21e52266c8387752cd96bd" download="server"
              type="mods"
@@ -1894,6 +1897,7 @@
                  authors="Arkan"
                  description="Thump Discord adapter."
                  />
+-->
 
         <mod name="=== Server Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
