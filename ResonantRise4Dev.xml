@@ -196,7 +196,7 @@
                  />
 
         <mod name="B.A.S.E"
-             version="1.10.2-1.2.3" url="packs/ResonantRise/files/4.x/base-1.10.2-1.2.3.jar" file="base-1.10.2-1.2.3.jar" md5="be3ca8a31bd7861e879f91e04e275794" download="server"
+             version="1.10.2-1.2.4" url="packs/ResonantRise/files/4.x/base-1.10.2-1.2.4.jar" file="base-1.10.2-1.2.4.jar" md5="94082a3e8c92b66fcd5f50260f8d503e" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/b-a-s-e"
              authors="Lanse505,Jared,EwyBoy,Slysom"
@@ -204,7 +204,7 @@
              />
 
             <mod name="Clumps"
-                 version="1.0.4" url="packs/ResonantRise/files/4.x/Clumps-1.0.4.jar" file="Clumps-1.0.4.jar" md5="43ad796177c761a463e8a1bf3c033c4c" download="server"
+                 version="1.0.5" url="packs/ResonantRise/files/4.x/Clumps-1.0.5.jar" file="Clumps-1.0.5.jar" md5="06f2cc25acc26ae907bdc0fd9a7f9bee" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/clumps/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/clumps?gameCategorySlug=mc-mods&amp;projectID=256717&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/clumps?gameCategorySlug=mc-mods&amp;projectID=256717&amp;lc=US&amp;item_name=Clumps+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
                  authors="Jaredlll08"
@@ -220,7 +220,7 @@
              />
 
         <mod name="Bed Bugs"
-             version="1.10.2-1.1.4" url="packs/ResonantRise/files/4.x/BedBugs-1.10.2-1.1.4.jar" file="BedBugs-1.10.2-1.1.4.jar" md5="96ffd9692800b2890a9cd07dfde73cc6" download="server"
+             version="1.10.2-1.1.5" url="packs/ResonantRise/files/4.x/BedBugs-1.10.2-1.1.5.jar" file="BedBugs-1.10.2-1.1.5.jar" md5="5bdc9463dc77e79f0aad7b42c0743a03" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/254508/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/bed-bugs?gameCategorySlug=mc-mods&amp;projectID=254508&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=xwason%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/bed-bugs?gameCategorySlug=mc-mods&amp;projectID=254508&amp;lc=US&amp;item_name=Bed+Bugs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="gr8pefish"
@@ -441,7 +441,7 @@
                  />
 
         <mod name="Controlling"
-             version="1.0.3" url="packs/ResonantRise/files/4.x/Controlling-1.0.3.jar" file="Controlling-1.0.3.jar" md5="86b4dcef99ebb09ce5078ec928197bb9" download="server"
+             version="1.0.4" url="packs/ResonantRise/files/4.x/Controlling-1.0.4.jar" file="Controlling-1.0.4.jar" md5="b78cf4347755658f3ee310faf2a70c76" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/250398/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
              authors="jaredlll08"
@@ -497,7 +497,7 @@
              />
 
             <mod name="WIRED: More Augs"
-                 version="1.6.0" url="packs/ResonantRise/files/4.x/WIRED-1.6.0.jar" file="WIRED-1.6.0.jar" md5="481cf72ea0f0fb10fa86636c42e5ed85" download="server"
+                 version="1.6.2" url="packs/ResonantRise/files/4.x/WIRED-1.6.2.jar" file="WIRED-1.6.2.jar" md5="99c1725728524bd96d0d8e18f707d168" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/248479/"
                  authors="mallrat208"
@@ -544,7 +544,7 @@
              />
 
             <mod name="Ender IO"
-                 version="3.1.170" url="packs/ResonantRise/files/4.x/EnderIO-1.10.2-3.1.170.jar" file="EnderIO-1.10.2-3.1.170.jar" md5="d4e757561584854d7cc867d69cc90265" download="server"
+                 version="3.1.173" url="packs/ResonantRise/files/4.x/EnderIO-1.10.2-3.1.173.jar" file="EnderIO-1.10.2-3.1.173.jar" md5="81b51795e30600b70870e02989ea048e" download="server"
                  type="mods"
                  website="http://enderio.com"
                  authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,CyanideX"
@@ -616,7 +616,7 @@
              />
 
             <mod name="More Bees"
-                 version="1.10.2-1.3.1" url="packs/ResonantRise/files/4.x/morebees-1.10.2-1.3.1.jar" file="morebees-1.10.2-1.3.1.jar" md5="5d44c62a089e1cecab45ae07f1979f44" download="server"
+                 version="1.10.2-1.3.2" url="packs/ResonantRise/files/4.x/morebees-1.10.2-1.3.2.jar" file="morebees-1.10.2-1.3.2.jar" md5="4f66ef3a9477c11a5b0f2dcb26f08345" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/250226/"
                  authors="lach_01298"
@@ -624,7 +624,7 @@
                  />
 
         <mod name="FTBLib"
-             version="1.10.2-3.3.0" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.3.0.jar" file="FTBLib-1.10.2-3.3.0.jar" md5="fe1e288f542d25f7fe5df41d3802b09a" download="server"
+             version="1.10.2-3.4.4" url="packs/ResonantRise/files/4.x/FTBLib-1.10.2-3.4.4.jar" file="FTBLib-1.10.2-3.4.4.jar" md5="168d1c9f00883fe71ce21e9fc053d050" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/ftblib"
              authors="LatvianModder,Jared"
@@ -640,7 +640,7 @@
                 />
 
             <mod name="FTBUtilities"
-                 version="1.10.2-3.3.1" url="packs/ResonantRise/files/4.x/FTBUtilities-1.10.2-3.3.1.jar" file="FTBUtilities-1.10.2-3.3.1.jar" md5="dec65f73d2e0d61b9321b5c3b0992f78" download="server"
+                 version="1.10.2-3.4.3" url="packs/ResonantRise/files/4.x/FTBUtilities-1.10.2-3.4.3.jar" file="FTBUtilities-1.10.2-3.4.3.jar" md5="d108c7079546d063ca858508fb0c188a" download="server"
                  type="mods"
                  website="http://minecraft.curseforge.com/projects/ftb-utilities"
                  authors="LatvianModder"
@@ -679,7 +679,7 @@
              />
 
         <mod name="Immersive Engineering"
-             version="0.10-56" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-56.jar" file="ImmersiveEngineering-0.10-56.jar" md5="dac6d9394400ba291ac5b976b30caefe" download="server"
+             version="0.10-57" url="packs/ResonantRise/files/4.x/ImmersiveEngineering-0.10-57.jar" file="ImmersiveEngineering-0.10-57.jar" md5="7d8a17dbfead4ac90f42dfbbb5cec588" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231951/"
              authors="BluSunrize,Damien A.W. Hazard"
@@ -752,7 +752,7 @@
              />
 
         <mod name="Just Enough Items"
-             version="3.14.3.403" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.14.3.403.jar" file="jei_1.10.2-3.14.3.403.jar" md5="b3bde2274c7900b59661619087d7cf1e" download="server"
+             version="3.14.7.415" url="packs/ResonantRise/files/4.x/jei_1.10.2-3.14.7.415.jar" file="jei_1.10.2-3.14.7.415.jar" md5="ee0d1b4604820b064779bae7dfcb47eb" download="server"
              type="mods"
              website="https://github.com/mezz/JustEnoughItems"
              authors="mezz"
@@ -910,7 +910,7 @@
                  />
 
             <mod name="Natura"
-                 version="1.10.2-4.1.0.17" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.17.jar" file="natura-1.10.2-4.1.0.17.jar" md5="9c86377a18d05a1ad5f4d47121c15f8b" download="server"
+                 version="1.10.2-4.1.0.24" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.24.jar" file="natura-1.10.2-4.1.0.24.jar" md5="7616e8b24cc701156f6a8b44765110c2" download="server"
                  type="mods"
                  website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura"
                  authors="mDiyo, Slime Knights"
@@ -918,7 +918,7 @@
                  />
 
         <mod name="McJtyLib"
-             version="1.1x-2.3.8-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.3.8.jar" file="mcjtylib-1.1x-2.3.8.jar" md5="f86f112522e34b550f2c694cdea1ee3c" download="server"
+             version="1.1x-2.3.9-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.3.9.jar" file="mcjtylib-1.1x-2.3.9.jar" md5="a287d7d771e8083ffcdbe1828731ef23" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -934,7 +934,7 @@
                  />
 
             <mod name="Interaction Wheel"
-                 version="1.1x-1.2.3" url="packs/ResonantRise/files/4.x/intwheel-1.1x-1.2.3.jar" file="intwheel-1.1x-1.2.3.jar" md5="c60455ced6574912426f58c234be2381" download="server"
+                 version="1.1x-1.2.4" url="packs/ResonantRise/files/4.x/intwheel-1.1x-1.2.4.jar" file="intwheel-1.1x-1.2.4.jar" md5="7a2946d8cfbbd8da4d5b5de5a64be294" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/interaction-wheel/"
                  authors="McJty"
@@ -942,7 +942,7 @@
                  />
 
             <mod name="RFTools"
-                 version="1.1x-5.84" url="packs/ResonantRise/files/4.x/rftools-1.1x-5.84.jar" file="rftools-1.1x-5.84.jar" md5="50359c9bed842aae3484936867f142c2" download="server"
+                 version="1.1x-5.87" url="packs/ResonantRise/files/4.x/rftools-1.1x-5.87.jar" file="rftools-1.1x-5.87.jar" md5="acc1af008dd30041af6ee490a5ce887b" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                  authors="McJty"
@@ -1517,7 +1517,7 @@
 -->
 
         <mod name="Storage Drawers"
-             version="3.6.0" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.6.0.jar" file="StorageDrawers-1.10.2-3.6.0.jar" md5="a0411a640f8e4d90edd95af3cb47d70a" download="server"
+             version="3.6.1" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.6.1.jar" file="StorageDrawers-1.10.2-3.6.1.jar" md5="3c81756b928c4f9733c541bf3d9c66e2" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
