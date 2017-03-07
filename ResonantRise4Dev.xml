@@ -1865,6 +1865,14 @@
              description="An open source mini map mod"
              />
 
+        <mod name="Mouse Tweaks"
+             version="2.8" url="packs/ResonantRise/files/4.x/MouseTweaks-2.8-mc1.10.2.jar" file="MouseTweaks-2.8-mc1.10.2.jar" md5="3091db9b88a860786f8f637740996919" download="server"
+             type="mods" optional="yes" server="no"
+             website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="YaLTeR"
+             description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
+             />
+
         <mod name="Schematica"
              version="1.7.8.153" url="packs/ResonantRise/files/4.x/Schematica-1.10.2-1.7.8.153-universal.jar" file="Schematica-1.10.2-1.7.8.153-universal.jar" md5="6524bd7464b40b961b4c2ce14b8824bf" download="server"
              type="mods" optional="yes" server="no"
