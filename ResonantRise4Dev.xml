@@ -1556,7 +1556,6 @@
              description="An item frame that can craft items when punched."
              />
 
-<!--
         <mod name="TERBFix"
              version="1.0.0.1" url="packs/ResonantRise/files/4.x/TERBFix-MC1.10.2-1.0.0.1.jar" file="TERBFix-MC1.10.2-1.0.0.1.jar" md5="d2cf2350dc523930b6003eb9fb2def7b" download="server"
              type="mods"
@@ -1564,7 +1563,6 @@
              authors="SangarWasTaken"
              description="Fixes a bug in the frustum culling logic of tile entities."
              />
--->
 
         <mod name="TESLA"
              version="1.10.2-1.2.1.49" url="packs/ResonantRise/files/4.x/Tesla-1.10.2-1.2.1.49.jar" file="Tesla-1.10.2-1.2.1.49.jar" md5="c8d1afc04b8dfea3725bb53c9b378ade" download="server"
