@@ -601,7 +601,7 @@
              />
 
         <mod name="FoamFix"
-             version="0.5.4" url="packs/ResonantRise/files/4.x/foamfix-0.5.4-anarchy.jar" file="foamfix-0.5.4-anarchy.jar" md5="0c3d2004adc7f8592b9f8490b65be9c7" download="server"
+             version="0.6.1" url="packs/ResonantRise/files/4.x/foamfix-0.6.1-anarchy.jar" file="foamfix-0.6.1-anarchy.jar" md5="dd34b4f22661c797cbf0424361c82842" download="server"
              type="mods" server="no"
              website="http://asie.pl/foamfix/index.html?"
              description="FoamFix is a mod which makes Minecraft go fast - by which I mean use less memory."
