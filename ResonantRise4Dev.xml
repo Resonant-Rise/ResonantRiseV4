@@ -958,7 +958,7 @@
                  />
 
         <mod name="McJtyLib"
-             version="1.1x-2.3.9-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.3.9.jar" file="mcjtylib-1.1x-2.3.9.jar" md5="a287d7d771e8083ffcdbe1828731ef23" download="server"
+             version="1.1x-2.3.11-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.3.11.jar" file="mcjtylib-1.1x-2.3.11.jar" md5="e847130d754f0dc65fb59d57f7cf20b8" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -966,7 +966,7 @@
              />
 
             <mod name="compatlayer"
-                 version="1.10-0.2.2" url="packs/ResonantRise/files/4.x/compatlayer-1.10-0.2.2.jar" file="compatlayer-1.10-0.2.2.jar" md5="ffdd265386306d6550f0ad8542ea597b" download="server"
+                 version="1.10-0.2.5" url="packs/ResonantRise/files/4.x/compatlayer-1.10-0.2.5.jar" file="compatlayer-1.10-0.2.5.jar" md5="0bd34d539281311396eeacf9708ac21f" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/253729/"
                  authors="McJty"
