@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>4.1.1.1-b</version>
+        <version>4.2.0.0-b</version>
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -440,6 +440,38 @@
                  description="Translocates stuff! Credits: MouseCop - Textures Supporters:"
                  />
 
+        <mod name="CoFH Core"
+             version="4.1.0.155" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.0.155-universal.jar" file="CoFHCore-1.10.2-4.1.0.155-universal.jar" md5="2af240e18f14b10f402e17af74fca459" download="server"
+             type="mods"
+             website="http://www.teamcofh.com"
+             authors="Team CoFH"
+             description="Required for all CoFH Mods. Also provides some customization options for Minecraft."
+             />
+
+            <mod name="Redstone Arsenal"
+                 version="2.0.2.27" url="packs/ResonantRise/files/4.x/RedstoneArsenal-1.10.2-2.0.2.27-universal.jar" file="RedstoneArsenal-1.10.2-2.0.2.27-universal.jar" md5="c790b01237b16e2fc3e9d9954274cad8" download="server"
+                 type="mods"
+                 website="http://www.teamcofh.com"
+                 authors="Team CoFH"
+                 description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!"
+                 />
+
+            <mod name="Thermal Expansion"
+                 version="5.0.3.86" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.0.3.86-universal.jar" file="ThermalExpansion-1.10.2-5.0.3.86-universal.jar" md5="3fe98a5fc55f69bb76aed9976f5fa70b" download="server"
+                 type="mods"
+                 website="http://www.teamcofh.com"
+                 authors="Team CoFH"
+                 description="Expanding Minecraft Thermally - provides new options for automation and processing!"
+                 />
+
+            <mod name="Thermal Foundation"
+                 version="2.0.3.77" url="packs/ResonantRise/files/4.x/ThermalFoundation-1.10.2-2.0.3.77-universal.jar" file="ThermalFoundation-1.10.2-2.0.3.77-universal.jar" md5="1ea7378cd1c4732291cb1caaf6c49434" download="server"
+                 type="mods"
+                 website="http://www.teamcofh.com"
+                 authors="Team CoFH"
+                 description="The foundation of a Thermally enhanced world!"
+                 />
+
         <mod name="Controlling"
              version="1.0.4" url="packs/ResonantRise/files/4.x/Controlling-1.0.4.jar" file="Controlling-1.0.4.jar" md5="b78cf4347755658f3ee310faf2a70c76" download="server"
              type="mods"
@@ -566,6 +598,14 @@
              website="http://minecraft.curseforge.com/projects/ender-utilities" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ender-utilities?gameCategorySlug=mc-mods&amp;projectID=224320&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_"
              authors="masa"
              description="Some random, hopefully fun, and possibly even useful utilities (Modjam 4)"
+             />
+
+        <mod name="Engineer&apos;s Workshop"
+             version="1.2.1-1.10.2" url="packs/ResonantRise/files/4.x/EngineersWorkshop-1.2.1-1.10.2.jar" file="EngineersWorkshop-1.2.1-1.10.2.jar" md5="04795482001c6cfb03c8928f572d9325" download="server"
+             type="mods"
+             website="http://github.com/engineersmods/engineersworkshop" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/engineers-workshop?gameCategorySlug=mc-mods&amp;projectID=254916&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=eivind.norling%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/engineers-workshop?gameCategorySlug=mc-mods&amp;projectID=254916&amp;lc=US&amp;item_name=Engineers+Workshop+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="EwyBoy,JorVa"
+             description="Adds a modular crafting station!"
              />
 
         <mod name="Embers"
@@ -973,6 +1013,14 @@
                  description="Nice Innovative Creative Enhancements"
                  />
 
+            <mod name="XNet"
+                 version="1.1.2" url="packs/ResonantRise/files/4.x/xnet-1.1.2.jar" file="xnet-1.1.2.jar" md5="e3f3ab4aacd440ec1929700b7acd436b" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/xnet/"
+                 authors="McJty"
+                 description="Advanced Networking"
+                 />
+
         <mod name="MCMultiPart"
              version="1.4.0" url="packs/ResonantRise/files/4.x/MCMultiPart-1.4.0-universal.jar" file="MCMultiPart-1.4.0-universal.jar" md5="34b2ece9450a7762b48ad956f15bc171" download="server"
              type="mods"
@@ -1209,6 +1257,14 @@
                 authors="Poenjabiesous,Keridos"
                 description="All a man needs are meat ingots, and big ass walls. Adds new walls and fences!"
                 />
+
+        <mod name="Open Glider"
+             version="1.10.2-0.2.2" url="packs/ResonantRise/files/4.x/OpenGlider-1.10.2-0.2.2.jar" file="OpenGlider-1.10.2-0.2.2.jar" md5="f17a69463b57e554fed4ebdbaaf8cffa" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/open-glider/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/open-glider?gameCategorySlug=mc-mods&amp;projectID=252354&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=xwason%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/open-glider?gameCategorySlug=mc-mods&amp;projectID=252354&amp;lc=US&amp;item_name=Open+Glider+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="gr8pefish"
+             description="Hang glider!"
+             />
 
         <mod name="OptionSync"
              version="1.10.2-r1" url="packs/ResonantRise/files/4.x/OptionSync-1.10.2-r1.jar" file="OptionSync-1.10.2-r1.jar" md5="d59116554871ac02557deab66e7a6e12" download="server"
