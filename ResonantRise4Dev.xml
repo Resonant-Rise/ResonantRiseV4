@@ -441,7 +441,7 @@
                  />
 
         <mod name="CoFH Core"
-             version="4.1.0.155" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.0.155-universal.jar" file="CoFHCore-1.10.2-4.1.0.155-universal.jar" md5="2af240e18f14b10f402e17af74fca459" download="server"
+             version="4.1.1.156" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.1.156-universal.jar" file="CoFHCore-1.10.2-4.1.1.156-universal.jar" md5="79c2b5393276be1b1b5cd504b8a005f1" download="server"
              type="mods"
              website="http://www.teamcofh.com"
              authors="Team CoFH"
@@ -449,7 +449,7 @@
              />
 
             <mod name="Redstone Arsenal"
-                 version="2.0.2.27" url="packs/ResonantRise/files/4.x/RedstoneArsenal-1.10.2-2.0.2.27-universal.jar" file="RedstoneArsenal-1.10.2-2.0.2.27-universal.jar" md5="c790b01237b16e2fc3e9d9954274cad8" download="server"
+                 version="2.0.3.29" url="packs/ResonantRise/files/4.x/RedstoneArsenal-1.10.2-2.0.3.29-universal.jar" file="RedstoneArsenal-1.10.2-2.0.3.29-universal.jar" md5="f91c4a858798c3e321436aaceec00dab" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -457,7 +457,7 @@
                  />
 
             <mod name="Thermal Expansion"
-                 version="5.0.3.86" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.0.3.86-universal.jar" file="ThermalExpansion-1.10.2-5.0.3.86-universal.jar" md5="3fe98a5fc55f69bb76aed9976f5fa70b" download="server"
+                 version="5.0.4.90" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.0.4.90-universal.jar" file="ThermalExpansion-1.10.2-5.0.4.90-universal.jar" md5="955563aa9a356308818f45dafd5cdc26" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -465,7 +465,7 @@
                  />
 
             <mod name="Thermal Foundation"
-                 version="2.0.3.77" url="packs/ResonantRise/files/4.x/ThermalFoundation-1.10.2-2.0.3.77-universal.jar" file="ThermalFoundation-1.10.2-2.0.3.77-universal.jar" md5="1ea7378cd1c4732291cb1caaf6c49434" download="server"
+                 version="2.0.5.81" url="packs/ResonantRise/files/4.x/ThermalFoundation-1.10.2-2.0.5.81-universal.jar" file="ThermalFoundation-1.10.2-2.0.5.81-universal.jar" md5="d0c58687df3d8a50b9e1c6b9368a4eeb" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -474,7 +474,7 @@
 
         <mod name="Controlling"
              version="1.0.4" url="packs/ResonantRise/files/4.x/Controlling-1.0.4.jar" file="Controlling-1.0.4.jar" md5="b78cf4347755658f3ee310faf2a70c76" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/250398/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
              authors="jaredlll08"
              description="Adds a search bar to the Key-Bindings menu"
@@ -1111,7 +1111,7 @@
 
         <mod name="Mod Name Tooltip"
              version="1.6.0" url="packs/ResonantRise/files/4.x/modnametooltip_1.10.2-1.6.0.jar" file="modnametooltip_1.10.2-1.6.0.jar" md5="2727d8078bd2c3879019ece5c2a23622" download="server"
-             type="mods"
+             type="mods" server="no"
              website="https://github.com/mezz/ModNameTooltip"
              authors="mezz"
              description="Show the ItemStack&apos;s mod on its tooltip."
