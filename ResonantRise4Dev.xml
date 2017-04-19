@@ -826,7 +826,7 @@
 -->
 
         <mod name="libVulpes"
-             version="1.10.2-0.1.18" url="packs/ResonantRise/files/4.x/LibVulpes-1.10.2-0.1.18-universal.jar" file="LibVulpes-1.10.2-0.1.18-universal.jar" md5="68659f281f13dc6689aa217cebae9c8b" download="server"
+             version="1.10.2-0.2.2" url="packs/ResonantRise/files/4.x/LibVulpes-1.10.2-0.2.2-universal.jar" file="LibVulpes-1.10.2-0.2.2-universal.jar" md5="acafc34ad7d586195379ec07a87317fc" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/libvulpes"
              authors="zmaster587"
