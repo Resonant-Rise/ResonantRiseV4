@@ -409,7 +409,7 @@
              />
 
         <mod name="CodeChicken Core"
-             version="2.4.0.101" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.4.0.101-universal.jar" file="CodeChickenCore-1.10.2-2.4.0.101-universal.jar" md5="f6c2bcd6939a32dea4477bb98a4473aa" download="server"
+             version="2.4.1.102" url="packs/ResonantRise/files/4.x/CodeChickenCore-1.10.2-2.4.1.102-universal.jar" file="CodeChickenCore-1.10.2-2.4.1.102-universal.jar" md5="1b694610f79739a3dfe5028b37df72f1" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223"
              authors="ChickenBones"
@@ -425,7 +425,7 @@
                  />
 
             <mod name="CodeChicken Lib"
-                 version="2.5.6.233" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.6.233-universal.jar" file="CodeChickenLib-1.10.2-2.5.6.233-universal.jar" md5="2735f66de9c5d03f049c6963c2ef5353" download="server"
+                 version="2.5.7.241" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.7.241-universal.jar" file="CodeChickenLib-1.10.2-2.5.7.241-universal.jar" md5="2131fa7965c3ee0f9933f150905d714d" download="server"
                  type="mods"
                  website="http://chickenbones.net/Pages/links.html"
                  authors="ChickenBones,covers1624"
