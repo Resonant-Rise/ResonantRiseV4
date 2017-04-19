@@ -1934,7 +1934,7 @@
              />
 
         <mod name="Surge"
-             version="1.10.2-1.1.0.71" url="packs/ResonantRise/files/4.x/Surge-1.10.2-1.1.0.71.jar" file="Surge-1.10.2-1.1.0.71.jar" md5="140aeca5323485050875a8f8b232dd31" download="server"
+             version="1.10.2-1.1.0.68" url="packs/ResonantRise/files/4.x/Surge-1.10.2-1.1.0.68.jar" file="Surge-1.10.2-1.1.0.68.jar" md5="209914749a6a488d30055a8965de766b" download="server"
              type="mods" optional="yes" server="no"
              website="http://www.curseforge.com/projects/250290/"
              authors="Darkhax,lclc98"
