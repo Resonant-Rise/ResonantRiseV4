@@ -21,4 +21,31 @@
 	The "useDefault" attribute will prevent loading of recipes if set to "false"
 <!-->
 <Recipes useDefault="true">
+	<Recipe timeRequired="40" power ="20">
+		<input>
+			<itemStack>advancedrocketry:carbonScrubberCartridge 1 172800</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedrocketry:carbonScrubberCartridge</itemStack>
+			<itemStack>minecraft:coal 1 1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="1">
+		<input>
+			<itemStack>minecraft:bone</itemStack>
+			<fluidStack>nitrogen 10</fluidStack>
+		</input>
+		<output>
+			<itemStack>minecraft:dye 5 15</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<fluidStack>oxygen 10</fluidStack>
+			<fluidStack>hydrogen 10</fluidStack>
+		</input>
+		<output>
+			<fluidStack>rocketfuel 20</fluidStack>
+		</output>
+	</Recipe>
 </Recipes>

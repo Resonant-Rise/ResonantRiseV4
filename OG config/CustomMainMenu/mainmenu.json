@@ -1,214 +1,156 @@
 {
     "images":
     {
-
-		"black":
+        "title":
         {
-            "image" : "mainmenu:textures/bg_menu.png",
-            "posX" : 70,
-            "posY" : -80,
-            "width" : 250,
-            "height" : 1500,
-            "alignment" : "top_left"
-        },
-		"logo":
-        {
-            "image" : "mainmenu:textures/logo.png",
-            "posX" : 100,
-            "posY" : -195,
-            "width" : 200,
-            "height" : 200,
-            "alignment" : "left_center"
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
         }
-
-	},
-
+    },
+    
     "buttons":
     {
-    "discord":
-        {
-            "text" : "",
-            "texture" : "mainmenu:textures/discord.png",
-            "posX" : -150,
-            "posY" : -150,
-            "width" : 125,
-            "height" : 40,
-            "imageWidth" : 500,
-			      "imageHeight" : 160,
-            "alignment" : "bottom_right",
-             "action" :
-            {
-                "type" : "openLink",
-                "link" : "https://discord.resonantri.se"
-            }
-        },
-		"singleplayer":
+        "singleplayer":
         {
             "text" : "menu.singleplayer",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 10,
-            "width" : 196,
-            "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
         },
-
-		"multiplayer":
+        
+        "multiplayer":
         {
             "text" : "menu.multiplayer",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 40,
-            "width" : 196,
-            "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-
-		"options":
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
         {
             "text" : "menu.options",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 80,
-            "width" : 196,
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
+            "action" : 
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
         },
-
-		"language":
+        
+        "quit":
         {
-            "text" : "options.language",
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 100,
-            "width" : 196,
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
         },
-
-        "quit":
+        
+        "refresh":
         {
-            "text" : "menu.quit",
-			"normalTextColor" : 16729156,
-			"hoverTextColor" : 14483456,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 120,
-            "width" : 196,
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-			"hoverText" : "No! Don't leave!",
-            "action" :
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
             {
-                "type" : "quit"
-            }
-        },
-
-        "mods":
-        {
-            "text" : "Mods (#modsloaded#/#modsactive#)",
-			"normalTextColor" : 6710886,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : 150,
-            "width" : 196,
-            "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
-            {
-                "type" : "openGui",
-                "gui" : "mods"
+                "type" : "refresh"
             }
         }
-	},
-
+    },
+    
     "labels":
     {
-        "forge":
-        {
-            "text" : "Forge #forgeversion#",
-            "posX" : 2,
-            "posY" : -25,
-            "color" : -1,
-            "alignment" : "bottom_left"
-        },
         "mojang":
         {
-            "text" : "Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
-            "posX" : 2,
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
             "posY" : -10,
             "color" : -1,
-            "alignment" : "bottom_left"
+            "alignment" : "bottom_right"
         },
-
-		"packTxt":
+        
+        "fml":
         {
-            "text" : "RR4 Beta",
+            "text" : "",
             "posX" : 2,
             "posY" : -40,
             "color" : -1,
             "alignment" : "bottom_left"
         }
     },
-
-     "other":
+    
+    "other":
     {
         "splash-text":
         {
             "posX" : 90,
             "posY" : 70,
             "color" : -256,
-            "alignment" : "top_center"
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
         },
-
-        "background":
+        
+        "panorama":
         {
-            "image" : "",
-            "slideshow":
-            {
-                "images" : ["mainmenu:textures/bg.png","mainmenu:textures/bg1.png","mainmenu:textures/bg2.png","mainmenu:textures/bg3.png","mainmenu:textures/bg4.png"],
-                "displayDuration" : 100,
-                "fadeDuration" : 40
-            }
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
         }
     }
 }
