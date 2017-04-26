@@ -433,7 +433,7 @@
                  />
 
             <mod name="Not Enough Items 1.8.+"
-                 version="" url="packs/ResonantRise/files/4.x/NotEnoughItems-1.10.2-2.1.3.219-universal.jar" file="NotEnoughItems-1.10.2-2.1.3.219-universal.jar" md5="a9a7f64eea6a97c51b4f375b80ea1a3f" download="server"
+                 version="2.1.3.219" url="packs/ResonantRise/files/4.x/NotEnoughItems-1.10.2-2.1.3.219-universal.jar" file="NotEnoughItems-1.10.2-2.1.3.219-universal.jar" md5="a9a7f64eea6a97c51b4f375b80ea1a3f" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/not-enough-items-1-8/"
                  authors="covers1624"
