@@ -432,6 +432,7 @@
                  description="CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things.."
                  />
 
+<!--
             <mod name="Not Enough Items 1.8.+"
                  version="2.1.3.219" url="packs/ResonantRise/files/4.x/NotEnoughItems-1.10.2-2.1.3.219-universal.jar" file="NotEnoughItems-1.10.2-2.1.3.219-universal.jar" md5="a9a7f64eea6a97c51b4f375b80ea1a3f" download="server"
                  type="mods"
@@ -439,6 +440,7 @@
                  authors="covers1624"
                  description="Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more"
                  />
+-->
 
             <mod name="Translocator"
                  version="2.1.4.55" url="packs/ResonantRise/files/4.x/Translocators-1.10.2-2.1.4.55-universal.jar" file="Translocators-1.10.2-2.1.4.55-universal.jar" md5="97529b83cbc5f18936033979e1f183e7" download="server"
@@ -799,6 +801,14 @@
              authors="mezz"
              description="Simple recipe and item helper."
              />
+
+            <mod name="Just Enough Buttons"
+                 version="1.10.2-1.7.3" url="packs/ResonantRise/files/4.x/justenoughbuttons-1.10.2-1.7.3.jar" file="justenoughbuttons-1.10.2-1.7.3.jar" md5="87bf4ef2d2b906cd803dbd84fc46b4ea" download="server"
+                 type="mods"
+                 website="https://github.com/UniversalLP/JustEnoughButtons/"
+                 authors="universal"
+                 description="Utility buttons for your inventory screen."
+                 />
 
             <mod name="JEI Bees"
                  version="0.9.0.5" url="packs/ResonantRise/files/4.x/jeibees-0.9.0.5-mc1.10.2.jar" file="jeibees-0.9.0.5-mc1.10.2.jar" md5="b9ba35370400fe1e234ef65c7b6de000" download="server"
