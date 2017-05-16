@@ -23,8 +23,8 @@
 <Recipes useDefault="true">
 	<Recipe timeRequired="900" power ="100">
 		<input>
-			<itemStack>minecraft:gold_ingot</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>ingotGold</oreDict>
+			<oreDict>dustRedstone</oreDict>
 			<oreDict>waferSilicon</oreDict>
 		</input>
 		<output>
@@ -33,7 +33,7 @@
 	</Recipe>
 	<Recipe timeRequired="900" power ="100">
 		<input>
-			<itemStack>minecraft:gold_ingot</itemStack>
+			<oreDict>ingotGold</oreDict>
 			<itemStack>minecraft:redstone_block</itemStack>
 			<oreDict>waferSilicon</oreDict>
 		</input>
@@ -43,9 +43,9 @@
 	</Recipe>
 	<Recipe timeRequired="500" power ="60">
 		<input>
-			<itemStack>minecraft:emerald</itemStack>
+			<oreDict>gemEmerald</oreDict>
 			<itemStack>advancedrocketry:ic</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:dataUnit</itemStack>
@@ -55,7 +55,7 @@
 		<input>
 			<itemStack>advancedrocketry:itemCircuitPlate</itemStack>
 			<itemStack>minecraft:ender_eye</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:ic 1 1</itemStack>
@@ -66,7 +66,7 @@
 			<oreDict>plateSilicon</oreDict>
 			<oreDict>plateGold</oreDict>
 			<itemStack>advancedrocketry:ic</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:ic 1 4</itemStack>
@@ -77,7 +77,7 @@
 			<oreDict>plateSilicon</oreDict>
 			<oreDict>plateCopper</oreDict>
 			<itemStack>advancedrocketry:ic</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:ic 1 3</itemStack>
@@ -88,7 +88,7 @@
 			<oreDict>plateSilicon</oreDict>
 			<itemStack>minecraft:dye 1 4</itemStack>
 			<itemStack>advancedrocketry:ic</itemStack>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:ic 1 5</itemStack>
@@ -96,7 +96,7 @@
 	</Recipe>
 	<Recipe timeRequired="400" power ="1">
 		<input>
-			<itemStack>minecraft:redstone</itemStack>
+			<oreDict>dustRedstone</oreDict>
 			<itemStack>minecraft:redstone_torch</itemStack>
 			<itemStack>advancedrocketry:ic</itemStack>
 			<itemStack>advancedrocketry:ic 1 3</itemStack>
@@ -108,7 +108,7 @@
 	<Recipe timeRequired="400" power ="1">
 		<input>
 			<itemStack>minecraft:fire_charge</itemStack>
-			<itemStack>minecraft:diamond</itemStack>
+			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:ic 1 2</itemStack>
 			<itemStack>advancedrocketry:ic 1 3</itemStack>
 		</input>
@@ -191,6 +191,24 @@
 		</input>
 		<output>
 			<itemStack>advancedrocketry:blockLens</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="1">
+		<input>
+			<itemStack>advancedrocketry:ic 1 1</itemStack>
+			<itemStack>advancedrocketry:spaceStationChip</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedrocketry:elevatorChip</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="1">
+		<input>
+			<itemStack>advancedrocketry:ic 1 1</itemStack>
+			<itemStack>advancedrocketry:itemUpgrade 1 4</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedrocketry:beaconFinder</itemStack>
 		</output>
 	</Recipe>
 </Recipes>

@@ -131,6 +131,78 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 324</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotLumium</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 358</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotIron</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 32</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotSignalum</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 357</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotUranium</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:metal 1 35</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotPlatinum</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 326</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotLead</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 323</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotCopper</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 320</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotEnderium</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:material 1 359</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotBronze</oreDict>
 		</input>
 		<output>
@@ -155,34 +227,10 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotAluminum</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 324</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotMithril</oreDict>
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 328</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLumium</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 358</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotIron</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 32</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -203,14 +251,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotSignalum</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 357</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotSilver</oreDict>
 		</input>
 		<output>
@@ -223,22 +263,6 @@
 		</input>
 		<output>
 			<itemStack>embers:plateDawnstone</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotPlatinum</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 326</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLead</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 323</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -275,14 +299,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotCopper</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 320</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotTitaniumIridium</oreDict>
 		</input>
 		<output>
@@ -295,14 +311,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 356</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotEnderium</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:material 1 359</itemStack>
 		</output>
 	</Recipe>
 </Recipes>
