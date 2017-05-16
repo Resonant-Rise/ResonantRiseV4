@@ -1456,12 +1456,12 @@
              />
 
             <mod name="Router Reborn"
-                version="1.10.2-4.0.1.88_universal" url="packs/ResonantRise/files/4.x/RouterReborn-1.10.2-4.0.1.88_universal.jar" file="RouterReborn-1.10.2-4.0.1.88_universal.jar" md5="5f160594b555cf85e013391a0fd19a1d" download="server"
-                type="mods"
-                website="http://www.curseforge.com/projects/223808/" donation="https://www.paypal.com/cgi-bin/webscr?  return=http://minecraft.curseforge.com/projects/router-reborn?gameCategorySlug=mc-    mods&amp;projectID=223808&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=zyberwax%40hotmail.com&a   mp;bn=PP-DonationsBF:btn_donateCC_"
-                authors="Tom Erik Voll"
-                description="Bringing the router back to 1.8.9"
-                />
+                 version="1.10.2-4.0.1.88_universal" url="packs/ResonantRise/files/4.x/RouterReborn-1.10.2-4.0.1.88_universal.jar" file="RouterReborn-1.10.2-4.0.1.88_universal.jar" md5="5f160594b555cf85e013391a0fd19a1d" download="server"
+                 type="mods"
+                 website="http://www.curseforge.com/projects/router-reborn/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/router-reborn?gameCategorySlug=mc-mods&amp;projectID=223808&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=zyberwax%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/router-reborn?gameCategorySlug=mc-mods&amp;projectID=223808&amp;lc=US&amp;item_name=Router+Reborn+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+                 authors="Tom E. Voll"
+                 description="Bringing the router back in 1.10+"
+                 />
 
         <mod name="Realistic Terrain Generation"
              version="4.1.2.4" url="packs/ResonantRise/files/4.x/RTG-1.10.2-4.1.2.4.jar" file="RTG-1.10.2-4.1.2.4.jar" md5="3502d45ac50f7e6208a266e460b95da5" download="server"
