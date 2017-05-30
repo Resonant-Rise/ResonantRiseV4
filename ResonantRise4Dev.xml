@@ -1236,16 +1236,6 @@
              />
 
 <!--
-        <mod name="NuclearCraft"
-             version="2.2d" url="packs/ResonantRise/files/4.x/NuclearCraft-2.2d--1.10.2.jar" file="NuclearCraft-2.2d--1.10.2.jar" md5="7177171b38db59112a8a75baca3c6faa" download="server"
-             type="mods"
-             website="https://minecraft.curseforge.com/projects/nuclearcraft-mod"
-             authors="turbodiesel4598 (call me Tom)"
-             description="Nuclear Physics, Minecraft Style (WIP)"
-             />
--->
-
-<!--
         <mod name="OpenComputers"
              version="1.6.0.3-rc.1" url="packs/ResonantRise/files/4.x/OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" file="OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar" md5="714a970c9ecb6513b530cc8c33298a72" download="server"
              type="mods"
