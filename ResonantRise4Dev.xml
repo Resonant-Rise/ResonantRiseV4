@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>4.2.0.1-b</version>
+        <version>4.2.0.2-b</version>
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1235,6 +1235,7 @@
              description="Wands, wands, and more wands"
              />
 
+<!--
         <mod name="NuclearCraft"
              version="2.2d" url="packs/ResonantRise/files/4.x/NuclearCraft-2.2d--1.10.2.jar" file="NuclearCraft-2.2d--1.10.2.jar" md5="7177171b38db59112a8a75baca3c6faa" download="server"
              type="mods"
@@ -1242,6 +1243,7 @@
              authors="turbodiesel4598 (call me Tom)"
              description="Nuclear Physics, Minecraft Style (WIP)"
              />
+-->
 
 <!--
         <mod name="OpenComputers"
