@@ -1129,7 +1129,7 @@
 -->
 
         <mod name="Minefactory Reloaded"
-             version="" url="packs/ResonantRise/files/4.x/MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" file="MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" md5="e002c2a547fd5c653c44b6ee0431d52f" download="server"
+             version="2.9.0B1-219" url="packs/ResonantRise/files/4.x/MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" file="MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" md5="e002c2a547fd5c653c44b6ee0431d52f" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/minefactory-reloaded/"
              authors="skyboy026"
