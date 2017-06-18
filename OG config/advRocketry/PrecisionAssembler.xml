@@ -65,7 +65,6 @@
 		<input>
 			<oreDict>plateSilicon</oreDict>
 			<oreDict>plateGold</oreDict>
-			<itemStack>advancedrocketry:ic</itemStack>
 			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
@@ -76,7 +75,6 @@
 		<input>
 			<oreDict>plateSilicon</oreDict>
 			<oreDict>plateCopper</oreDict>
-			<itemStack>advancedrocketry:ic</itemStack>
 			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
@@ -87,7 +85,6 @@
 		<input>
 			<oreDict>plateSilicon</oreDict>
 			<itemStack>minecraft:dye 1 4</itemStack>
-			<itemStack>advancedrocketry:ic</itemStack>
 			<oreDict>dustRedstone</oreDict>
 		</input>
 		<output>
