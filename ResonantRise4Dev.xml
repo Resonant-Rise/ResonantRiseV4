@@ -475,7 +475,7 @@
                  />
 
             <mod name="Thermal Dynamics"
-                 version="2.0.5.7" url="packs/ResonantRise/files/4.x/ThermalDynamics-1.10.2-2.0.5.7-universal.jar" file="ThermalDynamics-1.10.2-2.0.5.7-universal.jar" md5="3496c6c9a98bdc6ed909ec2b96a6c43f" download="server"
+                 version="2.0.8.11" url="packs/ResonantRise/files/4.x/ThermalDynamics-1.10.2-2.0.8.11-universal.jar" file="ThermalDynamics-1.10.2-2.0.8.11-universal.jar" md5="fd0ca0a7b6adb9e7cf1e991d3eb1bfbd" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -523,7 +523,7 @@
              />
 
             <mod name="Mod Tweaker"
-                 version="2.0.12" url="packs/ResonantRise/files/4.x/ModTweaker2-2.0.12.jar" file="ModTweaker2-2.0.12.jar" md5="b4fc37d88ef41c70b31c7853aad0e16e" download="server"
+                 version="2.0.13" url="packs/ResonantRise/files/4.x/ModTweaker2-2.0.13.jar" file="ModTweaker2-2.0.13.jar" md5="b5c38b830128547386f56e2c7daf9131" download="server"
                  type="mods"
                  website="https://minecraft.curseforge.com/projects/ModTweaker" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/modtweaker?gameCategorySlug=mc-mods&amp;projectID=220954&amp;lc=US&amp;item_name=ModTweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
                  authors="Jaredlll08,SnowShock35"
@@ -762,7 +762,7 @@
              />
 
             <mod name="Immersive Petroleum"
-                 version="1.0.6" url="packs/ResonantRise/files/4.x/immersivepetroleum-1.10.2-1.0.6.jar" file="immersivepetroleum-1.10.2-1.0.6.jar" md5="417a2a7749470fc36bd1584e0a04d189" download="server"
+                 version="1.0.7" url="packs/ResonantRise/files/4.x/immersivepetroleum-1.10.2-1.0.7.jar" file="immersivepetroleum-1.10.2-1.0.7.jar" md5="60d05aa5a66ab364b539efaaa6b33131" download="server"
                  type="mods"
                  website="https://github.com/Flaxbeard/ImmersivePetroleum"
                  authors="Flaxbeard"
@@ -1104,29 +1104,27 @@
                  description="Items that allow teleportation."
                  />
 
-<!--
         <mod name="Mekanism"
-             version="9.2.1" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.1.295.jar" file="Mekanism-1.10.2-9.2.1.295.jar" md5="c337f3f19b8c43fd70f9b13b44de768a" download="server"
+             version="9.2.2" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.2.301.jar" file="Mekanism-1.10.2-9.2.2.301.jar" md5="9d79c0e727f166431c6bf1cea9715da0" download="server"
              type="mods"
              website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
              description="Energy, Armor, Tools, Weapons, Machines, Magic."
              />
 
             <mod name="MekanismTools"
-                 version="9.2.1" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.1.295.jar" file="MekanismTools-1.10.2-9.2.1.295.jar" md5="08871728718d1d06c418f9a74cbe8e75" download="server"
+                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.2.301.jar" file="MekanismTools-1.10.2-9.2.2.301.jar" md5="063ff9d598b24b9a9015347f2e00683b" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady" description="Tools module for Mekanism."
                  />
 
             <mod name="MekanismGenerators"
-                 version="9.2.1" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.1.295.jar" file="MekanismGenerators-1.10.2-9.2.1.295.jar" md5="4feded401eb4f01acb2023b9f2af7111" download="server"
+                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.2.301.jar" file="MekanismGenerators-1.10.2-9.2.2.301.jar" md5="63cf7f9138d5f6cea725a6a148a37235" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady"
                  description="Generators module of Mekanism."
                  />
--->
 
 <!--
         <mod name="Minefactory Reloaded"
