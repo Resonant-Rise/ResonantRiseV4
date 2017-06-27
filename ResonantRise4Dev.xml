@@ -459,7 +459,7 @@
                  />
 
         <mod name="CoFH Core"
-             version="4.1.7.11" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.7.11-universal.jar" file="CoFHCore-1.10.2-4.1.7.11-universal.jar" md5="7c607f2b04af28d5cf87640bd7428e26" download="server"
+             version="4.1.8.12" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.8.12-universal.jar" file="CoFHCore-1.10.2-4.1.8.12-universal.jar" md5="94a376fe6e208201e363cea4139d1055" download="server"
              type="mods"
              website="http://www.teamcofh.com"
              authors="Team CoFH"
@@ -483,7 +483,7 @@
                  />
 
             <mod name="Thermal Expansion"
-                 version="5.1.6.8" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.1.6.8-universal.jar" file="ThermalExpansion-1.10.2-5.1.6.8-universal.jar" md5="30a3051aacfef6eeef605c8edd2952ee" download="server"
+                 version="5.1.7.10" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.1.7.10-universal.jar" file="ThermalExpansion-1.10.2-5.1.7.10-universal.jar" md5="ad14a67c390bc7589ea664a73a6b6659" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -770,7 +770,7 @@
                  />
 
         <mod name="IndustrialCraft 2"
-             version="2.6.234-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.234-ex110.jar" file="industrialcraft-2-2.6.234-ex110.jar" md5="24cd52eb9107461a99e064a4941cf6f0" download="server"
+             version="2.6.244-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.244-ex110.jar" file="industrialcraft-2-2.6.244-ex110.jar" md5="e058cd99f9fb358962c2fe81707a2095" download="server"
              type="mods"
              website="http://www.industrial-craft.net"
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead"
@@ -993,7 +993,7 @@
                  />
 
             <mod name="Natura"
-                 version="1.10.2-4.1.0.65" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.65.jar" file="natura-1.10.2-4.1.0.65.jar" md5="08eb59cd9eccfccd43fd8412e00072b2" download="server"
+                 version="1.10.2-4.1.0.72" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.72.jar" file="natura-1.10.2-4.1.0.72.jar" md5="5b6eb940c8828c0d2d7e985279ffff21" download="server"
                  type="mods"
                  website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura"
                  authors="mDiyo, Slime Knights"
@@ -1690,7 +1690,7 @@
              />
 
         <mod name="Tiny Progressions"
-             version="1.10.2-1.2.0-Hotfix" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.2.0-Hotfix.jar" file="tinyprogressions-1.10.2-1.2.0-Hotfix.jar" md5="8468f0cf73ae0e5c63478d52768851bf" download="server"
+             version="1.10.2-1.2.3" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.2.3.jar" file="tinyprogressions-1.10.2-1.2.3.jar" md5="e6962213015cfaeaa71da2291f15c6d1" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/tiny-progressions" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tiny-progressions?gameCategorySlug=mc-mods&amp;projectID=250850&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_dona"
              authors="Kashdeya,Darkosto,GenDeathrow"
