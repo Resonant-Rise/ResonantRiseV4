@@ -1128,6 +1128,7 @@
                  />
 -->
 
+<!--
         <mod name="Minefactory Reloaded"
              version="2.9.0B1-219" url="packs/ResonantRise/files/4.x/MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" file="MineFactoryReloaded-[1.10.2]2.9.0B1-219.jar" md5="e002c2a547fd5c653c44b6ee0431d52f" download="server"
              type="mods"
@@ -1135,6 +1136,7 @@
              authors="skyboy026"
              description="MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive."
              />
+-->
 
         <mod name="MineMenu"
              version="1.10.2-1.4.5" url="packs/ResonantRise/files/4.x/MineMenu-1.10.2-1.4.5-universal.jar" file="MineMenu-1.10.2-1.4.5-universal.jar" md5="dfac60147bc76c99f3aaffd4c1a12bdb" download="server"
