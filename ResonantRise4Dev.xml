@@ -1080,14 +1080,6 @@
              description="Base Mod for all MattDahEpic mods."
              />
 
-            <mod name="Auto Ore Dictionary Converter"
-                 version="1.10.2-1.1.2" url="packs/ResonantRise/files/4.x/autooredictconv-1.10.2-1.1.2.jar" file="autooredictconv-1.10.2-1.1.2.jar" md5="08b2a585ef2f17bd458ff34c272a361e" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/232650/"
-                 authors="MattDahEpic"
-                 description="Converts specified ore dictionary items automatically or on keybinding."
-                 />
-
             <mod name="Exchange Orb"
                  version="1.10.2-1.2" url="packs/ResonantRise/files/4.x/exchangeorb-1.10.2-1.2.jar" file="exchangeorb-1.10.2-1.2.jar" md5="2c043c18dce80e942064c525f28bd219" download="server"
                  type="mods"
