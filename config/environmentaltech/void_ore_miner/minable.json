@@ -205,6 +205,21 @@
       "weight": 8
     },
     {
+      "oreName": "oreOsmium",
+      "focusColor": "light_blue",
+      "weight": 8
+    },
+    {
+      "oreName": "oreTitanium",
+      "focusColor": "brown",
+      "weight": 8
+    },
+    {
+      "oreName": "oreDilithium",
+      "focusColor": "white",
+      "weight": 8
+    },
+    {
       "oreName": "oreSapphire",
       "focusColor": "blue",
       "weight": 8
