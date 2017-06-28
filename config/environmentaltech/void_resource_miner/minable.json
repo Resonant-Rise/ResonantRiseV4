@@ -236,6 +236,24 @@
       "weight": 10
     },
     {
+      "id": "mekanism:SaltBlock",
+      "meta": 0,
+      "focusColor": "white",
+      "weight": 10
+    },
+    {
+      "id": "railcraft:generic",
+      "meta": 9,
+      "focusColor": "white",
+      "weight": 10
+    },
+    {
+      "id": "railcraft:generic",
+      "meta": 8,
+      "focusColor": "gray",
+      "weight": 10
+    },
+    {
       "id": "environmentaltech:mica",
       "meta": 0,
       "focusColor": "white",
