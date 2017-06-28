@@ -33,11 +33,11 @@
     },
     {
       "weight": 400,
-      "oreName": "minecraft:diamond_block"
+      "oreName": "oreDiamond"
     }
   ],
   "explosionStrength": 10.0,
   "radius": 3,
-  "maxWeight": 1000,
+  "maxWeight": 1040,
   "version": 3
 }
