@@ -235,9 +235,34 @@
       "weight": 9
     },
     {
+      "oreName": "oreFluidCrudeOilSand",
+      "focusColor": "yellow",
+      "weight": 7
+    },
+    {
+      "oreName": "oreFluidCrudeOilShale",
+      "focusColor": "light_grey",
+      "weight": 7
+    },
+    {
+      "oreName": "oreFluidRedstone",
+      "focusColor": "red",
+      "weight": 7
+    },
+    {
       "oreName": "oreIridium",
       "focusColor": "white",
       "weight": 6
+    },
+    {
+      "oreName": "oreFluidGlowstone",
+      "focusColor": "yellow",
+      "weight": 7
+    },
+    {
+      "oreName": "oreFluidEnder",
+      "focusColor": "green",
+      "weight": 7
     },
     {
       "oreName": "oreTungsten",
