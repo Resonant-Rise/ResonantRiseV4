@@ -107,6 +107,25 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:ObsidianChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:ObsidianChestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:GlowstoneBoots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:GlowstoneBoots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:itemHelmQuartz</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -189,11 +208,29 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:ObsidianBoots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:ObsidianBoots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:itemBootsObsidian</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>actuallyadditions:itemBootsObsidian</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:LapisLazuliBoots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:LapisLazuliBoots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -262,6 +299,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:OsmiumChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:OsmiumChestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>tp:stone_helmet</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -276,6 +323,15 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.legs_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:BronzeHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:BronzeHelmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -353,6 +409,16 @@
 		</input>
 		<output>
 			<itemStack>psionup:ivoryChestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:SteelChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:SteelChestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -480,6 +546,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:LapisLazuliHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:LapisLazuliHelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>minecraft:iron_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -545,6 +620,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:GlowstoneHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:GlowstoneHelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>ic2:nightvision_goggles</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -595,6 +679,15 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.helmet_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:SteelHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:SteelHelmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -697,6 +790,15 @@
 		</input>
 		<output>
 			<itemStack>roots:druidArmorHead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanism:FreeRunners</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanism:FreeRunners</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -951,15 +1053,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minefactoryreloaded:glass_helm</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minefactoryreloaded:glass_helm</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>ic2:quantum_chestplate</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
@@ -975,6 +1068,16 @@
 		</input>
 		<output>
 			<itemStack>actuallyadditions:itemBootsCrystalBlue</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanism:ArmoredJetpack</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanism:ArmoredJetpack</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1060,6 +1163,15 @@
 		</input>
 		<output>
 			<itemStack>actuallyadditions:itemPantsCrystalBlue</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanism:GasMask</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanism:GasMask</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1175,25 +1287,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minefactoryreloaded:plastic_helm</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minefactoryreloaded:plastic_helm</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minefactoryreloaded:plastic_chest</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>minefactoryreloaded:plastic_chest</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>minecraft:diamond_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1258,6 +1351,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanism:Jetpack</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanism:Jetpack</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>randomthings:waterWalkingBoots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1292,6 +1395,15 @@
 		</input>
 		<output>
 			<itemStack>embers:ashenCloakChest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:OsmiumHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:OsmiumHelmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1340,6 +1452,15 @@
 		</input>
 		<output>
 			<itemStack>draconicevolution:wyvern_chest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:BronzeBoots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:BronzeBoots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1473,11 +1594,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minefactoryreloaded:plastic_legs</itemStack>
+			<itemStack>mekanismtools:SteelBoots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>minefactoryreloaded:plastic_legs</itemStack>
+			<itemStack>mekanismtools:SteelBoots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1497,6 +1618,16 @@
 		</input>
 		<output>
 			<itemStack>bloodmagic:ItemSentientArmourLegs</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:LapisLazuliChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:LapisLazuliChestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1544,6 +1675,15 @@
 		</input>
 		<output>
 			<itemStack>natura:imp_armor_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:LapisLazuliLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:LapisLazuliLeggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1613,11 +1753,31 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanism:ScubaTank</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanism:ScubaTank</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>ic2:nano_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>ic2:nano_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:GlowstoneChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:GlowstoneChestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1725,6 +1885,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:ObsidianHelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:ObsidianHelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>quark:pirate_hat</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1809,15 +1978,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minefactoryreloaded:plastic_boots</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minefactoryreloaded:plastic_boots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>ic2:quantum_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1892,12 +2052,30 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:ObsidianLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:ObsidianLeggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>thermalfoundation:armor.plate_invar</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.plate_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:GlowstoneLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:GlowstoneLeggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -2081,6 +2259,15 @@
 		</input>
 		<output>
 			<itemStack>deepresonance:leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:OsmiumLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:OsmiumLeggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -2452,6 +2639,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:SteelLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:SteelLeggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:itemChestCrystalBlack</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
@@ -2490,6 +2686,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:OsmiumBoots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:OsmiumBoots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>tp:bone_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -2499,11 +2704,30 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mekanismtools:BronzeChestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressureTank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mekanismtools:BronzeChestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>theoneprobe:diamond_helmet_probe</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>theoneprobe:diamond_helmet_probe</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mekanismtools:BronzeLeggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mekanismtools:BronzeLeggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
