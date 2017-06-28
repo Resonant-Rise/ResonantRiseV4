@@ -1422,14 +1422,6 @@
                  description="A mod that adds a Deep Storage Unit to hold all the things "
                  />
 
-        <mod name="Refined Relocation"
-             version="2.1.24" url="packs/ResonantRise/files/4.x/RefinedRelocation-mc1.10.2-2.1.24.jar" file="RefinedRelocation-mc1.10.2-2.1.24.jar" md5="fdd409685766c186206b6c8a5ffb04d9" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/247135/"
-             authors="BlayTheNinth,ZeroTheShinigami"
-             description="Sorting Chests. More to come soon."
-             />
-
         <mod name="Refined Storage"
              version="1.2.26" url="packs/ResonantRise/files/4.x/refinedstorage-1.2.26.jar" file="refinedstorage-1.2.26.jar" md5="e33cf4b3a25f66c680ba27d9f0333845" download="server"
              type="mods"
