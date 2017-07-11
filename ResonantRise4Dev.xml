@@ -1251,7 +1251,7 @@
              />
 
         <mod name="NetherPortalFix"
-             version="3.3.4" url="packs/ResonantRise/files/4.x/NetherPortalFix_1.10.2-3.3.4.jar" file="NetherPortalFix_1.10.2-3.3.4.jar" md5="8e1884478bd123fe033bfe320d4ccca6" download="server" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
+             version="3.3.4" url="packs/ResonantRise/files/4.x/NetherPortalFix_1.10.2-3.3.4.jar" file="NetherPortalFix_1.10.2-3.3.4.jar" md5="8e1884478bd123fe033bfe320d4ccca6" download="server" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241160/"
              authors="Blay09"
