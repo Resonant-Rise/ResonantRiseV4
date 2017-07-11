@@ -154,7 +154,7 @@
              />
 
         <mod name="AppleSkin"
-             version="1.0.5" url="packs/ResonantRise/files/4.x/AppleSkin-mc1.10.2-1.0.5.jar" file="AppleSkin-mc1.10.2-1.0.5.jar" md5="d0da18e5815c25353fffd16242e804c0" download="server"
+             version="1.0.7" url="packs/ResonantRise/files/4.x/AppleSkin-mc1.10.2-1.0.7.jar" file="AppleSkin-mc1.10.2-1.0.7.jar" md5="f6d66352f9af878bb64404cb8f585945" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/248787/"
              authors="squeek"
@@ -324,7 +324,7 @@
                      />
 
         <mod name="Brandon&apos;s Core"
-             version="1.10.2-2.1.8.107" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.8.107-universal.jar" file="BrandonsCore-1.10.2-2.1.8.107-universal.jar" md5="2d71c74c861988d87a29d4ba920134dc" download="server"
+             version="1.10.2-2.1.9.113" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.9.113-universal.jar" file="BrandonsCore-1.10.2-2.1.9.113-universal.jar" md5="49c64b72f3d44bacb7b01cd7162deba4" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/brandons-core"
              authors="brandon3055"
@@ -332,7 +332,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.1.1.236" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.1.1.236-universal.jar" file="Draconic-Evolution-1.10.2-2.1.1.236-universal.jar" md5="0d597053d6cc032a702c6460e922e1f3" download="server"
+                 version="1.10.2-2.1.2.245" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.1.2.245-universal.jar" file="Draconic-Evolution-1.10.2-2.1.2.245-universal.jar" md5="c6418c1308e7ce4f36565e5f9161d9d5" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
@@ -377,7 +377,7 @@
 -->
 
         <mod name="Chisel"
-             version="0.0.11.26" url="packs/ResonantRise/files/4.x/Chisel-MC1.10.2-0.0.11.26.jar" file="Chisel-MC1.10.2-0.0.11.26.jar" md5="4d271f32b7bf8d3fc6f93c831b642469" download="server"
+             version="0.0.12.27" url="packs/ResonantRise/files/4.x/Chisel-MC1.10.2-0.0.12.27.jar" file="Chisel-MC1.10.2-0.0.12.27.jar" md5="0010edcd2cafdd0ad2ecba24f5eaf1fb" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/235279/"
              authors="tterrag1098,Drullkus,Minecreatr"
@@ -385,7 +385,7 @@
              />
 
             <mod name="CTM"
-                 version="MC1.10.2-0.1.1.16" url="packs/ResonantRise/files/4.x/CTM-MC1.10.2-0.1.1.16.jar" file="CTM-MC1.10.2-0.1.1.16.jar" md5="5eb0591e1c6dc2049dff5b2ab8838492" download="server"
+                 version="MC1.10.2-0.2.0.19" url="packs/ResonantRise/files/4.x/CTM-MC1.10.2-0.2.0.19.jar" file="CTM-MC1.10.2-0.2.0.19.jar" md5="e03c28e491610358a06dd7ec0cc1ab56" download="server"
                  type="mods"
                  website="https://minecraft.curseforge.com/projects/ctm"
                  authors="tterrag,Drullkus,minecreatr"
@@ -433,7 +433,7 @@
                  />
 
             <mod name="CodeChicken Lib"
-                 version="2.5.9.267" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.9.267-universal.jar" file="CodeChickenLib-1.10.2-2.5.9.267-universal.jar" md5="f858160f341a8d36b458c38aa77245dc" download="server"
+                 version="2.5.9.283" url="packs/ResonantRise/files/4.x/CodeChickenLib-1.10.2-2.5.9.283-universal.jar" file="CodeChickenLib-1.10.2-2.5.9.283-universal.jar" md5="f14ad54e5f3b185f1c01e320768e164c" download="server"
                  type="mods"
                  website="http://chickenbones.net/Pages/links.html"
                  authors="ChickenBones,covers1624"
@@ -459,7 +459,7 @@
                  />
 
         <mod name="CoFH Core"
-             version="4.1.8.12" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.8.12-universal.jar" file="CoFHCore-1.10.2-4.1.8.12-universal.jar" md5="94a376fe6e208201e363cea4139d1055" download="server"
+             version="4.1.10.15" url="packs/ResonantRise/files/4.x/CoFHCore-1.10.2-4.1.10.15-universal.jar" file="CoFHCore-1.10.2-4.1.10.15-universal.jar" md5="ffce05502f6f24ab64c7a1bf1d31534e" download="server"
              type="mods"
              website="http://www.teamcofh.com"
              authors="Team CoFH"
@@ -467,7 +467,7 @@
              />
 
             <mod name="Redstone Arsenal"
-                 version="2.1.0.4" url="packs/ResonantRise/files/4.x/RedstoneArsenal-1.10.2-2.1.0.4-universal.jar" file="RedstoneArsenal-1.10.2-2.1.0.4-universal.jar" md5="b0194fbdfca24e1ab77dada0f26b03c2" download="server"
+                 version="2.1.2.7" url="packs/ResonantRise/files/4.x/RedstoneArsenal-1.10.2-2.1.2.7-universal.jar" file="RedstoneArsenal-1.10.2-2.1.2.7-universal.jar" md5="51ce86bed6c9c0d681c0e84a43f0c209" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -475,7 +475,7 @@
                  />
 
             <mod name="Thermal Dynamics"
-                 version="2.0.8.11" url="packs/ResonantRise/files/4.x/ThermalDynamics-1.10.2-2.0.8.11-universal.jar" file="ThermalDynamics-1.10.2-2.0.8.11-universal.jar" md5="fd0ca0a7b6adb9e7cf1e991d3eb1bfbd" download="server"
+                 version="2.0.9.15" url="packs/ResonantRise/files/4.x/ThermalDynamics-1.10.2-2.0.9.15-universal.jar" file="ThermalDynamics-1.10.2-2.0.9.15-universal.jar" md5="79259f8a67a2453b283027bc7f3d1613" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -483,7 +483,7 @@
                  />
 
             <mod name="Thermal Expansion"
-                 version="5.1.7.10" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.1.7.10-universal.jar" file="ThermalExpansion-1.10.2-5.1.7.10-universal.jar" md5="ad14a67c390bc7589ea664a73a6b6659" download="server"
+                 version="5.1.8.19" url="packs/ResonantRise/files/4.x/ThermalExpansion-1.10.2-5.1.8.19-universal.jar" file="ThermalExpansion-1.10.2-5.1.8.19-universal.jar" md5="135b5e0d45dbf61b7c27a35d617aa277" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -491,7 +491,7 @@
                  />
 
             <mod name="Thermal Foundation"
-                 version="2.1.3.5" url="packs/ResonantRise/files/4.x/ThermalFoundation-1.10.2-2.1.3.5-universal.jar" file="ThermalFoundation-1.10.2-2.1.3.5-universal.jar" md5="45806abbd86149599e094d6d9dc7aa2d" download="server"
+                 version="2.1.4.11" url="packs/ResonantRise/files/4.x/ThermalFoundation-1.10.2-2.1.4.11-universal.jar" file="ThermalFoundation-1.10.2-2.1.4.11-universal.jar" md5="384226959514aee807e70dc01a000b35" download="server"
                  type="mods"
                  website="http://www.teamcofh.com"
                  authors="Team CoFH"
@@ -499,7 +499,7 @@
                  />
 
         <mod name="Controlling"
-             version="1.0.4" url="packs/ResonantRise/files/4.x/Controlling-1.0.4.jar" file="Controlling-1.0.4.jar" md5="b78cf4347755658f3ee310faf2a70c76" download="server"
+             version="1.0.5" url="packs/ResonantRise/files/4.x/Controlling-1.0.5.jar" file="Controlling-1.0.5.jar" md5="effc24edb6373270a274587c2cfa437e" download="server"
              type="mods" server="no"
              website="http://www.curseforge.com/projects/250398/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
              authors="jaredlll08"
@@ -507,7 +507,7 @@
              />
 
         <mod name="Cooking for Blockheads"
-             version="4.2.43" url="packs/ResonantRise/files/4.x/CookingForBlockheads_1.10.2-4.2.43.jar" file="CookingForBlockheads_1.10.2-4.2.43.jar" md5="de09685b6703f01921aa43f80336e96a" download="server"
+             version="4.2.45" url="packs/ResonantRise/files/4.x/CookingForBlockheads_1.10.2-4.2.45.jar" file="CookingForBlockheads_1.10.2-4.2.45.jar" md5="c25ebe89ca1f30e34e27fb26cd4a5560" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/231484/"
              authors="BlayTheNinth"
@@ -644,7 +644,7 @@
              />
 
         <mod name="Extra Utilities 2"
-             version="1.4.4" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.4.4.jar" file="extrautils2-1.10.2-1.4.4.jar" md5="e795acf0349d10454e56610fe938aff4" download="server"
+             version="1.5" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.5.jar" file="extrautils2-1.10.2-1.5.jar" md5="ce1b6783c7601f8dfa48c9fa8f237f4d" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225561/"
              authors="RWTema"
@@ -731,7 +731,7 @@
              />
 
         <mod name="grimoire of gaia"
-             version="1.5.5" url="packs/ResonantRise/files/4.x/GrimoireOfGaia3-1.10.2-1.5.5.jar" file="GrimoireOfGaia3-1.10.2-1.5.5.jar" md5="d73ae89fcca61d8a6b8814c964573b0c" download="server"
+             version="1.5.6" url="packs/ResonantRise/files/4.x/GrimoireOfGaia3-1.10.2-1.5.6.jar" file="GrimoireOfGaia3-1.10.2-1.5.6.jar" md5="5043205562570526eabfc9c089e686ac" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/grimoire-of-gaia"
              description="Nightmare's come to life and more created"
@@ -770,7 +770,7 @@
                  />
 
         <mod name="IndustrialCraft 2"
-             version="2.6.244-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.244-ex110.jar" file="industrialcraft-2-2.6.244-ex110.jar" md5="e058cd99f9fb358962c2fe81707a2095" download="server"
+             version="2.6.245-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.245-ex110.jar" file="industrialcraft-2-2.6.245-ex110.jar" md5="0317fb526f1219ee9b702e6d1225ac1a" download="server"
              type="mods"
              website="http://www.industrial-craft.net"
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead"
@@ -993,7 +993,7 @@
                  />
 
             <mod name="Natura"
-                 version="1.10.2-4.1.0.72" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.72.jar" file="natura-1.10.2-4.1.0.72.jar" md5="5b6eb940c8828c0d2d7e985279ffff21" download="server"
+                 version="1.10.2-4.1.0.73" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.73.jar" file="natura-1.10.2-4.1.0.73.jar" md5="ed5294ea47eae92271feecbbea8fcc4c" download="server"
                  type="mods"
                  website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura"
                  authors="mDiyo, Slime Knights"
@@ -1001,7 +1001,7 @@
                  />
 
         <mod name="McJtyLib"
-             version="1.1x-2.3.11-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.3.11.jar" file="mcjtylib-1.1x-2.3.11.jar" md5="e847130d754f0dc65fb59d57f7cf20b8" download="server"
+             version="1.1x-2.4.3-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.4.3.jar" file="mcjtylib-1.1x-2.4.3.jar" md5="d74daaf76617e6116654a33df40ea489" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -1025,7 +1025,7 @@
                  />
 
             <mod name="RFTools"
-                 version="1.1x-6.01" url="packs/ResonantRise/files/4.x/rftools-1.1x-6.01.jar" file="rftools-1.1x-6.01.jar" md5="697212edebeca266613b1bf4b62c0e96" download="server"
+                 version="1.1x-6.10" url="packs/ResonantRise/files/4.x/rftools-1.1x-6.10.jar" file="rftools-1.1x-6.10.jar" md5="0862c26bf7bec1329fc29d18379ec266" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                  authors="McJty"
@@ -1251,8 +1251,7 @@
              />
 
         <mod name="NetherPortalFix"
-             version="4.0.1"
-             url="packs/ResonantRise/files/4.x/netherportalfix-mc1.9.4-4.0.1.jar" file="netherportalfix-mc1.9.4-4.0.1.jar" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
+             version="3.3.4" url="packs/ResonantRise/files/4.x/NetherPortalFix_1.10.2-3.3.4.jar" file="NetherPortalFix_1.10.2-3.3.4.jar" md5="8e1884478bd123fe033bfe320d4ccca6" download="server" md5="1c2dea8eae5594999d56dc4d437d73c6" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241160/"
              authors="Blay09"
@@ -1556,7 +1555,7 @@
                  />
 
             <mod name="Terraqueous"
-                 version="1.10.0-1.2.24" url="packs/ResonantRise/files/4.x/terraqueous-1.10.0-1.2.24.jar" file="terraqueous-1.10.0-1.2.24.jar" md5="1e0a2d730b49f5b96bea53f28b10c0a1" download="server"
+                 version="1.10.0-1.2.25" url="packs/ResonantRise/files/4.x/terraqueous-1.10.0-1.2.25.jar" file="terraqueous-1.10.0-1.2.25.jar" md5="3e08b72f09a9ec95877ca24c5ae0b661" download="server"
                  type="mods"
                  website="http://tomkinsbros.blogspot.ca/p/terraqueous.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/terraqueous?gameCategorySlug=mc-mods&amp;projectID=244870&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
                  authors="ShetiPhian"
@@ -1624,7 +1623,7 @@
 -->
 
         <mod name="Storage Drawers"
-             version="3.7.9" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.7.9.jar" file="StorageDrawers-1.10.2-3.7.9.jar" md5="46f33e31b59eb88d6083de292265e0e9" download="server"
+             version="3.7.10" url="packs/ResonantRise/files/4.x/StorageDrawers-1.10.2-3.7.10.jar" file="StorageDrawers-1.10.2-3.7.10.jar" md5="89c991cd3988616128cee48d21ff3115" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
@@ -1871,7 +1870,7 @@
              />
 
         <mod name="Recurrent Complex"
-             version="1.4.1-1.10" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.4.1-1.10.jar" file="RecurrentComplex-1.4.1-1.10.jar" md5="8175c20a0d6e06739fe821378468b890" download="server"
+             version="1.4.4-1.10" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.4.4-1.10.jar" file="RecurrentComplex-1.4.4-1.10.jar" md5="7ba9cd7d8ba401df94b729b7104d6966" download="server"
              type="mods" optional="yes"
              website="http://www.curseforge.com/projects/223150/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&amp;projectID=223150&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_d"
              authors="Ivorius"
