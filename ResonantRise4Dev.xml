@@ -377,7 +377,7 @@
 -->
 
         <mod name="Chisel"
-             version="0.0.12.27" url="packs/ResonantRise/files/4.x/Chisel-MC1.10.2-0.0.12.27.jar" file="Chisel-MC1.10.2-0.0.12.27.jar" md5="0010edcd2cafdd0ad2ecba24f5eaf1fb" download="server"
+             version="0.0.13.29" url="packs/ResonantRise/files/4.x/Chisel-MC1.10.2-0.0.13.29.jar" file="Chisel-MC1.10.2-0.0.13.29.jar" md5="4933491680e6330c5f01216a500076a2" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/235279/"
              authors="tterrag1098,Drullkus,Minecreatr"
@@ -683,7 +683,7 @@
              />
 
         <mod name="Forestry"
-             version="5.2.17.377" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.377.jar" file="forestry_1.10.2-5.2.17.377.jar" md5="ef88bcb740dae5a205393d9370d7e1ff" download="server"
+             version="5.2.17.379" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.379.jar" file="forestry_1.10.2-5.2.17.379.jar" md5="cf2f808f6dba0a59fefad721908d97b2" download="server"
              type="mods"
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
@@ -1277,7 +1277,7 @@
 -->
 
         <mod name="OMLib"
-             version="3.0.0-101" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-101.jar" file="omlib-1.10.2-3.0.0-101.jar" md5="b99d027b1091e783ca7f4b011d182e5b" download="server"
+             version="3.0.0-114" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-114.jar" file="omlib-1.10.2-3.0.0-114.jar" md5="25f710c15c1951e7f5b4a1db5e07bd8f" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/omlib"
              authors="Poenjabiesous,Keridos"
@@ -1285,7 +1285,7 @@
              />
 
             <mod name="Open Modular Turrets"
-                 version="3.0.0-158" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-158.jar" file="openmodularturrets-1.10.2-3.0.0-158.jar" md5="d70250782312de793cf059ca3d5ca5ee" download="server"
+                 version="3.0.0-189" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-189.jar" file="openmodularturrets-1.10.2-3.0.0-189.jar" md5="8bf633c8b750f43d53ab802942b03f75" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224663/"
                  authors="Poenjabiesous,UntouchedWagons,Keridos"
@@ -1293,7 +1293,7 @@
                  />
 
             <mod name="Open Modular Passive Defense"
-                version="3.0.0-16" url="packs/ResonantRise/files/4.x/ompd-1.10.2-3.0.0-16.jar" file="ompd-1.10.2-3.0.0-16.jar" md5="e64f0eb897c0cb44d9cf94c3d06c1c0d" download="server"
+                version="3.0.0-22" url="packs/ResonantRise/files/4.x/ompd-1.10.2-3.0.0-22.jar" file="ompd-1.10.2-3.0.0-22.jar" md5="519f71e11d5136bd5a9b26603e6457a1" download="server"
                 type="mods"
                 website="https://minecraft.curseforge.com/projects/open-modular-passive-defense"
                 authors="Poenjabiesous,Keridos"
