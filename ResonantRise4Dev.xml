@@ -618,7 +618,7 @@
                  />
 
         <mod name="Ender Utilities"
-             version="0.6.5" url="packs/ResonantRise/files/4.x/enderutilities-1.10.2-0.6.5.jar" file="enderutilities-1.10.2-0.6.5.jar" md5="5ec37c06ae3eba05e7fbb493ea6927fb" download="server"
+             version="0.7.4" url="packs/ResonantRise/files/4.x/enderutilities-1.10.2-0.7.4.jar" file="enderutilities-1.10.2-0.7.4.jar" md5="d2cb5008df1b570cd06dd1d171fa38bc" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/ender-utilities" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ender-utilities?gameCategorySlug=mc-mods&amp;projectID=224320&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_"
              authors="masa"
