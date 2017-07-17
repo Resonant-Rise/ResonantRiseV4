@@ -114,7 +114,7 @@ var obsidian = <minecraft:obsidian>;
 var ifelectrum = <redstonearsenal:material:32>;
 var imanainfused = <thermalfoundation:material:264>;
 var isignalum = <thermalfoundation:material:293>;
-var ilumium = <thermalfoundation:294>;
+var ilumium = <thermalfoundation:material:294>;
 var iiridium = <thermalfoundation:material:263>;
 var iconstantan = <thermalfoundation:material:292>;
 
