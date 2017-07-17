@@ -112,11 +112,11 @@ var ironbars = <minecraft:iron_bars>;
 var reinforcedobsidian = <tp:reinforced_obsidian>;
 var obsidian = <minecraft:obsidian>;
 var ifelectrum = <redstonearsenal:material:32>;
-var imanainfused = <thermalfoundation:material:264>;
-var isignalum = <thermalfoundation:material:293>;
-var ilumium = <thermalfoundation:material:294>;
-var iiridium = <thermalfoundation:material:263>;
-var iconstantan = <thermalfoundation:material:292>;
+var imanainfused = <thermalfoundation:material:136>;
+var isignalum = <thermalfoundation:material:165>;
+var ilumium = <thermalfoundation:material:166>;
+var iiridium = <thermalfoundation:material:135>;
+var iconstantan = <thermalfoundation:material:164>;
 
 ////////////////
 // Recipie Fix
