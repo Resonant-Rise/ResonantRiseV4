@@ -1097,21 +1097,21 @@
                  />
 
         <mod name="Mekanism"
-             version="9.2.2" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.2.301.jar" file="Mekanism-1.10.2-9.2.2.301.jar" md5="9d79c0e727f166431c6bf1cea9715da0" download="server"
+             version="9.2.2-final" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.2.final.jar" file="Mekanism-1.10.2-9.2.2.final.jar" md5="855c3bd75b88c33b1c2361bd6c8ccf2d" download="server"
              type="mods"
              website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
              description="Energy, Armor, Tools, Weapons, Machines, Magic."
              />
 
             <mod name="MekanismTools"
-                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.2.301.jar" file="MekanismTools-1.10.2-9.2.2.301.jar" md5="063ff9d598b24b9a9015347f2e00683b" download="server"
+                 version="9.2.2-final" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.2.final.jar" file="MekanismTools-1.10.2-9.2.2.final.jar" md5="f4c7151525877a7f0c0b19893e49753d" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady" description="Tools module for Mekanism."
                  />
 
             <mod name="MekanismGenerators"
-                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.2.301.jar" file="MekanismGenerators-1.10.2-9.2.2.301.jar" md5="63cf7f9138d5f6cea725a6a148a37235" download="server"
+                 version="9.2.2-final" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.2.final.jar" file="MekanismGenerators-1.10.2-9.2.2.final.jar" md5="8a7b92cfe0260afafa22999429b30545" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady"
@@ -1687,7 +1687,7 @@
              />
 
         <mod name="The One Probe"
-             version="1.1x-1.4.7" url="packs/ResonantRise/files/4.x/theoneprobe-1.1x-1.4.7.jar" file="theoneprobe-1.1x-1.4.7.jar" md5="e4ca9e8fc5d86c73718c51acf0a1cb42" download="server"
+             version="1.1x-1.4.14" url="packs/ResonantRise/files/4.x/theoneprobe-1.1x-1.4.14.jar" file="theoneprobe-1.1x-1.4.14.jar" md5="5c4b75fe25543fa9adcda724baa0bbb8" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/245211/"
              authors="McJty"
