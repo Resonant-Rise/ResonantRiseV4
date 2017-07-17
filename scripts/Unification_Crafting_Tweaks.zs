@@ -111,7 +111,12 @@ var darkibars = <enderio:blockDarkIronBars>;
 var ironbars = <minecraft:iron_bars>;
 var reinforcedobsidian = <tp:reinforced_obsidian>;
 var obsidian = <minecraft:obsidian>;
-var felectrum =<redstonearsenal:material:32>;
+var ifelectrum = <redstonearsenal:material:32>;
+var imanainfused = <thermalfoundation:material:264>;
+var isignalum = <thermalfoundation:material:293>;
+var ilumium = <thermalfoundation:294>;
+var iiridium = <thermalfoundation:material:263>;
+var iconstantan = <thermalfoundation:material:292>;
 
 ////////////////
 // Recipie Fix
@@ -242,6 +247,17 @@ mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:29
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:288>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:289>);
 mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:295>);
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:264>);
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:293>);
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:294>);
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:263>);
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:292>);
+mods.immersiveengineering.MetalPress.removeRecipe(<redstonearsenal:material:96>);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:264> * 2, imanainfused, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:293> * 2, isignalum, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:294> * 2, ilumium, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:263> * 2, iiridium, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:292> * 2, iconstantan, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:24> * 2, iiron, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:25> * 2, igold, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:256> * 2, icopper, <immersiveengineering:mold:1>, 500, 4);
@@ -256,7 +272,7 @@ mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:290> 
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:288> * 2, isteel, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:289> * 2, ielectrum, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:295> * 2, ienderium, <immersiveengineering:mold:1>, 500, 4);
-mods.immersiveengineering.MetalPress.addRecipe(<redstonearsenal:material:96> * 2, felectrum, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<redstonearsenal:material:96> * 2, ifelectrum, <immersiveengineering:mold:1>, 500, 4);
 
 ////////////////////////
 // Ingots Unification
