@@ -111,6 +111,7 @@ var darkibars = <enderio:blockDarkIronBars>;
 var ironbars = <minecraft:iron_bars>;
 var reinforcedobsidian = <tp:reinforced_obsidian>;
 var obsidian = <minecraft:obsidian>;
+var felectrum =<redstonearsenal:material:32>;
 
 ////////////////
 // Recipie Fix
@@ -255,6 +256,7 @@ mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:290> 
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:288> * 2, isteel, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:289> * 2, ielectrum, <immersiveengineering:mold:1>, 500, 4);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:295> * 2, ienderium, <immersiveengineering:mold:1>, 500, 4);
+mods.immersiveengineering.MetalPress.addRecipe(<redstonearsenal:material:96> * 2, felectrum, <immersiveengineering:mold:1>, 500, 4);
 
 ////////////////////////
 // Ingots Unification
@@ -286,7 +288,7 @@ mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:295> 
 ///recipes.remove(<ore:nuggetEnderium>);
 ///recipes.addShapeless(<immersiveengineering:metal:29> * 9, [iiron]);
 ///recipes.addShapeless(<thermalfoundation:material:192> * 9, [icopper]);
-///recipes.addShapeless(<thermalfoundation:material:193> * 9, [itin]);=
+///recipes.addShapeless(<thermalfoundation:material:193> * 9, [itin]);
 ///recipes.addShapeless(<thermalfoundation:material:227> * 9, [ibronze]);
 ///recipes.addShapeless(<thermalfoundation:material:194> * 9, [isilver]);
 ///recipes.addShapeless(<thermalfoundation:material:195> * 9, [ilead]);
