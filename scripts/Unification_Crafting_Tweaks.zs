@@ -117,6 +117,9 @@ var isignalum = <thermalfoundation:material:165>;
 var ilumium = <thermalfoundation:material:166>;
 var iiridium = <thermalfoundation:material:135>;
 var iconstantan = <thermalfoundation:material:164>;
+var oedraconium = <draconicevolution:draconium_ore:2>;
+var ondraconium = <draconicevolution:draconium_ore:1>;
+var odraconium = <draconicevolution:draconium_ore:0>;
 
 ////////////////
 // Recipie Fix
@@ -128,6 +131,9 @@ recipes.addShaped(thruster, [[iConductiveIron, capacitor, iConductiveIron], [red
 //Reinforced Obsidian Fix
 recipes.remove(reinforcedobsidian);
 recipes.addShaped(reinforcedobsidian, [[ironbars, obsidian, ironbars], [obsidian, darkibars, obsidian], [ironbars, obsidian, ironbars]]);
+//Draconium Ore Conversion
+recipes.addShaped(odraconium, [[oedraconium]]);
+recipes.addShaped(odraconium, [[ondraconium]]);
 
 ////////////////////////
 // Plate Unification
