@@ -120,6 +120,7 @@ var iconstantan = <thermalfoundation:material:164>;
 var oedraconium = <draconicevolution:draconium_ore:2>;
 var ondraconium = <draconicevolution:draconium_ore:1>;
 var odraconium = <draconicevolution:draconium_ore:0>;
+var icbronze = <ic2:plate:0>;
 
 ////////////////
 // Recipie Fix
@@ -134,6 +135,7 @@ recipes.addShaped(reinforcedobsidian, [[ironbars, obsidian, ironbars], [obsidian
 //Draconium Ore Conversion
 recipes.addShaped(odraconium, [[oedraconium]]);
 recipes.addShaped(odraconium, [[ondraconium]]);
+recipes.addShaped(pbronze, [[icbronze]]);
 
 ////////////////////////
 // Plate Unification
@@ -211,13 +213,6 @@ mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:354>,
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:352>, isteel, <immersiveengineering:mold:0>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:353>, ielectrum, <immersiveengineering:mold:0>, 500);
 mods.immersiveengineering.MetalPress.addRecipe(<thermalfoundation:material:359>, ienderium, <immersiveengineering:mold:0>, 500);
-recipes.addShapeless(<ic2:plate:0>, [pbronze]);
-recipes.addShapeless(<ic2:plate:1>, [pcopper]);
-recipes.addShapeless(<ic2:plate:2>, [pgold]);
-recipes.addShapeless(<ic2:plate:3>, [piron]);
-recipes.addShapeless(<ic2:plate:5>, [plead]);
-recipes.addShapeless(<ic2:plate:7>, [psteel]);
-recipes.addShapeless(<ic2:plate:8>, [ptin]);
 
 
 ////////////////////////
