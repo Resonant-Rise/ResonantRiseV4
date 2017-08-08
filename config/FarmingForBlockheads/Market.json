@@ -31,5 +31,8 @@
   "custom entries": {
     "__comment": "You can define additional items to be sold by the Market here. Defaults can be overridden. Prefix with ! to blacklist instead.",
     "examplemod:example_item": "2*minecraft:emerald"
+      "tconstruct:slime_sapling": "2*minecraft:emerald",
+      "tconstruct:slime_sapling:1": "2*minecraft:emerald",
+      "tconstruct:slime_sapling:2": "2*minecraft:emerald"
   }
 }
