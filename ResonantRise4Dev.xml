@@ -316,7 +316,7 @@
                      />
 
                 <mod name="Shadowfacts&apos; Forgelin"
-                     version="1.5.0" url="packs/ResonantRise/files/4.x/Forgelin-1.5.0.jar" file="Forgelin-1.5.0.jar" md5="11ed600a3bc30c036fcb2a8a3acdb25a" download="server"
+                     version="1.5.1" url="packs/ResonantRise/files/4.x/Forgelin-1.5.1.jar" file="Forgelin-1.5.1.jar" md5="ef74a19cbe0a12bce15e0fca35419a3f" download="server"
                      type="mods"
                      website="http://www.curseforge.com/projects/shadowfacts-forgelin/"
                      authors="shadowfactsmc"
@@ -324,7 +324,7 @@
                      />
 
         <mod name="Brandon&apos;s Core"
-             version="1.10.2-2.1.9.113" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.9.113-universal.jar" file="BrandonsCore-1.10.2-2.1.9.113-universal.jar" md5="49c64b72f3d44bacb7b01cd7162deba4" download="server"
+             version="1.10.2-2.1.11.127" url="packs/ResonantRise/files/4.x/BrandonsCore-1.10.2-2.1.11.127-universal.jar" file="BrandonsCore-1.10.2-2.1.11.127-universal.jar" md5="af41b0f9f3f47d044e16cba977a52073" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/brandons-core"
              authors="brandon3055"
@@ -332,7 +332,7 @@
              />
 
             <mod name="Draconic Evolution"
-                 version="1.10.2-2.1.2.245" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.1.2.245-universal.jar" file="Draconic-Evolution-1.10.2-2.1.2.245-universal.jar" md5="c6418c1308e7ce4f36565e5f9161d9d5" download="server"
+                 version="1.10.2-2.1.5.262" url="packs/ResonantRise/files/4.x/Draconic-Evolution-1.10.2-2.1.5.262-universal.jar" file="Draconic-Evolution-1.10.2-2.1.5.262-universal.jar" md5="9150bf67e47c39326dae8761ccdd87ce" download="server"
                  type="mods"
                  website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
                  authors="brandon3055"
@@ -385,7 +385,7 @@
              />
 
             <mod name="CTM"
-                 version="MC1.10.2-0.2.0.19" url="packs/ResonantRise/files/4.x/CTM-MC1.10.2-0.2.0.19.jar" file="CTM-MC1.10.2-0.2.0.19.jar" md5="e03c28e491610358a06dd7ec0cc1ab56" download="server"
+                 version="MC1.10.2-0.2.1.21" url="packs/ResonantRise/files/4.x/CTM-MC1.10.2-0.2.1.21.jar" file="CTM-MC1.10.2-0.2.1.21.jar" md5="5440e8c9d3bafef36b02325b32673ac6" download="server"
                  type="mods"
                  website="https://minecraft.curseforge.com/projects/ctm"
                  authors="tterrag,Drullkus,minecreatr"
@@ -393,7 +393,7 @@
                  />
 
         <mod name="Chisels &amp; Bits"
-             version="12.14" url="packs/ResonantRise/files/4.x/chiselsandbits-12.14.jar" file="chiselsandbits-12.14.jar" md5="6c7ec0ccdd7a453b92bbffcf540c118e" download="server"
+             version="12.15" url="packs/ResonantRise/files/4.x/chiselsandbits-12.15.jar" file="chiselsandbits-12.15.jar" md5="fc3536ea44e8143fc93d8d603ee896b8" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/chisels-bits"
              authors="AlgorithmX2"
@@ -401,7 +401,7 @@
              />
 
             <mod name="Extra Bit Manipulation"
-                 version="2.3.4" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.3.4.jar" file="ExtraBitManipulation-1.10.2-2.3.4.jar" md5="8ba6aab859a926927cfcd60a76d1efe1" download="server"
+                 version="2.4.0" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.4.0.jar" file="ExtraBitManipulation-1.10.2-2.4.0.jar" md5="bfa9c6fb1bab2255979c9055086ba136" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/extra-bit-manipulation/"
                  authors="MolecularPhylo"
@@ -652,7 +652,7 @@
              />
 
         <mod name="Farming for Blockheads"
-             version="1.1.15" url="packs/ResonantRise/files/4.x/FarmingForBlockheads_1.10.2-1.1.15.jar" file="FarmingForBlockheads_1.10.2-1.1.15.jar" md5="66efe218f6541e584f4b0e8975a4a040" download="server"
+             version="1.1.16" url="packs/ResonantRise/files/4.x/FarmingForBlockheads_1.10.2-1.1.16.jar" file="FarmingForBlockheads_1.10.2-1.1.16.jar" md5="444dfe46c72620fd0375df2d1cf8665d" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/farming-for-blockheads/"
              authors="BlayTheNinth"
@@ -683,7 +683,7 @@
              />
 
         <mod name="Forestry"
-             version="5.2.17.379" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.379.jar" file="forestry_1.10.2-5.2.17.379.jar" md5="cf2f808f6dba0a59fefad721908d97b2" download="server"
+             version="5.2.17.383" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.383.jar" file="forestry_1.10.2-5.2.17.383.jar" md5="24b44d7a8e49c9f209b2ace34b380762" download="server"
              type="mods"
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
@@ -762,7 +762,7 @@
              />
 
             <mod name="Immersive Petroleum"
-                 version="1.1.2" url="packs/ResonantRise/files/4.x/immersivepetroleum-1.10.2-1.1.2.jar" file="immersivepetroleum-1.10.2-1.1.2.jar" md5="b4d2f4e4963830dd60cd808abaf2d7e4" download="server"
+                 version="1.1.3" url="packs/ResonantRise/files/4.x/immersivepetroleum-1.10.2-1.1.3.jar" file="immersivepetroleum-1.10.2-1.1.3.jar" md5="f48098ce2787be49d6befdeedcb3c108" download="server"
                  type="mods"
                  website="https://github.com/Flaxbeard/ImmersivePetroleum"
                  authors="Flaxbeard"
@@ -770,7 +770,7 @@
                  />
 
         <mod name="IndustrialCraft 2"
-             version="2.6.245-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.245-ex110.jar" file="industrialcraft-2-2.6.245-ex110.jar" md5="0317fb526f1219ee9b702e6d1225ac1a" download="server"
+             version="2.6.252-ex110" url="packs/ResonantRise/files/4.x/industrialcraft-2-2.6.252-ex110.jar" file="industrialcraft-2-2.6.252-ex110.jar" md5="d9a53327daed811d842486a8aeeca68b" download="server"
              type="mods"
              website="http://www.industrial-craft.net"
              authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44,Aroma1997,estebes,Chocohead"
@@ -811,7 +811,7 @@
              />
 
         <mod name="Iron Backpacks"
-             version="1.10.2-2.2.28" url="packs/ResonantRise/files/4.x/IronBackpacks-1.10.2-2.2.28.jar" file="IronBackpacks-1.10.2-2.2.28.jar" md5="a14e02afabafa48d498a58b3a12baf5e" download="server"
+             version="1.10.2-2.2.31" url="packs/ResonantRise/files/4.x/IronBackpacks-1.10.2-2.2.31.jar" file="IronBackpacks-1.10.2-2.2.31.jar" md5="871341bc7b1ec766b5939709a3b9c3ca" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/227049/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/iron-backpacks?gameCategorySlug=mc-mods&amp;projectID=227049&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=xwason%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
              authors="gr8pefish"
@@ -977,7 +977,7 @@
                  />
 
             <mod name="Tinker I/O"
-                 version="1.10.2-release 2.4.4" url="packs/ResonantRise/files/4.x/tinker_io-1.10.2-release 2.4.4.jar" file="tinker_io-1.10.2-release 2.4.4.jar" md5="31137ca6ab94ce7108e3450167be5b85" download="server"
+                 version="1.10.2-release 2.4.4a" url="packs/ResonantRise/files/4.x/tinker_io-1.10.2-release 2.4.4a.jar" file="tinker_io-1.10.2-release 2.4.4a.jar" md5="eba185b591cd875dcaaa28ba2e49952b" download="server"
                  type="mods"
                  website="http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/tinker-i-o?gameCategorySlug=mc-mods&amp;projectID=229503&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gkbm2013%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
                  authors="GKB,tokomikea"
@@ -993,7 +993,7 @@
                  />
 
             <mod name="Natura"
-                 version="1.10.2-4.1.0.73" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.73.jar" file="natura-1.10.2-4.1.0.73.jar" md5="ed5294ea47eae92271feecbbea8fcc4c" download="server"
+                 version="1.10.2-4.1.0.77" url="packs/ResonantRise/files/4.x/natura-1.10.2-4.1.0.77.jar" file="natura-1.10.2-4.1.0.77.jar" md5="f145c2ceaea89d0f35c431ecc42f709c" download="server"
                  type="mods"
                  website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura"
                  authors="mDiyo, Slime Knights"
@@ -1097,21 +1097,21 @@
                  />
 
         <mod name="Mekanism"
-             version="9.2.2" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.2-final-fix.jar" file="Mekanism-1.10.2-9.2.2-final-fix.jar" md5="3cf35fdeba0aecac6bccb9c01f9cd0f1" download="server"
+             version="9.2.3" url="packs/ResonantRise/files/4.x/Mekanism-1.10.2-9.2.3.97.jar" file="Mekanism-1.10.2-9.2.3.97.jar" md5="fb71822dbc7ec07b75ccb6561ec9932a" download="server"
              type="mods"
              website="https://aidancbrady.com/mekanism/download/" authors="aidancbrady"
              description="Energy, Armor, Tools, Weapons, Machines, Magic."
              />
 
             <mod name="MekanismTools"
-                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.2-final-fix.jar" file="MekanismTools-1.10.2-9.2.2-final-fix.jar" md5="f96071fc5359f0ee0d9bdf035c1bd646" download="server"
+                 version="9.2.3" url="packs/ResonantRise/files/4.x/MekanismTools-1.10.2-9.2.3.97.jar" file="MekanismTools-1.10.2-9.2.3.97.jar" md5="040aa3b9d072edb0ed569cd6fc28cf7f" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady" description="Tools module for Mekanism."
                  />
 
             <mod name="MekanismGenerators"
-                 version="9.2.2" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.2-final-fix.jar" file="MekanismGenerators-1.10.2-9.2.2-final-fix.jar" md5="61c544b6b36513c1f3710e1230a4f55b" download="server"
+                 version="9.2.3" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.10.2-9.2.3.97.jar" file="MekanismGenerators-1.10.2-9.2.3.97.jar" md5="a613f782e840dbbd5fb650f6c6c61546" download="server"
                  type="mods"
                  website="https://aidancbrady.com/mekanism/download/"
                  authors="aidancbrady"
@@ -1671,7 +1671,7 @@
              />
 
         <mod name="Tiny Progressions"
-             version="1.10.2-1.2.3" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.2.3.jar" file="tinyprogressions-1.10.2-1.2.3.jar" md5="e6962213015cfaeaa71da2291f15c6d1" download="server"
+             version="1.10.2-1.2.3a" url="packs/ResonantRise/files/4.x/tinyprogressions-1.10.2-1.2.3a.jar" file="tinyprogressions-1.10.2-1.2.3a.jar" md5="72fb7db95d51067fedbf5822968352d3" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/tiny-progressions" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tiny-progressions?gameCategorySlug=mc-mods&amp;projectID=250850&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kashdeya%40outlook.com&amp;bn=PP-DonationsBF:btn_dona"
              authors="Kashdeya,Darkosto,GenDeathrow"
@@ -1870,7 +1870,7 @@
              />
 
         <mod name="Recurrent Complex"
-             version="1.4.4-1.10" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.4.4-1.10.jar" file="RecurrentComplex-1.4.4-1.10.jar" md5="7ba9cd7d8ba401df94b729b7104d6966" download="server"
+             version="1.4.5-1.10" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.4.5-1.10.jar" file="RecurrentComplex-1.4.5-1.10.jar" md5="6c14ae5b38727ab991930991e588e4e7" download="server"
              type="mods" optional="yes"
              website="http://www.curseforge.com/projects/223150/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&amp;projectID=223150&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_d"
              authors="Ivorius"
@@ -1905,7 +1905,7 @@
              />
 
         <mod name="BetterMinecraftChat"
-             version="4.1.6" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.6.jar" file="BetterMinecraftChat_1.10.2-4.1.6.jar" md5="afda04e360fb4d43fef9ea06f48e0dc7" download="server"
+             version="4.1.10" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.10.jar" file="BetterMinecraftChat_1.10.2-4.1.10.jar" md5="7030aabe4c768055fb1e2f5a51575dea" download="server"
              type="mods" optional="yes" server="no"
              website="http://www.curseforge.com/projects/243506/"
              authors="BlayTheNinth"
@@ -2011,7 +2011,7 @@
              />
 
         <mod name="TickProfiler"
-             version="1.10.2-jenkins.57" url="packs/ResonantRise/files/4.x/TickProfiler-1.10.2-jenkins.57.jar" file="TickProfiler-1.10.2-jenkins.57.jar" md5="d33bb9b881d7699aedc9a635cb23ff4e" download="server"
+             version="1.10.2-jenkins.58" url="packs/ResonantRise/files/4.x/TickProfiler-1.10.2-jenkins.58.jar" file="TickProfiler-1.10.2-jenkins.58.jar" md5="e71ced86224ca47eb01154bf54c53984" download="server"
              type="mods" client="no" optional="yes"
              website="http://nallar.me/minecraft/"
              authors="nallar"
