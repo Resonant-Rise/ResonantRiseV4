@@ -401,7 +401,7 @@
              />
 
             <mod name="Extra Bit Manipulation"
-                 version="2.4.0" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.4.0.jar" file="ExtraBitManipulation-1.10.2-2.4.0.jar" md5="bfa9c6fb1bab2255979c9055086ba136" download="server"
+                 version="2.4.1" url="packs/ResonantRise/files/4.x/ExtraBitManipulation-1.10.2-2.4.1.jar" file="ExtraBitManipulation-1.10.2-2.4.1.jar" md5="d12e99a15f4293f489c1f4fe07a7ec2c" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/extra-bit-manipulation/"
                  authors="MolecularPhylo"
@@ -644,7 +644,7 @@
              />
 
         <mod name="Extra Utilities 2"
-             version="1.5.1" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.5.1.jar" file="extrautils2-1.10.2-1.5.1.jar" md5="a5338f6675fe73743a48f4b543e4a0b4" download="server"
+             version="1.5.2" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.5.2.jar" file="extrautils2-1.10.2-1.5.2.jar" md5="ee1faf04f796263ec770377134a3b408" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225561/"
              authors="RWTema"
@@ -683,7 +683,7 @@
              />
 
         <mod name="Forestry"
-             version="5.2.17.383" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.383.jar" file="forestry_1.10.2-5.2.17.383.jar" md5="24b44d7a8e49c9f209b2ace34b380762" download="server"
+             version="5.2.17.385" url="packs/ResonantRise/files/4.x/forestry_1.10.2-5.2.17.385.jar" file="forestry_1.10.2-5.2.17.385.jar" md5="53c7590d7b36df713b86f5df95821a38" download="server"
              type="mods"
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
@@ -1057,7 +1057,7 @@
                  />
 
             <mod name="XNet"
-                 version="1.3.2" url="packs/ResonantRise/files/4.x/xnet-1.3.2.jar" file="xnet-1.3.2.jar" md5="188f0f67956381fdab94242870423470" download="server"
+                 version="1.4.0" url="packs/ResonantRise/files/4.x/xnet-1.4.0.jar" file="xnet-1.4.0.jar" md5="7ccb1bc3aaec78f9685c99aa5cf477c7" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/xnet/"
                  authors="McJty"
@@ -1251,7 +1251,7 @@
              />
 
         <mod name="NetherPortalFix"
-             version="3.3.4" url="packs/ResonantRise/files/4.x/NetherPortalFix_1.10.2-3.3.4.jar" file="NetherPortalFix_1.10.2-3.3.4.jar" md5="8e1884478bd123fe033bfe320d4ccca6" download="server"
+             version="3.3.5" url="packs/ResonantRise/files/4.x/NetherPortalFix_1.10.2-3.3.5.jar" file="NetherPortalFix_1.10.2-3.3.5.jar" md5="ee964428c9eb9120b6a4dd420b03cb6b" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/241160/"
              authors="Blay09"
@@ -1277,7 +1277,7 @@
 -->
 
         <mod name="OMLib"
-             version="3.0.0-119" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-119.jar" file="omlib-1.10.2-3.0.0-119.jar" md5="749f25fe26e0dab52e97242f39699056" download="server"
+             version="3.0.0-126" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-126.jar" file="omlib-1.10.2-3.0.0-126.jar" md5="f05a4ef10337f8d478a660b6716aa4fe" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/omlib"
              authors="Poenjabiesous,Keridos"
@@ -1285,7 +1285,7 @@
              />
 
             <mod name="Open Modular Turrets"
-                 version="3.0.0-196" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-196.jar" file="openmodularturrets-1.10.2-3.0.0-196.jar" md5="771d00f1c549edb1aea6fea1154ed560" download="server"
+                 version="3.0.0-210" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-210.jar" file="openmodularturrets-1.10.2-3.0.0-210.jar" md5="9fdf76f542931093d5a61d52adaaa40d" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224663/"
                  authors="Poenjabiesous,UntouchedWagons,Keridos"
@@ -1317,7 +1317,7 @@
              />
 
         <mod name="OreExcavation"
-             version="1.2.98" url="packs/ResonantRise/files/4.x/OreExcavation-1.2.98.jar" file="OreExcavation-1.2.98.jar" md5="2b1b4c0102637745e163f35ed63e0b5c" download="server"
+             version="1.2.102" url="packs/ResonantRise/files/4.x/OreExcavation-1.2.102.jar" file="OreExcavation-1.2.102.jar" md5="d3d453e5a2c3e398f7fa5db962986eb4" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/250898/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ore-excavation?gameCategorySlug=mc-mods&amp;projectID=250898&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="Funwayguy,Darkosto"
@@ -1505,7 +1505,7 @@
 -->
 
         <mod name="Scannable"
-             version="1.4.1.23" url="packs/ResonantRise/files/4.x/Scannable-MC1.10.2-1.4.1.23.jar" file="Scannable-MC1.10.2-1.4.1.23.jar" md5="ff5426ee8a1e171314bac9b7f3dcdecb" download="server"
+             version="1.5.0.24" url="packs/ResonantRise/files/4.x/Scannable-MC1.10.2-1.5.0.24.jar" file="Scannable-MC1.10.2-1.5.0.24.jar" md5="d0a5536ae0bfecdfa86eb682167e8b10" download="server"
              type="mods"
              website="https://github.com/MightyPirates/Scannable"
              authors="Sangar"
@@ -1928,8 +1928,8 @@
              description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
              />
 
-        <mod name="ItemPhysic"
-             version="1.3" url="packs/ResonantRise/files/4.x/ItemPhysic Lite 1.3.4 mc1.10.2.jar" file="ItemPhysic Lite 1.3.4 mc1.10.2.jar" md5="1347ef9a83a94899783ecedf0c3f7683" download="server"
+        <mod name="ItemPhysic Lite"
+             version="1.3" url="packs/ResonantRise/files/4.x/ItemPhysic Lite 1.3.6 mc1.10.2.jar" file="ItemPhysic Lite 1.3.6 mc1.10.2.jar" md5="598c13a483bab25b0e66fdcde96f2f80" download="server"
              type="mods" optional="yes" server="no"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336"
              authors="CreativeMD"
