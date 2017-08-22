@@ -135,7 +135,6 @@ recipes.addShaped(reinforcedobsidian, [[ironbars, obsidian, ironbars], [obsidian
 //Draconium Ore Conversion
 recipes.addShaped(odraconium, [[oedraconium]]);
 recipes.addShaped(odraconium, [[ondraconium]]);
-recipes.addShaped(pbronze, [[icbronze]]);
 
 ////////////////////////
 // Plate Unification
