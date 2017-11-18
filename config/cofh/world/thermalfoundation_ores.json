@@ -183,7 +183,64 @@
 					-1,
 					1
 				]
+
 			}
-		}
+		},
+
+        "aluminum": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 4
+                },
+                "material": "minecraft:stone",
+                "cluster-size": 6
+            },
+            "cluster-count": 6,
+            "min-height": 5,
+            "max-height": 64,
+            "retrogen": "true",
+            "biome": "all",
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        },
+
+        "aluminum_ocean": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 4
+                },
+                "material": "minecraft:stone",
+                "cluster-size": 6
+            },
+            "cluster-count": 6,
+            "min-height": 20,
+            "max-height": 55,
+            "retrogen": "true",
+            "biome": {
+                "restriction": "whitelist",
+                "value": [
+                    {
+                        "type": "dictionary",
+                        "entry": "OCEAN"
+                    }
+                ]
+            },
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        },
 	}
 }
