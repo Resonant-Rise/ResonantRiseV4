@@ -644,7 +644,7 @@
              />
 
         <mod name="Extra Utilities 2"
-             version="1.6.7" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.6.7.jar" file="extrautils2-1.10.2-1.6.7.jar" md5="a024a8945644b8d1e2c22f701222ddbc" download="server"
+             version="1.6.8" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.6.8.jar" file="extrautils2-1.10.2-1.6.8.jar" md5="94e4af5aee20db34e35c4a73d4029e96" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225561/"
              authors="RWTema"
@@ -1001,7 +1001,7 @@
                  />
 
         <mod name="McJtyLib"
-             version="1.1x-2.4.5-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.4.5.jar" file="mcjtylib-1.1x-2.4.5.jar" md5="4e6cd9ca01c53ba977270d9ae3ee0f9e" download="server"
+             version="1.1x-2.5.0-SNAPSHOT" url="packs/ResonantRise/files/4.x/mcjtylib-1.1x-2.5.0.jar" file="mcjtylib-1.1x-2.5.0.jar" md5="b3a1de8f2adfb11cc18f73dda9f25442" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/233105/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donate"
              authors="McJty"
@@ -1025,7 +1025,7 @@
                  />
 
             <mod name="RFTools"
-                 version="1.1x-7.13" url="packs/ResonantRise/files/4.x/rftools-1.1x-7.13.jar" file="rftools-1.1x-7.13.jar" md5="06611052c85a421b984f7b7f66c090d8" download="server"
+                 version="1.1x-7.14" url="packs/ResonantRise/files/4.x/rftools-1.1x-7.14.jar" file="rftools-1.1x-7.14.jar" md5="19d9841a571b3b94bf82797857d53c28" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
                  authors="McJty"
@@ -1041,7 +1041,7 @@
                  />
 
             <mod name="RFTools Control"
-                 version="1.1x-1.6.8" url="packs/ResonantRise/files/4.x/rftoolsctrl-1.1x-1.6.8.jar" file="rftoolsctrl-1.1x-1.6.8.jar" md5="f3130b802a94e0964a8eabbf39d61f8f" download="server"
+                 version="1.1x-1.7.0" url="packs/ResonantRise/files/4.x/rftoolsctrl-1.1x-1.7.0.jar" file="rftoolsctrl-1.1x-1.7.0.jar" md5="188ba32282dbc36c2c1ffa1a24f26cc9" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/250763/"
                  authors="McJty"
@@ -1285,7 +1285,7 @@
              />
 
             <mod name="Open Modular Turrets"
-                 version="3.0.0-220" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-220.jar" file="openmodularturrets-1.10.2-3.0.0-220.jar" md5="035495d6ac0de88b278c11a7b9ed2ffd" download="server"
+                 version="3.0.0-223" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-223.jar" file="openmodularturrets-1.10.2-3.0.0-223.jar" md5="52a46a4bef02b4ec6a404378df8cc613" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224663/"
                  authors="Poenjabiesous,UntouchedWagons,Keridos"
