@@ -1,6 +1,5 @@
 <version>
     <pack>
-<<<<<<< HEAD
         <version>4.3.0.3-b</version>
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
@@ -29,7 +28,6 @@
         <library url="packs/ResonantRise/files/forgelibs/12.18.3.2511/vecmath-1.5.2.jar" download="server" file="vecmath-1.5.2.jar" md5="e5d2b7f46c4800a32f62ce75676a5710" server="java3d/vecmath/1.5.2/vecmath-1.5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/12.18.3.2511/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
     </libraries>
-=======
         <version>a.0.2.0</version>
         <minecraft>1.9</minecraft>
         <memory>2560</memory>
@@ -63,7 +61,6 @@
 
 
 
->>>>>>> origin/1.12.2
 
 
 
@@ -149,20 +146,17 @@
              />
 
         <mod
-<<<<<<< HEAD
              name="Forge"
              version="12.18.3.2511" url="packs/ResonantRise/files/4.x/forge-1.10.2-12.18.3.2511-universal.jar" file="forge-1.10.2-12.18.3.2511-universal.jar" md5="a207d4abaf85a50aaa513411e0760757" download="server"
              type="forge"
              website="http://files.minecraftforge.net/"
              description="Minecraft Forge"
-=======
              name="=== Forge ==="
              version="12.16.1.1907" url="packs/ResonantRise/files/4.x/forge-1.9-12.16.1.1907-universal.jar" file="forge-1.9-12.16.1.1907-universal.jar" md5="41c7a63a43f39aff4df068110f7b122a" download="server"
              type="forge"
              authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw"
              website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2"
              description="The backbone of modded Minecraft."
->>>>>>> origin/1.12.2
              />
 
 
@@ -170,19 +164,18 @@
 
 <!-- Dependencies -->
         
-<<<<<<< HEAD
-        <!-- <mod name="=== Dependencies ===" version="1.0"
-=======
+
+        <!-- <mod name="=== Dependencies ===" version="1.0">
+
         <mod
              name="=== Dependencies ===" version="1.0"
->>>>>>> origin/1.12.2
+            origin/1.12.2
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
-<<<<<<< HEAD
              description="Dependency Mods List."
-             /> -->
+             /> --->
 
 <!-- Ends Dependencies -->
 
@@ -190,18 +183,11 @@
         
 
         <mod name="=== Core ===" version="1.0"
-=======
+
              description="Client Only Mods."
              />
 
-        <mod
-             name="Baubles" version="1.9-1.2.0.2"
-             url="packs/ResonantRise/files/4.x/Baubles-1.9-1.2.0.2.jar" file="Baubles-1.9-1.2.0.2.jar" md5="9ca47a1c2b99d83fd5e993c72b50576d" download="server"
-             type="dependency"
-             website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
-             authors="Azanor"
-             description="Adding a touch of bling to Minecraft"
-             />
+
 
 <!-- Core Mods -->
 
@@ -256,293 +242,27 @@
 
 <!-- Client / Server Mods -->
 
-        <mod name="=== Client Mods ===" version="1.0"
-=======
-        <mod
-             name="Substratum"
-             version="1.3.0.0" url="packs/ResonantRise/files/4.x/Substratum-1.9-1.3.0.0.jar" file="Substratum-1.9-1.3.0.0.jar" md5="2807340d0287f9e94290ac74500784c8" download="server"
-             type="mods"
-             website="https://github.com/EXTER7/Substratum"
-             authors="EXTER"
-             description="Base resources and crafting materials."
-             />
+        <mod name="=== Client Mods ===" version="1.0">
 
-        <mod
-             name="Super Crafting Frame"
-             version="1.1.2.50" url="packs/ResonantRise/files/4.x/supercraftingframe-1.9-1.1.2.50.jar" file="supercraftingframe-1.9-1.1.2.50.jar" md5="bb69aa4ae7370b4a16b3bd3f1000cb59" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/73926/"
-             authors="EdgarAllen"
-             description="An item frame that can craft items when punched."
-             />
-
-        <mod
-             name="Tinkers&apos; Construct"
-             version="1.9-2.2.2" url="packs/ResonantRise/files/4.x/TConstruct-1.9-2.2.2.jar" file="TConstruct-1.9-2.2.2.jar" md5="aeb9973d889f5cbc7d43cceddcbd4399" download="server"
-             type="mods"
-             website="https://github.com/SlimeKnights/TinkersConstruct"
-             authors="boni"
-             description="A little of this, a little of that, a lot of tinkering, and a lot of tools"
-             />
-
-        <mod
-             name="TechReborn"
-             version="1.1.2.278" url="packs/ResonantRise/files/4.x/TechReborn-1.9-1.1.2.278-universal.jar" file="TechReborn-1.9-1.1.2.278-universal.jar" md5="5aaa661ef78e1fbe70e53f0a557f5e09" download="server"
-             type="mods"
-             website="https://github.com/TechReborn/TechReborn"
-             authors="modmuss50,Gigabit101,tntrololol,joflashstudios,Prospector"
-             description="TechReborn, The Gregtech revival you dream about on a cool mid summer&apos;s eve."
-             />
-
-        <mod
-             name="TrashCans"
-             version="2.0.2" url="packs/ResonantRise/files/4.x/Trashcans-1.9-2.0.2.jar" file="Trashcans-1.9-2.0.2.jar" md5="c8b96e4f2c15eda2d420e342e0475763" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/241628/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/trashcans?gameCategorySlug=mc-mods&amp;projectID=241628&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_L"
-             authors="Gigabit101"
-             description="Adds trashcans to minecraft 1.8.9/1.9"
-             />
-
-        <mod
-             name="TrashSlot"
-             version="3.0.4" url="packs/ResonantRise/files/4.x/trashslot-mc1.9-3.0.4.jar" file="trashslot-mc1.9-3.0.4.jar" md5="eea75c417857c404b868bf8ce2bd2198" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/235577/"
-             authors="BlayTheNinth"
-             description="Adds a trash slot to the inventory screen that allows deletion of unwanted items."
-             />
-
-        <mod
-             name="Waila"
-             version="1.7.0-B2" url="packs/ResonantRise/files/4.x/Waila-1.7.0-B2_1.9.jar" file="Waila-1.7.0-B2_1.9.jar" md5="45c66ad8353b0944f4ce880c449f1fe9" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/73488/"
-             authors="ProfMobius"
-             description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame."
-             />
-
-        <mod
-             name="WAILA-features"
-             version="0.3.1.6" url="packs/ResonantRise/files/4.x/WAILA-features-1.9-0.3.1.6.jar" file="WAILA-features-1.9-0.3.1.6.jar" md5="07ea6e584848ac800d7e5e05cac28bf9" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/229625/"
-             authors="way2muchnoise"
-             description="Adds some extra features to WAILA"
-             />
-
-        <mod
-             name="Waila Harvestability"
-             version="1.1.7" url="packs/ResonantRise/files/4.x/WailaHarvestability-mc1.9-1.1.7.jar" file="WailaHarvestability-mc1.9-1.1.7.jar" md5="f78908b2af880073cdf87238fada2c65" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/79287/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/waila-harvestability?gameCategorySlug=mc-mods&amp;projectID=79287&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=squeek502%40hotmail.com&amp;bn=PP-DonationsBF:btn_do"
-             authors="squeek"
-             description="An add-on for Waila that adds information about the harvestability of what you are looking at"
-             />
-
-        <mod
-             name="What Are We Looking At"
-             version="1.9-2.2.0.186" url="packs/ResonantRise/files/4.x/Wawla-1.9-2.2.0.186.jar" file="Wawla-1.9-2.2.0.186.jar" md5="24c41a3c8a2c4913f3a417aae21c9970" download="server"
-             type="mods"
-             website="http://www.darkhax.net/wawla.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at?gameCategorySlug=mc-mods&amp;projectID=224712&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:bt"
-             authors="Darkhax"
-             description="Greatly expands upon the amount of information provided by the Waila HUD, along with bridging support between Waila and many other minecraft mods!"
-             />
-
-        <mod
-             name="Woot"
-             version="1.9-0.6.1-beta" url="packs/ResonantRise/files/4.x/woot-1.9-0.6.1-beta.jar" file="woot-1.9-0.6.1-beta.jar" md5="ddcc62590e8f376cc277e841b64a0c05" download="server"
-             type="mods"
-             website="http://www.github.com/ipsis/Woot/"
-             authors="Ipsis"
-             description="The alternative mob spawner/grinder system"
-             />
 
 
 
         <!-- Client Mods -->
 
-        <mod
-             name="=== Client Mod ===" version="1.0"
->>>>>>> origin/1.12.2
-             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="lite"
-             website="http://resonant-rise.com"
-             authors="RR Dev Team"
-             description="Client Only Mod List."
-             />
-<<<<<<< HEAD
-
-        <mod name="BetterMinecraftChat"
-             version="4.1.10" url="packs/ResonantRise/files/4.x/BetterMinecraftChat_1.10.2-4.1.10.jar" file="BetterMinecraftChat_1.10.2-4.1.10.jar" md5="7030aabe4c768055fb1e2f5a51575dea" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.curseforge.com/projects/243506/"
-             authors="BlayTheNinth"
-             description="Emoticons, Image Preview, Tabs and Filters. Client-side only."
-             />
-
-        <mod name="BetterFps"
-             version="1.4.5" url="packs/ResonantRise/files/4.x/BetterFps-1.4.5-1.10.jar" file="BetterFps-1.4.5-1.10.jar" md5="c416fd4dddebb0442691a56724b14b67" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.curseforge.com/projects/229876/"
-             authors="Guichaguri"
-             description="Performance Improvement"
-             />
-
-        <mod name="Crafting Tweaks"
-             version="6.1.16" url="packs/ResonantRise/files/4.x/CraftingTweaks_1.10.2-6.1.16.jar" file="CraftingTweaks_1.10.2-6.1.16.jar" md5="13486f1cc663e47c9e040bd715401111" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://balyware.com"
-             authors="BlayTheNinth"
-             description="Allows you to rotate or clear the crafting matrix by the press of a button, in any (supported) crafting window."
-             />
-
-        <mod name="ItemPhysic Lite"
-             version="1.3" url="packs/ResonantRise/files/4.x/ItemPhysic Lite 1.3.6 mc1.10.2.jar" file="ItemPhysic Lite 1.3.6 mc1.10.2.jar" md5="598c13a483bab25b0e66fdcde96f2f80" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336"
-             authors="CreativeMD"
-             description="New item animation! Better physics!"
-             />
-
-        <mod name="Item Scroller"
-             version="0.11.0" url="packs/ResonantRise/files/4.x/itemscroller-1.10.2-0.11.0.jar" file="itemscroller-1.10.2-0.11.0.jar" md5="84824e9d76f8809e78b851cc3710dbb9" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://minecraft.curseforge.com/projects/item-scroller" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/item-scroller?gameCategorySlug=mc-mods&amp;projectID=242064&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=matti.j.ruohonen%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
-             authors="masa"
-             description="Move items in inventory GUIs by scrolling the mouse wheel over slots with items in them"
-             />
-
-        <mod name="JourneyMap"
-             version="5.4.7" url="https://minecraft.curseforge.com/projects/journeymap/files/2435300/download" file="journeymap-1.10.2-5.4.7.jar" md5="b7dd70d00d621df73420a17e5613e494" download="direct"
-             type="mods" optional="yes" server="no"
-             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
-             authors="techbrew,mysticdrew"
-             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
-             />
-
-        <mod name="MapWriter"
-             version="2.6.19" url="packs/ResonantRise/files/4.x/MapWriter-1.10.2-2.6.19.jar" file="MapWriter-1.10.2-2.6.19.jar" md5="403e2ebc649f47e388f3c817c46351f9" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2523556-mapwriter-continued-an-open-source-mini-map"
-             authors="mapwriter"
-             description="An open source mini map mod"
-             />
-
-        <mod name="Mouse Tweaks"
-             version="2.8" url="packs/ResonantRise/files/4.x/MouseTweaks-2.8-mc1.10.2.jar" file="MouseTweaks-2.8-mc1.10.2.jar" md5="3091db9b88a860786f8f637740996919" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
-=======
-
-        <mod
-             name="=== Server Mod ===" version="1.0"
-             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" client="no"
-             website="http://resonant-rise.com"
-             authors="RR Dev Team"
-             description="Client Only Mods."
-             />
-
-        <mod
-             name="Baubles-Hud"
-             version="2.3.0" url="packs/ResonantRise/files/4.x/BaublesHud-1.9-2.3.0.jar" file="BaublesHud-1.9-2.3.0.jar" md5="159113fd778165958fc0b53e621b940e" download="server"
-             type="mods" server="no" optional="yes"
-             website="http://www.curseforge.com/projects/230751/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubleshud?gameCategorySlug=mc-mods&amp;projectID=230751&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_"
-             authors="Gigabit101"
-             description="Adds a hud view of all the Baubles currently equipped"
-             />
-
-        <mod
-             name="Mouse Tweaks"
-             version="2.6.2" url="packs/ResonantRise/files/4.x/MouseTweaks-2.6.2-mc1.9.jar" file="MouseTweaks-2.6.2-mc1.9.jar" md5="5da85870fe46b7fcea89275682522005" download="server"
-             type="mods" server="no" optional="yes"
-             website="http://www.minecraftforum.net/topic/1518185-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/mouse-tweaks?gameCategorySlug=mc-mods&amp;projectID=60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
->>>>>>> origin/1.12.2
-             authors="YaLTeR"
-             description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
-             />
-
-<<<<<<< HEAD
-        <mod name="Schematica"
-             version="1.7.8.153" url="packs/ResonantRise/files/4.x/Schematica-1.10.2-1.7.8.153-universal.jar" file="Schematica-1.10.2-1.7.8.153-universal.jar" md5="6524bd7464b40b961b4c2ce14b8824bf" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://mc.lunatri.us/"
-             authors="Lunatrius"
-             description="Import and export Minecraft schematic files in Minecraft!"
-             />
-
-        <mod name="Surge"
-             version="1.10.2-1.1.0.68" url="packs/ResonantRise/files/4.x/Surge-1.10.2-1.1.0.68.jar" file="Surge-1.10.2-1.1.0.68.jar" md5="209914749a6a488d30055a8965de766b" download="server"
-             type="mods" optional="yes" server="no"
-             website="http://www.curseforge.com/projects/250290/"
-             authors="Darkhax,lclc98"
-             description="A tweak mod that improves Minecraft performance and stability."
-             />
-        
-<!--
-        <mod name="Thump"
-             version="1.10.2-4.3.0.12" url="packs/ResonantRise/files/4.x/Thump-1.10.2-4.3.0.12.jar" file="Thump-1.10.2-4.3.0.12.jar" md5="ec2b627d7e21e52266c8387752cd96bd" download="server"
-             type="mods"
-             website="http://minecraft.curseforge.com/mc-mods/231124-thump"
-             authors="carrot"
-             description="A simple, highly configurable Minecraft chat multiplexer with built in IRC support"
-             />
-
-            <mod name="Thumpcord"
-                 version="1.10.2-0.0.2.3" url="packs/ResonantRise/files/4.x/Thumpcord-1.10.2-0.0.2.3.jar" file="Thumpcord-1.10.2-0.0.2.3.jar" md5="76bf8989ab28965b34c4b4156f6298fd" download="server"
-                 type="mods"
-                 website="http://www.curseforge.com/projects/thumpcord/"
-                 authors="Arkan"
-                 description="Thump Discord adapter."
-                 />
--->
-
-        <mod name="=== Server Mods ===" version="1.0"
-             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" client="no" colour="lite"
-             website="http://resonant-rise.com"
-             authors="RR Dev Team"
-             description="Server Only Mod List."
-             />
-
-        <mod name="TickProfiler"
-             version="1.10.2-jenkins.59" url="packs/ResonantRise/files/4.x/TickProfiler-1.10.2-jenkins.59.jar" file="TickProfiler-1.10.2-jenkins.59.jar" md5="b4bf542d295a25ec9daa6051577bb5e6" download="server"
-             type="mods" client="no" optional="yes"
-             website="http://nallar.me/minecraft/"
-             authors="nallar"
-             description="A small mod for servers to assist with finding which TileEntities(machines) and Entities are being slow."
-             />
 
 
 
 
         <!--Server Only List:
-            Better FPS
-            Crafting Tweaks
-            Item Scroller
-            Journeymap
-            Mapwriter
-            Schematica
-            Surge
-            Tick Profiler
 
         -->
 
 <!-- End Client / Server Mods -->
         
 <!-- Dev Only -->
-=======
-        <mod
-             name="Vein Miner"
-             version="0.31.5" url="packs/ResonantRise/files/4.x/VeinMiner-1.9_0.31.5.forgePost18010.jar" file="VeinMiner-1.9_0.31.5.forgePost18010.jar" md5="f2c0c0e48bdfd620f0d27cecbd7defbd" download="server"
-             type="mods" optional="yes"
-             website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L"
-             authors="portablejim"
-             description="When a configured block is harvested a chain reaction is initiated to break connected blocks of the same type. Takes durability and health for each block mined."
-             />
+
 
         <!-- Dev Only -->
->>>>>>> origin/1.12.2
         
         <mod
              name="=== Dev Only ===" version="1.0"
@@ -554,17 +274,7 @@
              />
 
 
-<<<<<<< HEAD
-        <!-- Developer Tool List:
-
-        -->
 
 <!-- End Dev Only -->
 
 <!-- End Mods -->
-
-=======
->>>>>>> origin/1.12.2
-    </mods>
-        
-</version>
