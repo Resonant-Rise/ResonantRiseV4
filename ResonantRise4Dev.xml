@@ -132,7 +132,7 @@
 
 <!-- Client Mods -->
 
-        <mod name="=== Client Mods ===" version="1.0">
+<!--        <mod name="=== Client Mods ===" version="1.0"/>-->
 
         <mod name="Controlling" version="3.0.5" url="packs/ResonantRise/files/5.x/Controlling-3.0.5.jar" file="Controlling-3.0.5.jar" md5="8ed0b0ab1a353d48976a50ca6dbff7d7" download="server" type="mods" server="no" website="http://www.curseforge.com/projects/controlling/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;lc=US&amp;item_name=Controlling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Jaredlll08" description="Gives people more Control of the key binding screen." />
 
@@ -154,9 +154,9 @@
 <!-- Ends Client Mods -->
 
 <!-- Core Mods -->
-        
 
-        <mod name="Core" version="1.0" description="Client Only Mods." />
+
+<!--        <mod name="Core" version="1.0" description="Client Only Mods."/>-->
 
         <mod name="Actually Additions" version="r128" url="packs/ResonantRise/files/5.x/ActuallyAdditions-1.12.2-r128.jar" file="ActuallyAdditions-1.12.2-r128.jar" md5="25f33dbe24d11d132db0f28b5670b36d" download="server" type="mods" website="http://github.com/Ellpeck/ActuallyAdditions" authors="Ellpeck" description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!" />
 
