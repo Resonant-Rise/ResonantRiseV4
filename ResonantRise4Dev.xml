@@ -463,9 +463,9 @@
              description="Optional Mod List."
              />
 
-        <mod name="The Lost Cities" version="1.12-1.0.2" url="packs/ResonantRise/files/5.x/lostcities-1.12-1.0.2.jar" file="lostcities-1.12-1.0.2.jar" md5="dead969daf57d6157dba3989a5b6778f" download="server" type="mods" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
+        <mod name="The Lost Cities" version="1.12-1.0.2" url="packs/ResonantRise/files/5.x/lostcities-1.12-1.0.2.jar" file="lostcities-1.12-1.0.2.jar" md5="dead969daf57d6157dba3989a5b6778f" download="server" type="mods" optional="yes" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
 
-        <mod name="Lost Souls" version="1.12-1.1.2" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.2.jar" file="lostsouls-1.12-1.1.2.jar" md5="cda341be97ce0d5c8a27b99ebe21dca7" download="server" type="mods" website="http://www.curseforge.com/projects/lost-souls/" authors="McJty" description="Lost Soul addon mod for The Lost Cities" />
+        <mod name="Lost Souls" version="1.12-1.1.2" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.2.jar" file="lostsouls-1.12-1.1.2.jar" md5="cda341be97ce0d5c8a27b99ebe21dca7" download="server" type="mods" optional="yes" website="http://www.curseforge.com/projects/lost-souls/" authors="McJty" description="Lost Soul addon mod for The Lost Cities" />
 
         <!--
             Optional Mods List:
