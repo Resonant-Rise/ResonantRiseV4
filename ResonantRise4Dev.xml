@@ -112,7 +112,7 @@
              />
 
         <mod name="Minecraft Forge"
-             version="14.23.1.2601" url="packs/ResonantRise/files/5.x/forge-1.12.2-14.23.1.2601-universal.jar" file="forge-1.12.2-14.23.1.2601-universal.jar" md5="ac62d296516cf6d33c6461f0def714d9" download="server" type="forge" website="" description="" />
+             version="14.23.1.2601" url="packs/ResonantRise/files/5.x/forge-1.12.2-14.23.1.2601-universal.jar" file="forge-1.12.2-14.23.1.2601-universal.jar" md5="ac62d296516cf6d33c6461f0def714d9" download="server" type="forge" website="https://files.minecraftforge.net/" description="Backbone to modded Minecraft" />
 
 
 
@@ -280,7 +280,7 @@
 
         <mod name="McJtyLib" version="2.6.2" url="packs/ResonantRise/files/5.x/mcjtylib-1.12-2.6.2.jar" file="mcjtylib-1.12-2.6.2.jar" md5="6f16f46a407fe10eb44ed26f6a4a5b40" download="server" type="mods" website="http://www.curseforge.com/projects/mcjtylib/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mcjtylib?gameCategorySlug=mc-mods&amp;projectID=233105&amp;lc=US&amp;item_name=McJtyLib+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="McJty" description="McJtyLib library for RFTools, Deep Resonance, ..." />
 
-        <mod name="MCMultiPart" version="" url="packs/ResonantRise/files/5.x/MCMultiPart-2.4.1.jar" file="MCMultiPart-2.4.1.jar" md5="012494f701a6d80924588816cd904b4c" download="server" type="mods" website="http://www.curseforge.com/projects/mcmultipart/" authors="amadornes" description="A universal multipart API for modern Minecraft" />
+        <mod name="MCMultiPart" version="2.4.1" url="packs/ResonantRise/files/5.x/MCMultiPart-2.4.1.jar" file="MCMultiPart-2.4.1.jar" md5="012494f701a6d80924588816cd904b4c" download="server" type="mods" website="http://www.curseforge.com/projects/mcmultipart/" authors="amadornes" description="A universal multipart API for modern Minecraft" />
 
         <mod name="Mekanism" version="1.12.2-9.4.3.330" url="packs/ResonantRise/files/5.x/Mekanism-1.12.2-9.4.3.330.jar" file="Mekanism-1.12.2-9.4.3.330.jar" md5="e2608c622fddf3560b6fadb8164736d7" download="server" type="mods" website="http://www.curseforge.com/projects/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=me%40aidancbrady.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/mekanism?gameCategorySlug=mc-mods&amp;projectID=268560&amp;lc=US&amp;item_name=Mekanism+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
 
@@ -316,7 +316,7 @@
 
         <mod name="Redstone Flux" version="2.0.1.2" url="packs/ResonantRise/files/5.x/RedstoneFlux-1.12-2.0.1.2-universal.jar" file="RedstoneFlux-1.12-2.0.1.2-universal.jar" md5="78bf83d17f71ea96cff66d93a6c0412a" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The Redstone Flux API - the cornerstone of Energy Transfer in modded Minecraft since 1.6.4." />
 
-        <mod name="Restrictions" version="" url="packs/ResonantRise/files/5.x/restrictions-1.12-1.1.0.jar" file="restrictions-1.12-1.1.0.jar" md5="f4516a739fdac6c014e5a51252bcca2d" download="server" type="mods" website="http://www.curseforge.com/projects/restrictions/" authors="McJty" description="Restrictions, attract/push/move entities around" />
+        <mod name="Restrictions" version="1.1.0" url="packs/ResonantRise/files/5.x/restrictions-1.12-1.1.0.jar" file="restrictions-1.12-1.1.0.jar" md5="f4516a739fdac6c014e5a51252bcca2d" download="server" type="mods" website="http://www.curseforge.com/projects/restrictions/" authors="McJty" description="Restrictions, attract/push/move entities around" />
 
         <mod name="RFTools" version="1.12-7.23" url="packs/ResonantRise/files/5.x/rftools-1.12-7.23.jar" file="rftools-1.12-7.23.jar" md5="a5bf321210e90cffcda89406bf50e187" download="server" type="mods" website="http://www.curseforge.com/projects/rftools/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;lc=US&amp;item_name=RFTools+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="McJty" description="RedFlux tools" />
 
