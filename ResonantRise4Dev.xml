@@ -137,6 +137,8 @@
 
 <!-- Client Mods -->
 
+        <mod name="=== Client Mods ===" version="1.0">
+
         <mod name="Controlling" version="3.0.5" url="packs/ResonantRise/files/5.x/Controlling-3.0.5.jar" file="Controlling-3.0.5.jar" md5="8ed0b0ab1a353d48976a50ca6dbff7d7" download="server" type="mods" website="http://www.curseforge.com/projects/controlling/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;lc=US&amp;item_name=Controlling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Jaredlll08" description="Gives people more Control of the key binding screen." />
 
         <mod name="Custom Main Menu" version="2.0.8" url="packs/ResonantRise/files/5.x/CustomMainMenu-MC1.12.2-2.0.8.jar" file="CustomMainMenu-MC1.12.2-2.0.8.jar" md5="9b80cdafc4521d124dc87fef9ee3bbcd" download="server" type="mods" website="http://www.curseforge.com/projects/custom-main-menu/" authors="lumien" description="Allows you to edit the mainmenu using json" />
@@ -144,6 +146,15 @@
         <mod name="ReAuth" version="3.5.2" url="packs/ResonantRise/files/5.x/ReAuth-3.5.2.jar" file="ReAuth-3.5.2.jar" md5="5378a69bdd80d8b63ac275bb1d780e3e" download="server" type="mods" website="http://minecraft.curseforge.com/projects/reauth" authors="TechnicianLP" description="A Mod to renew your Session" />
 
         <mod name="Resource Loader" version="1.5.3" url="packs/ResonantRise/files/5.x/ResourceLoader-MC1.12.1-1.5.3.jar" file="ResourceLoader-MC1.12.1-1.5.3.jar" md5="51141e882f96ce756b9b3d25f2acdf57" download="server" type="mods" website="http://www.curseforge.com/projects/resource-loader/" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack." />
+
+        <!--
+            Client Mods List:
+        Controlling
+        Custom Main Menu
+        ReAuth
+        Resource Loader
+        -->
+
 
 <!-- Ends Client Mods -->
 
@@ -338,15 +349,103 @@
 
         <mod name="Zero CORE" version="1.12-0.1.1.0" url="packs/ResonantRise/files/5.x/zerocore-1.12-0.1.1.0.jar" file="zerocore-1.12-0.1.1.0.jar" md5="d73f9eaf0a1108741a2d398707f7976e" download="server" type="mods" website="http://zerono.it/" authors="ZeroNoRyouki" description="Utility mod and multiblock API" />
 
-
-
-<!-- Core Mods -->
-
-
-
         <!--
             Core List:
-
+        Actually Additions
+        Apple Skin
+        AE2
+        Astral Sorcery
+        Auto Reg Lib
+        B.A.S.E.
+        Baubles
+        bdlib
+        bedpatch
+        betterfps
+        bibliocraft
+        Biomes O' Plenty
+        Bookshelf
+        Botania
+        Brandons Core
+        Carry On
+        Chameleon
+        Chisel
+        Chisel and Bits
+        Classy Hats
+        Code Chicken lib
+        CoFH Core
+        CoFH World
+        Comforts
+        Content Tweaker
+        Cooking for Blockheads
+        Craft Tweaker
+        CTM
+        Dank Null
+        Decocraft
+        Draconic Evolution
+        Dynamic Dynamos
+        Ender Storage
+        Environmental Tech
+        ET Lunar
+        Exchangers
+        Extra Utilities
+        Extreme Reactors
+        Forestry
+        Forgelin
+        FTBLib
+        FTBUtilities
+        Gotta Go Fast
+        IchunUtil
+        Immersive Engineering
+        Immersive Petroleum
+        Immersive Tech
+        Industrial Foregoing
+        Inventory Tweaks
+        Iron Backpakcs
+        JEI
+        Just Enough Resources
+        Librarian Lib
+        Lost Cities
+        Lost Quiver
+        Lost Souls
+        Magical Psi
+        Mantle
+        Mcjtylib
+        MCMultipart
+        Mekanism
+        Mekanism Generators
+        Mekanism Tools
+        Mod Tweaker
+        More Bees
+        Morph
+        Morpheus
+        Mouse Tweaks
+        MTLib
+        Natura
+        p455w0rdslib
+        Pam's Harvestcraft
+        Psi
+        Quark
+        Reborn Core
+        Redstone Arsenal
+        Redstone Flux
+        Restrictions
+        Rftools
+        Rftools Control
+        Rftools Dimension
+        Storage Drawers
+        Tinker's Construct
+        Tesla Core Lib
+        Thermal Cultivation
+        Thermal Dynamics
+        Thermal Expansion
+        Thermal Foundation
+        Tinker Tool Leveling
+        Tomb Many Graves
+        Twilight Forest
+        Valkyrielib
+        Xnet
+        Ynot
+        Zerocore
         -->
         
 <!-- End Core Mods -->
@@ -369,19 +468,6 @@
         -->
 
 <!-- End Optional Mods -->
-
-<!-- Client / Server Mods -->
-
-        <mod name="=== Client Mods ===" version="1.0">
-
-
-
-
-        <!-- Client Mods -->
-
-
-
-
 
         <!--Server Only List:
 
