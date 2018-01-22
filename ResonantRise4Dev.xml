@@ -216,7 +216,7 @@
 
         <mod name="Comforts" version="1.12.2-1.1.0" url="packs/ResonantRise/files/5.x/comforts-1.12.2-1.1.0.jar" file="comforts-1.12.2-1.1.0.jar" md5="de0cc338c676cc2ea57ec0e94ae9758a" download="server" type="mods" website="http://www.curseforge.com/projects/comforts/" authors="C4" description="Adds sleeping bags and hammocks for portability and daytime napping without setting a new spawn. Comes in 16 different colors!" />
 
-        <mod name="ContentTweaker" version="1.12.2-4.4.0" url="packs/ResonantRise/files/5.x/ContentTweaker-1.12.2-4.4.0.jar" file="ContentTweaker-1.12.2-4.4.0.jar" md5="cd414db58e360df159467f151ff36cf1" download="server" type="mods" website="teamacronymcoders.com" authors="SkySom" description="Custom Minecraft Objects created from CraftTweaker scripts" />
+        <mod name="ContentTweaker" version="1.12.2-4.4.0" url="packs/ResonantRise/files/5.x/ContentTweaker-1.12.2-4.4.0.jar" file="ContentTweaker-1.12.2-4.4.0.jar" md5="cd414db58e360df159467f151ff36cf1" download="server" type="mods" website="http://www.teamacronymcoders.com" authors="SkySom" description="Custom Minecraft Objects created from CraftTweaker scripts" />
 
         <mod name="Cooking for Blockheads" version="6.3.17" url="packs/ResonantRise/files/5.x/CookingForBlockheads_1.12.1-6.3.17.jar" file="CookingForBlockheads_1.12.1-6.3.17.jar" md5="e160c709a90d85da32d5aa2e4e8db335" download="server" type="mods" website="http://www.curseforge.com/projects/cooking-for-blockheads/" authors="BlayTheNinth" description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory." />
 
