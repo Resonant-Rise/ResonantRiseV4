@@ -30,12 +30,6 @@
     </libraries>
 
 
-
-
-
-
-
-
 <!-- Colors for the use of seperation -->
 
     <colours>
@@ -127,10 +121,10 @@
 <!-- Dependencies -->
         
 
-        <!-- <mod name="=== Dependencies ===" version="1.0">
+        <!-- <mod name="Dependencies" version="1.0">
 
         <mod
-             name="=== Dependencies ===" version="1.0"
+             name="Dependencies" version="1.0"
             origin/1.12.2
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root"
@@ -141,13 +135,22 @@
 
 <!-- Ends Dependencies -->
 
+<!-- Client Mods -->
+
+        <mod name="Controlling" version="3.0.5" url="packs/ResonantRise/files/5.x/Controlling-3.0.5.jar" file="Controlling-3.0.5.jar" md5="8ed0b0ab1a353d48976a50ca6dbff7d7" download="server" type="mods" website="http://www.curseforge.com/projects/controlling/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;lc=US&amp;item_name=Controlling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Jaredlll08" description="Gives people more Control of the key binding screen." />
+
+        <mod name="Custom Main Menu" version="2.0.8" url="packs/ResonantRise/files/5.x/CustomMainMenu-MC1.12.2-2.0.8.jar" file="CustomMainMenu-MC1.12.2-2.0.8.jar" md5="9b80cdafc4521d124dc87fef9ee3bbcd" download="server" type="mods" website="http://www.curseforge.com/projects/custom-main-menu/" authors="lumien" description="Allows you to edit the mainmenu using json" />
+
+        <mod name="ReAuth" version="3.5.2" url="packs/ResonantRise/files/5.x/ReAuth-3.5.2.jar" file="ReAuth-3.5.2.jar" md5="5378a69bdd80d8b63ac275bb1d780e3e" download="server" type="mods" website="http://minecraft.curseforge.com/projects/reauth" authors="TechnicianLP" description="A Mod to renew your Session" />
+
+        <mod name="Resource Loader" version="1.5.3" url="packs/ResonantRise/files/5.x/ResourceLoader-MC1.12.1-1.5.3.jar" file="ResourceLoader-MC1.12.1-1.5.3.jar" md5="51141e882f96ce756b9b3d25f2acdf57" download="server" type="mods" website="http://www.curseforge.com/projects/resource-loader/" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack." />
+
+<!-- Ends Client Mods -->
+
 <!-- Core Mods -->
         
 
-        <mod name="=== Core ===" version="1.0"
-
-             description="Client Only Mods."
-             />
+        <mod name="Core" version="1.0" description="Client Only Mods." />
 
         <mod name="Actually Additions" version="r128" url="packs/ResonantRise/files/5.x/ActuallyAdditions-1.12.2-r128.jar" file="ActuallyAdditions-1.12.2-r128.jar" md5="25f33dbe24d11d132db0f28b5670b36d" download="server" type="mods" website="http://github.com/Ellpeck/ActuallyAdditions" authors="Ellpeck" description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!" />
 
@@ -197,15 +200,11 @@
 
         <mod name="ContentTweaker" version="1.12.2-4.4.0" url="packs/ResonantRise/files/5.x/ContentTweaker-1.12.2-4.4.0.jar" file="ContentTweaker-1.12.2-4.4.0.jar" md5="cd414db58e360df159467f151ff36cf1" download="server" type="mods" website="teamacronymcoders.com" authors="SkySom" description="Custom Minecraft Objects created from CraftTweaker scripts" />
 
-        <mod name="Controlling" version="3.0.5" url="packs/ResonantRise/files/5.x/Controlling-3.0.5.jar" file="Controlling-3.0.5.jar" md5="8ed0b0ab1a353d48976a50ca6dbff7d7" download="server" type="mods" website="http://www.curseforge.com/projects/controlling/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/controlling?gameCategorySlug=mc-mods&amp;projectID=250398&amp;lc=US&amp;item_name=Controlling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Jaredlll08" description="Gives people more Control of the key binding screen." />
-
         <mod name="Cooking for Blockheads" version="6.3.17" url="packs/ResonantRise/files/5.x/CookingForBlockheads_1.12.1-6.3.17.jar" file="CookingForBlockheads_1.12.1-6.3.17.jar" md5="e160c709a90d85da32d5aa2e4e8db335" download="server" type="mods" website="http://www.curseforge.com/projects/cooking-for-blockheads/" authors="BlayTheNinth" description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory." />
 
         <mod name="CraftTweaker2" version="1.12-4.0.12" url="packs/ResonantRise/files/5.x/CraftTweaker2-1.12-4.0.12.jar" file="CraftTweaker2-1.12-4.0.12.jar" md5="24742c30ad58defdbeade0c0b23cd974" download="server" type="mods" website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;lc=US&amp;item_name=CraftTweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="StanHebben,Jaredlll08" description="Customize your minecraft experience!" />
 
         <mod name="CTM" version="MC1.12-0.2.3.12" url="packs/ResonantRise/files/5.x/CTM-MC1.12-0.2.3.12.jar" file="CTM-MC1.12-0.2.3.12.jar" md5="f67d95bb874571c2b77517654593b23f" download="server" type="mods" website="https://minecraft.curseforge.com/projects/ctm" authors="tterrag,Drullkus,minecreatr" description="Allows resource packs to add connected textures, emissive rendering, and much more." />
-
-        <mod name="Custom Main Menu" version="2.0.8" url="packs/ResonantRise/files/5.x/CustomMainMenu-MC1.12.2-2.0.8.jar" file="CustomMainMenu-MC1.12.2-2.0.8.jar" md5="9b80cdafc4521d124dc87fef9ee3bbcd" download="server" type="mods" website="http://www.curseforge.com/projects/custom-main-menu/" authors="lumien" description="Allows you to edit the mainmenu using json" />
 
         <mod name="/dank/null" version="1.12-1.3.30" url="packs/ResonantRise/files/5.x/DankNull-1.12-1.3.30.jar" file="DankNull-1.12-1.3.30.jar" md5="d92b4b5a48f37cfe2f75b123f262ff50" download="server" type="mods" website="http://www.curseforge.com/projects/dank-null/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/dank-null?gameCategorySlug=mc-mods&amp;projectID=272514&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=p455w0rd%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/dank-null?gameCategorySlug=mc-mods&amp;projectID=272514&amp;lc=US&amp;item_name=%2fdank%2fnull+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="TheRealp455w0rd" description="Adds the /dank/null items from p455w0rd&apos;s Things 1.10.2 mod" />
 
@@ -297,15 +296,11 @@
 
         <mod name="Quark" version="r1.4-121" url="packs/ResonantRise/files/5.x/Quark-r1.4-121.jar" file="Quark-r1.4-121.jar" md5="112907e84c9c2361d3258fae1582ee97" download="server" type="mods" website="http://www.vazkii.us" authors="Vazkii,wiiv" description="Small things." />
 
-        <mod name="ReAuth" version="3.5.2" url="packs/ResonantRise/files/5.x/ReAuth-3.5.2.jar" file="ReAuth-3.5.2.jar" md5="5378a69bdd80d8b63ac275bb1d780e3e" download="server" type="mods" website="http://minecraft.curseforge.com/projects/reauth" authors="TechnicianLP" description="A Mod to renew your Session" />
-
         <mod name="Reborn Core" version="3.6.2.187" url="packs/ResonantRise/files/5.x/RebornCore-1.12.2-3.6.2.187-universal.jar" file="RebornCore-1.12.2-3.6.2.187-universal.jar" md5="136755d26b9ab11a04e2a26f7238f632" download="server" type="mods" website="https://github.com/TechReborn/RebornCore" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/reborncore?gameCategorySlug=mc-mods&amp;projectID=237903&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=m123world%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/reborncore?gameCategorySlug=mc-mods&amp;projectID=237903&amp;lc=US&amp;item_name=Reborn+Core+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="modmuss50,Gigabit101,Prospector" description="Reborn Core is a library used for many of the Tech Reborn team&apos;s mods, including Tech Reborn, Quantum Storage, Fluxed Redstone, Hardcore Map Reset, and many more." />
 
         <mod name="Redstone Arsenal" version="2.3.10.4" url="packs/ResonantRise/files/5.x/RedstoneArsenal-1.12.2-2.3.10.4-universal.jar" file="RedstoneArsenal-1.12.2-2.3.10.4-universal.jar" md5="1b848556c7a7fc49ade15cba206df5b5" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
 
         <mod name="Redstone Flux" version="2.0.1.2" url="packs/ResonantRise/files/5.x/RedstoneFlux-1.12-2.0.1.2-universal.jar" file="RedstoneFlux-1.12-2.0.1.2-universal.jar" md5="78bf83d17f71ea96cff66d93a6c0412a" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The Redstone Flux API - the cornerstone of Energy Transfer in modded Minecraft since 1.6.4." />
-
-        <mod name="Resource Loader" version="1.5.3" url="packs/ResonantRise/files/5.x/ResourceLoader-MC1.12.1-1.5.3.jar" file="ResourceLoader-MC1.12.1-1.5.3.jar" md5="51141e882f96ce756b9b3d25f2acdf57" download="server" type="mods" website="http://www.curseforge.com/projects/resource-loader/" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack." />
 
         <mod name="Restrictions" version="" url="packs/ResonantRise/files/5.x/restrictions-1.12-1.1.0.jar" file="restrictions-1.12-1.1.0.jar" md5="f4516a739fdac6c014e5a51252bcca2d" download="server" type="mods" website="http://www.curseforge.com/projects/restrictions/" authors="McJty" description="Restrictions, attract/push/move entities around" />
 
@@ -349,11 +344,6 @@
 
 
 
-
-
-
-
-
         <!--
             Core List:
 
@@ -369,22 +359,6 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Optional Mod List."
-             />
-
-        <mod name="Recurrent Complex"
-             version="1.4.5-1.10" url="packs/ResonantRise/files/4.x/RecurrentComplex-1.4.5-1.10.jar" file="RecurrentComplex-1.4.5-1.10.jar" md5="6c14ae5b38727ab991930991e588e4e7" download="server"
-             type="mods" optional="yes"
-             website="http://www.curseforge.com/projects/223150/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&amp;projectID=223150&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_d"
-             authors="Ivorius"
-             description="Adds structures to worldgen, handles exporting and importing structures, and provides build tools."
-             />
-
-        <mod name="Roguelike Dungeons"
-             version="1.10.2-1.5.9" url="packs/ResonantRise/files/4.x/RoguelikeDungeons-1.10.2-1.5.9.jar" file="RoguelikeDungeons-1.10.2-1.5.9.jar" md5="68cd5a9e9e8d60e33c9770c720b4befb" download="server"
-             type="mods" optional="yes"
-             website="https://github.com/Greymerk/minecraft-roguelike"
-             authors="Greymerk"
-             description="Adds randomized dungeons to the world"
              />
 
         <!--
