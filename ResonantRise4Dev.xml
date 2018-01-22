@@ -471,12 +471,8 @@
 <!-- End Client / Server Mods -->
         
 <!-- Dev Only -->
-
-
-        <!-- Dev Only -->
         
-        <mod
-             name="=== Dev Only ===" version="1.0"
+        <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" colour="Hyd"
              website="http://resonant-rise.com"
@@ -485,6 +481,9 @@
              />
 
 
+        <!-- Developer Tool List:
+
+        -->
 
 <!-- End Dev Only -->
 
