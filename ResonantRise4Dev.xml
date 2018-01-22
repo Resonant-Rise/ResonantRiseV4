@@ -265,11 +265,7 @@
 
         <mod name="LibrarianLib" version="4.4" url="packs/ResonantRise/files/5.x/librarianlib-1.12.2-4.4.jar" file="librarianlib-1.12.2-4.4.jar" md5="05cec63bc02c12c85f7473ee5ad5f22b" download="server" type="mods" website="http://www.curseforge.com/projects/librarianlib/" authors="thecodewarrior,wiresegal,LordSaad44,Elucent,Eladkay,murapix,werty1124,Leviathan143" description="A library for the Team Wizardry mods" />
 
-        <mod name="The Lost Cities" version="1.12-1.0.2" url="packs/ResonantRise/files/5.x/lostcities-1.12-1.0.2.jar" file="lostcities-1.12-1.0.2.jar" md5="dead969daf57d6157dba3989a5b6778f" download="server" type="mods" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
-
         <mod name="The Lost Quiver" version="1.0" url="packs/ResonantRise/files/5.x/lostquiver-1.0.jar" file="lostquiver-1.0.jar" md5="3e9b0050686e403a6dd5d97fe97f9d8d" download="server" type="mods" website="http://www.curseforge.com/projects/the-lost-quiver/" authors="lavX64" description="The Lost Minecraft Quiver" />
-
-        <mod name="Lost Souls" version="1.12-1.1.2" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.2.jar" file="lostsouls-1.12-1.1.2.jar" md5="cda341be97ce0d5c8a27b99ebe21dca7" download="server" type="mods" website="http://www.curseforge.com/projects/lost-souls/" authors="McJty" description="Lost Soul addon mod for The Lost Cities" />
 
         <mod name="Magical Psi" version="1.0" url="packs/ResonantRise/files/5.x/MagicalPsi-1.3.jar" file="MagicalPsi-1.3.jar" md5="3178661b4dd74b9abaf0040b05275651" download="server" type="mods" website="http://www.curseforge.com/projects/magical-psi/" authors="wiiv, Vazkii" description="Magical Psionic Spellcasting Instruments" />
 
@@ -460,10 +456,14 @@
              description="Optional Mod List."
              />
 
+        <mod name="The Lost Cities" version="1.12-1.0.2" url="packs/ResonantRise/files/5.x/lostcities-1.12-1.0.2.jar" file="lostcities-1.12-1.0.2.jar" md5="dead969daf57d6157dba3989a5b6778f" download="server" type="mods" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
+
+        <mod name="Lost Souls" version="1.12-1.1.2" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.2.jar" file="lostsouls-1.12-1.1.2.jar" md5="cda341be97ce0d5c8a27b99ebe21dca7" download="server" type="mods" website="http://www.curseforge.com/projects/lost-souls/" authors="McJty" description="Lost Soul addon mod for The Lost Cities" />
+
         <!--
             Optional Mods List:
-            Recurrent Complex
-            Roguelike Dungeons
+            The Lost Cities
+            Lost Souls
 
         -->
 
