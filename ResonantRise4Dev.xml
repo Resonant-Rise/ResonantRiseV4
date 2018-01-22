@@ -132,7 +132,7 @@
 
 <!-- Client Mods -->
 
-        <mod name="=== Core ===" version="1.0"
+        <mod name="=== Client ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="rred"
              website="http://resonant-rise.com"
