@@ -278,14 +278,6 @@
 
         <mod name="Just Enough Items" version="4.8.5.147" url="packs/ResonantRise/files/5.x/jei_1.12.2-4.8.5.147.jar" file="jei_1.12.2-4.8.5.147.jar" md5="e556b45af65f954b53e776a138826067" download="server" type="mods" website="https://github.com/mezz/JustEnoughItems" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&amp;projectID=238222&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=mezz.minecraft%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&amp;projectID=238222&amp;lc=US&amp;item_name=Just+Enough+Items+(JEI)+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="mezz" description="Simple recipe and item helper." />
 
-        <mod name="JourneyMap"
-             version="5.6.0b2" url="https://minecraft.curseforge.com/projects/journeymap/files/2520372/download" file="journeymap-1.12.2-5.6.0b2.jar" md5="3fc7165cb462f36d2370576c95bbf2c6" download="direct"
-             type="mods" optional="yes" server="no"
-             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
-             authors="techbrew,mysticdrew"
-             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.9.4-1.2. Built: 2016-06-30-01:09:28."
-             />
-
         <mod name="Just Enough Resources" version="0.8.6.33" url="packs/ResonantRise/files/5.x/JustEnoughResources-1.12.2-0.8.6.33.jar" file="JustEnoughResources-1.12.2-0.8.6.33.jar" md5="979741d90cd8da99d43810f34fc320e8" download="server" type="mods" website="http://www.curseforge.com/projects/just-enough-resources-jer/" authors="way2muchnoise" description="Adds Resources and Mob Drops to JEI" />
 
         <mod name="LibrarianLib" version="4.4" url="packs/ResonantRise/files/5.x/librarianlib-1.12.2-4.4.jar" file="librarianlib-1.12.2-4.4.jar" md5="05cec63bc02c12c85f7473ee5ad5f22b" download="server" type="mods" website="http://www.curseforge.com/projects/librarianlib/" authors="thecodewarrior,wiresegal,LordSaad44,Elucent,Eladkay,murapix,werty1124,Leviathan143" description="A library for the Team Wizardry mods" />
@@ -502,6 +494,14 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Optional Mod List."
+             />
+
+        <mod name="JourneyMap"
+             version="5.6.0b2" url="https://minecraft.curseforge.com/projects/journeymap/files/2520372/download" file="journeymap-1.12.2-5.6.0b2.jar" md5="3fc7165cb462f36d2370576c95bbf2c6" download="direct"
+             type="mods" optional="yes"
+             website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="techbrew,mysticdrew"
+             description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore."
              />
 
         <mod name="The Lost Cities" version="1.12-1.0.2" url="packs/ResonantRise/files/5.x/lostcities-1.12-1.0.2.jar" file="lostcities-1.12-1.0.2.jar" md5="dead969daf57d6157dba3989a5b6778f" download="server" type="mods" optional="yes" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
