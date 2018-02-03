@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>4.3.0.3-b</version>
+        <version>4.3.0.4-b</version>
         <minecraft>1.10.2</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
