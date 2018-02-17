@@ -644,7 +644,7 @@
              />
 
         <mod name="Extra Utilities 2"
-             version="1.7.3" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.7.3.jar" file="extrautils2-1.10.2-1.7.3.jar" md5="f2f9f942aa844569cd8442885f670ff1" download="server"
+             version="1.7.4" url="packs/ResonantRise/files/4.x/extrautils2-1.10.2-1.7.4.jar" file="extrautils2-1.10.2-1.7.4.jar" md5="56bf4005589b06df2a6729c7b63870c0" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225561/"
              authors="RWTema"
@@ -1277,7 +1277,7 @@
 -->
 
         <mod name="OMLib"
-             version="3.0.0-129" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-129.jar" file="omlib-1.10.2-3.0.0-129.jar" md5="838fccb97f3764b483e0ebff51ec5170" download="server"
+             version="3.0.0-133" url="packs/ResonantRise/files/4.x/omlib-1.10.2-3.0.0-133.jar" file="omlib-1.10.2-3.0.0-133.jar" md5="5e663bbe33eeffbabcec947fc7046563" download="server"
              type="mods"
              website="https://minecraft.curseforge.com/projects/omlib"
              authors="Poenjabiesous,Keridos"
@@ -1285,7 +1285,7 @@
              />
 
             <mod name="Open Modular Turrets"
-                 version="3.0.0-223" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-223.jar" file="openmodularturrets-1.10.2-3.0.0-223.jar" md5="52a46a4bef02b4ec6a404378df8cc613" download="server"
+                 version="3.0.0-236" url="packs/ResonantRise/files/4.x/openmodularturrets-1.10.2-3.0.0-236.jar" file="openmodularturrets-1.10.2-3.0.0-236.jar" md5="be1419b104206517b3f226f273f68b04" download="server"
                  type="mods"
                  website="http://www.curseforge.com/projects/224663/"
                  authors="Poenjabiesous,UntouchedWagons,Keridos"
@@ -1293,7 +1293,7 @@
                  />
 
             <mod name="Open Modular Passive Defense"
-                version="3.0.0-22" url="packs/ResonantRise/files/4.x/ompd-1.10.2-3.0.0-22.jar" file="ompd-1.10.2-3.0.0-22.jar" md5="519f71e11d5136bd5a9b26603e6457a1" download="server"
+                version="3.0.0-27" url="packs/ResonantRise/files/4.x/ompd-1.10.2-3.0.0-27.jar" file="ompd-1.10.2-3.0.0-27.jar" md5="df4da8e445c9e794db515188e118af97" download="server"
                 type="mods"
                 website="https://minecraft.curseforge.com/projects/open-modular-passive-defense"
                 authors="Poenjabiesous,Keridos"
@@ -1317,7 +1317,7 @@
              />
 
         <mod name="OreExcavation"
-             version="1.2.111" url="packs/ResonantRise/files/4.x/OreExcavation-1.2.111.jar" file="OreExcavation-1.2.111.jar" md5="4d6da766abc621851337046c113da6d0" download="server"
+             version="1.2.114" url="packs/ResonantRise/files/4.x/OreExcavation-1.2.114.jar" file="OreExcavation-1.2.114.jar" md5="35bd5782e38252844b2a2e1d9b64acd2" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/250898/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ore-excavation?gameCategorySlug=mc-mods&amp;projectID=250898&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="Funwayguy,Darkosto"
