@@ -98,4 +98,16 @@
 
 <SAGMillRecipes>
 
+<recipeGroup name="Actually Additions">
+  <recipe name="Dark Quartz" energyCost="1600" >
+    <input>
+      <itemStack oreDictionary="oreQuartzBlack" />
+    </input>
+    <output>
+      <itemStack oreDictionary="dustQuartzBlack" number="2" />
+    </output>
+  </recipe>
+</recipeGroup>
+
+
 </SAGMillRecipes>
