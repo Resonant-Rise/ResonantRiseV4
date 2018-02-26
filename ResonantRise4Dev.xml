@@ -554,8 +554,7 @@
              />
 
         <mod name="JourneyMap"
-             version="5.6.0b2" url="https://minecraft.curseforge.com/projects/journeymap/files/2520372/download" file="journeymap-1.12.2-5.6.0b2.jar" md5="3fc7165cb462f36d2370576c95bbf2c6" download="direct"
-             type="mods" optional="yes"
+             version="5.5.2" url="packs/ResonantRise/files/5.x/journeymap-1.12.2-5.5.2.jar" file="journeymap-1.12.2-5.5.2.jar" md5="b743562dac1b5334c20ac87b54c0b518" download="server"
              website="http://journeymap.info" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=D5KK9FRAQG6DE&amp;item_name=JourneyMap+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="techbrew,mysticdrew"
              description="JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore."
