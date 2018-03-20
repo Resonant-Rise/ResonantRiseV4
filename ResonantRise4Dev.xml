@@ -333,7 +333,7 @@
              type="mods" website="http://www.curseforge.com/projects/flux-networks/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/flux-networks?gameCategorySlug=mc-mods&amp;projectID=248020&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=ollielansdell%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/flux-networks?gameCategorySlug=mc-mods&amp;projectID=248020&amp;lc=US&amp;item_name=Flux+Networks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Ollie Lansdell" description="Create Wireless Energy Networks" />
 
         <mod name="Forestry"
-             version="5.3.4.257" url="packs/ResonantRise/files/5.x/forestry_1.11.2-5.3.4.257.jar" file="forestry_1.11.2-5.3.4.257.jar" md5="08a9d6283ee721cc49457510f91119e4" download="server"
+             version="5.8.0.256" url="packs/ResonantRise/files/5.x/forestry_1.12.2-5.8.0.256.jar" file="forestry_1.12.2-5.8.0.256.jar" md5="6a964c9f7dbdcc333e61302f418b66b5" download="server"
              type="mods" website="http://forestry.sengir.net/" authors="SirSengir,mezz" description="Trees, bees and more." />
 
         <mod name="FTBLib"
@@ -461,7 +461,7 @@
              type="mods" website="https://www.openterraingenerator.com/" authors="PeeGee85,Khorn/Wickth,Olof Cayorion Larsson,RutgerKok,TimeThor" description=" Team OTG: PeeGee85 (code) MC_Pitman &amp; LordSmellyPants (graphics, web, community) This mod is a fork of TerrainControl by Khorn, RutgerKok and Timethor. - Generate anything! - " />
 
         <mod name="OreExcavation"
-             version="1.2.114" url="packs/ResonantRise/files/5.x/OreExcavation-1.2.114.jar" file="OreExcavation-1.2.114.jar" md5="35bd5782e38252844b2a2e1d9b64acd2" download="server"
+             version="1.4.113" url="packs/ResonantRise/files/5.x/OreExcavation-1.4.113.jar" file="OreExcavation-1.4.113.jar" md5="c35236f1e76054d060a50b746d413993" download="server"
              type="mods" website="http://www.curseforge.com/projects/ore-excavation/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/ore-excavation?gameCategorySlug=mc-mods&amp;projectID=250898&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/ore-excavation?gameCategorySlug=mc-mods&amp;projectID=250898&amp;lc=US&amp;item_name=Ore+Excavation+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Funwayguy,Darkosto" description="Allows players to mine whole veins of ore, cut down whole trees or any other tool based action in one go. Simple easy to understand configs are also provided for mod pack developers" />
 
         <mod name="p455w0rd&apos;s Library"
