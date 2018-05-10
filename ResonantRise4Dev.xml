@@ -27,6 +27,7 @@
         <library url="packs/ResonantRise/files/forgelibs/1.12.2-14.23.3.2675/jopt-simple-5.0.3.jar" download="server" file="jopt-simple-5.0.3.jar" md5="0a5ec84e23df9d7cfb4063bc55f2744c" server="net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2-14.23.3.2675/vecmath-1.5.2.jar" download="server" file="vecmath-1.5.2.jar" md5="e5d2b7f46c4800a32f62ce75676a5710" server="java3d/vecmath/1.5.2/vecmath-1.5.2.jar" />
         <library url="packs/ResonantRise/files/forgelibs/1.12.2-14.23.3.2675/trove4j-3.0.3.jar" download="server" file="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2" server="net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar" />
+        <library url="packs/ResonantRise/files/forgelibs/1.12.2-14.23.3.2675/maven-artifact-3.5.3.jar" download="server" file="maven-artifact-3.5.3.jar" md5="7741ebf29690ee7d9dde9cf4376347fc" server="org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar" />
     </libraries>
 
 
