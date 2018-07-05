@@ -344,7 +344,7 @@
              type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x" authors="M3gaFr3ak,DrummerMC" description="Adds new ME Storage Cells and some other cool stuff to AE 2." />
 
         <mod name="Extreme Reactors"
-             version="1.10.2-0.4.5.49" url="packs/ResonantRise/files/5.x/ExtremeReactors-1.10.2-0.4.5.49.jar" file="ExtremeReactors-1.10.2-0.4.5.49.jar" md5="f0b60b85ca45986c8017906ad11143ea" download="server"
+             version="1.12.2-0.4.5.49" url="packs/ResonantRise/files/5.x/ExtremeReactors-1.12.2-0.4.5.49.jar" file="ExtremeReactors-1.12.2-0.4.5.49.jar" md5="9a581e654f9bbb0f68d7c467de01a8ad" download="server"
              type="mods" website="http://zerono.it/extreme-reactors" authors="ErogenousBeef,ZeroNoRyouki,ABookFreak" description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef" />
 
         <mod name="Shadowfacts&apos; Forgelin"
