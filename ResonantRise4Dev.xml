@@ -579,6 +579,10 @@
              version="r1.1-59" url="packs/ResonantRise/files/5.x/Psi-r1.1-59.jar" file="Psi-r1.1-59.jar" md5="92aec994592bfcad6f09c810a2e9efb8" download="server"
              type="mods" website="http://www.vazkii.us" authors="Vazkii" description="Psionic Spellcasting Instruments" />
 
+        <mod name="PTRLib"
+             version="1.0.2" url="packs/ResonantRise/files/5.x/PTRLib-1.0.2.jar" file="PTRLib-1.0.2.jar" md5="50299a550a3e351defd61a2845caf9c1" download="server"
+             type="mods" website="http://www.curseforge.com/projects/ptrlib/" authors="RazzleberryFox,taelnia,ProfMobius" description="A craftstudio importer and rendering library." />
+
         <mod name="QuantumStorage"
              version="4.5.0" url="packs/ResonantRise/files/5.x/QuantumStorage-1.12-4.5.0.jar" file="QuantumStorage-1.12-4.5.0.jar" md5="fffc1527b166a7e633ce1367887dcd3a" download="server"
              type="mods" website="http://www.curseforge.com/projects/quantumstorage/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/quantumstorage?gameCategorySlug=mc-mods&amp;projectID=235121&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=tnicholls%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/quantumstorage?gameCategorySlug=mc-mods&amp;projectID=235121&amp;lc=US&amp;item_name=QuantumStorage+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Gigabit101" description="A mod that adds a Deep Storage Unit to hold all the things " />
