@@ -245,6 +245,11 @@
              version="1.12.2-2.2.12-97" url="packs/ResonantRise/files/5.x/BloodMagic-1.12.2-2.2.12-97.jar" file="BloodMagic-1.12.2-2.2.12-97.jar" md5="5535681cdf63b34fe7b207aa743c6709" download="server"
              type="mods" website="http://www.minecraftforum.net/topic/1899223-bloodmagic" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/blood-magic?gameCategorySlug=mc-mods&amp;projectID=224791&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=wtime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/blood-magic?gameCategorySlug=mc-mods&amp;projectID=224791&amp;lc=US&amp;item_name=Blood+Magic++(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="WayofTime,TehNut" description="Rituals, spells, and more!" />
 
+        <mod name="Bonsai Trees"
+             version="1.1.2-b144" url="packs/ResonantRise/files/5.x/bonsaitrees-1.1.2-b144.jar" file="bonsaitrees-1.1.2-b144.jar" md5="fe19c26025152750be7923c378cb11d3" download="server"
+             type="mods" website="https://github.com/thraaawn/BonsaiTrees" authors="Davenonymous" description="Tiny trees"
+             />
+
         <mod name="Bookshelf"
              version="2.3.553" url="packs/ResonantRise/files/5.x/Bookshelf-1.12.2-2.3.553.jar" file="Bookshelf-1.12.2-2.3.553.jar" md5="a6c81e5cb13f80864f59873e53bde210" download="server"
              type="mods" website="http://minecraft.curseforge.com/projects/bookshelf" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/bookshelf?gameCategorySlug=mc-mods&amp;projectID=228525&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/bookshelf?gameCategorySlug=mc-mods&amp;projectID=228525&amp;lc=US&amp;item_name=Bookshelf+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="darkhax,lclc98" description="Bookshelf is a core/library mod, which adds new features and tools into the game for other content creators to work with. The primary focus of this project is to make use of the combined strength of the modded community to create wonderful tools that everyone can use." />
@@ -348,9 +353,29 @@
              version="1.8.434" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.8.434.jar" file="ElecCore-1.12.2-1.8.434.jar" md5="ad6b16a7b1f6fdbcf44ff0f99cb5b097" download="server"
              type="mods" website="http://www.curseforge.com/projects/eleccore/" authors="Elec332" description="Shared code for Forge mods" />
 
+        <mod name="Ender IO"
+             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.40.jar" file="EnderIO-1.12.2-5.0.40.jar" md5="0d53e1ada83fbc44d9463e73cc0d3f9d" download="server"
+             type="mods" website="http://www.curseforge.com/projects/ender-io/" authors="CrazyPants_MC,Henry_Loenwind,epicsquid319,MatthiasMann,tterrag1098" description="Ender IO"
+             />
+
+        <mod name="Ender IO endergy"
+             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.40.jar" file="EnderIO-endergy-1.12.2-5.0.40.jar" md5="60dd0f95cb66bfb140912ef724a76059" download="server"
+             type="mods" website="http://enderio.com" authors="EpicSquid,CrazyPants,tterrag,HenryLoenwind" description="All the overpowered stuff to compete with other mods"
+             />
+
+        <mod name="Ender IO Zoo"
+             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.0.40.jar" file="EnderIO-zoo-1.12.2-5.0.40.jar" md5="6b5d05a635f19db60fead0fabdceafd6" download="server"
+             type="mods" website="http://enderio.com" authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,EpicSquid" description="All the creatures that will kill you when you least expect it"
+             />
+
         <mod name="EnderStorage"
              version="2.4.4.132" url="packs/ResonantRise/files/5.x/EnderStorage-1.12.2-2.4.4.132-universal.jar" file="EnderStorage-1.12.2-2.4.4.132-universal.jar" md5="9241ec4063c7d0e9ee5c9e36da0f8c9e" download="server"
              type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones, covers1624" description="Stores your stuff in the END!" />
+
+        <mod name="EnderTweaker"
+             version="1.12.2-1.0.0" url="packs/ResonantRise/files/5.x/EnderTweaker-1.12.2-1.0.0.jar" file="EnderTweaker-1.12.2-1.0.0.jar" md5="5630cc200f4948207c1870545fefdd21" download="server"
+             type="mods" website="http://www.curseforge.com/projects/endertweaker/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/endertweaker?gameCategorySlug=mc-mods&amp;projectID=312195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bward7864%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/endertweaker?gameCategorySlug=mc-mods&amp;projectID=312195&amp;lc=US&amp;item_name=Ender+Tweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Shadows_of_Fire" description="CraftTweaker + EnderIO"
+             />
 
         <mod name="Environmental Tech"
              version="1.12.2-2.0.11a" url="packs/ResonantRise/files/5.x/environmentaltech-1.12.2-2.0.11a.jar" file="environmentaltech-1.12.2-2.0.11a.jar" md5="b9b2abeb2088cb7a53aea4d9d2d4dbd6" download="server"
@@ -443,6 +468,11 @@
         <mod name="JEI Bees"
              version="0.9.0.5" url="packs/ResonantRise/files/5.x/jeibees-0.9.0.5-mc1.12.2.jar" file="jeibees-0.9.0.5-mc1.12.2.jar" md5="a4fef0a3bb6d401eb236b3fe3e1a4846" download="server"
              type="mods" website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/jei-bees?gameCategorySlug=mc-mods&amp;projectID=248370&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/jei-bees?gameCategorySlug=mc-mods&amp;projectID=248370&amp;lc=US&amp;item_name=JEI+Bees+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="bdew" description="Adds JEI recipes that show breeding and products from Forestry bees, trees and butterflies." />
+
+        <mod name="Just Enough Energistics"
+             version="1.12.2-1.0.6" url="packs/ResonantRise/files/5.x/JustEnoughEnergistics-1.12.2-1.0.6.jar" file="JustEnoughEnergistics-1.12.2-1.0.6.jar" md5="721b76c9f63d80bdd92719bac710f299" download="server"
+             type="mods" website="http://www.curseforge.com/projects/just-enough-energistics-jee/" authors="TheRealp455w0rd" description="Adds a JEI Recipe Transfer Handler to AE2&apos;s Pattern Terminal"
+             />
 
         <mod name="Just Enough Items"
              version="4.11.0.204" url="packs/ResonantRise/files/5.x/jei_1.12.2-4.11.0.204.jar" file="jei_1.12.2-4.11.0.204.jar" md5="c46d40ac0fcda9fe934359226a97dbc2" download="server"
@@ -626,6 +656,16 @@
         <mod name="RFTools Dimensions"
              version="1.12-5.60" url="packs/ResonantRise/files/5.x/rftoolsdim-1.12-5.60.jar" file="rftoolsdim-1.12-5.60.jar" md5="3b77132f70c3ddc5557c0cc93193f0cf" download="server"
              type="mods" website="http://www.curseforge.com/projects/rftools-dimensions/" authors="McJty" description="RFTools Dimensions Addon" />
+
+        <mod name="RFTools Power"
+             version="" url="packs/ResonantRise/files/5.x/rftoolspower-1.12-1.1.2.jar" file="rftoolspower-1.12-1.1.2.jar" md5="e13729f99f32020ddba01051121c7de7" download="server"
+             type="mods" website="http://www.curseforge.com/projects/rftools-power/" authors="McJty" description="RFTools addon for all power generator/storage"
+             />
+
+        <mod name="Scannable"
+             version="1.6.3.24" url="packs/ResonantRise/files/5.x/Scannable-MC1.12.2-1.6.3.24.jar" file="Scannable-MC1.12.2-1.6.3.24.jar" md5="3873d7e7061835bdf06fc83e58de64f0" download="server"
+             type="mods" website="https://github.com/MightyPirates/Scannable" authors="Sangar" description="Scan the area for points of interest."
+             />
 
         <mod name="Simply Jetpacks 2"
              version="2.2.7.45" url="packs/ResonantRise/files/5.x/SimplyJetpacks2-1.12.2-2.2.7.45.jar" file="SimplyJetpacks2-1.12.2-2.2.7.45.jar" md5="a4e3c2fe3a141fc3bab46495e302d465" download="server"
