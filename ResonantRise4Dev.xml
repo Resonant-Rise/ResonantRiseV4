@@ -266,10 +266,6 @@
              version="all-7.99.21" url="packs/ResonantRise/files/5.x/buildcraft-all-7.99.21.jar" file="buildcraft-all-7.99.21.jar" md5="e7510957667fc38e74b2ce13e34ea974" download="server"
              type="mods" website="http://www.curseforge.com/projects/buildcraft/" authors="CovertJaguar" description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
-        <mod name="BuildCraft Compat"
-             version="compat-7.99.21" url="packs/ResonantRise/files/5.x/buildcraft-compat-7.99.21.jar" file="buildcraft-compat-7.99.21.jar" md5="17c1e6bf13560963f39381718d3238a2" download="server"
-             type="mods" website="http://www.mod-buildcraft.com/" authors="BuildCraft Team" description="Compatibility add-on for BuildCraft" />
-
         <mod name="Carry On"
              version="1.12.1" url="packs/ResonantRise/files/5.x/CarryOnMC1.12.2v1.12.1.jar" file="CarryOnMC1.12.2v1.12.1.jar" md5="34847a2045ef1b3faf7a0357794ef056" download="server"
              type="mods" website="http://www.curseforge.com/projects/carry-on/" authors="Tschipp, Purplicious_Cow, cy4n" description="Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands." />
