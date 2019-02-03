@@ -354,6 +354,10 @@
              version="1.8.434" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.8.434.jar" file="ElecCore-1.12.2-1.8.434.jar" md5="ad6b16a7b1f6fdbcf44ff0f99cb5b097" download="server"
              type="mods" website="http://www.curseforge.com/projects/eleccore/" authors="Elec332" description="Shared code for Forge mods" />
 
+        <mod name="EnderCore"
+             version="1.12.2-0.5.45" url="packs/ResonantRise/files/5.x/EnderCore-1.12.2-0.5.45.jar" file="EnderCore-1.12.2-0.5.45.jar" md5="e5bfa9c93cd8d8b03f6b726cbe0138df" download="server"
+             type="mods" website="http://enderio.com" authors="tterrag,CrazyPants,HenryLoenwind" description="Library mod used by EnderIO, EnderZoo, and others" />
+
         <mod name="Ender IO"
              version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.40.jar" file="EnderIO-1.12.2-5.0.40.jar" md5="0d53e1ada83fbc44d9463e73cc0d3f9d" download="server"
              type="mods" website="http://www.curseforge.com/projects/ender-io/" authors="CrazyPants_MC,Henry_Loenwind,epicsquid319,MatthiasMann,tterrag1098" description="Ender IO"
