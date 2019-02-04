@@ -632,7 +632,7 @@
              type="mods" website="http://www.vazkii.us" authors="Vazkii,wiiv" description="Small things." />
 
         <mod name="Random Things"
-             version="4.2.5" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.5.jar" file="RandomThings-MC1.12.2-4.2.5.jar" md5="5c6611c771062a7463502908c8ea7117" download="server"
+             version="4.2.6" url="packs/ResonantRise/files/5.x/RandomThings-MC1.12.2-4.2.6.jar" file="RandomThings-MC1.12.2-4.2.6.jar" md5="0bf2e7b43954a68a46c43bf2c6abf337" download="server"
              type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="Random Things packed into one Mod." />
 
         <mod name="Reborn Core"
