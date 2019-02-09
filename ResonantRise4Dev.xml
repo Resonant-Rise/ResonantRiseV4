@@ -292,6 +292,11 @@
              version="14.30" url="packs/ResonantRise/files/5.x/chiselsandbits-14.30.jar" file="chiselsandbits-14.30.jar" md5="4683a0252fbcccf10034b3dc9ebee90f" download="server"
              type="mods" website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;lc=US&amp;item_name=Chisels+%26+Bits+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="AlgorithmX2" description="a mod about Sculpting, Decorating and Aesthetics" />
 
+        <mod name="Chunk-Pregenerator"
+             version="2.0" url="packs/ResonantRise/files/5.x/ChunkPregeneratorV1.12-2.0.jar" file="ChunkPregeneratorV1.12-2.0.jar" md5="9e0744b7bd56ac044c0d66d817b164a4" download="server"
+             type="mods" website="http://www.curseforge.com/projects/chunkpregenerator/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/chunkpregenerator?gameCategorySlug=mc-mods&amp;projectID=267193&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=moritzstehr%40gmx.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/chunkpregenerator?gameCategorySlug=mc-mods&amp;projectID=267193&amp;lc=US&amp;item_name=Chunk-Pregenerator+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Speiger" description="Pre Generate your worlds Efficiently"
+             />
+
         <mod name="Classy Hats"
              version="1.5" url="packs/ResonantRise/files/5.x/ClassyHats-1.5.jar" file="ClassyHats-1.5.jar" md5="5c44a0944d235eefe37adbd177ef8f0f" download="server"
              type="mods" website="http://www.curseforge.com/projects/classy-hats/" authors="yrsegal,Tristaric,InsomniaKitten" description="A mod of classy hats. Enough said." />
