@@ -237,9 +237,11 @@
              version="2.4.5" url="packs/ResonantRise/files/5.x/BiblioCraft[v2.4.5][MC1.12.2].jar" file="BiblioCraft[v2.4.5][MC1.12.2].jar" md5="5b9f1a1543a1fdf687fe4761e3d63ed4" download="server"
              type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/bibliocraft?gameCategorySlug=mc-mods&amp;projectID=228027&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=nuchaz.ipod%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/bibliocraft?gameCategorySlug=mc-mods&amp;projectID=228027&amp;lc=US&amp;item_name=BiblioCraft+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!" />
 
+<!--
         <mod name="Biome Bundle"
              version="6.1" url="packs/ResonantRise/files/5.x/Biome_Bundle-1.12.2-v6.1.jar" file="Biome_Bundle-1.12.2-v6.1.jar" md5="b2016482fbdbab38bf0ec5fbb400b7ba" download="server"
              type="mods" website="https://sites.google.com/site/biomebundle/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/biome-bundle?gameCategorySlug=mc-mods&amp;projectID=241542&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=biomebundle%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/biome-bundle?gameCategorySlug=mc-mods&amp;projectID=241542&amp;lc=US&amp;item_name=Biome+Bundle+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" description="Biome Bundle is a completely custom world generator containing a huge pack of over 400 original biomes with over 2000 structures including custom trees, rocks, caves, dungeons, villages and much more." />
+-->
 
         <mod name="Biomes O&apos; Plenty"
              version="7.0.1.2313" url="packs/ResonantRise/files/5.x/BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar" file="BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar" md5="eb1475e439a65cc1ae1ed6672dcda578" download="server"
@@ -599,9 +601,11 @@
              version="0.12.1" url="packs/ResonantRise/files/5.x/OpenModsLib-1.12.2-0.12.1.jar" file="OpenModsLib-1.12.2-0.12.1.jar" md5="8dc58701a5c48958a68aca418390e4f3" download="server"
              type="mods" website="https://openmods.info/" authors="Mikee,NeverCast,boq,Lyqyd" description="Boring stuff for all that silly Open* mods" />
 
+<!--
         <mod name="Open Terrain Generator"
              version="1.12.2 v6" url="packs/ResonantRise/files/5.x/OpenTerrainGenerator-1.12.2-v6.jar" file="OpenTerrainGenerator-1.12.2-v6.jar" md5="6f4bcf42544bf1b0795078ab8c4219cd" download="server"
              type="mods" website="https://www.openterraingenerator.com/" authors="PeeGee85,Khorn/Wickth,Olof Cayorion Larsson,RutgerKok,TimeThor" description=" Team OTG: PeeGee85 (code) MC_Pitman &amp; LordSmellyPants (graphics, web, community) This mod is a fork of TerrainControl by Khorn, RutgerKok and Timethor. - Generate anything! - " />
+-->
 
         <mod name="OreExcavation"
              version="1.4.133" url="packs/ResonantRise/files/5.x/OreExcavation-1.4.133.jar" file="OreExcavation-1.4.133.jar" md5="7748cbad4a4f17f0c2ab136af4d94936" download="server"
