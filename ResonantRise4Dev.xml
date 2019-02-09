@@ -734,6 +734,11 @@
              version="2.6.1.22" url="packs/ResonantRise/files/5.x/ThermalFoundation-1.12.2-2.6.1.22-universal.jar" file="ThermalFoundation-1.12.2-2.6.1.22-universal.jar" md5="829163490a6033c0ff833501249a7e63" download="server"
              type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The foundation of a Thermally enhanced world!" />
 
+        <mod name="Thermal Innovation"
+             version="0.3.2.11" url="packs/ResonantRise/files/5.x/ThermalInnovation-1.12.2-0.3.2.11-universal.jar" file="ThermalInnovation-1.12.2-0.3.2.11-universal.jar" md5="c3c7de2b3ac5cfa8f32b52499cce9f43" download="server"
+             type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Thermal Technology marches on. Adds Thermal-style tools and equipment!"
+             />
+
         <mod name="Tinkers Tool Leveling"
              version="1.1.0" url="packs/ResonantRise/files/5.x/TinkerToolLeveling-1.12.2-1.1.0.jar" file="TinkerToolLeveling-1.12.2-1.1.0.jar" md5="f9253fe86c6649afbf49d221c71ba19a" download="server"
              type="mods" website="https://github.com/SlimeKnights/TinkersToolLeveling" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bernhard.bonigl%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&amp;projectID=250957&amp;lc=US&amp;item_name=Tinkers%27+Tool+Leveling+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="boni" description="A small mod that gives your tools XP and awards extra modifiers on levelup" />
