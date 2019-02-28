@@ -190,7 +190,7 @@
              type="mods" website="http://www.curseforge.com/projects/albedo/" authors="Elucent" description="Effects and lighting library." />
 
         <mod name="Anvil Fix"
-             version="" url="packs/ResonantRise/files/5.x/AnvilFix-1.12.2-1.0.1.jar" file="AnvilFix-1.12.2-1.0.1.jar" md5="b9ef9b1b5b1b3bb4dbbafa5563489284" download="server"
+             version="1.0.1" url="packs/ResonantRise/files/5.x/AnvilFix-1.12.2-1.0.1.jar" file="AnvilFix-1.12.2-1.0.1.jar" md5="b9ef9b1b5b1b3bb4dbbafa5563489284" download="server"
              type="mods" website="http://www.curseforge.com/projects/anvil-fix/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=j-schirra%40gmx.de&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;lc=US&amp;item_name=Anvil+Fix+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="UpcraftLP" description="AnvilFix: Vanilla Anvils - but better! It removes the level limit for combining Items" />
 
         <mod name="AppleSkin"
@@ -338,7 +338,7 @@
              type="mods" website="http://www.curseforge.com/projects/cooking-for-blockheads/" authors="BlayTheNinth" description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory." />
 
         <mod name="Cosmetic Armor Reworked"
-             version="" url="packs/ResonantRise/files/5.x/CosmeticArmorReworked-1.12.2-v4.jar" file="CosmeticArmorReworked-1.12.2-v4.jar" md5="1f444bdd7ae5b56d92cf09d5cfcfefed" download="server"
+             version="1.12.2-v4" url="packs/ResonantRise/files/5.x/CosmeticArmorReworked-1.12.2-v4.jar" file="CosmeticArmorReworked-1.12.2-v4.jar" md5="1f444bdd7ae5b56d92cf09d5cfcfefed" download="server"
              type="mods" website="http://www.curseforge.com/projects/cosmetic-armor-reworked/" authors="ZLainSama" description="This mod allows you to wear two sets of armor, one for display, one for function." />
 
         <mod name="CraftTweaker2"
