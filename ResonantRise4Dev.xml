@@ -329,6 +329,10 @@
              version="1.12.2-1.4.1.1" url="packs/ResonantRise/files/5.x/comforts-1.12.2-1.4.1.1.jar" file="comforts-1.12.2-1.4.1.1.jar" md5="1ebd817471565d581af366ec7cd44a98" download="server"
              type="mods" website="http://www.curseforge.com/projects/comforts/" authors="C4" description="Adds sleeping bags and hammocks for portability and daytime napping without setting a new spawn. Comes in 16 different colors!" />
 
+        <mod name="CommonCapabilities"
+             version="1.12.2-2.0.4" url="packs/ResonantRise/files/5.x/CommonCapabilities-1.12.2-2.0.4.jar" file="CommonCapabilities-1.12.2-2.0.4.jar" md5="6820bdd5a00fa09d468b7a126bf9295a" download="server"
+             type="mods" website="https://github.com/CyclopsMC/CommonCapabilities" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/common-capabilities?gameCategorySlug=mc-mods&amp;projectID=247007&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/common-capabilities?gameCategorySlug=mc-mods&amp;projectID=247007&amp;lc=US&amp;item_name=Common+Capabilities+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Forge Capabilities that can be shared by multiple mods" />
+
         <mod name="ContentTweaker"
              version="1.12.2-4.9.1" url="packs/ResonantRise/files/5.x/ContentTweaker-1.12.2-4.9.1.jar" file="ContentTweaker-1.12.2-4.9.1.jar" md5="a36b092d9ed0900b7143f4a14a12fba8" download="server"
              type="mods" website="http://www.teamacronymcoders.com" authors="SkySom" description="Custom Minecraft Objects created from CraftTweaker scripts" />
