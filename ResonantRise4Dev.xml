@@ -973,7 +973,7 @@
              type="mods" optional="yes" website="http://www.curseforge.com/projects/the-lost-cities/" authors="McJty" description="The Lost Cities World Generator" />
 
         <mod name="Lost Souls"
-             version="1.12-1.1.4" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.4.jar" file="lostsouls-1.12-1.1.4.jar" md5="6302e60ef37ff5a517cd5434ef6f039a" download="server"
+             version="1.12-1.1.4" depends="The Lost Cities" url="packs/ResonantRise/files/5.x/lostsouls-1.12-1.1.4.jar" file="lostsouls-1.12-1.1.4.jar" md5="6302e60ef37ff5a517cd5434ef6f039a" download="server"
              type="mods" optional="yes" website="http://www.curseforge.com/projects/lost-souls/" authors="McJty" description="Lost Soul addon mod for The Lost Cities" />
 
         <!--
