@@ -189,6 +189,10 @@
              version="0.1.3" url="packs/ResonantRise/files/5.x/albedo-0.1.3.jar" file="albedo-0.1.3.jar" md5="7877aa9909cf14c0aaba0332f9a8270b" download="server"
              type="mods" website="http://www.curseforge.com/projects/albedo/" authors="Elucent" description="Effects and lighting library." />
 
+        <mod name="Anvil Fix"
+             version="" url="packs/ResonantRise/files/5.x/AnvilFix-1.12.2-1.0.1.jar" file="AnvilFix-1.12.2-1.0.1.jar" md5="b9ef9b1b5b1b3bb4dbbafa5563489284" download="server"
+             type="mods" website="http://www.curseforge.com/projects/anvil-fix/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=j-schirra%40gmx.de&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/anvil-fix?gameCategorySlug=mc-mods&amp;projectID=305480&amp;lc=US&amp;item_name=Anvil+Fix+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="UpcraftLP" description="AnvilFix: Vanilla Anvils - but better! It removes the level limit for combining Items" />
+
         <mod name="AppleSkin"
              version="1.0.9" url="packs/ResonantRise/files/5.x/AppleSkin-mc1.12-1.0.9.jar" file="AppleSkin-mc1.12-1.0.9.jar" md5="0e0af1e6f80ea2ee7ecfc2f8f44b897b" download="server"
              type="mods" website="http://www.curseforge.com/projects/appleskin/" authors="squeek" description="Adds various food-related HUD improvements" />
@@ -272,6 +276,10 @@
              version="all-7.99.21" url="packs/ResonantRise/files/5.x/buildcraft-all-7.99.21.jar" file="buildcraft-all-7.99.21.jar" md5="e7510957667fc38e74b2ce13e34ea974" download="server"
              type="mods" website="http://www.curseforge.com/projects/buildcraft/" authors="CovertJaguar" description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
+        <mod name="Building Gadgets"
+             version="2.6.6" url="packs/ResonantRise/files/5.x/BuildingGadgets-2.6.6.jar" file="BuildingGadgets-2.6.6.jar" md5="46d479f4fb2ec77b2fd2dd6ea10dad31" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/building-gadgets" authors="Direwolf20" description="Adds some gadgets to help you build!" />
+
         <mod name="Carry On"
              version="1.12.1" url="packs/ResonantRise/files/5.x/CarryOnMC1.12.2v1.12.1.jar" file="CarryOnMC1.12.2v1.12.1.jar" md5="34847a2045ef1b3faf7a0357794ef056" download="server"
              type="mods" website="http://www.curseforge.com/projects/carry-on/" authors="Tschipp, Purplicious_Cow, cy4n" description="Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands." />
@@ -329,6 +337,10 @@
              version="6.4.69" url="packs/ResonantRise/files/5.x/CookingForBlockheads_1.12.2-6.4.69.jar" file="CookingForBlockheads_1.12.2-6.4.69.jar" md5="f53121423ac9056e59a726dd3acc62ac" download="server"
              type="mods" website="http://www.curseforge.com/projects/cooking-for-blockheads/" authors="BlayTheNinth" description="Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory." />
 
+        <mod name="Cosmetic Armor Reworked"
+             version="" url="packs/ResonantRise/files/5.x/CosmeticArmorReworked-1.12.2-v4.jar" file="CosmeticArmorReworked-1.12.2-v4.jar" md5="1f444bdd7ae5b56d92cf09d5cfcfefed" download="server"
+             type="mods" website="http://www.curseforge.com/projects/cosmetic-armor-reworked/" authors="ZLainSama" description="This mod allows you to wear two sets of armor, one for display, one for function." />
+
         <mod name="CraftTweaker2"
              version="1.12-4.1.14" url="packs/ResonantRise/files/5.x/CraftTweaker2-1.12-4.1.14.jar" file="CraftTweaker2-1.12-4.1.14.jar" md5="6d9ad88722a6a779255afcd725762218" download="server"
              type="mods" website="http://minetweaker3.powerofbytes.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jluboff8%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/crafttweaker?gameCategorySlug=mc-mods&amp;projectID=239197&amp;lc=US&amp;item_name=CraftTweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="StanHebben,Jaredlll08" description="Customize your minecraft experience!" />
@@ -336,6 +348,14 @@
         <mod name="CTM"
              version="MC1.12.2-0.3.3.22" url="packs/ResonantRise/files/5.x/CTM-MC1.12.2-0.3.3.22.jar" file="CTM-MC1.12.2-0.3.3.22.jar" md5="086cd9da4b8c50a9e483c7b580a9c4d8" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/ctm" authors="tterrag,Drullkus,minecreatr" description="Allows resource packs to add connected textures, emissive rendering, and much more." />
+
+        <mod name="Cucumber Library"
+             version="1.1.3" url="packs/ResonantRise/files/5.x/Cucumber-1.12.2-1.1.3.jar" file="Cucumber-1.12.2-1.1.3.jar" md5="0018d8de31b05dc44c80a25d73fde15b" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/cucumber" authors="BlakeBr0" description="A library of shared code and functionality used by my mods." />
+
+        <mod name="Cyclops Core"
+             version="1.12.2-1.0.5" url="packs/ResonantRise/files/5.x/CyclopsCore-1.12.2-1.0.5.jar" file="CyclopsCore-1.12.2-1.0.5.jar" md5="fd1ab92444d25bc3a1562abecd529cde" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/cyclops-core" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/cyclops-core?gameCategorySlug=mc-mods&amp;projectID=232758&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/cyclops-core?gameCategorySlug=mc-mods&amp;projectID=232758&amp;lc=US&amp;item_name=Cyclops+Core+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr),immortaleeb (aka _EeB_)" description="Coremod for EvilCraft, Integrated Dynamics and others." />
 
         <mod name="/dank/null"
              version="1.12-1.4.46" url="packs/ResonantRise/files/5.x/DankNull-1.12-1.4.46.jar" file="DankNull-1.12-1.4.46.jar" md5="1e0621587893cc65965bab3c2a573a78" download="server"
@@ -360,6 +380,10 @@
         <mod name="Dynamic Dynamos"
              version="1.12.2-1.8" url="packs/ResonantRise/files/5.x/DynamicDynamos-1.12.2-1.8.jar" file="DynamicDynamos-1.12.2-1.8.jar" md5="b6992df8f0a89504bd59b44c3f40b12d" download="server"
              type="mods" website="http://minecraft.curseforge.com/projects/dynamic-dynamos" authors="Aesen" description="Adds fancy animations to ThermalExpansion dynamos." />
+
+        <mod name="Effortless Building"
+             version="1.12.2-2.3" url="packs/ResonantRise/files/5.x/effortlessbuilding-1.12.2-2.3.jar" file="effortlessbuilding-1.12.2-2.3.jar" md5="d64cf3be95a2e164bc62bfd92e2e6934" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/effortless-building" authors="Requios" description="Makes building easier by providing tools like mirrors, arrays, QuickReplace and a block randomizer. For survival and creative mode." />
 
         <mod name="ElecCore"
              version="1.8.434" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.8.434.jar" file="ElecCore-1.12.2-1.8.434.jar" md5="ad6b16a7b1f6fdbcf44ff0f99cb5b097" download="server"
@@ -473,6 +497,22 @@
              version="1.12.4" url="packs/ResonantRise/files/5.x/industrialforegoing-1.12.2-1.12.4-228.jar" file="industrialforegoing-1.12.2-1.12.4-228.jar" md5="797029c77de8295b17b0790fc4165ff4" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/industrial-foregoing" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/industrial-foregoing?gameCategorySlug=mc-mods&amp;projectID=266515&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=buuz135%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/industrial-foregoing?gameCategorySlug=mc-mods&amp;projectID=266515&amp;lc=US&amp;item_name=Industrial+Foregoing+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Buuz135" description="A small reinvention of Minefactory Reloaded." />
 
+        <mod name="Integrated Crafting"
+             version="1.12.2-1.0.3" url="packs/ResonantRise/files/5.x/IntegratedCrafting-1.12.2-1.0.3.jar" file="IntegratedCrafting-1.12.2-1.0.3.jar" md5="326c9b42183e9cdca8d991468f39ecca" download="server"
+             type="mods" website="https://github.com/CyclopsMC/IntegratedCrafting" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/integrated-crafting?gameCategorySlug=mc-mods&amp;projectID=287357&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/integrated-crafting?gameCategorySlug=mc-mods&amp;projectID=287357&amp;lc=US&amp;item_name=Integrated+Crafting+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Craft stuff in Integrated Dynamics networks" />
+
+        <mod name="Integrated Dynamics"
+             version="1.12.2-1.0.7" url="packs/ResonantRise/files/5.x/IntegratedDynamics-1.12.2-1.0.7.jar" file="IntegratedDynamics-1.12.2-1.0.7.jar" md5="8adfc6b2f294d181c758a2ab568fa44f" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/integrated-dynamics" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/integrated-dynamics?gameCategorySlug=mc-mods&amp;projectID=236307&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/integrated-dynamics?gameCategorySlug=mc-mods&amp;projectID=236307&amp;lc=US&amp;item_name=Integrated+Dynamics+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Take full and automated control of your appliances." />
+
+        <mod name="Integrated Terminals"
+             version="1.12.2-1.0.4" url="packs/ResonantRise/files/5.x/IntegratedTerminals-1.12.2-1.0.4.jar" file="IntegratedTerminals-1.12.2-1.0.4.jar" md5="461695834a73d71ebe1a3c43af582adf" download="server"
+             type="mods" website="https://github.com/CyclopsMC/IntegratedTerminals" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/integrated-terminals?gameCategorySlug=mc-mods&amp;projectID=295910&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/integrated-terminals?gameCategorySlug=mc-mods&amp;projectID=295910&amp;lc=US&amp;item_name=Integrated+Terminals+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Terminals for managing and overviewing Integrated Dynamics networks" />
+
+        <mod name="Integrated Tunnels"
+             version="1.12.2-1.6.7" url="packs/ResonantRise/files/5.x/IntegratedTunnels-1.12.2-1.6.7.jar" file="IntegratedTunnels-1.12.2-1.6.7.jar" md5="aba38060462c1d5af4cbdeb25e43a3b2" download="server"
+             type="mods" website="https://github.com/CyclopsMC/IntegratedTunnels" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/integrated-tunnels?gameCategorySlug=mc-mods&amp;projectID=251389&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/integrated-tunnels?gameCategorySlug=mc-mods&amp;projectID=251389&amp;lc=US&amp;item_name=Integrated+Tunnels+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Transfer other stuff over Integrated Dynamics networks" />
+
         <mod name="Inventory Tweaks"
              version="1.64dev.145" url="packs/ResonantRise/files/5.x/InventoryTweaks-1.64dev.145.jar" file="InventoryTweaks-1.64dev.145.jar" md5="a2d942f5be5875443aeda21d60f079f6" download="server"
              type="mods" website="https://github.com/Kobata/inventory-tweaks" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
@@ -581,6 +621,14 @@
         <mod name="MTLib"
              version="3.0.5" url="packs/ResonantRise/files/5.x/MTLib-3.0.5.jar" file="MTLib-3.0.5.jar" md5="b8830961b5984565f3ed652d928e7115" download="server"
              type="mods" website="http://www.curseforge.com/projects/mtlib/" authors="Jaredlll08" description="Library files for Minetweaker Addons" />
+
+        <mod name="Mystical Agradditions"
+             version="1.3.1" url="packs/ResonantRise/files/5.x/MysticalAgradditions-1.12.2-1.3.1.jar" file="MysticalAgradditions-1.12.2-1.3.1.jar" md5="9dc7b923f2b793be2f41750ce9c53d3d" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/mystical-agradditions" authors="BlakeBr0" description="An addon for Mystical Agriculture." />
+
+        <mod name="Mystical Agriculture"
+             version="1.7.3" url="packs/ResonantRise/files/5.x/MysticalAgriculture-1.12.2-1.7.3.jar" file="MysticalAgriculture-1.12.2-1.7.3.jar" md5="ddc1e49dc7165bbbd212128f437ed5f7" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/mystical-agriculture" authors="BlakeBr0" description="Adds Resource Crops, Armor, Tools, and other fun stuff!" />
 
         <mod name="Natura"
              version="1.12.2-4.3.2.66" url="packs/ResonantRise/files/5.x/natura-1.12.2-4.3.2.66.jar" file="natura-1.12.2-4.3.2.66.jar" md5="10f61fa63e6ae6e4243efb96a6b57cb9" download="server"
@@ -750,6 +798,10 @@
         <mod name="Tomb Many Graves"
              version="1.12-4.2.0" url="packs/ResonantRise/files/5.x/TombManyGraves-1.12-4.2.0.jar" file="TombManyGraves-1.12-4.2.0.jar" md5="a8cb01e6ff16b4375c9b73c0fcc1c0c2" download="server"
              type="mods" website="http://www.curseforge.com/projects/tomb-many-graves-2/" authors="M4thG33k" description="A grave mod for the adventurer on the go!" />
+
+        <mod name="Too Many Efficiency Losses"
+             version="1.12.2-1.3.2.2" url="packs/ResonantRise/files/5.x/tmel-1.12.2-1.3.2.2.jar" file="tmel-1.12.2-1.3.2.2.jar" md5="9940d3c51cae71ce4faacdc59d65dcf1" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/too-many-efficiency-losses" authors="CaffeinatedPinkie" description="Gives you a much needed break from the ridiculous Extra Utilities 2 power efficiency loss. Or you can just remove GP altogether. That and more..." />
 
         <mod name="TorchMaster"
              version="1.7.1.74" url="packs/ResonantRise/files/5.x/torchmaster_1.12.2-1.7.1.74.jar" file="torchmaster_1.12.2-1.7.1.74.jar" md5="14de6fbebbfc54bbc350a71dcc0359dc" download="server"
