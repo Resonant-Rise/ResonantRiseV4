@@ -247,9 +247,11 @@
              type="mods" website="https://sites.google.com/site/biomebundle/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/biome-bundle?gameCategorySlug=mc-mods&amp;projectID=241542&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=biomebundle%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/biome-bundle?gameCategorySlug=mc-mods&amp;projectID=241542&amp;lc=US&amp;item_name=Biome+Bundle+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" description="Biome Bundle is a completely custom world generator containing a huge pack of over 400 original biomes with over 2000 structures including custom trees, rocks, caves, dungeons, villages and much more." />
 -->
 
+<!--
         <mod name="Biomes O&apos; Plenty"
              version="7.0.1.2313" url="packs/ResonantRise/files/5.x/BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar" file="BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar" md5="eb1475e439a65cc1ae1ed6672dcda578" download="server"
              type="mods" website="http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=forstride%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/biomes-o-plenty?gameCategorySlug=mc-mods&amp;projectID=220318&amp;lc=US&amp;item_name=Biomes+O%27+Plenty+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Adubbz,Amnet,Cheeserolls,Forstride,ted80" description="Adds over 50 new biomes, blocks, and more!" />
+-->
 
         <mod name="Blood Magic: Alchemical Wizardry"
              version="1.12.2-2.3.3-101" url="packs/ResonantRise/files/5.x/BloodMagic-1.12.2-2.3.3-101.jar" file="BloodMagic-1.12.2-2.3.3-101.jar" md5="91921948eb21300e4cfa6094bf70ae7d" download="server"
@@ -369,9 +371,11 @@
              version="1.8.223" url="packs/ResonantRise/files/5.x/DarkUtils-1.12.2-1.8.223.jar" file="DarkUtils-1.12.2-1.8.223.jar" md5="c8cc088a1f2188ed6bf805ca6eb7e6da" download="server"
              type="mods" website="http://www.darkhax.net" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/dark-utilities?gameCategorySlug=mc-mods&amp;projectID=242195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/dark-utilities?gameCategorySlug=mc-mods&amp;projectID=242195&amp;lc=US&amp;item_name=Dark+Utilities+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Darkhax" description="A mod that adds a bunch of new utilities to the game." />
 
+<!--
         <mod name="Decocraft"
              version="2.6.2" url="packs/ResonantRise/files/5.x/Decocraft-2.6.2_1.12.2.jar" file="Decocraft-2.6.2_1.12.2.jar" md5="f1af752dd335560a3429242e361d15a4" download="server"
              type="mods" website="http://minecraft.curseforge.com/mc-mods/79616-decocraft2" authors="RazzleberryFox" description="Adds 500+ models to decorate your Minecraft world." />
+-->
 
         <mod name="DeepResonance"
              version="1.7.5" url="packs/ResonantRise/files/5.x/deepresonance-1.12-1.7.5.jar" file="deepresonance-1.12-1.7.5.jar" md5="670bad4d0a036989ac8eb60c33a6abc2" download="server"
@@ -517,9 +521,11 @@
              version="1.12.2-1.6.7" url="packs/ResonantRise/files/5.x/IntegratedTunnels-1.12.2-1.6.7.jar" file="IntegratedTunnels-1.12.2-1.6.7.jar" md5="aba38060462c1d5af4cbdeb25e43a3b2" download="server"
              type="mods" website="https://github.com/CyclopsMC/IntegratedTunnels" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/integrated-tunnels?gameCategorySlug=mc-mods&amp;projectID=251389&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=rtaelman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/integrated-tunnels?gameCategorySlug=mc-mods&amp;projectID=251389&amp;lc=US&amp;item_name=Integrated+Tunnels+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="rubensworks (aka kroeserr)" description="Transfer other stuff over Integrated Dynamics networks" />
 
+<!--
         <mod name="Inventory Tweaks"
              version="1.64dev.145" url="packs/ResonantRise/files/5.x/InventoryTweaks-1.64dev.145.jar" file="InventoryTweaks-1.64dev.145.jar" md5="a2d942f5be5875443aeda21d60f079f6" download="server"
              type="mods" website="https://github.com/Kobata/inventory-tweaks" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
+-->
 
         <mod name="Iron Backpacks"
              version="1.12.2-3.0.8-12" url="packs/ResonantRise/files/5.x/IronBackpacks-1.12.2-3.0.8-12.jar" file="IronBackpacks-1.12.2-3.0.8-12.jar" md5="9fd50b1827b711704c69789aa94ac2ca" download="server"
@@ -606,9 +612,11 @@
              version="1.2-21" url="packs/ResonantRise/files/5.x/Morph-o-Tool-1.2-21.jar" file="Morph-o-Tool-1.2-21.jar" md5="a56d6a54721acef7fa4863d4efd20638" download="server"
              type="mods" website="http://www.vazkii.us" authors="Vazkii" description="The wrench to end all wrenches." />
 
+<!--
         <mod name="Morpheus"
              version="1.12.2-3.5.106" url="packs/ResonantRise/files/5.x/Morpheus-1.12.2-3.5.106.jar" file="Morpheus-1.12.2-3.5.106.jar" md5="357dc3701a8c7d4109147c666f6a4300" download="server"
              type="mods" website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick" authors="Quetzi" description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate." />
+-->
 
         <mod name="Mouse Tweaks"
              version="2.9" url="packs/ResonantRise/files/5.x/MouseTweaks-2.9-mc1.12.2.jar" file="MouseTweaks-2.9-mc1.12.2.jar" md5="e4f1e4819512203114a9424c4ab79fd0" download="server"
