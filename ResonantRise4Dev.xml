@@ -610,7 +610,7 @@
 
         <mod name="Mekanica"
              version="1.12.2-1.1.0a1" url="packs/ResonantRise/files/5.x/mekanica-1.12.2-1.1.0a1.jar" file="mekanica-1.12.2-1.1.0a1.jar" md5="bf000a88db07bb508aea31d727524053" download="server"
-             type="mods" website="1.1.0a1" authors="pupnewfster,dizzyd" description="Tools and Machines; an active fork of Mekanism" />
+             type="mods" website="http://www.curseforge.com/projects/mekanism-generators-dz-edition/" authors="pupnewfster,dizzyd" description="Tools and Machines; an active fork of Mekanism" />
 
         <mod name="Mekanica: Generators"
              version="1.12.2-1.1.0a1" url="packs/ResonantRise/files/5.x/mekanica-generators-1.12.2-1.1.0a1.jar" file="mekanica-generators-1.12.2-1.1.0a1.jar" md5="06efc3b427da0f7b711b45855167205a" download="server"
