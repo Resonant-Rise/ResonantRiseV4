@@ -246,7 +246,7 @@
              type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/bibliocraft?gameCategorySlug=mc-mods&amp;projectID=228027&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=nuchaz.ipod%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/bibliocraft?gameCategorySlug=mc-mods&amp;projectID=228027&amp;lc=US&amp;item_name=BiblioCraft+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!" />
 
         <mod name="Binnie&apos;s Mods"
-             version="" url="packs/ResonantRise/files/5.x/binnie-mods-1.12.2-2.5.1.188.jar" file="binnie-mods-1.12.2-2.5.1.188.jar" md5="16852f768f8ef27fd3679078646f9d6e" download="server"
+             version="2.5.1.188" url="packs/ResonantRise/files/5.x/binnie-mods-1.12.2-2.5.1.188.jar" file="binnie-mods-1.12.2-2.5.1.188.jar" md5="16852f768f8ef27fd3679078646f9d6e" download="server"
              type="mods" website="http://www.curseforge.com/projects/binnies-mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/binnies-mods?gameCategorySlug=mc-mods&amp;projectID=223525&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=alexjbinnie%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/binnies-mods?gameCategorySlug=mc-mods&amp;projectID=223525&amp;lc=US&amp;item_name=Binnie%27s+Mods+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Binnie567,mezz" description="Various expansions for Forestry adding new bees and trees" />
 
 <!--
@@ -610,7 +610,7 @@
 
         <mod name="Mekanica"
              version="1.12.2-1.1.0a1" url="packs/ResonantRise/files/5.x/mekanica-1.12.2-1.1.0a1.jar" file="mekanica-1.12.2-1.1.0a1.jar" md5="bf000a88db07bb508aea31d727524053" download="server"
-             type="mods" website="" authors="pupnewfster,dizzyd" description="Tools and Machines; an active fork of Mekanism" />
+             type="mods" website="1.1.0a1" authors="pupnewfster,dizzyd" description="Tools and Machines; an active fork of Mekanism" />
 
         <mod name="Mekanica: Generators"
              version="1.12.2-1.1.0a1" url="packs/ResonantRise/files/5.x/mekanica-generators-1.12.2-1.1.0a1.jar" file="mekanica-generators-1.12.2-1.1.0a1.jar" md5="06efc3b427da0f7b711b45855167205a" download="server"
@@ -681,7 +681,7 @@
              type="mods" website="http://www.curseforge.com/projects/mtlib/" authors="Jaredlll08" description="Library files for Minetweaker Addons" />
 
         <mod name="Multi Mob Core"
-             version="" url="packs/ResonantRise/files/5.x/multimob-1.0.5.jar" file="multimob-1.0.5.jar" md5="48bff39752c6ac0b6090ac4c241a55ea" download="server"
+             version="1.0.5" url="packs/ResonantRise/files/5.x/multimob-1.0.5.jar" file="multimob-1.0.5.jar" md5="48bff39752c6ac0b6090ac4c241a55ea" download="server"
              type="mods" website="http://www.curseforge.com/projects/multi-mob-core/" authors="Daveyx0" description="A library mod containing essential files for Daveyx0&apos;s mob mods" />
 
         <mod name="Mystical Agradditions"
@@ -751,7 +751,7 @@
              type="mods" website="http://www.curseforge.com/projects/placebo/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/placebo?gameCategorySlug=mc-mods&amp;projectID=283644&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=Bward7864%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/placebo?gameCategorySlug=mc-mods&amp;projectID=283644&amp;lc=US&amp;item_name=Placebo+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Shadows_of_Fire" description="1 library boi" />
 
         <mod name="Primitive Mobs"
-             version="" url="packs/ResonantRise/files/5.x/primitivemobs-1.2.3a.jar" file="primitivemobs-1.2.3a.jar" md5="51af727bbf9957d629a81cf88984f980" download="server"
+             version="1.2.3a" url="packs/ResonantRise/files/5.x/primitivemobs-1.2.3a.jar" file="primitivemobs-1.2.3a.jar" md5="51af727bbf9957d629a81cf88984f980" download="server"
              type="mods" website="http://www.curseforge.com/projects/primitive-mobs/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/primitive-mobs?gameCategorySlug=mc-mods&amp;projectID=282415&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dave-grotendorst%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/primitive-mobs?gameCategorySlug=mc-mods&amp;projectID=282415&amp;lc=US&amp;item_name=Primitive+Mobs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Daveyx0" description="A small mod that adds mobs with &quot;Minecrafty&quot; feel." />
 
         <mod name="Psi"
@@ -771,7 +771,7 @@
              type="mods" website="http://www.vazkii.us" authors="Vazkii,wiiv" description="Small things." />
 
         <mod name="Quark Oddities"
-             version="" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server"
+             version="1.12.2" url="packs/ResonantRise/files/5.x/QuarkOddities-1.12.2.jar" file="QuarkOddities-1.12.2.jar" md5="6e16630baca6837163dbee699ef3cf4b" download="server"
              type="mods" website="http://www.curseforge.com/projects/quark-oddities/" authors="Vazkii" description="An addon to Quark containing thoughtfully designed features for players to build around" />
 
         <mod name="Random Things"
@@ -849,7 +849,7 @@
              type="mods" website="http://www.curseforge.com/projects/tesla-core-lib/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=c%40ndrei.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/tesla-core-lib?gameCategorySlug=mc-mods&amp;projectID=254602&amp;lc=US&amp;item_name=Tesla+Core+Lib+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Face_of_Cat" description="Just the most awesome lib mod out there!" />
 
         <mod name="TexFix"
-             version="" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server"
+             version="4.0" url="packs/ResonantRise/files/5.x/TexFixV-1.12-4.0.jar" file="TexFixV-1.12-4.0.jar" md5="241a28a767464fa15f9bd642c2d9f673" download="server"
              type="mods" website="http://www.curseforge.com/projects/texfix/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/texfix?gameCategorySlug=mc-mods&amp;projectID=283344&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=moritzstehr%40gmx.net&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/texfix?gameCategorySlug=mc-mods&amp;projectID=283344&amp;lc=US&amp;item_name=TexFix+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Speiger" description="Reduce the memory footprint of your textures" />
 
         <mod name="The One Probe"
