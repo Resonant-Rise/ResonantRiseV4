@@ -928,9 +928,11 @@
              version="1.12.2-1.4.10" url="packs/ResonantRise/files/5.x/woot-1.12.2-1.4.10.jar" file="woot-1.12.2-1.4.10.jar" md5="127999ba1124ace82f18159cdc7c52f1" download="server"
              type="mods" website="http://www.github.com/ipsis/Woot/" authors="Ipsis" description="The alternative mob spawner/grinder system" />
 
+<!--
         <mod name="Worley&apos;s Caves"
              version="1.10.2-1.3.0" url="packs/ResonantRise/files/5.x/worleycaves-1.10.2-1.3.0.jar" file="worleycaves-1.10.2-1.3.0.jar" md5="8a3373d0cfc51d3feb3685bc63ab037d" download="server"
              type="mods" website="http://www.curseforge.com/projects/worleys-caves/" authors="SuperFluke,booleanbyte" description="Cave generation with Worley noise" />
+-->
 
         <mod name="WirelessRedstone-CBE"
              version="2.3.1.30" url="packs/ResonantRise/files/5.x/WR-CBE-1.12.2-2.3.1.30-universal.jar" file="WR-CBE-1.12.2-2.3.1.30-universal.jar" md5="aaf2999992613ae5bed991d97b214467" download="server"
