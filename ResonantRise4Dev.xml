@@ -485,6 +485,10 @@
              version="1.12.2-3.0.19-21" url="packs/ResonantRise/files/5.x/fluxnetworks-1.12.2-3.0.19-21.jar" file="fluxnetworks-1.12.2-3.0.19-21.jar" md5="e870cf29234f47225501f124a021cf53" download="server"
              type="mods" website="http://www.curseforge.com/projects/flux-networks/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/flux-networks?gameCategorySlug=mc-mods&amp;projectID=248020&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=ollielansdell%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/flux-networks?gameCategorySlug=mc-mods&amp;projectID=248020&amp;lc=US&amp;item_name=Flux+Networks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Ollie Lansdell" description="Create Wireless Energy Networks" />
 
+        <mod name="FoamFix"
+             version="0.10.5" url="packs/ResonantRise/files/5.x/foamfix-0.10.5-1.12.2.jar" file="foamfix-0.10.5-1.12.2.jar" md5="ec2829750206833af9ee098c5ddb8e32" download="server"
+             type="mods" website="http://asie.pl/Projects/Minecraft/Mods/FoamFix" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/foamfix-for-minecraft?gameCategorySlug=mc-mods&amp;projectID=278494&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=kontakt%40asie.pl&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/foamfix-for-minecraft?gameCategorySlug=mc-mods&amp;projectID=278494&amp;lc=US&amp;item_name=FoamFix+for+Minecraft+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="asiekierka" description="Questionable &quot;performance improvements&quot; that are not in Forge for probably very good reasons." />
+
         <mod name="Forge Multipart CBE"
              version="2.6.1.81" url="packs/ResonantRise/files/5.x/ForgeMultipart-1.12.2-2.6.1.81-universal.jar" file="ForgeMultipart-1.12.2-2.6.1.81-universal.jar" md5="c28c8fc458803154aca235be22dd3102" download="server"
              type="mods" website="https://github.com/Chicken-Bones/ForgeMultipart" authors="ChickenBones" description="Open source library for facilitation of multiple functional parts in the one block space." />
@@ -583,6 +587,10 @@
         <mod name="Just Enough Resources"
              version="0.8.5.27" url="packs/ResonantRise/files/5.x/JustEnoughResources-1.12.2-0.8.5.27.jar" file="JustEnoughResources-1.12.2-0.8.5.27.jar" md5="27533ed3008d56108ea637195e485c33" download="server"
              type="mods" website="http://www.curseforge.com/projects/just-enough-resources-jer/" authors="way2muchnoise" description="Adds Resources and Mob Drops to JEI" />
+
+        <mod name="Keyboard Wizard"
+             version="1.12.2-1.5.6" url="packs/ResonantRise/files/5.x/keywizard-1.12.2-1.5.6.jar" file="keywizard-1.12.2-1.5.6.jar" md5="a049f8fe52223fbcd0662f42f8597704" download="server"
+             type="mods" website="http://www.curseforge.com/projects/keyboard-wizard/" authors="MrNerdy42" description="A simple that makes finding and fixing key bind conflicts a lot easier" />
 
         <mod name="LibrarianLib"
              version="4.15" url="packs/ResonantRise/files/5.x/librarianlib-1.12.2-4.15.jar" file="librarianlib-1.12.2-4.15.jar" md5="25ea267be1a26d1605cf318d1892c380" download="server"
@@ -747,6 +755,10 @@
         <mod name="Pam&apos;s HarvestCraft"
              version="1.12a" url="packs/ResonantRise/files/5.x/PamsHarvestCraft1.12.2zcThe7mmKidneyStoneUpdate.jar" file="PamsHarvestCraft1.12.2zcThe7mmKidneyStoneUpdate.jar" md5="fa6f9e95a35e78edb10363147718b6be" download="server"
              type="mods" website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;lc=US&amp;item_name=Pam%27s+HarvestCraft+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Pamela Collins" description="Expanding minecraft&apos;s food system." />
+
+        <mod name="Phosphor Lighting Engine"
+             version="1.12.2-0.2.2+build43" url="packs/ResonantRise/files/5.x/phosphor-1.12.2-0.2.2build43-universal.jar" file="phosphor-1.12.2-0.2.2build43-universal.jar" md5="344f158ef9471c19336f1902f8329034" download="server"
+             type="mods" website="https://minecraft.curseforge.com/projects/phosphor" authors="Angeline (@jellysquid)" description="Consider pledging to my Patreon! Your support will go directly towards funding development of Phosphor and other performance enhancing mods. https://patreon.com/jellysquid Lighting engine performance optimizations and bug fixes for Minecraft. These improvements are based upon the work done by Mathe172 and PhiPro95. Without their work towards reverse engineering and diagnosing Minecraft&apos;s lighting performance crisis, this project would not have been possible. You can also follow development on my Twitter, if that&apos;s your thing: https://twitter.com/jellysquid_" />
 
         <mod name="Placebo"
              version="1.12.2-1.5.1" url="packs/ResonantRise/files/5.x/Placebo-1.12.2-1.5.1.jar" file="Placebo-1.12.2-1.5.1.jar" md5="64aa72773ca40b3f79cc709f9ddedecb" download="server"
