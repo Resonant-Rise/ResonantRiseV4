@@ -713,7 +713,7 @@
              type="mods" website="http://www.vazkii.us" authors="Vazkii" description="Minimalistic Functional Unit Plates for the modern Minecrafter" />
 
         <mod name="NotEnoughIDs"
-             version="1.5.4.3" url="packs/ResonantRise/files/5.x/NotEnoughIDs-1.5.4.3.jar" file="NotEnoughIDs-1.5.4.3.jar" md5="bd9385e7a183ef4c35ca684bbca53159" download="server"
+             version="1.5.4.4" url="packs/ResonantRise/files/5.x/NotEnoughIDs-1.5.4.4.jar" file="NotEnoughIDs-1.5.4.4.jar" md5="759494e409ce5d2ac277fc350e89500a" download="server"
              type="mods" website="http://www.curseforge.com/projects/notenoughids/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=hazeevaidar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/notenoughids?gameCategorySlug=mc-mods&amp;projectID=235107&amp;lc=US&amp;item_name=NotEnoughIDs+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="fewizz,Player" description="Extends hardcoded block ID limit." />
 
 <!--
