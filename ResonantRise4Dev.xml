@@ -394,7 +394,7 @@
 -->
 
         <mod name="DeepResonance"
-             version="1.7.5" url="packs/ResonantRise/files/5.x/deepresonance-1.12-1.7.5.jar" file="deepresonance-1.12-1.7.5.jar" md5="670bad4d0a036989ac8eb60c33a6abc2" download="server"
+             version="1.7.6" url="packs/ResonantRise/files/5.x/deepresonance-1.12-1.7.6.jar" file="deepresonance-1.12-1.7.6.jar" md5="5ab3bd8047d8abc9fdfa4aae678d57cf" download="server"
              type="mods" website="http://www.curseforge.com/projects/deep-resonance/" authors="McJty,Elec332" description="Power generation based on resonanting crystals" />
 
         <mod name="DiscordSuite"
@@ -402,7 +402,7 @@
              type="mods" website="http://www.curseforge.com/projects/discordsuite/" authors="Coded" description="Discord Integration." />
 
         <mod name="Draconic Evolution"
-             version="1.12.2-2.3.18.329" url="packs/ResonantRise/files/5.x/Draconic-Evolution-1.12.2-2.3.18.329-universal.jar" file="Draconic-Evolution-1.12.2-2.3.18.329-universal.jar" md5="ca0fb7aad413e32a01588eaf91851213" download="server"
+             version="1.12.2-2.3.21.342" url="packs/ResonantRise/files/5.x/Draconic-Evolution-1.12.2-2.3.21.342-universal.jar" file="Draconic-Evolution-1.12.2-2.3.21.342-universal.jar" md5="1a388ff76d13300be7eff350a768f305" download="server"
              type="mods" website="http://www.brandon3055.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=brandon4261%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/draconic-evolution?gameCategorySlug=mc-mods&amp;projectID=223565&amp;lc=US&amp;item_name=Draconic+Evolution+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="brandon3055" description="This is a mod that was originally made for the Tolkiencraft mod pack but it has since evolved way beyond that. This mod adds a lot of extremely expensive and powerful end game items as well as a lot of random useful bits and pieces." />
 
         <mod name="Dynamic Dynamos"
@@ -410,29 +410,29 @@
              type="mods" website="http://minecraft.curseforge.com/projects/dynamic-dynamos" authors="Aesen" description="Adds fancy animations to ThermalExpansion dynamos." />
 
         <mod name="Effortless Building"
-             version="1.12.2-2.3" url="packs/ResonantRise/files/5.x/effortlessbuilding-1.12.2-2.3.jar" file="effortlessbuilding-1.12.2-2.3.jar" md5="d64cf3be95a2e164bc62bfd92e2e6934" download="server"
+             version="1.0.3" url="packs/ResonantRise/files/5.x/effortlessbuilding-1.0.3.jar" file="effortlessbuilding-1.0.3.jar" md5="9f4d4b168c1d80f61020ec19eadf20b4" download="server"
              type="mods" website="https://minecraft.curseforge.com/projects/effortless-building" authors="Requios" description="Makes building easier by providing tools like mirrors, arrays, QuickReplace and a block randomizer. For survival and creative mode." />
 
         <mod name="ElecCore"
-             version="1.8.434" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.8.434.jar" file="ElecCore-1.12.2-1.8.434.jar" md5="ad6b16a7b1f6fdbcf44ff0f99cb5b097" download="server"
+             version="1.9.452" url="packs/ResonantRise/files/5.x/ElecCore-1.12.2-1.9.452.jar" file="ElecCore-1.12.2-1.9.452.jar" md5="314facb5504dc2509db2020b8b5a5308" download="server"
              type="mods" website="http://www.curseforge.com/projects/eleccore/" authors="Elec332" description="Shared code for Forge mods" />
 
         <mod name="EnderCore"
-             version="1.12.2-0.5.45" url="packs/ResonantRise/files/5.x/EnderCore-1.12.2-0.5.45.jar" file="EnderCore-1.12.2-0.5.45.jar" md5="e5bfa9c93cd8d8b03f6b726cbe0138df" download="server"
+             version="1.12.2-0.5.57" url="packs/ResonantRise/files/5.x/EnderCore-1.12.2-0.5.57.jar" file="EnderCore-1.12.2-0.5.57.jar" md5="359cc98f8d86c2e43f3b0cbb0758a796" download="server"
              type="mods" website="http://enderio.com" authors="tterrag,CrazyPants,HenryLoenwind" description="Library mod used by EnderIO, EnderZoo, and others" />
 
         <mod name="Ender IO"
-             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.40.jar" file="EnderIO-1.12.2-5.0.40.jar" md5="0d53e1ada83fbc44d9463e73cc0d3f9d" download="server"
+             version="5.0.43" url="packs/ResonantRise/files/5.x/EnderIO-1.12.2-5.0.43.jar" file="EnderIO-1.12.2-5.0.43.jar" md5="a08e6e9c81135fa77ac1df1f2f98c594" download="server"
              type="mods" website="http://www.curseforge.com/projects/ender-io/" authors="CrazyPants_MC,Henry_Loenwind,epicsquid319,MatthiasMann,tterrag1098" description="Ender IO"
              />
 
         <mod name="Ender IO endergy"
-             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.40.jar" file="EnderIO-endergy-1.12.2-5.0.40.jar" md5="60dd0f95cb66bfb140912ef724a76059" download="server"
+             version="5.0.43" url="packs/ResonantRise/files/5.x/EnderIO-endergy-1.12.2-5.0.43.jar" file="EnderIO-endergy-1.12.2-5.0.43.jar" md5="8cde21500f3340216f2d8e099f9aece7" download="server"
              type="mods" website="http://enderio.com" authors="EpicSquid,CrazyPants,tterrag,HenryLoenwind" description="All the overpowered stuff to compete with other mods"
              />
 
         <mod name="Ender IO Zoo"
-             version="5.0.40" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.0.40.jar" file="EnderIO-zoo-1.12.2-5.0.40.jar" md5="6b5d05a635f19db60fead0fabdceafd6" download="server"
+             version="5.0.43" url="packs/ResonantRise/files/5.x/EnderIO-zoo-1.12.2-5.0.43.jar" file="EnderIO-zoo-1.12.2-5.0.43.jar" md5="fcc9957ae429f997705eebf723036443" download="server"
              type="mods" website="http://enderio.com" authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,EpicSquid" description="All the creatures that will kill you when you least expect it"
              />
 
@@ -441,16 +441,16 @@
              type="mods" website="http://www.minecraftforum.net/topic/909223" authors="ChickenBones, covers1624" description="Stores your stuff in the END!" />
 
         <mod name="EnderTweaker"
-             version="1.12.2-1.0.0" url="packs/ResonantRise/files/5.x/EnderTweaker-1.12.2-1.0.0.jar" file="EnderTweaker-1.12.2-1.0.0.jar" md5="5630cc200f4948207c1870545fefdd21" download="server"
+             version="1.12.2-1.1.6" url="packs/ResonantRise/files/5.x/EnderTweaker-1.12.2-1.1.6.jar" file="EnderTweaker-1.12.2-1.1.6.jar" md5="c7cd7d3431928631593a6fac46457e9d" download="server"
              type="mods" website="http://www.curseforge.com/projects/endertweaker/" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/endertweaker?gameCategorySlug=mc-mods&amp;projectID=312195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=bward7864%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=https://minecraft.curseforge.com/projects/endertweaker?gameCategorySlug=mc-mods&amp;projectID=312195&amp;lc=US&amp;item_name=Ender+Tweaker+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="Shadows_of_Fire" description="CraftTweaker + EnderIO"
              />
 
         <mod name="Environmental Tech"
-             version="1.12.2-2.0.19.1" url="packs/ResonantRise/files/5.x/environmentaltech-1.12.2-2.0.19.1.jar" file="environmentaltech-1.12.2-2.0.19.1.jar" md5="378263752f354115904716a20fa6b06a" download="server"
+             version="1.12.2-2.0.20.1" url="packs/ResonantRise/files/5.x/environmentaltech-1.12.2-2.0.20.1.jar" file="environmentaltech-1.12.2-2.0.20.1.jar" md5="ecd45a01612427f81b0520767b475dd9" download="server"
              type="mods" website="http://minecraft.curseforge.com/projects/environmental-tech" authors="ValkyrieofNight" description="Environmental Tech is a mod containing a vast selection of multiblock machines. Ranging from multiblock solar panels, lightning rods to multiblock Void mining machines. This mod is still in the very early stages and has a lot more to come." />
 
         <mod name="ET Lunar"
-             version="1.12.2-2.0.19.1" url="packs/ResonantRise/files/5.x/etlunar-1.12.2-2.0.19.1.jar" file="etlunar-1.12.2-2.0.19.1.jar" md5="aeee76f027f879391cca7c6b50aa8cdf" download="server"
+             version="1.12.2-2.0.20.1" url="packs/ResonantRise/files/5.x/etlunar-1.12.2-2.0.20.1.jar" file="etlunar-1.12.2-2.0.20.1.jar" md5="36c0e72b8e63aa5d497338e6fa74ff95" download="server"
              type="mods" website="http://www.curseforge.com/projects/et-lunar-environmental-tech-addon/" authors="ValkyrieofNight" description="ET Lunar is an addon for Environmental Tech adding some lunar themed multiblocks." />
 
         <mod name="Exchangers"
@@ -462,11 +462,11 @@
              type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x" authors="M3gaFr3ak,DrummerMC" description="Adds new ME Storage Cells and some other cool stuff to AE 2." />
 
         <mod name="Extra Utilities 2"
-             version="1.9.8" url="packs/ResonantRise/files/5.x/extrautils2-1.12-1.9.8.jar" file="extrautils2-1.12-1.9.8.jar" md5="4f2b906ec8f173e81660c6d230ee0a70" download="server"
+             version="1.9.9" url="packs/ResonantRise/files/5.x/extrautils2-1.12-1.9.9.jar" file="extrautils2-1.12-1.9.9.jar" md5="1ea591619e6d5204bf077214868772ef" download="server"
              type="mods" website="http://www.curseforge.com/projects/extra-utilities/" authors="RWTema" description="A bunch of useful things." />
 
         <mod name="Extreme Reactors"
-             version="1.12.2-0.4.5.63" url="packs/ResonantRise/files/5.x/ExtremeReactors-1.12.2-0.4.5.63.jar" file="ExtremeReactors-1.12.2-0.4.5.63.jar" md5="024bb217434f464250c0c22bd98a2032" download="server"
+             version="1.12.2-0.4.5.65" url="packs/ResonantRise/files/5.x/ExtremeReactors-1.12.2-0.4.5.65.jar" file="ExtremeReactors-1.12.2-0.4.5.65.jar" md5="443078f0d8e9a5507a0dead92850d47e" download="server"
              type="mods" website="http://zerono.it/extreme-reactors" authors="ErogenousBeef,ZeroNoRyouki,ABookFreak" description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) and Tesla power. This is a port of the 1.7.10 mod Big Reactors from ErogenousBeef" />
 
         <mod name="Shadowfacts&apos; Forgelin"
