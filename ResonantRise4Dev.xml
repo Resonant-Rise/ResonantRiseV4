@@ -496,7 +496,7 @@
              type="mods" website="https://github.com/Chicken-Bones/ForgeMultipart" authors="ChickenBones" description="Open source library for facilitation of multiple functional parts in the one block space." />
 
         <mod name="Forestry"
-             version="5.8.1.322" url="packs/ResonantRise/files/5.x/forestry_1.12.2-5.8.1.322.jar" file="forestry_1.12.2-5.8.1.322.jar" md5="c008259605fed2e27d623687a2c045b1" download="server"
+             version="5.8.2.387" url="packs/ResonantRise/files/5.x/forestry_1.12.2-5.8.2.387.jar" file="forestry_1.12.2-5.8.2.387.jar" md5="367a01e7ff21262fa3dfc71e8fbd7332" download="server"
              type="mods" website="http://forestry.sengir.net/" authors="SirSengir,mezz" description="Trees, bees and more." />
 
         <mod name="FTBLib"
